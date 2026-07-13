@@ -1,0 +1,83 @@
+---
+_edit_last: "1"
+_jetpack_related_posts_cache:
+  8f6677c9d6b0f903e98ad32ec61f8deb:
+    expires: 1781789451
+    payload:
+      - id: 1944
+      - id: 1949
+      - id: 1996
+_thumbnail_id: "1992"
+author: Rompy
+categories:
+  - "Correr"
+cover:
+  image: "/wp-content/uploads/2012/05/MPanSmall-35.jpg"
+date: "2012-05-12T15:47:16+00:00"
+guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=1966
+parent_post_id: null
+post_id: "1966"
+tags:
+  - ultra
+title: Reporte Miwok 2012 100k
+url: /2012/05/12/reporte-miwok-2012-100k
+wpb_post_views_count: "12"
+
+---
+[![](/wp-content/uploads/2012/05/MPanSmall-35.jpg)](//wp-content/uploads/2012/05/MPanSmall-35.jpg)
+¡Misión cumplida! Todo el equipo panameño desempeño un excelente papel en Miwok 2012. Todo el entrenamiento que hicimos juntos se vio reflejado en el resultado: 4 de nosotros terminamos dentro de los mismos 20 minutos, después de 100 kilómetros corriendo por un terreno con 3,800 metros de desnivel. Luis y Jose no terminaron en el mismo bloque por que a uno lo molesto una rodilla y al otro el estómago (todo puede pasar en una carrera tan larga).
+
+Daniel Brostella 14:46:35
+Roger Bennett 14:54:55
+Rompy Bennett 15:02:58
+Carlos Retally 15:03:44
+Luis Stoute 16:17:42
+Jose Orillac 16:42:16
+
+Yo tuve un gran día, producto de todo el entrenamiento previo, y casi termino junto a mi hermano Roger, que el año pasado me sacó un par de horas en la carrera. No solamente eso: todo el mundo demoró de 1 a 3 horas más para terminar el nuevo recorrido de esta carrera, mucho más exigente que el año anterior, y a mi me tomó menos, casi 1 hora menos.
+
+La partida fue en Stinson Beach este año y la adelantaron a las 5:00am. Después de una breve vuelta por el estacionamiento iniciamos la trepada más grande de todo el recorrido hacia Bolinas Ridge, a 545mt de elevación, recto hacia arriba. A los pocos minutos de estar trepando ya se veía una culebra de cocuyos subiendo el costado de la montaña. Todo este recorrido lo hice con Daniel y Carlitos, ya que las liebres salieron por delante en cuanto sonó la campana. Mi plan era tratar de correr pausadamente la primera parte de la carrera y luego ver que podía hacer por el resto. Los tres seguimos juntos hasta que poco a poco me fueron dejando atrás en Bolinas Ridge.
+
+El día estaba espectacular, con un cielo azulado sin una sola nube y poco viento. Aún así, iniciamos a correr con frío. Sin llevar ningún apuro especial habíamos quedado en toda la mitad del paquete de corredores. La primera parte de la carrera era un circuito de Stinson Beach, subiendo al lomo de Bolinas, pasando por la estación de ayuda de Bolinas y luego bajando a la estación de Randall, donde girábamos para regresar de vuelta a Stinson. Al par de horas corriendo ya estaba rodeado de un grupo de corredores que me acompañarían por gran parte del recorrido.
+
+Cuando inicié la bajada a Randall me encontré con Roger, que venía de primero. Llegando a Randall me paso Lagarto (Jose Orillac), y Luis Carlos venía saliendo de la estación cuando llegué. Daniel y Carlitos estaban hidratándose y comiendo en la mesa cuando me acerqué a hacer lo mismo. Esta estación estaba a 20km de la partida, medio maratón, y me había tomado 2:37:45 llegar, lento para un maratón, pero algo rápido para esta distancia. Tal vez estaba corriendo por encima de lo razonable, o tal vez estaba mejor entrenado.
+
+Cuando salí de la estación ya Carlitos y Daniel estaban en la subida. Arranqué caminando, pero me sentía con fuerzas para poder correr a trote de soldado loma arriba, con pasitos cortos y rápidos. Yo casi que puedo hacer ese paso manteniendo el mismo esfuerzo que me tomaría caminar loma arriba si la pendiente no es tan elevada. Al poco rato me alcancé al dúo dinámico y los dejé atrás. De repente, al rato, volteo la mirada y me encuentro con Daniel subiendo a balazo para alcanzarme. Corrimos juntos hasta coronar ese ascenso mientras conversábamos y veíamos a todos los corredores que apenas iniciaban su bajada. Calculo que en esos momentos estábamos por delante de la mitad de los corredores y llevábamos ya un cuarto de la carrera dentro del bolsillo.
+
+Al poco rato nos alcanzó El Rets (Carlitos) y nos fuimos juntos en la tertulia, comiendo kilómetros escuchando a Daniel ejercitar la lengua. En algún momento paré a tomar una foto y quedé atrás. Ya solo me dediqué a gozar del paisaje, los árboles gigantes, y a correr eficientemente. Procuraba subir rápido las pendientes, mezclando caminar y correr mientras mantenía mi ritmo cardíaco a un nivel cómodo. En las rectas subía mi ritmo, tal vez a algo cerca de los 6-7 minutos el kilómetro y en cada bajada soltaba los frenos, acelerando hasta donde pudiese aguantar dejando que la gravedad hiciera su trabajo.
+
+En algún momento me alcance a Carlitos que se estaba quejando de sus quadriceps y las pantorrillas. Para los quads no hay mucho que hacer, pero le dije que pisara más plano para descansar sus músculos. Prácticamente entramos juntos de vuelta a la estación de Bolinas, a los 30km, casi el primer tercio. Pasé por esa estación con apuro por que la próxima era Stinson Beach a los 42km y allí, posiblemente, haría una para más larga. El tramo hasta salir a los herbazales, mientras corremos bajo los[redwoods](http://en.wikipedia.org/wiki/Redwood "Sequoioideae") gigantes, es uno de mis favoritos de esta carrera. Al salir al campo abierto vi que Daniel ya se me estaba alejando, casi a 750mt de mi. Le dejé saber que estaba cerca con un grito de on ON!
+
+Regresando a Stinson hice todo lo posible por mantenerme con un grupo de corredores que habíamos quedado juntos en el sendero de Bolinas. En algún momento quedé junto a Octavio Ocampo de México. ¡Qué pequeño es el mundo! Resulta que su tía es la dueña de la cadena de restaurantes La Mexicanita en Panamá, y el próximo año viene de visita. Octavio y yo nos mantuvimos cerca toda la carrera y, al final, me dejo atrás en la última subida para terminar con 14:50:32.
+
+La bajada de Bolinas a Stinson fue por un sendero distinto al que usamos para subir. El sendero que bajaba de regreso a la playa era un zig-zag interminable, con escaleras, raíces, puentes y un ambiente muy agradable que iba cambiando a medida que la humedad aumentaba más cerca del mar. Esta bajada parecía más larga que la bajada a Randall y después de un rato comenzó a cansarme el descenso y ajuste un poco la marcha. Todavía quedaba mucha carrera por delante. Llegué a la estación de los 42km (un maratón) en 5:30:00 y me reuní con mi gente. Cuando estaba llegando ya podía escuchar a Cosita (Lorena) gritando. Luis Carlos aún estaba en la estación cuando llegué, pero salió casi inmediatamente.
+
+Haciendo un inventario de mi estado decidí que era hora de ponerme las medias que llevaba en mi cinto. Había estado corriendo sin medias, pero las Brooks Pure Grit que cargaba me habían raspado el dedo pequeño del pie izquierdo y mejor lo protegía. Carlitos llegó a la estación unos 5 minutos después que yo y decidí esperar hasta que saliera para irnos juntos. Está estación fue la transición más larga de todo el recorrido, como unos 13 minutos en total. Super Rets y yo partimos con baterías recargadas camino a Muir Beach, rumbo a las escaleras del [Dipsea Race](http://en.wikipedia.org/wiki/Dipsea "Dipsea"), la carrera más vieja de Estados Unidos.
+
+La trepada que nos esperaba era de 430mt y nos llevaría a correr por Muir Woods, un bosque de árboles gigantes espectacular. El recorrido inició con una subida leve por escaleras largas, pero pronto se fue poniendo vertical y las escaleras cada vez más grandes. En algún momento Carlitos se fue quedando atrás para luego alcanzarme en la bajada. Este patrón se repetiría a través de toda la carrera. Al llegar a la parte casi plana, camino a Muir Beach, nos encontramos a Luis Carlos, que ya estaba corriendo más lento. Carlitos se lo pasó y yo le seguí, no quería que me dejara atrás. Además, esta parte del recorrido es super-divertida, un sendero que culebrea entre arbustos, flores y herbazales, con una superficie suave y pareja.
+
+Cuando llegamos a Muir Beach nos encontramos con el comité de recepción en pleno: Larissa, Adela, Lorena, Isa, Jennifer, Tío Miguel y Tía Irene, igual que en Stinson Beach. Aquí me actualizaron con el estado del equipo Panameño: Lagarto iba adelante, luego Daniel y Roger corriendo juntos. Isa me contó que Roger estaba sintiéndose bajo de ánimos. En este momento ya estábamos pasando la mitad de la carrera, 53km recorridos. Por ahora todo marchaba bien, el día estaba algo caliente, pero nada agobiante para los que estamos acostumbrados a correr en Panamá. Después de besos y abrazos con mi mujer partí hacia Tennessee Valley, la próxima estación.
+
+En esta próxima trepada me encontré con Dave Mackey, ganador del año pasado, liderizando la carrera ampliamente. Mackey ya venía de regreso a la meta y era obvio que no iba a estar cerca de las 8 horas que hizo el año pasado. Ya me imaginaba que este año la carrera iba a estar más difícil que en el 2011. En esta subida me iban pasando muchas personas, pero la mayoría estaba sencillamente haciendo ejercicio, por suerte. En la bajada final hacia TV apareció Carlitos nuevamente, pasándome con facilidad en el descenso, había encontrado su forma para aprovechar la gravedad al máximo. Yo pasé por TV a balazo: sentía ganas de ir al baño y no encontré facilidades, así que decidí seguir adelante para la próxima estación para ver si llegaba antes que la naturaleza me jodiera. Ya tenía 60km de carrera en el bolso y solamente me quedaba poco menos de un maratón por delante, ya llevaba 8:35:00 corriendo.
+
+Haciendo inventario de mi estado, estaba bastante entero y solamente estaba algo sollado por donde no brilla el sol (bastante normal para mi a estas alturas). La subida saliendo de TV hacia Rodeo era bastante gradual, pero ya no tenía mucha energía para correrla. Ahora estaba alternando una caminata rápida con unos cuantos pasos de trote. A estas alturas solamente me estaba manteniendo a la par del grupo con el que llevaba un par de horas corriendo, principalmente un par de jóvenes corredoras que estaban haciendo un excelente papel. En esta subida me alcanzó una mujer y en la conversación me dijo que había corrido Western States en 27:30 en el 2010 y ahora había vuelto a clasificar.
+
+Al poco tiempo llegamos a un lugar con una vista espectacular de San Francisco y el Golden Gate. Aquí nos estaba esperando Dan Gomez y su esposa Jennifer para tomarnos fotos. Dan y Jen habían venido de Soda Springs a compartir el fin de semana con nosotros y tomar fotos del equipo de Panamá y de la carrera. ¡Qué suerte para nosotros tener un fotógrafo interesado en documentar nuestro progreso a través de la carrera! El día anterior habíamos estada caminando por esta sección buscando un buen lugar para que Dan tomara una foto que tenía en mente: el corredor con el Golden Gate de trasfondo. Pero ese ángulo no sería posible por la dirección del recorrido.
+
+Llegué a la estación de Rodeo en 9:48, 68.48km recorridos. Ya conocía todo lo que me quedaba por delante, básicamente me sentía que quedaba una cantidad conocida por delante y nada más tenía que seguir ejecutando juiciosamente mi plan de carrera: gel cada media hora, tomar líquido cuando sentía sed, mantener mi respiración a un ritmo cómodo y aprovechar las bajadas. El sendero hacia la playa es muy agradable y ahora estaba pasando corredores en la bajada, todavía podía avanzar a buen ritmo ayudado por la gravedad. Esta parte la corrí junto a Iris y Margaret el año pasado y las tuve en mente toda la bajada.
+
+Al llegar a la playa me pasó Rob Apple, que ya ha completado mas de 600 ultras y aún sigue a un ritmo impresionante haciendo una 24 ultras al año. Rob había pasado media hora después que yo por Stinson y ahora estaba acelerando cómodamente hacia la meta. Al final me sacaría casi media hora al completar la carrera en 14:36:25. Rob siempre corría con [Susan Donnelly](http://www.susanruns100s.com/ "Susan Runs 100s"). Este año los vi separados y es posible que hayan terminado su larga relación: los vi la primera vez corriendo en Javelina Jundred en el 2010. El cruce de la playa fue algo incómodo con toda la arena haciendo difícil el recorrido, pero esto nivelaba el terreno para todos. Luego venía la subida interminable de [Marin Headlands](http://en.wikipedia.org/wiki/Marin_Headlands#Military_sites "Bunkers").
+
+Casi toda esta subida la hice con Betsy Johnson, a quien me había alcanzado al pie de la subida. Durante la subida me encontré a Lagarto caminando y apenas recuperándose de vomitar. Le pregunté por su pierna y me contó que no le estaba molestando para nada, pero ya se sentía sin energías. Le recomendé que aprovechara para comer ahora que había limpiado su estómago para que pudiese volver a darle combustible al cuerpo. Betsy me contó que en TV la esperaba su esposo para acompañarla hasta la meta, a donde llegaría en 15:14:36. Pronto después de ver a Lagarto divisamos Tennessee Valley a lo lejos. Al llegar a TV habría completado 80km del recorrido. En cuanto llegué al descenso volví a soltar el freno y dejar que la gravedad hiciera el trabajo.
+
+Llegué a TV en 11:41 - casi una hora y media más de lo que me tomó correr los 80km de American River en el 2010. Ya el pie izquierdo me estaba doliendo, producto del trajín de la carrera. También sentía que el tendón de aquiles de ese lado estaba tierno y tenía que tratarlo con cuidado. Ahora estaba tratando de caer como una pluma en cada pisada, minimizando el impacto en mi cuerpo. Pero, la espalda estaba intacta y eso me tenía muy contento. Anteriormente a esta altura de la carrera ya tenía la base de la columna adolorida por el impacto de las bajadas. Esto lo atribuyo a todo el entrenamiento previo a la carrera.
+
+Cuando salí de TV me tomé un par de Tylenols para aquietar el dolor del pie y poder dedicarme a correr sin distracciones. En la subida me estaban pasando varios corredores, entre ellos Betsy Johnson con su esposo. Esta parte del recorrido la había hecho al revés con Carmela el año pasado, ya casi a oscuras. Ahora nos tocaba un espectacular recorrido junto al mar siguiendo el contorno de las colinas que caen al Océano Pacífico. Ya me sentía que el fin estaba a la vista. Hacía rato que estaba con ansias de terminar para poder tomarme una cerveza helada, o dos.
+
+Cuando llegué a la bajada volví a pasarme a todos los que me habían pasado en la subida. Muir Beach era la última para camino a la meta, llevaba 12:42 cuando llegué. Adela me preguntaba por Lagarto, preocupada por su esposo. Le conté que venía lento pero seguro. ¡Que agradable volver a donde los Panameños y Lorena que me animaba con su grito de "wohoo"! En la mesa de la estación había de todo, pero ya yo quería terminar. Le di una mirada a la oferta, tomé unas Coca-Colas y me rellené el bolsillo con geles para llegar a la meta con combustible. Solamente me faltaban unos 13km para acabar.
+
+Saliendo de Muir Beach pasé por el Pelican Inn, donde me tomé una cerveza el año pasado durante la carrera. Esta era la segunda vez en el recorrido que pasaba por el Inn y ahora estaba listo para esa cerveza, pero estaba cerrado por una boda. ¡Que suerte la mía! Tenía que seguir si quería llegar lo antes posible a mi cerveza... Apreté el paso.
+
+Cuando llegué al pie de la subida me alcanzó un pelotón. Entre ellos venía el Mex Octavio con sus cuates que había recogido en la playa. Entre ellos venía Jacklyn Gates, que junto con otra amiga habían estado corriendo a mi lado toda la tarde. Cuando le pregunté por su amiga me dijo que ya estaba andando lentamente. Lo entendía perfectamente por que ya la subida me estaba costando, estaba en las últimas y el corazón lo sentía a tope. Me estaba quedando atrás en relación al grupo que me rodeaba y no había mucho que podía hacer al respecto. En algún momento de la subida escuché el grito de Isa, mi cuñada, que acompañaba a mi hermano Roger: "¡Apura Rompy!". Los tenía cerca, a la vista.
+
+Cuando salimos a una sección abierta pude ver a Roge e Isa cerca de mi, a no más de 500 metros. Pero ya iniciaba el descenso y volverían a dejarme atrás. Hice un esfuerzo por alcanzarlos y nunca logré acercarme. Al poco rato los perdí de vista completamente. Ya estaba en las últimas reservas luchando por mantener mi ritmo y terminar bajo las 15 horas. ¡Quería un 14 frente a mi tiempo! No hubo forma... las escalera de Dipsea no me dejaron aumentar mi ritmo y estaba bajando con cuidado para no hacerme un daño. Al final crucé en 15:02:58, seguido de cerca por Carlitos en 15:03:44, menos de un minuto. ¡Wow! ¡Qué manera de cerrar Super Rets!

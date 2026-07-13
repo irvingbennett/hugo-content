@@ -1,0 +1,65 @@
+baseURL: http://localhost
+locale: ES-es
+title: Al Aire Libre
+theme:  PaperMod
+taxonomies:
+  category: categories
+  tag: tags
+params:
+  description: Un Taller de Aventuras
+  defaultTheme: auto
+  disableThemeToggle: true
+  showShareButtons: true
+  showReadingTime: true
+  ShowPostNavLinks: true
+  showToc: false
+  showBreadCrumbs: true
+  showCodeCopyButtons: true
+  comments:
+    enabled: false
+    provider: disqus
+  hideFooter: true
+  assets:
+    favicon: "/favicon.ico"
+    favicon16x16: "/favicon-16x16.png"
+    favicon32x32: "/favicon-32x32.png"
+    apple_touch_icon: "/apple-touch-icon.png"
+    safari_pinned_tab: "/safari-pinned-tab.svg"
+  author:
+    name: Rompy
+  logoPath: "images/logo_AAL.jpg"
+  sidebar:
+    avatar: "web-app-manifest-192x192.png" # Optional: path to an image if you want one
+    title: "Al Aire Libre"
+    subtitle: "Un taller de aventuras."
+markup:
+  highlight:
+    codeFences: true
+    guessSyntax: true
+    style: monokai
+  goldmark:
+    renderer:
+      unsafe: true
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+outputFormats:
+  RSS:
+    mediaType: application/rss+xml
+    baseName: feed
+menu:
+  main:
+    - name: Bitácora
+      url: /posts/
+      weight: 1
+    - name: Páginas
+      url: /pages/
+      weight: 2
+    - name: Panamá Paso a Paso
+      url: /pages/panama-paso-a-paso/      # <--- Change this to a direct 'url' parameter
+      weight: 3
+    - name: Buscar
+      url: /search/
+      weight: 4

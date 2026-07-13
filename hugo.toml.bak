@@ -1,0 +1,29 @@
+baseURL = 'http://localhost/'
+locale = 'es-ES'
+title = 'Al Aire Libre'
+theme = 'zen'
+
+[markup.goldmark.renderer]
+  unsafe = true # Allow HTML in md files
+
+[params]
+  logoPath = "images/logo_AAL.jpg"
+  sidebar = true
+  # Add theme-specific layout controls here if Zen requires them, 
+  # such as showing recent posts or tag clouds.
+
+# This builds your navigation top menu manually
+[[menu.main]]
+  name = "Inicio"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "Bitácora"
+  url = "/posts/"
+  weight = 2
+
+  [[menu.main]]
+  name = "Páginas"
+  url = "/pages/"
+  weight = 2

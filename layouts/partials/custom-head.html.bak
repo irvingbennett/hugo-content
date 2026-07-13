@@ -1,0 +1,19 @@
+<style>
+  /* Target text Markdown content regions inside Hextra's documentation/post views */
+  .hextra-content a,
+  article a,
+  main a {
+    color: #4a90e2 !important;
+    text-decoration: underline !important;
+    transition: color 0.2s ease-in-out;
+  }
+
+  /* Target hover and active interactions */
+  .hextra-content a:hover,
+  article a:hover,
+  main a:hover,
+  .hextra-content a:focus {
+    color: #cc5500 !important;
+    text-decoration: underline !important;
+  }
+</style>
