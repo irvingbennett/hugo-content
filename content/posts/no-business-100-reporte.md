@@ -60,7 +60,7 @@ El sendero de esta carrera es muy limpio y estaba cubierto de las hojas que hab�
 
 Laurel Hill, kilómetro 75, ya estaba en Kentucky. Primera vez que tocaba Tennessee y Kentucky. En Fat Dog 120 millas habíamos atravesado tres provincias en Canadá. Esta es la primera vez que corría dos estados en una carrera en Estados Unidos. Antes de llegar a la estación pasamos bajo un arco de piedra espectacular.
 
-{{< figure src="/wp-content/uploads/gallery_backup/image.png" alt="" caption="" >}}
+{{< figure src="/wp-content/uploads/gallery_backup/twin_arches.png" alt="" caption="Twin Arches" >}}
 
 A Ledbetter, kilómetro 89, llegué en 14:43:48.2 en la posición 110. Lagarto llegó en 12:59:11.4 en posición 58. A esta altura de la carrera el Croc había mantenido su posición en el grupo de corredores y yo había cedido 60 puestos. Ninguno de los dos tenía idea de esto en el momento, y yo no sabía dónde él estaba en el recorrido. En Duncan Hollow, dónde me había encontrado con Adela, me dijo que me llevaba como dos horas de ventaja. Estaba cerca de lograr entrar debajo de las treinta horas pasada la mitad de la carrera.
 
@@ -86,7 +86,7 @@ Mientras me tomaba mi coca charlaba contento con la gente de la estación. Vi qu
 
 Pensé que iba a detestar el final de la carrera, todo cuesta arriba. Resultó un recorrido muy agradable bordeando unos peñones enormes iguales a otra docena de estas formaciones geológicas que habíamos encontrado a lo largo de la carrera. Llegando a la meta podía escuchar los gritos mucho antes de poder ver el arco y la recta final. Ya estaba en un camino de tosca que iba describiendo un arco inmenso hacia la meta. ¡Qué alegría cuando apareció la meta y escuchaba los gritos de Adela!
 
-{{< video src="//wp-content/uploads/2022/10/WhatsApp-Video-2022-10-18-at-10.41.39-AM.mp4" >}}
+{{< video src="/wp-content/uploads/2022/10/WhatsApp-Video-2022-10-18-at-10.41.39-AM.mp4" >}}
 
 {{< figure src="/wp-content/uploads/gallery_backup/76223887-0_v8-b3283e8b5bf6b5c54e23fd1d31d9d410.png" alt="" caption="" >}}
 

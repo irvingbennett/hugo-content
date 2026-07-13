@@ -109,4 +109,4 @@ Llegando a la meta me encontré con Pati Cohen que iba para allá también. La v
 
 Esos últimos dos kilómetros me demoraron una eternidad, aunque solo fue 30 minutos. Estaba muy cansado y quería acostarme a dormir. Pero entre las pendejadas de viejo que uno adquiere por estar pendiente de las chapas, yo quería una chapa más de cien millas (además de querer completar la distancia de cien millas). Por cansado, y tarado, solo hice 160.35 kilómetros y pensé que con eso era suficiente. Resulta que cien millas son 160.9 kilómetros y es mejor fijarse en la cabeza el número 161 para que no vuelva a suceder. Solo me gané la chapa de 100 kilómetros porque me quedé corto por 550 metros. VQLD.
 
-{{< video src="//wp-content/uploads/2023/03/WhatsApp-Video-2023-03-05-at-9.42.32-PM.mp4" >}}
+{{< video src="/wp-content/uploads/2023/03/llegando.mp4" >}}

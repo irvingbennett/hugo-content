@@ -29,21 +29,21 @@ url: /2022/11/08/deadman-peaks-backbone-106m
 ---
 Tenía bajas expectativas para esta carrera en Cuba, New Mexico, EEUU porque la información estaba desactualizada en el sitio web de la carrera y la participación es extremadamente baja. En el 2021 terminaron 9 de 21 que empezaron la carrera. Este año creo que empezamos 24 y yo terminé de último en 34:44:26. Mi reloj marcó 173.18 kilómetros, como tres kilómetros de más por unas cuantas perdidas en el camino. Cuándo crucé la meta estaba totalmente complacido con el recorrido y todo lo que esta aventura me proporcionó, fue toda una experiencia muy especial.
 
-{{< figure src="/wp-content/uploads/gallery_backup/image-1.png" alt="" caption="" >}}
+{{< figure src="/wp-content/uploads/gallery_backup/continental_divide.png" alt="" caption="" >}}
 
 Como había poca información, no tenía un plan muy detallado de qué hacer en la carrera. La logística era muy sencilla porque el recorrido era sobre el [sendero de la división continental](https://continentaldividetrail.org/), 26.5 millas en una dirección y de regreso, dos veces. Habían dos estaciones de abasto en el camino y una tercera en el giro de regreso. Podía dejar bolsas de apoyo en Mesa Portales, en el retorno, y en la partida/final. Había un corte a las 10am a las 80 millas en el segundo retorno, y otro corte a las 2pm en Mesa Portales, milla 97. No tenía idea de cuánto era el tiempo límite de la carrera.
 
 Antes de partir pensaba que iba a estar agradable el clima y al último minuto entró un frío abismal: la partida fue a las 6am en total oscuridad y el termómetro marcaba -7ºC. Tenía puesta casi toda mi ropa para la partida y planeaba dejar la mayoría en la bolsa de apoyo del kilómetro 14.4 (milla 9, Mesa Portales). Comenzando la carrera me perdí y detrás mío venía un tren de corredores. Todos quedamos enredados en un filo que no llegaba a ningún lado. Quedé de último buscando como bajar. Mi reloj decía que estaba al lado del sendero, y cuando fui a buscarlo había un barranco que no me dejaba llegarle. Me tocó echar hacia atrás para seguir mi carrera. No estaba comenzando bien la cosa.
 
-{{< figure src="/wp-content/uploads/gallery_backup/image.png" alt="" caption="" >}}
+{{< figure src="/wp-content/uploads/gallery_backup/deadman_peaks_profile.png" alt="" caption="" >}}
 
 Después del hueco profundo en el que me sentía al principio, todo fue mejorando con cada paso que daba. El sendero estaba bien marcado, la pisada estaba suave, y el paisaje iba tornándose más atractivo a medida que iba saliendo el sol. El perfil de elevación de la carrera parecía indicar que iba a ser una montaña rusa de subidas y bajadas. En realidad, la gradiente promedio era muy baja porque el perfil tenía una exageración vertical altísima. Iba con esa conclusión en mente. En la práctica resultó tal cual lo esperaba. Cuando llegue a Mesa Portales ya había salido el sol, había algo de nubes y era evidente que se iba a quedar helado el día. Me quité casi todas las capas y las guardé en la bolsa de apoyo. Me tomé una berifen (diclofenaco sódico) y dos acetaminofen de 500mg. Me dolía la rodilla izquierda y cuando paré, las dos estaban a punto de congelarse. Pensé que no aguantarían el trajín de todo lo que venía por delante.
 
-{{< figure src="/wp-content/uploads/gallery_backup/image-2.png" alt="" caption="" >}}
+{{< figure src="/wp-content/uploads/gallery_backup/mesa_portales.png" alt="" caption="" >}}
 
 Mentalmente siempre voy haciendo matemáticas mientras corro. En este caso, llevaba un tercio del primer cuarto de la carrera, un décimo del total. Siempre voy partiendo toda la carrera en pequeñas metas: la próxima estaba a 9 millas (14.5 kms) y se llamaba la ventana. No había hecho planilla portátil, ni me había memorizado el perfil de elevación, no era necesario para esta logística. Una vez que recorriera el primer cuarto, todo iba a quedar grabado con precisión para las próximas tres veces que me tocaba recorrerlo. Yo me aprendo los caminos sin tener que pensarlo mucho, debe ser algo de mi cerebro primitivo que nos daba una ventaja competitiva cuando vivíamos de la caza y recolección.
 
-{{< figure src="/wp-content/uploads/gallery_backup/image-3.png" alt="" caption="" >}}
+{{< figure src="/wp-content/uploads/gallery_backup/20221105_072419.jpg" alt="" caption="" >}}
 
 De Mesa Portales salía un sendero bien marcado y tocaba trepar nuevamente al espinazo de América (el continente) antes de llegar a la próxima estación, La Ventana. Backbone 106m es un nombre apropiado porque corremos sobre la división continental: corriendo hacia el sur, tengo el Pacífico a mi derecha y el Atlántico a mi izquierda. El sendero pronto me llevó arriba y quedé corriendo por [arenisca](https://es.wikipedia.org/wiki/Arenisca), con una vista espectacular del alto desierto de [Cuba, Nuevo México](https://es.wikipedia.org/wiki/Cuba_(Nuevo_M%C3%A9xico)). En partes era como correr sobre arena tan dura como el concreto. La vista hacía fácil entretenerse y contemplar lo fantástico que estar vivo y poder tener la fuerza para emprender un reto como el que estaba encarando. Todo estaba fluyendo (se notaba que los analgésicos habían hecho efecto).
 

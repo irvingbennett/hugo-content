@@ -27,7 +27,7 @@ params:
     safari_pinned_tab: "/safari-pinned-tab.svg"
   author:
     name: Rompy
-  logoPath: "images/logo_AAL.jpg"
+  logoPath: "logo_AAL.jpg"
   sidebar:
     avatar: "web-app-manifest-192x192.png" # Optional: path to an image if you want one
     title: "Al Aire Libre"
@@ -57,9 +57,9 @@ menu:
     - name: Páginas
       url: /pages/
       weight: 2
-    - name: Panamá Paso a Paso
-      url: /pages/panama-paso-a-paso/      # <--- Change this to a direct 'url' parameter
-      weight: 3
+    # - name: Panamá Paso a Paso
+    #  url: /pages/panama-paso-a-paso/      # <--- Change this to a direct 'url' parameter
+    #  weight: 3
     - name: Buscar
       url: /search/
       weight: 4

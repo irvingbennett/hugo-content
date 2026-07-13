@@ -24,6 +24,10 @@ url: /2005/09/05/4-aracaris
 wpb_post_views_count: "7"
 
 ---
-[![](/wp-content/uploads/2005/09/Pteroglossus_frantzii-150x150.jpg)](//wp-content/uploads/2005/09/Pteroglossus_frantzii.jpg) Este fin de semana, en El Valle, tuvimos la suerte de ver 4 aracaris en una árbol que queda en toda la entrada de nuestra casa. El aracari, del cual hay dos variedades en nuestro país, es un tucancillo muy pintoresco. Nunca antes había visto uno de estos en El Valle, y en el libro de Aves de Panamá mencionan de su existencia, pero en la versión que yo tengo dice que no están seguros de cual de los dos tucancillos es el que se encuentra.
+![Aracari)](/wp-content/uploads/2005/09/Pteroglossus_frantzii.jpg) 
+
+Este fin de semana, en El Valle, tuvimos la suerte de ver 4 aracaris en una árbol que queda en toda la entrada de nuestra casa. El aracari, del cual hay dos variedades en nuestro país, es un tucancillo muy pintoresco. Nunca antes había visto uno de estos en El Valle, y en el libro de Aves de Panamá mencionan de su existencia, pero en la versión que yo tengo dice que no están seguros de cual de los dos tucancillos es el que se encuentra.
 
 Uno de los tucancillos es el de [pico de fuego](https://neotropical.birds.cornell.edu/Species-Account/nb/species/fibara1/overview), que es el que yo creo haber visto. El otro tucancillo, el de [collar](https://es.wikipedia.org/wiki/Pteroglossus_torquatus), es el más común, pero no está supuesto a ser de este lugar. No importa cual sea, me alegra haberlos visto tan de cerca, en el patio de la casa. Justo unos momentos antes había estado escuchando al tucán mas grande, a ramphastos sulfuratus, cantando atrás de la casa. Me parece fantástico que estas aves se encuentren volando alrededor, es tan agradable verlas en libertad, tan pintorescas.
+
+[Birds of the World](https://birdsoftheworld.org/bow/home) Es una gran fuente de información para quienes gustan observar aves. Es de acceso gratuito para los panameños y gestionado por la Universidad de Cornell.
