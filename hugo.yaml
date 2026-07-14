@@ -27,7 +27,11 @@ params:
   # safari_pinned_tab: "/safari-pinned-tab.svg"
   author:
     name: Rompy
-  logoPath: "logo_AAL.jpg"
+  logoPath: /logo_AAL.jpg
+  label:
+    text: "Al Aire Libre"          # Text shown next to the logo (leave "" if you only want the image)
+    icon: /logo_AAL.jpg             # Path relative to your static folder
+    iconHeight: 35                 # Adjust this height (in pixels) to fit your navbar cleanly
   sidebar:
     avatar: "web-app-manifest-192x192.png" # Optional: path to an image if you want one
     title: "Al Aire Libre"
