@@ -60,7 +60,7 @@ El sendero de esta carrera es muy limpio y estaba cubierto de las hojas que hab�
 
 Laurel Hill, kilómetro 75, ya estaba en Kentucky. Primera vez que tocaba Tennessee y Kentucky. En Fat Dog 120 millas habíamos atravesado tres provincias en Canadá. Esta es la primera vez que corría dos estados en una carrera en Estados Unidos. Antes de llegar a la estación pasamos bajo un arco de piedra espectacular.
 
-{{< figure src="/wp-content/uploads/gallery_backup/twin_arches.png" alt="" caption="Twin Arches" >}}
+{{< figure src="/wp-content/uploads/gallery_backup/twin_arches.png" alt="" caption="Twin Arches" class="full-width-image" >}}
 
 A Ledbetter, kilómetro 89, llegué en 14:43:48.2 en la posición 110. Lagarto llegó en 12:59:11.4 en posición 58. A esta altura de la carrera el Croc había mantenido su posición en el grupo de corredores y yo había cedido 60 puestos. Ninguno de los dos tenía idea de esto en el momento, y yo no sabía dónde él estaba en el recorrido. En Duncan Hollow, dónde me había encontrado con Adela, me dijo que me llevaba como dos horas de ventaja. Estaba cerca de lograr entrar debajo de las treinta horas pasada la mitad de la carrera.
 
