@@ -1,7 +1,7 @@
 baseURL: https://alairelibre.net/
 locale: ES-es
 title: Al Aire Libre
-theme:  PaperMod
+theme: PaperMod
 taxonomies:
   category: categories
   tag: tags
@@ -30,6 +30,7 @@ params:
   logoPath: /logo_AAL.jpg
   label:
     text: "Al Aire Libre"          # Text shown next to the logo (leave "" if you only want the image)
+    description: "Un Taller de Aventuras"
     icon: /logo_AAL.jpg             # Path relative to your static folder
     iconHeight: 96                 # Adjust this height (in pixels) to fit your navbar cleanly
   sidebar:
