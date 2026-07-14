@@ -57,15 +57,6 @@ outputFormats:
     baseName: feed
 menu:
   main:
-    - name: Bitácora
-      url: /posts/
-      weight: 1
-    - name: Páginas
-      url: /pages/
-      weight: 2
-    # - name: Panamá Paso a Paso
-    #  url: /pages/panama-paso-a-paso/      # <--- Change this to a direct 'url' parameter
-    #  weight: 3
     - name: Buscar
       url: /search/
       weight: 4

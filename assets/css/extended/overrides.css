@@ -1,0 +1,19 @@
+.full-width-img {
+    display: block;
+    width: 100vw;
+    max-width: none;
+    margin-left: 50%;
+    transform: translateX(-50%);
+}
+
+/*
+.full-width-image {
+    width: 100vw;
+    position: relative;
+    left: 50%;
+    right: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+    max-width: none;
+}
+*/
