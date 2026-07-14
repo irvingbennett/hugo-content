@@ -21,7 +21,7 @@ title: Nosotros
 url: /nosotros
 
 ---
-{{< figure align="aligncenter" width=640 src="/wp-content/uploads/gallery_backup/P9120107.jpg" alt=" Irving, Lorena, Lauri y Rompy" caption=" Irving, Lorena, Lauri y Rompy" >}}
+{{< figure align="aligncenter" width=640 src="/wp-content/uploads/gallery_backup/132937302_440685430269305_7399497248434983254_n.jpg" alt=" Irving, Lorena, Lauri y Rompy" caption=" Irving, Lorena, Lauri y Rompy" >}}
 
 Irving Bennett (Papa), Lorena Riba (Mama), Irving, Laura, y miembros cuadrúpedos (Lua, Dorita, Fulo, Brownie, Bambú y Max).
 
