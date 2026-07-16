@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="FitFilter" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <time>2013-05-05T14:44:43Z</time>
+  </metadata>
+  <trk>
+    <name>Trail Running - 2013-05-05 14:44</name>
+    <type>running</type>
+    <trkseg>
+      <trkpt lat="37.898860" lon="-122.637394">
+        <time>2013-05-05T14:44:43Z</time>
+      </trkpt>
+      <trkpt lat="37.898850" lon="-122.637393">
+        <ele>42.00</ele>
+        <time>2013-05-05T14:44:47Z</time>
+      </trkpt>
+      <trkpt lat="37.898856" lon="-122.637401">
+        <ele>42.00</ele>
+        <time>2013-05-05T14:44:51Z</time>
+      </trkpt>
+      <trkpt lat="37.898856" lon="-122.637426">
+        <time>2013-05-05T14:44:53Z</time>
+      </trkpt>
+      <trkpt lat="37.898860" lon="-122.637439">
+        <time>2013-05-05T14:44:55Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

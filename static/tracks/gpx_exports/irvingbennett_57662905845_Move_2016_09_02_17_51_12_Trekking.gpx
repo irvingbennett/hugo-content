@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="FitFilter" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <time>2016-09-02T16:51:20Z</time>
+  </metadata>
+  <trk>
+    <name>Hiking - 2016-09-02 16:51</name>
+    <type>hiking</type>
+    <trkseg>
+      <trkpt lat="52.041940" lon="-9.976800">
+        <time>2016-09-02T16:52:08Z</time>
+      </trkpt>
+      <trkpt lat="52.041814" lon="-9.978376">
+        <time>2016-09-02T16:53:08Z</time>
+      </trkpt>
+      <trkpt lat="52.041982" lon="-9.979748">
+        <time>2016-09-02T16:54:09Z</time>
+      </trkpt>
+      <trkpt lat="52.042334" lon="-9.981162">
+        <time>2016-09-02T16:55:09Z</time>
+      </trkpt>
+      <trkpt lat="52.042186" lon="-9.982866">
+        <ele>105.00</ele>
+        <time>2016-09-02T16:56:10Z</time>
+      </trkpt>
+      <trkpt lat="52.042272" lon="-9.984397">
+        <time>2016-09-02T16:57:11Z</time>
+      </trkpt>
+      <trkpt lat="52.037872" lon="-9.987937">
+        <time>2016-09-02T16:58:12Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

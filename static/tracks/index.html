@@ -1,0 +1,1041 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FitFilter - Garmin Activity Dashboard</title>
+    
+    <!-- Google Fonts: Outfit for clean, modern geometry -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.css"/>
+    
+    <style>
+        :root {
+            --bg-main: #090d16;
+            --bg-panel: rgba(13, 18, 30, 0.85);
+            --border-panel: rgba(255, 255, 255, 0.08);
+            --text-main: #f8fafc;
+            --text-muted: #94a3b8;
+            --primary: #38bdf8;       /* vibrant sky blue */
+            --primary-glow: rgba(56, 189, 248, 0.25);
+            --accent: #f97316;        /* hot orange */
+            --accent-glow: rgba(249, 115, 22, 0.25);
+            --success: #10b981;       /* emerald green */
+            --card-bg: rgba(30, 41, 59, 0.4);
+            --card-border: rgba(255, 255, 255, 0.04);
+            --sidebar-width: 380px;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Outfit', sans-serif;
+            background-color: var(--bg-main);
+            color: var(--text-main);
+            height: 100vh;
+            width: 100vw;
+            overflow: hidden;
+            display: flex;
+        }
+
+        /* Layout Structure */
+        #sidebar-container {
+            width: var(--sidebar-width);
+            height: 100vh;
+            background: var(--bg-panel);
+            backdrop-filter: blur(20px) saturate(180%);
+            -webkit-backdrop-filter: blur(20px) saturate(180%);
+            border-right: 1px solid var(--border-panel);
+            box-shadow: 4px 0 24px rgba(0, 0, 0, 0.6);
+            z-index: 10;
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+            flex-shrink: 0;
+        }
+
+        #map-container {
+            flex-grow: 1;
+            height: 100vh;
+            position: relative;
+            z-index: 1;
+        }
+
+        #map {
+            width: 100%;
+            height: 100%;
+            background-color: #0b0f19;
+        }
+
+        /* Scrollbar Styling */
+        ::-webkit-scrollbar {
+            width: 6px;
+        }
+        ::-webkit-scrollbar-track {
+            background: transparent;
+        }
+        ::-webkit-scrollbar-thumb {
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 3px;
+        }
+        ::-webkit-scrollbar-thumb:hover {
+            background: rgba(255, 255, 255, 0.25);
+        }
+
+        /* Sidebar Header */
+        .sidebar-header {
+            padding: 24px 20px 16px;
+            border-bottom: 1px solid var(--border-panel);
+        }
+        .logo-area {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin-bottom: 4px;
+        }
+        .logo-icon {
+            color: var(--primary);
+            font-weight: 700;
+            font-size: 24px;
+            background: linear-gradient(135deg, var(--primary), #a855f7);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        .logo-text {
+            font-weight: 700;
+            font-size: 20px;
+            letter-spacing: 0.5px;
+            text-transform: uppercase;
+        }
+        .subtitle {
+            font-size: 12px;
+            color: var(--text-muted);
+            font-weight: 400;
+        }
+
+        /* Sidebar Scrollable Section */
+        .sidebar-content {
+            flex-grow: 1;
+            overflow-y: auto;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+
+        /* Panel Cards */
+        .panel-card {
+            background: var(--card-bg);
+            border: 1px solid var(--card-border);
+            border-radius: 12px;
+            padding: 16px;
+        }
+        .card-title {
+            font-size: 11px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: var(--text-muted);
+            margin-bottom: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        /* Global Statistics Grid */
+        .stats-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 12px;
+        }
+        .stat-item {
+            background: rgba(255, 255, 255, 0.02);
+            border: 1px solid rgba(255, 255, 255, 0.03);
+            border-radius: 8px;
+            padding: 10px;
+            text-align: center;
+        }
+        .stat-label {
+            font-size: 10px;
+            color: var(--text-muted);
+            text-transform: uppercase;
+            margin-bottom: 4px;
+        }
+        .stat-val {
+            font-size: 18px;
+            font-weight: 600;
+            color: var(--text-main);
+        }
+        .stat-unit {
+            font-size: 10px;
+            color: var(--text-muted);
+            margin-left: 2px;
+        }
+
+        /* Filters Controls */
+        .filter-group {
+            margin-bottom: 12px;
+        }
+        .filter-group:last-child {
+            margin-bottom: 0;
+        }
+        .filter-group label {
+            display: block;
+            font-size: 11px;
+            color: var(--text-muted);
+            margin-bottom: 6px;
+            text-transform: uppercase;
+            font-weight: 500;
+        }
+        .select-input, .text-input {
+            width: 100%;
+            background: #111827;
+            border: 1px solid var(--border-panel);
+            border-radius: 8px;
+            color: var(--text-main);
+            padding: 8px 12px;
+            font-family: inherit;
+            font-size: 13px;
+            outline: none;
+            transition: border-color 0.2s;
+        }
+        .select-input:focus, .text-input:focus {
+            border-color: var(--primary);
+        }
+        .range-slider-container {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        .range-slider {
+            flex-grow: 1;
+            accent-color: var(--primary);
+            height: 4px;
+            border-radius: 2px;
+            background: #1e293b;
+            outline: none;
+        }
+        .range-val {
+            font-size: 12px;
+            min-width: 50px;
+            text-align: right;
+            font-weight: 500;
+        }
+
+        /* Interactive Track Details Card */
+        #detail-panel {
+            border: 1px solid var(--primary-glow);
+            background: linear-gradient(180deg, rgba(56, 189, 248, 0.05), transparent);
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            display: none; /* Shown dynamically */
+        }
+        #detail-panel.active {
+            display: block;
+            animation: slideIn 0.3s ease-out;
+        }
+        @keyframes slideIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        
+        .detail-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: 12px;
+            gap: 12px;
+        }
+        .detail-title {
+            font-size: 15px;
+            font-weight: 600;
+            color: var(--text-main);
+            line-height: 1.3;
+        }
+        .activity-badge {
+            background: var(--primary-glow);
+            color: var(--primary);
+            font-size: 9px;
+            font-weight: 700;
+            padding: 3px 6px;
+            border-radius: 20px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            white-space: nowrap;
+            border: 1px solid rgba(56, 189, 248, 0.2);
+        }
+        .activity-badge.trail {
+            background: rgba(168, 85, 247, 0.15);
+            color: #c084fc;
+            border-color: rgba(168, 85, 247, 0.2);
+        }
+        
+        .detail-meta {
+            font-size: 11px;
+            color: var(--text-muted);
+            margin-bottom: 14px;
+            border-bottom: 1px solid var(--border-panel);
+            padding-bottom: 8px;
+        }
+
+        .metrics-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 10px;
+        }
+        .metric-card {
+            background: rgba(0, 0, 0, 0.15);
+            border-radius: 8px;
+            padding: 8px 10px;
+            border: 1px solid rgba(255, 255, 255, 0.02);
+        }
+        .metric-lbl {
+            font-size: 9px;
+            color: var(--text-muted);
+            text-transform: uppercase;
+            margin-bottom: 2px;
+        }
+        .metric-val {
+            font-size: 14px;
+            font-weight: 600;
+            color: var(--text-main);
+        }
+
+        /* Scrollable Activity List */
+        .activity-list-container {
+            max-height: 250px;
+            overflow-y: auto;
+            display: flex;
+            flex-direction: column;
+            gap: 6px;
+            padding-right: 4px;
+        }
+        .list-item {
+            padding: 10px 12px;
+            background: rgba(255, 255, 255, 0.015);
+            border: 1px solid rgba(255, 255, 255, 0.03);
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.2s;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .list-item:hover {
+            background: rgba(255, 255, 255, 0.04);
+            border-color: var(--primary);
+        }
+        .list-item.selected {
+            background: rgba(56, 189, 248, 0.08);
+            border-color: var(--primary);
+        }
+        .item-info {
+            display: flex;
+            flex-direction: column;
+            gap: 2px;
+        }
+        .item-title {
+            font-size: 12px;
+            font-weight: 500;
+            color: var(--text-main);
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+            max-width: 220px;
+        }
+        .item-sub {
+            font-size: 10px;
+            color: var(--text-muted);
+        }
+        .item-stat {
+            font-size: 12px;
+            font-weight: 600;
+            color: var(--primary);
+        }
+
+        .btn-gpx:hover {
+            background: #7dd3fc !important;
+            box-shadow: 0 0 12px var(--primary-glow);
+            transform: translateY(-1px);
+        }
+        .btn-gpx:active {
+            transform: translateY(0);
+        }
+
+        /* Custom Dark Layer Control for Leaflet */
+        .leaflet-bar, .leaflet-control-layers {
+            background: rgba(13, 18, 30, 0.9) !important;
+            backdrop-filter: blur(8px);
+            border: 1px solid var(--border-panel) !important;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4) !important;
+            color: var(--text-main) !important;
+            border-radius: 8px !important;
+        }
+        .leaflet-control-layers-expanded {
+            padding: 10px 12px !important;
+            font-family: 'Outfit', sans-serif !important;
+            font-size: 12px !important;
+        }
+        .leaflet-control-layers label {
+            margin-bottom: 4px;
+            cursor: pointer;
+        }
+        .leaflet-bar a {
+            background: transparent !important;
+            color: var(--text-main) !important;
+            border-bottom: 1px solid var(--border-panel) !important;
+            transition: all 0.2s;
+        }
+        .leaflet-bar a:hover {
+            background: rgba(255, 255, 255, 0.08) !important;
+            color: var(--primary) !important;
+        }
+        .leaflet-bar a:first-child {
+            border-top-left-radius: 8px !important;
+            border-top-right-radius: 8px !important;
+        }
+        .leaflet-bar a:last-child {
+            border-bottom-left-radius: 8px !important;
+            border-bottom-right-radius: 8px !important;
+            border-bottom: none !important;
+        }
+
+        /* Leaflet popup customization */
+        .leaflet-popup-content-wrapper {
+            background: rgba(13, 18, 30, 0.95) !important;
+            backdrop-filter: blur(12px);
+            color: var(--text-main) !important;
+            border: 1px solid var(--border-panel) !important;
+            border-radius: 12px !important;
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.5) !important;
+            font-family: 'Outfit', sans-serif !important;
+            padding: 4px;
+        }
+        .leaflet-popup-tip {
+            background: rgba(13, 18, 30, 0.95) !important;
+            border-left: 1px solid var(--border-panel);
+            border-bottom: 1px solid var(--border-panel);
+        }
+        .popup-content h4 {
+            font-size: 13px;
+            margin-bottom: 6px;
+            color: var(--primary);
+            border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+            padding-bottom: 4px;
+        }
+        .popup-row {
+            font-size: 11px;
+            margin-bottom: 3px;
+            display: flex;
+            justify-content: space-between;
+            gap: 12px;
+        }
+        .popup-lbl {
+            color: var(--text-muted);
+        }
+        .popup-val {
+            font-weight: 500;
+        }
+
+        /* HUD overlay message */
+        #hud-message {
+            position: absolute;
+            bottom: 24px;
+            left: 24px;
+            background: rgba(13, 18, 30, 0.9);
+            border: 1px solid var(--border-panel);
+            border-radius: 8px;
+            padding: 8px 16px;
+            font-size: 12px;
+            color: var(--text-muted);
+            backdrop-filter: blur(8px);
+            z-index: 5;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+            pointer-events: none;
+            transition: opacity 0.3s;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- SIDE PANEL HUD -->
+    <div id="sidebar-container">
+        <div class="sidebar-header">
+            <div class="logo-area">
+                <div class="logo-icon">&#9650;</div>
+                <div class="logo-text">FitFilter</div>
+            </div>
+            <div class="subtitle">Interactive Garmin Activity Map</div>
+        </div>
+
+        <div class="sidebar-content">
+            <!-- Global Stats Card -->
+            <div class="panel-card">
+                <div class="card-title">Accumulated Metrics</div>
+                <div class="stats-grid">
+                    <div class="stat-item">
+                        <div class="stat-label">Activities</div>
+                        <div id="stat-count" class="stat-val">0</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-label">Distance</div>
+                        <div class="stat-val"><span id="stat-distance">0</span><span class="stat-unit">km</span></div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-label">Ascent</div>
+                        <div class="stat-val"><span id="stat-elevation">0</span><span class="stat-unit">m</span></div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-label">Time</div>
+                        <div id="stat-duration" class="stat-val" style="font-size: 14px; padding-top: 4px;">0h</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Filters Card -->
+            <div class="panel-card">
+                <div class="card-title">Filter Operations</div>
+                
+                <div class="filter-group">
+                    <label for="search-input">Search Title/Date</label>
+                    <input type="text" id="search-input" class="text-input" placeholder="e.g. Trail, 2021-08">
+                </div>
+
+                <div class="filter-group">
+                    <label for="filter-activity">Activity Type</label>
+                    <select id="filter-activity" class="select-input">
+                        <option value="all">All Activities</option>
+                        <!-- Populated dynamically -->
+                    </select>
+                </div>
+
+                <div class="filter-group">
+                    <label for="filter-min-dist">Min Distance</label>
+                    <div class="range-slider-container">
+                        <input type="range" id="filter-min-dist" class="range-slider" min="0" max="100" value="0">
+                        <span id="min-dist-val" class="range-val">0 km</span>
+                    </div>
+                </div>
+
+                <div class="filter-group">
+                    <label for="filter-min-elev">Min Elevation Gain</label>
+                    <div class="range-slider-container">
+                        <input type="range" id="filter-min-elev" class="range-slider" min="0" max="2000" value="0">
+                        <span id="min-elev-val" class="range-val">0 m</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Selected Track Detail Card -->
+            <div id="detail-panel" class="panel-card">
+                <div class="card-title">Activity Analytics</div>
+                
+                <div class="detail-header">
+                    <div id="detail-title" class="detail-title">-</div>
+                    <div id="detail-badge" class="activity-badge">running</div>
+                </div>
+                
+                <div id="detail-date" class="detail-meta">-</div>
+                
+                <div class="metrics-grid">
+                    <div class="metric-card">
+                        <div class="metric-lbl">Distance</div>
+                        <div class="metric-val"><span id="detail-distance">-</span> km</div>
+                    </div>
+                    <div class="metric-card">
+                        <div class="metric-lbl">Duration</div>
+                        <div class="metric-val" id="detail-duration">-</div>
+                    </div>
+                    <div class="metric-card">
+                        <div class="metric-lbl">Elevation Gain</div>
+                        <div class="metric-val"><span id="detail-gain">-</span> m</div>
+                    </div>
+                    <div class="metric-card">
+                        <div class="metric-lbl">Elevation Lost</div>
+                        <div class="metric-val"><span id="detail-loss">-</span> m</div>
+                    </div>
+                    <div class="metric-card" style="grid-column: span 2;">
+                        <div class="metric-lbl">Average Pace</div>
+                        <div class="metric-val" id="detail-pace" style="color: var(--accent);">-</div>
+                    </div>
+                </div>
+
+                <div style="margin-top: 14px;">
+                    <a id="detail-gpx-btn" href="#" download class="btn-gpx" style="display: block; text-align: center; background: var(--primary); color: #090d16; text-decoration: none; padding: 10px; border-radius: 8px; font-weight: 600; font-size: 13px; transition: all 0.2s; border: 1px solid transparent;">
+                        ⬇ Download Full GPX Track
+                    </a>
+                </div>
+            </div>
+
+            <!-- Matching Tracks List -->
+            <div class="panel-card">
+                <div class="card-title" id="list-title">Activities (0)</div>
+                <div id="activity-list" class="activity-list-container">
+                    <!-- Loaded dynamically -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- MAP INTERFACE -->
+    <div id="map-container">
+        <div id="map"></div>
+        <div id="hud-message">Loading activity records from GeoJSON database...</div>
+    </div>
+
+    <!-- Leaflet JS -->
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.js"></script>
+    <!-- Leaflet Heatmap Plugin -->
+    <script src="https://cdn.jsdelivr.net/npm/leaflet.heat@0.2.0/dist/leaflet-heat.js"></script>
+    
+    <!-- Load Local Tracks Data Directly (CORS Safe) -->
+    <script src="map_data.js"></script>
+
+    <script>
+        // Global Map Variables
+        let map;
+        let allFeatures = [];
+        let geoJsonLayer = null;
+        let heatmapLayer = null;
+        let selectedTrackId = null;
+
+        // Configuration Styling
+        const normalStyle = { 
+            color: 'rgba(56, 189, 248, 0.45)', // Sky blue, slightly transparent
+            weight: 3.5,
+            opacity: 0.75
+        };
+        const hoverStyle = { 
+            color: '#f97316', // Bright orange
+            weight: 6.0,
+            opacity: 1.0
+        };
+        const selectedStyle = { 
+            color: '#ef4444', // Hot red
+            weight: 7.0,
+            opacity: 1.0
+        };
+
+        // Initialize Map
+        function initMap() {
+            // Default center around Panama area (based on first valid coord found earlier: 8.99, -79.53)
+            map = L.map('map', {
+                zoomControl: false // Move zoom control to bottom right
+            }).setView([8.98, -79.53], 11);
+
+            L.control.zoom({
+                position: 'bottomright'
+            }).addTo(map);
+
+            // Sleek CartoDB Dark Matter tiles (black/dark background)
+            L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+                attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
+                subdomains: 'abcd',
+                maxZoom: 20
+            }).addTo(map);
+        }
+
+        // Fetch and process map data
+        function loadData() {
+            try {
+                if (typeof mapData === 'undefined') {
+                    throw new Error("map_data.js not loaded. Make sure you ran 'go run generate_map_data.go'.");
+                }
+                
+                allFeatures = mapData.features;
+                
+                document.getElementById('hud-message').style.opacity = 0;
+                setTimeout(() => {
+                    document.getElementById('hud-message').style.display = 'none';
+                }, 300);
+
+                setupFilterLimits();
+                populateActivitySelect();
+                applyFilters();
+
+                // Adjust map view to perfectly encompass the bounds of all tracks
+                if (geoJsonLayer && geoJsonLayer.getBounds().isValid()) {
+                    map.fitBounds(geoJsonLayer.getBounds(), { padding: [40, 40] });
+                }
+            } catch (error) {
+                console.error("Error loading track data:", error);
+                document.getElementById('hud-message').innerHTML = `<span style="color: #ef4444; font-weight:600;">Error: ${error.message}</span>`;
+                document.getElementById('hud-message').style.opacity = 1;
+            }
+        }
+
+        // Setup filter limits dynamically based on data limits
+        function setupFilterLimits() {
+            let maxDist = 0;
+            let maxElev = 0;
+            
+            allFeatures.forEach(f => {
+                const d = f.properties.distance_km;
+                const e = f.properties.elevation_gain;
+                if (d > maxDist) maxDist = d;
+                if (e > maxElev) maxElev = e;
+            });
+
+            // Round up limits
+            maxDist = Math.ceil(maxDist);
+            maxElev = Math.ceil(maxElev);
+
+            const distSlider = document.getElementById('filter-min-dist');
+            distSlider.max = maxDist;
+            distSlider.value = 0;
+
+            const elevSlider = document.getElementById('filter-min-elev');
+            elevSlider.max = maxElev;
+            elevSlider.value = 0;
+        }
+
+        // Populate Activity Select Options dynamically
+        function populateActivitySelect() {
+            const select = document.getElementById('filter-activity');
+            const activities = new Set();
+            
+            allFeatures.forEach(f => {
+                const act = f.properties.activity_type || f.properties.sport;
+                if (act) {
+                    activities.add(act);
+                }
+            });
+
+            // Convert to sorted array and append
+            Array.from(activities).sort().forEach(act => {
+                const opt = document.createElement('option');
+                opt.value = act;
+                opt.textContent = act;
+                select.appendChild(opt);
+            });
+        }
+
+        // Apply filters and rebuild layers
+        function applyFilters() {
+            const searchQuery = document.getElementById('search-input').value.toLowerCase();
+            const selectedActivity = document.getElementById('filter-activity').value;
+            const minDist = parseFloat(document.getElementById('filter-min-dist').value);
+            const minElev = parseFloat(document.getElementById('filter-min-elev').value);
+
+            // Filter features array
+            const filteredFeatures = allFeatures.filter(f => {
+                const props = f.properties;
+                
+                // 1. Text Search query
+                const titleMatch = !searchQuery || 
+                                   props.title.toLowerCase().includes(searchQuery) || 
+                                   props.filename.toLowerCase().includes(searchQuery) || 
+                                   props.avg_pace.toLowerCase().includes(searchQuery);
+
+                // 2. Activity Type selection
+                const activityMatch = selectedActivity === 'all' || 
+                                      props.activity_type === selectedActivity || 
+                                      props.sport === selectedActivity;
+
+                // 3. Metric limits
+                const distMatch = props.distance_km >= minDist;
+                const elevMatch = props.elevation_gain >= minElev;
+
+                return titleMatch && activityMatch && distMatch && elevMatch;
+            });
+
+            rebuildMapLayers(filteredFeatures);
+            rebuildActivityList(filteredFeatures);
+            calculateAndDisplayStats(filteredFeatures);
+        }
+
+        // Rebuild interactive tracks layer & heatmap
+        function rebuildMapLayers(features) {
+            if (geoJsonLayer) {
+                map.removeLayer(geoJsonLayer);
+            }
+            if (heatmapLayer) {
+                map.removeLayer(heatmapLayer);
+            }
+
+            // Create Layer Group for Track Polylines
+            geoJsonLayer = L.geoJSON({
+                type: "FeatureCollection",
+                features: features
+            }, {
+                style: function(feature) {
+                    if (selectedTrackId === feature.properties.id) {
+                        return selectedStyle;
+                    }
+                    return normalStyle;
+                },
+                onEachFeature: function(feature, layer) {
+                    layer.on({
+                        mouseover: function(e) {
+                            if (selectedTrackId !== feature.properties.id) {
+                                this.setStyle(hoverStyle);
+                                this.bringToFront();
+                            }
+                            displayTrackDetails(feature.properties, false);
+                        },
+                        mouseout: function(e) {
+                            if (selectedTrackId === feature.properties.id) {
+                                this.setStyle(selectedStyle);
+                            } else {
+                                this.setStyle(normalStyle);
+                            }
+                            
+                            // Restore selected details if one is selected, else hide
+                            if (selectedTrackId) {
+                                const selectedFeature = allFeatures.find(f => f.properties.id === selectedTrackId);
+                                if (selectedFeature) {
+                                    displayTrackDetails(selectedFeature.properties, true);
+                                }
+                            } else {
+                                document.getElementById('detail-panel').classList.remove('active');
+                            }
+                        },
+                        click: function(e) {
+                            selectTrack(feature, layer);
+                            L.DomEvent.stopPropagation(e);
+                        }
+                    });
+                }
+            }).addTo(map);
+
+            // Extract points for the heatmap
+            const heatPoints = [];
+            features.forEach(f => {
+                if (f.geometry && f.geometry.type === "LineString") {
+                    f.geometry.coordinates.forEach(coord => {
+                        // GeoJSON coords are [long, lat], Leaflet Heat expects [lat, long]
+                        heatPoints.push([coord[1], coord[0]]);
+                    });
+                }
+            });
+
+            // Initialize Heatmap
+            heatmapLayer = L.heatLayer(heatPoints, {
+                radius: 12,
+                blur: 16,
+                maxZoom: 14,
+                gradient: { 0.4: 'blue', 0.65: 'lime', 1: 'red' }
+            });
+
+            // Dynamic Layer Control setup (rebuilt to map selection state)
+            setupLayerControl();
+        }
+
+        let layerControl = null;
+        function setupLayerControl() {
+            if (layerControl) {
+                map.removeControl(layerControl);
+            }
+
+            const overlays = {
+                "Activity Track Paths": geoJsonLayer,
+                "Heatmap Density": heatmapLayer
+            };
+
+            layerControl = L.control.layers(null, overlays, { collapsed: false }).addTo(map);
+        }
+
+        // Rebuild the scrollable activity list in the sidebar
+        function rebuildActivityList(features) {
+            const list = document.getElementById('activity-list');
+            list.innerHTML = '';
+
+            document.getElementById('list-title').textContent = `Activities (${features.length})`;
+
+            if (features.length === 0) {
+                list.innerHTML = `<div style="text-align: center; color: var(--text-muted); font-size:12px; font-style:italic; padding: 20px 0;">No matching tracks found</div>`;
+                return;
+            }
+
+            // Show newest activities first (assuming chronological ID)
+            const sorted = [...features].sort((a, b) => b.properties.id - a.properties.id);
+
+            sorted.forEach(f => {
+                const props = f.properties;
+                const item = document.createElement('div');
+                item.className = 'list-item';
+                if (selectedTrackId === props.id) {
+                    item.className += ' selected';
+                }
+
+                // Date formatting
+                const start = new Date(props.start_time);
+                const dateStr = start.toLocaleDateString(undefined, { month: 'short', day: 'numeric', year: 'numeric' });
+
+                item.innerHTML = `
+                    <div class="item-info">
+                        <div class="item-title">${props.title}</div>
+                        <div class="item-sub">${dateStr} &bull; ${props.duration_str}</div>
+                    </div>
+                    <div class="item-stat">${props.distance_km} km</div>
+                `;
+
+                item.addEventListener('click', () => {
+                    // Find the layer corresponding to this feature ID
+                    geoJsonLayer.eachLayer(layer => {
+                        if (layer.feature.properties.id === props.id) {
+                            selectTrack(f, layer);
+                        }
+                    });
+                });
+
+                list.appendChild(item);
+            });
+        }
+
+        // Calculate and display dynamic aggregated statistics
+        function calculateAndDisplayStats(features) {
+            let totalDist = 0;
+            let totalGain = 0;
+            let totalSeconds = 0;
+
+            features.forEach(f => {
+                totalDist += f.properties.distance_km;
+                totalGain += f.properties.elevation_gain;
+                totalSeconds += f.properties.duration_seconds;
+            });
+
+            document.getElementById('stat-count').textContent = features.length;
+            document.getElementById('stat-distance').textContent = totalDist.toFixed(1);
+            document.getElementById('stat-elevation').textContent = totalGain.toLocaleString();
+
+            const totalHours = Math.round(totalSeconds / 3600);
+            document.getElementById('stat-duration').textContent = `${totalHours} hrs`;
+        }
+
+        // Show details in sidebar panel
+        function displayTrackDetails(props, isLocked) {
+            const panel = document.getElementById('detail-panel');
+            panel.classList.add('active');
+
+            const title = document.getElementById('detail-title');
+            const badge = document.getElementById('detail-badge');
+            const date = document.getElementById('detail-date');
+            const distance = document.getElementById('detail-distance');
+            const duration = document.getElementById('detail-duration');
+            const gain = document.getElementById('detail-gain');
+            const loss = document.getElementById('detail-loss');
+            const pace = document.getElementById('detail-pace');
+
+            title.textContent = props.title;
+            badge.textContent = props.activity_type;
+            
+            // Stylize badge depending on activity
+            badge.className = 'activity-badge';
+            if (props.activity_type.toLowerCase().includes('trail')) {
+                badge.className += ' trail';
+            }
+
+            const start = new Date(props.start_time);
+            date.textContent = start.toLocaleDateString(undefined, { 
+                weekday: 'long', 
+                year: 'numeric', 
+                month: 'long', 
+                day: 'numeric',
+                hour: '2-digit',
+                minute: '2-digit'
+            });
+
+            distance.textContent = props.distance_km;
+            duration.textContent = props.duration_str;
+            gain.textContent = props.elevation_gain;
+            loss.textContent = props.elevation_loss;
+            pace.textContent = props.avg_pace;
+
+            // Configure GPX download link dynamically
+            const gpxBtn = document.getElementById('detail-gpx-btn');
+            gpxBtn.href = "gpx_exports/" + props.gpx_filename;
+            gpxBtn.setAttribute('download', props.gpx_filename);
+
+            if (isLocked) {
+                panel.style.borderColor = 'rgba(239, 68, 68, 0.4)'; // Red border for selected locks
+            } else {
+                panel.style.borderColor = 'var(--primary-glow)';
+            }
+        }
+
+        // Select a track path on map
+        function selectTrack(feature, layer) {
+            selectedTrackId = feature.properties.id;
+
+            // Reset all styles
+            geoJsonLayer.eachLayer(l => {
+                if (l.feature.properties.id === selectedTrackId) {
+                    l.setStyle(selectedStyle).bringToFront();
+                } else {
+                    l.setStyle(normalStyle);
+                }
+            });
+
+            // Update details HUD and list selections
+            displayTrackDetails(feature.properties, true);
+            
+            // Highlight list item in sidebar
+            const items = document.querySelectorAll('.list-item');
+            items.forEach(item => item.classList.remove('selected'));
+            
+            // Fly to bounds of chosen track
+            map.flyToBounds(layer.getBounds(), { padding: [50, 50], duration: 1.2 });
+
+            // Popup details
+            const props = feature.properties;
+            const popupContent = `
+                <div class="popup-content">
+                    <h4>${props.title}</h4>
+                    <div class="popup-row"><span class="popup-lbl">Distance:</span><span class="popup-val">${props.distance_km} km</span></div>
+                    <div class="popup-row"><span class="popup-lbl">Duration:</span><span class="popup-val">${props.duration_str}</span></div>
+                    <div class="popup-row"><span class="popup-lbl">Gain/Loss:</span><span class="popup-val">+${props.elevation_gain} / -${props.elevation_loss} m</span></div>
+                    <div class="popup-row"><span class="popup-lbl">Avg Pace:</span><span class="popup-val" style="color:var(--accent);">${props.avg_pace}</span></div>
+                </div>
+            `;
+            layer.bindPopup(popupContent).openPopup();
+
+            // Rebuild sidebar list highlight
+            rebuildActivityList(geoJsonLayer.toGeoJSON().features);
+        }
+
+        // Map Click: reset selections
+        function resetSelection() {
+            selectedTrackId = null;
+            geoJsonLayer.eachLayer(l => {
+                l.setStyle(normalStyle);
+            });
+            document.getElementById('detail-panel').classList.remove('active');
+            
+            // Re-highlight list
+            rebuildActivityList(geoJsonLayer.toGeoJSON().features);
+        }
+
+        // Filter event listeners
+        document.getElementById('search-input').addEventListener('input', applyFilters);
+        document.getElementById('filter-activity').addEventListener('change', applyFilters);
+        
+        const distSlider = document.getElementById('filter-min-dist');
+        distSlider.addEventListener('input', function() {
+            document.getElementById('min-dist-val').textContent = `${this.value} km`;
+            applyFilters();
+        });
+
+        const elevSlider = document.getElementById('filter-min-elev');
+        elevSlider.addEventListener('input', function() {
+            document.getElementById('min-elev-val').textContent = `${this.value} m`;
+            applyFilters();
+        });
+
+        // Initialize Everything
+        initMap();
+        loadData();
+
+        // Listen for map click to clear focus
+        map.on('click', resetSelection);
+
+    </script>
+</body>
+</html>

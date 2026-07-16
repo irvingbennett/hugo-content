@@ -25,7 +25,7 @@ url: /2012/06/25/111km-de-azuero
 wpb_post_views_count: "16"
 
 ---
-[![](/wp-content/uploads/2012/06/111km-Azuero-640x336.jpg)](//wp-content/uploads/2012/06/111km-Azuero.jpg) Como parte del día 4 del evento “Frontera a Frontera” de la Fundación Pura Voluntad, este jueves corrí 111km partiendo desde la Playa de Destiladeros en Azuero rumbo a Divisa. El propósito de este recorrido era apoyar el mensaje que la fundación estaría entregando a través de varios talleres en Chitré, Las Tablas y Pocrí. Con voluntad y esfuerzo se puede lograr mucho, y, a mi me costó más voluntad que esfuerzo lograr cumplir con mi recorrido.
+ Como parte del día 4 del evento “Frontera a Frontera” de la Fundación Pura Voluntad, este jueves corrí 111km partiendo desde la Playa de Destiladeros en Azuero rumbo a Divisa. El propósito de este recorrido era apoyar el mensaje que la fundación estaría entregando a través de varios talleres en Chitré, Las Tablas y Pocrí. Con voluntad y esfuerzo se puede lograr mucho, y, a mi me costó más voluntad que esfuerzo lograr cumplir con mi recorrido.
 
 A las 3:22am Margaret Von Sanger y yo partimos desde Destiladeros con el Océano Pacífico rompiendo en la playa a nuestras espaldas. Nos acompañaba Daniel Ramírez en un auto que sería mi apoyo a través de un largo, largo día. Mi estimado era que me tomaría unas 16 horas recorrer la distancia que me tocaba correr. Quería recorrer unos 50 kilómetros antes que el sol me calentara el camino y bajara mi rendimiento. Las primeras horas de la madrugada se me pasaron entretenido con las historias de Margaret y sus entrenamientos por el campo. Cada vez que nos ladraba un perro Margaret lo mandaba a callar con su nombre, y todos la conocían.
 

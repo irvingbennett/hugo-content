@@ -28,9 +28,9 @@ url: /2011/01/17/altos-de-la-estancia
 wpb_post_views_count: "11"
 
 ---
-[![Altos de La Estancia](/wp-content/uploads/2011/01/P1160088.jpg)](//wp-content/uploads/2011/01/P1160088.jpg)
+![Altos de La Estancia](/wp-content/uploads/2011/01/P1160088.jpg)
 
-Este domingo corrí unos 15 kilómetros con Ernesto Duran. Casi me mata corretear a ese venado por los senderos de La India Dormida y [Altos de La Estancia](/wp-content/uploads/gallery_backup/Altos-de-La-Estancia "Sendero a Altos de La Estancia"). Esta vuelta me hizo caer en cuenta de lo perezoso y lento que me he puesto. Esa corrida era justo lo que necesitaba para reanudar mi entrenamiento para Western States 100.
+Este domingo corrí unos 15 kilómetros con Ernesto Duran. Casi me mata corretear a ese venado por los senderos de La India Dormida y [Altos de La Estancia](/wp-content/uploads/gallery_backup/P1160102.JPG "Sendero a Altos de La Estancia"). Esta vuelta me hizo caer en cuenta de lo perezoso y lento que me he puesto. Esa corrida era justo lo que necesitaba para reanudar mi entrenamiento para Western States 100.
 
 Partimos a las 7:00am y no regresamos hasta las 10:19am, y, aun que no recorrimos más de 16 kilómetros, ¡yo estaba cansado! Ernesto corre con facilidad a un paso que a mi me lleva rápidamente a mi tope aeróbico. Desde que partimos íbamos conversando y rápidamente fue claro para mi que estaba en problemas: yo iba jadeando mientras corría y Ernesto iba fresco como una lechuga. Cuando empezamos a subir por "El Violín" yo ya había llegado a mi tope y Ernie seguía corriendo loma arriba.
 

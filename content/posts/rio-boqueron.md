@@ -17,7 +17,7 @@ categories:
 cover:
   image: "/wp-content/uploads/2026/04/20260426_102433-scaled.jpg"
 date: "2026-04-28T10:18:52+00:00"
-draft: "true"
+draft: "false"
 guid: http://localhost/?p=7000
 parent_post_id: null
 post_id: "7000"
@@ -52,3 +52,5 @@ Ya a las seis de la tarde estábamos comidos y se abrió la barra. Los jóvenes 
 Henrik y yo dormimos completamente al aire libre. La noche estaba fresca, no habían mosquitos, y la luna gibosa iluminaba el bosque. Varias luciérnagas y cocuyos nos deleitaron con su presencia. Curiosamente no vimos ningún mamífero nocturno. Solo escuchamos el canto de tucanes durante toda la travesía y los vimos volar, pero nunca logramos ver uno posando para nosotros. Aunque no llovió, las estrellas nunca brillaron para nosotros porque estaban tras la capa de nubes que cubrió el firmamento toda la noche.
 
 A las 6 am puse el agua para el desayuno a calentar. Los que se despertaron temprano desayunaron avena y café caliente. Los que llegaron más tarde tomaron café tibio. Eventualmente calentamos más agua para la segunda tanda de avena. Habíamos hablado de ir al chorro en la mañana pero los jóvenes (que fueron los últimos en acostarse cuando se les acabo el poco ron que trajeron) nunca amanecieron. No fue hasta las 10:30 am que partimos de regreso hacia los autos. La verdad es que no había apuro y el desayuno resultó muy ameno.
+
+El regreso fue rápido y sin mayor percance, como de costumbre. Esta caminata ya la tenemos bien recorrida y solo una vez se nos ha perdido un par y no por mucho tiempo. Yo fui en mi moto, como de costumbre. Al llegar nos fuimos en auto a Boquerón Arriba, ya rumbo a casa, y paramos por un refresco rápido. Los jóvenes quedaron muy contentos. Laura llevó una amiga y ya está lista para la próxima caminata.

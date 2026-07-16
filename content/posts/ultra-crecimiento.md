@@ -28,7 +28,7 @@ url: /2012/10/08/ultra-crecimiento
 wpb_post_views_count: "13"
 
 ---
-[![](/wp-content/uploads/gallery_backup/RR100n50.gif) "Rocky Raccoon 100") 100 es en febrero y se lleno en agosto 2, y tiene una lista de espera de 400+ corredores. Con razón que cada vez se ponen más caras todas las carreras, en especial cuando hay muchas más personas dispuestas a correr en relación a los puestos disponibles.
+Rocky Raccoon 100 100 es en febrero y se lleno en agosto 2, y tiene una lista de espera de 400+ corredores. Con razón que cada vez se ponen más caras todas las carreras, en especial cuando hay muchas más personas dispuestas a correr en relación a los puestos disponibles.
 
 Lástima que en Centro América no exista una gran selección de ultras para correr. Costa Rica es el país que más ultras tiene en la región. Pero ahora mismo todas las fechas de las carreras actuales están en conflicto con mi calendario local. Ahora mismo el Valle Trail Race me tiene ocupado, pero en cuanto se acabe voy a buscar como mantenerme corriendo. El maratón de Panamá será la próxima meta. Luego veré si animo a unos cuantos para un maratón de trillo en Pacora.
 

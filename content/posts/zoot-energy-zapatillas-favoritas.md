@@ -30,7 +30,7 @@ url: /2009/07/18/zoot-energy-zapatillas-favoritas
 wpb_post_views_count: "32"
 
 ---
-\[caption id="attachment\_715" align="alignleft" width="280" caption="Zapatillas Zoot Energy"\] [![Zapatillas Zoot Energy](/wp-content/uploads/2009/07/zoot_energy.jpg)](//wp-content/uploads/2009/07/zoot_energy.jpg)\[/caption\]
+![Zapatillas Zoot Energy](/wp-content/uploads/2009/07/zoot_energy.jpg)
 
 Hacía rato estaba buscando unas zapatillas para reemplazar mis Nike Free 5.0 que ya están cerca de llegar a su jubilación. Ultimamente no encuentro nada bueno en las zapatillas que están llegando a Panamá, y menos en las que están disponibles en mi talla: 12. Me encanta correr sin medias, pero después de los 15 kilómetros se necesita un excelente par de zapatillas para regresar con los piés intactos. Y aún con medias, tengo un par de Reeboks que me dejan algo delicado el dedo gordo del pié. Al principio del año, estando en San Diego, visité una tienda de Road Runner Sports y vi las zapatillas Zoot. Me parecieron un buen concepto, pero no me las pude probar por que se demoraron mucho en atenderme y decidí no seguir esperando (había mucha gente).
 

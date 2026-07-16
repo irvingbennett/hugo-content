@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="FitFilter" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <time>2013-04-22T23:47:15Z</time>
+  </metadata>
+  <trk>
+    <name>Running - 2013-04-22 23:47</name>
+    <type>running</type>
+    <trkseg>
+      <trkpt lat="9.003554" lon="-79.529461">
+        <ele>36.00</ele>
+        <time>2013-04-22T23:47:16Z</time>
+      </trkpt>
+      <trkpt lat="9.003545" lon="-79.529467">
+        <ele>36.00</ele>
+        <time>2013-04-22T23:47:18Z</time>
+      </trkpt>
+      <trkpt lat="9.003524" lon="-79.529478">
+        <ele>36.00</ele>
+        <time>2013-04-22T23:47:21Z</time>
+      </trkpt>
+      <trkpt lat="9.003506" lon="-79.529494">
+        <ele>36.00</ele>
+        <time>2013-04-22T23:47:23Z</time>
+      </trkpt>
+      <trkpt lat="9.003497" lon="-79.529514">
+        <ele>36.00</ele>
+        <time>2013-04-22T23:47:25Z</time>
+      </trkpt>
+      <trkpt lat="9.003508" lon="-79.529522">
+        <ele>36.00</ele>
+        <time>2013-04-22T23:47:27Z</time>
+      </trkpt>
+      <trkpt lat="9.003523" lon="-79.529502">
+        <ele>36.00</ele>
+        <time>2013-04-22T23:47:29Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
