@@ -1,7 +1,8 @@
 ---
 date: '2026-07-15T08:48:03-05:00'
-draft: false
 title: 'Cambio a Hugo Content'
+cover:
+  image: /wp-content/uploads/gallery_backup/go-hugo-io.png
 author: Rompy
 ---
 Después de más de 20 años usando WordPress he cambiado a [Hugo](https:gohugo.io). WordPress me sirvio

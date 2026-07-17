@@ -17,7 +17,6 @@ categories:
 cover:
   image: "/wp-content/uploads/2026/04/20260426_102433-scaled.jpg"
 date: "2026-04-28T10:18:52+00:00"
-draft: "false"
 guid: http://localhost/?p=7000
 parent_post_id: null
 post_id: "7000"

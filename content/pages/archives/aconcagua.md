@@ -29,7 +29,7 @@ categories:
   - "Caminatas"
   - "General"
 ---
-# ![Cumbre de Aconcagua](/wp-content/uploads/gallery_backup/aconcagua-cumbre.jpg)
+![Cumbre de Aconcagua](/wp-content/uploads/gallery_backup/aconcagua-cumbre.jpg)
 
 Este viaje al Aconcagua es producto de un sueño que nació hace casi 30 años atrás, mientras estaba en la escuela. En esos días me enteré que había una montaña casi tan alta como el Everest, pero que estaba en nuestro propio continente. En ese momento decidí que algún día iría a subir esa montaña, sin pensar en todo lo que involucraría llegar a ese momento.
 
