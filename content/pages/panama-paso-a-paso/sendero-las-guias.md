@@ -22,7 +22,7 @@ parent_post_id: "3119"
 post_id: "3927"
 title: Sendero Las Guías
 url: /archives/panama-paso-a-paso/sendero-las-guias
-
+weight: 0280
 ---
 {{< figure align="alignleft" width=150 src="/wp-content/uploads/gallery_backup/P9170044.jpg" alt="" caption="" >}}
 

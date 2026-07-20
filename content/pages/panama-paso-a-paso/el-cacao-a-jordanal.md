@@ -24,7 +24,7 @@ parent_post_id: "3119"
 post_id: "3594"
 title: El Cacao a Jordanal
 url: /archives/panama-paso-a-paso/el-cacao-a-jordanal
-
+weight: 0160
 ---
 {{< figure align="alignleft" width=150 src="/wp-content/uploads/gallery_backup/P5220029.jpg" alt="" caption="" >}}
 

@@ -22,7 +22,7 @@ parent_post_id: "3119"
 post_id: "3737"
 title: Caminando a San Blas
 url: /archives/panama-paso-a-paso/caminando-a-san-blas
-
+weight: 0200
 ---
 San Blas está accesible a pie por muchas rutas. Una sencilla es la ruta del Río Cangandí. Este río tiene su cabecera al otro lado de la división continental opuesta a la cabecera del Río Mamoní. Ambos río fluyen paralelos hacia el este antes que el Cangandí gire hacia el norte para salir al Caribe y el Mamoní gire al sur para salir al Pacífico. Desde San José de Madroño se puede cruzar la división continental y llegar a San Blas en menos de una hora caminando (unos tres kilómetros). Los Kuna han mantenido intacto gran parte de sus bosques. La diferencia es evidente en esta caminata.
 

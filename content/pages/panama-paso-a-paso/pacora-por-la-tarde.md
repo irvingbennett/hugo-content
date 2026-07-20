@@ -22,7 +22,7 @@ parent_post_id: "3119"
 post_id: "3587"
 title: Pacora Por La Tarde
 url: /archives/panama-paso-a-paso/pacora-por-la-tarde
-
+weight: 0150
 ---
 [![](/wp-content/uploads/2017/05/DSCN2644.jpg)](//wp-content/uploads/2017/05/DSCN2644.jpg) Este es un cambio pequeño en el tren de entregas, pero no puedo pasar por el alto el Río Pacora como destino para remar por que sería perder una gran oportunidad por lo cercano que queda, y por lo diverso de sus posibilidades. Es un gran río para aprender a remar, y tiene buenos retos para cuando uno va desarrollándose como botero. Mi hijo Irving aprendió a remar en ese río junto con Martín, el hijo de mi amigo Joaquín. Hay varias pozas donde se puede pasar una tarde tranquila a la orilla del río mientras los niños prueban los botes.
 

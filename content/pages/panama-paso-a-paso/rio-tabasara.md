@@ -22,7 +22,7 @@ parent_post_id: "3119"
 post_id: "3803"
 title: Río Tabasará
 url: /archives/panama-paso-a-paso/rio-tabasara
-
+weight: 0220
 ---
 [![](/wp-content/uploads/2017/06/DSC01849-150x150.jpg)](//wp-content/uploads/2017/06/DSC01849.jpg) El Río Tabasará, después de la unión con el Río Viguí (justo abajo de la Vía Interamericana), divide las provincias de Chiriquí y Veraguas. Hasta llegar a Puerto Vidal, 26.4km más tarde, no tiene ninguna otra vía de acceso. Este es un recorrido remoto a través de un cañón cortado por este río entre las montañas. La entrada al río es por la Interamericana y la salida es por Puerto Vidal, ambas justo en los puentes que cruzan el río. El recorrido entero está cerca de las nueve horas y lo ideal es partirlo en dos días con una acampada a orillas del río.
 

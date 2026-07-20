@@ -22,7 +22,7 @@ parent_post_id: "3119"
 post_id: "3940"
 title: La Silla
 url: /archives/panama-paso-a-paso/la-silla
-
+weight: 0290
 ---
 {{< figure align="alignleft" width=150 src="/wp-content/uploads/gallery_backup/DSCN3690.jpg" alt="" caption="" >}}
 

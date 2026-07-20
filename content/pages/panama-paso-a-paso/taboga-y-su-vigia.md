@@ -22,7 +22,7 @@ parent_post_id: "3119"
 post_id: "3867"
 title: Taboga y su Vigía
 url: /archives/panama-paso-a-paso/taboga-y-su-vigia
-
+weight: 0250
 ---
 [![](/wp-content/uploads/2017/07/IMG-20150329-WA0014-150x150.jpg)](//wp-content/uploads/2017/07/IMG-20150329-WA0014.jpg) El Cerro Vigía cuida la isla Taboga desde sus 307 metros de altura y desde allá arriba se puede ver nuestra ciudad de Panamá desde una perspectiva única. La mayoría de la gente que sube al Cerro Vigía lo hace por la calle que lleva al [radiofaro omnidireccional VHF](https://es.wikipedia.org/wiki/Radiofaro_omnidireccional_VHF) que está allá arriba para ayudar a los aviones que vienen a Panamá. La manera más agradable de subir es por el Sendero de Las Tres Cruces que sale directamente desde el pueblo de Taboga y va directo al Vigía por un camino sombreado muy agradable que mide unos 3kms.
 

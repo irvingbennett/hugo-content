@@ -22,7 +22,7 @@ parent_post_id: "3119"
 post_id: "4432"
 title: Río Grande Alto
 url: /archives/panama-paso-a-paso/rio-grande-alto
-
+weight: 0380
 ---
 [![](/wp-content/uploads/2017/10/P9250036-MOTION.gif)](//wp-content/uploads/2017/10/P9250036-MOTION.gif) Mi editora cambió de "emocionante" a "Extreme!" la entrada anterior sobre la parte media del Río Grande. Ahora no tengo como calificar la parte alta del Río Grande pero es la más difícil de todas las secciones. Tiene, por lo menos tres chorros grandes, varios cañones, y muchos jardines de piedra. Esta sección inicia en La Sabana y termina en Ojo de Agua, el principio del tramo del medio. Por la naturaleza de la cama del río, esta sección es angosta y profunda, con buenas corrientes, y cubierta de árboles. En algunos tramos es hasta oscura cuando pasa por cañones cubiertos por el dosel del bosque.
 

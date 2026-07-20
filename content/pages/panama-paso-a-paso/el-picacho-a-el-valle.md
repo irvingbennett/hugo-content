@@ -22,7 +22,7 @@ parent_post_id: "3119"
 post_id: "4452"
 title: El Picacho a El Valle
 url: /archives/panama-paso-a-paso/el-picacho-a-el-valle
-
+weight: 0390
 ---
 {{< figure align="aligncenter" width=1000 src="/wp-content/uploads/gallery_backup/P3011040.jpg" alt="" caption="" >}}
 

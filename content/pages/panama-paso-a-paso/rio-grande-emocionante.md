@@ -22,7 +22,7 @@ parent_post_id: "3119"
 post_id: "4404"
 title: Río Grande Emocionante
 url: /archives/panama-paso-a-paso/rio-grande-emocionante
-
+weight: 0370
 ---
 [![](/wp-content/uploads/2017/10/P3081151-1024x768.jpg)](//wp-content/uploads/2017/10/P3081151.jpg) La sección media del Río Grande es una remada emocionante y solamente apta para remadores sólidos o intrépidos, pero esto realmente depende del volumen del río al momento de bajarlo. El Tramo de Ojo de Agua a Piedra Amarilla tiene poco más de 12kms y termina donde inicia el siguiente tramo que ya cubrimos anteriormente. La bajada del río va subiendo en intensidad poco a poco hasta entrar en el cañón del Río Grande donde vienen varios kilómetros de rápidos clase III sólidos que requieren remar vigorosamente para salir adelante con la frente en alto. De lo contrario, van a nadar detrás de su equipo hasta donde puedan recogerlo.
 

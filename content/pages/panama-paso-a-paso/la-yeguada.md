@@ -22,7 +22,7 @@ parent_post_id: "3119"
 post_id: "3853"
 title: La Yeguada
 url: /archives/panama-paso-a-paso/la-yeguada
-
+weight: 0260
 ---
 [![](/wp-content/uploads/2017/07/P4170675-150x150.jpg)](//wp-content/uploads/2017/07/P4170675.jpg) La Yeguada es uno de los destinos favoritos nuestros para acampar con la familia y amigos. Puede que llevemos más de 20 años visitando este hermoso lugar de Panamá que ahora está tan accesible porque la carretera la han asfaltado desde Calobre hasta Chitra, pasando por La Yeguada. Para la mayoría de los que visitamos La Yeguada, acampar entre los pinos al lado de la laguna es toda la motivación necesaria para hacer el viaje. Pero nosotros siempre buscamos más cosas que hacer y llevamos botes para remar, bicicletas para pedalear, y zapatillas para correr.
 

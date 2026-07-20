@@ -22,7 +22,7 @@ parent_post_id: "3119"
 post_id: "3904"
 title: Boquerón Arriba a Remo
 url: /archives/panama-paso-a-paso/boqueron-arriba-a-remo
-
+weight: 0270
 ---
 {{< figure align="alignleft" width=150 src="/wp-content/uploads/gallery_backup/PA253646.jpg" alt="" caption="" >}}
 

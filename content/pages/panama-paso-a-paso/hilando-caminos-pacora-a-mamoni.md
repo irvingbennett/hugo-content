@@ -22,7 +22,7 @@ parent_post_id: "3119"
 post_id: "3448"
 title: 'Hilando Caminos: Pacora a Mamoní'
 url: /archives/panama-paso-a-paso/hilando-caminos-pacora-a-mamoni
-
+weight: 0130
 ---
 Hoy día tenemos un circuito de 60 kilómetros que parte de La Taberna del Río en San Miguel, baja por el Río Pacora hasta Carriazo, sube por Río Indio hasta Corpus Cristi, pasa al Río Mamoní, sube hacia Madroñon, sigue por Mamoní Arriba, y luego cruza las Montañuelas de Tapagra para caer en La Chapa y regresar a San Miguel. Obviamente que el recorrido siempre ha estado ahí desde hace muchos años. Yo no lo conocía. Sabía de los recorridos por Pacora y Río Indio, del recorrido por el Río Mamoní, y sabía que se juntaban por la cabecera del Mamoní.
 

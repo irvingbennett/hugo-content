@@ -9,10 +9,10 @@ _jetpack_related_posts_cache:
       - id: 1949
 _thumbnail_id: "1793"
 author: Rompy
+cover:
+  image: /wp-content/uploads/gallery_backup/perspectiva-50km.jpg
 categories:
   - "Correr"
-cover:
-  image: "/wp-content/uploads/2011/09/perspectiva-50km.jpg"
 date: "2011-09-09T13:15:01+00:00"
 guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=1792
 parent_post_id: null
@@ -22,8 +22,6 @@ url: /2011/09/09/el-valle-50km
 wpb_post_views_count: "10"
 
 ---
-\[caption id="attachment\_1793" align="aligncenter" width="584" caption="Perspectiva 50km"\] [![Perspectiva 50km](/wp-content/uploads/2011/09/perspectiva-50km-1024x538.jpg)](//wp-content/uploads/2011/09/perspectiva-50km.jpg)\[/caption\]
-
 Este domingo me toca tomar de mi propio chocolate: El Valle Trail Race 50km. Ahora mismo es un poco tarde, pero estoy experimentando preocupaciones al respecto. He tomado muy a la ligera esta carrera, corriendo solamente los fines de semana marcando y revisando el recorrido, y en el Hash los lunes. Por supuesto, ahora estoy preocupado. No de terminar, caminando llego, pero quiero hacer 8 horas. Ese es el mismo tiempo que hice el año anterior en 45 kilómetros.
 
 El año pasado, con todo y que la carrera era exigente, el desnivel total era solamente 1,890 metros, y la pendiente promedio era 7%. Este año el desnivel es de 2,188 metros y la pendiente promedio es de 8%. Entonces, razonablemente, no veo por qué pretender hacer el mismo tiempo este año en una carrera más larga y más difícil que la del año anterior. Pero yo creo que el trayecto de este año permite correr más que el recorrido del año anterior. Este año hay pocos tramos tan técnicos como los del 2010, y por eso tengo que hacer mejor tiempo. En parte mi predicción la baso en Miwok 100.

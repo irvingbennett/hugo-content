@@ -22,9 +22,11 @@ url: /2012/11/07/caminando-con-hijos
 wpb_post_views_count: "25"
 
 ---
-[![](/wp-content/uploads/gallery_backup/DSCN2475.jpg) "Jason Post"). Por si acaso llevaba hamacas para dormir si nos llovía mucho.
 
-En algún momento después que Adrian y Cristina se regresaron, ya en la parte de atrás de La India Dormida, debo haber girado mal en alguna de tantas divisiones de caminos que encontrábamos. Sabía que estaba fuera de la ruta pero pensaba que iba a poder empatar los caminos para llegar a la [![](/wp-content/uploads/2012/11/DSCN2513-150x150.jpg)](//wp-content/uploads/2012/11/DSCN2513.jpg) roca que tenía en mente para dormir. Estaba equivocado, el camino que seguíamos se nos cerró. Encima, esta lloviendo a cántaros. Por suerte los niños estaban felices con la aventura abriendo camino a través de la paja.
+![Imágen de Partida](/wp-content/uploads/gallery_backup/DSCN2475.JPG)
+Este fin de semana me fui a caminar con mis hijos Irving y Laura, y mi sobrino Juan Diego. Adrian Benedetti y su esposa Cristina, con su labrador Lucy,  nos acompañaron por unas horas y luego regresaron. El plan era simple: ir a dormir a unas rocas que hay detrás de la India Dormida, como a unos 5km de nuestra casa. La idea era dormir debajo de la roca más grande que hace una [buena cueva](/wp-content/uploads/gallery_backup/DSCN2150.jpg "Jason Post"). Por si acaso llevaba hamacas para dormir si nos llovía mucho.
+![Camino cerrado](/wp-content/uploads/gallery_backup/DSCN2513.jpg)
+En algún momento después que Adrian y Cristina se regresaron, ya en la parte de atrás de La India Dormida, debo haber girado mal en alguna de tantas divisiones de caminos que encontrábamos. Sabía que estaba fuera de la ruta pero pensaba que iba a poder empatar los caminos para llegar a la roca que tenía en mente para dormir. Estaba equivocado, el camino que seguíamos se nos cerró. Encima, esta lloviendo a cántaros. Por suerte los niños estaban felices con la aventura abriendo camino a través de la paja.
 
 Eventualmente encontramos un camino que bajaba por un filo y que podía ver que eventualmente nos llevaría a una unión de dos ríos. Ya se estaba oscureciendo y los niños se preguntaban que pasaría si se iba la luz. Yo les dije que teníamos linternas y con eso podríamos seguir el camino sin problema. Irving estaba algo preocupado de que este camino también se fuera a cerrar. De mis dos hijos, Irving es el que se preocupa por todo.  Laura va por la vida gozando el momento. Después de una rato, ya de noche, mojados y con frío, la realidad de la situación fue cayendo sobre los chiquitos.
 

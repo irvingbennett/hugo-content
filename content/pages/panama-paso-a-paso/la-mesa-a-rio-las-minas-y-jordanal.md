@@ -17,7 +17,7 @@ parent_post_id: "3119"
 post_id: "3143"
 title: La Mesa a Río Las Minas y Jordanal
 url: /archives/panama-paso-a-paso/la-mesa-a-rio-las-minas-y-jordanal
-
+weight: 0030
 ---
 {{< figure align="aligncenter" width=840 src="/wp-content/uploads/gallery_backup/P1160116.jpg" alt="" caption="" >}}
 

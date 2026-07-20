@@ -8,6 +8,8 @@ _jetpack_related_posts_cache:
       - id: 1374
       - id: 463
 author: Rompy
+cover:
+  image: /wp-content/uploads/2010/01/P1160235-e1264612976401.jpg
 categories:
   - "Caminatas"
 date: "2010-01-27T17:11:24+00:00"
@@ -21,7 +23,7 @@ url: /2010/01/27/caminando-con-los-hijos
 wpb_post_views_count: "10"
 
 ---
-Este fin de semana que pasó hicimos una caminata a [Boca de Las Minas](/wp-content/uploads/gallery_backup/ "Albúm Boca de Las Minas") con los hijos, Saúl con su hijo Saulo, René con sus hijos René y Raúl, Lorena y yo con nuestros hijos Irving y Laura, y Darío, un compañero de trabajo de René. El plan era sencillo: una caminata corta a un lugar agradable donde los niños la pasaran bien. Afortunadamente el paseo resulto exitoso. Por suerte René (Tato) se trajo un par de caballos que salvaron el día: mi hija Laura, de siete años, adora los caballos y se la pasó arriba de uno de los caballos, o caminando con las riendas del caballo (sin acordarse que se estaba cansando). Irving (9 años), René (9 años) y Raúl (7 años) se la pasaron hablando sin parar mientras caminaban.
+Este fin de semana que pasó hicimos una caminata a [Boca de Las Minas](https://photos.app.goo.gl/jL6QmoR2TvTiCXeH7 "Albúm Boca de Las Minas") con los hijos, Saúl con su hijo Saulo, René con sus hijos René y Raúl, Lorena y yo con nuestros hijos Irving y Laura, y Darío, un compañero de trabajo de René. El plan era sencillo: una caminata corta a un lugar agradable donde los niños la pasaran bien. Afortunadamente el paseo resulto exitoso. Por suerte René (Tato) se trajo un par de caballos que salvaron el día: mi hija Laura, de siete años, adora los caballos y se la pasó arriba de uno de los caballos, o caminando con las riendas del caballo (sin acordarse que se estaba cansando). Irving (9 años), René (9 años) y Raúl (7 años) se la pasaron hablando sin parar mientras caminaban.
 
 Gracias a los caballos los niños iban sin nada encima. Al principio todos comenzaron con sus mochilas, pero pronto se fueron despojando de ellas y pasándolas a los caballos. Yo iba un poco más cargado de lo que normalmente me gusta llevar encima, pero tocaba. Caminamos desde La Mesa hasta el Río Las Minas y allí nos bañamos por un buen rato en una charca muy agradable. Luego caminamos un poco más hasta llegar al poblado de Boca de Las Minas, cerca de donde pasamos la noche al lado del Río Las Minas. Irving y Lorena durmieron en una hamaca, y Laura Elena durmió conmigo en otra hamaca. Ya pronto ordenó hamacas para los niños. No se duerme tan cómodo acompañado de un niño dentro de una hamaca.
 

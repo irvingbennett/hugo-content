@@ -24,7 +24,7 @@ url: /2011/03/25/el-valle-trail-race-2011
 wpb_post_views_count: "15"
 
 ---
-\[caption id="attachment\_1500" align="alignleft" width="225" caption="El Valle Trail Race 2011"\] [![](/wp-content/uploads/2011/03/El_Valle_Trail_Race-2011-225x300.jpg)](//wp-content/uploads/2011/03/El_Valle_Trail_Race-2011.jpg)\[/caption\]
+![](//wp-content/uploads/2011/03/El_Valle_Trail_Race-2011.jpg)
 
 Hoy apareció un comentario de Carlitos anunciando la fecha para [El Valle Trail Race 2011](http://elvalletrailrace.org "El Valle Trail Race 2011"): septiembre 4. La fecha es fija, y la distancia planeada es 50km. ¡Me parece excelente! Es lo único que se hasta ahora. Tengo una buena idea para alargar la última versión de la carrera para hacerla de 50km, corriendo de \[link id='1043' text='La India Dormida'\] hacia \[link id='1411' text='Altos de La Estancia'\] por un sendero excelente. Este tramo inclusive permite que los corredores se encuentren y se crucen, ofreciendo algo de información y motivación a los que vienen detrás de los corredores que van de regreso.
 

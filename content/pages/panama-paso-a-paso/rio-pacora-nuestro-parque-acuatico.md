@@ -22,7 +22,7 @@ parent_post_id: "3119"
 post_id: "4464"
 title: Río Pacora - Nuestro Parque Acuático
 url: /archives/panama-paso-a-paso/rio-pacora-nuestro-parque-acuatico
-
+weight: 0400
 ---
 [![](/wp-content/uploads/2017/11/Slide-Iann-Hi-res-1024x695.jpg)](//wp-content/uploads/2017/11/Slide-Iann-Hi-res.jpg) El Río Pacora es una excelente remada que tenemos a la vuelta de la esquina a solo una hora de la ciudad. De La Chapa a Caña Blanca son 10 kilómetros que se pueden remar en unas 4 horas sin apuro. Pero en todo ese recorrido hay muchas variantes que permiten acortar la remada dependiendo de como esté el río y el grupo de remadores que estén participando y su experiencia. Este tramo del río ofrece buenos retos sin que sea más peligroso de lo necesario, diversión y emoción sin mayores riesgos. Creo que en esta sección del río es donde más han aprendido a remar mis amigos y sobrinos.
 

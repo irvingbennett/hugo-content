@@ -22,12 +22,9 @@ parent_post_id: null
 post_id: "252"
 seo_follow: "false"
 seo_noindex: "false"
-summary: |-
-  \[caption id="attachment\_1592" align="alignleft" width="300" caption="Camino Real 2008"\] [![Camino Real 2008](http://localhost//wp-content/uploads/2008/02/P2180119-300x225.jpg)](http://localhost//wp-content/uploads/2008/02/P2180119.jpg)\[/caption\]
+summary: |
+   Ayer regresamos de nuestro recorrido por El  a Boquerón Arriba. Jordi y yo estábamos acompañando a Jesus Luna (jefe de campamento) y a Andrés Ciudad (sub-director) de La Ruta Quetzal 2008. Nos acompañó el legendario Luis Puleio, especialista de supervivencia en la selva de las antiguas Fuerzas de Defensa de Panamá. Además venían Yaser y Juan Carlos de SINAPROC. Hicimos nuestro recorrido habitual del Camino Real desde el punto hasta donde llega el auto por el lado de Nombre de Dios hasta Boquerón arriba.
 
-  Ayer regresamos de nuestro recorrido por El  a Boquerón Arriba. Jordi y yo estábamos acompañando a Jesus Luna (jefe de campamento) y a Andrés Ciudad (sub-director) de La Ruta Quetzal 2008. Nos acompañó el legendario Luis Puleio, especialista de supervivencia en la selva de las antiguas Fuerzas de Defensa de Panamá. Además venían Yaser y Juan Carlos de SINAPROC. Hicimos nuestro recorrido habitual del Camino Real desde el punto hasta donde llega el auto por el lado de Nombre de Dios hasta Boquerón arriba.
-
-  Después de 18 años de estar haciendo este recorrido, no me sorprende mucho de lo que pueda encontrarme en el camino. Pero esta vez vi algo que nunca pensé que se daría en esta ruta. Un tractor había entrado por el río Nombre de Dios casi hasta Brazo de Cedro, acomodando la cama del río para poder entrar en un buen 4x4 hasta una finca que está como 5 kilómetros río arriba. Lo peor de esta destrucción indiscriminada es que había acomodado los bancos de los ríos para hacer posible el fácil tránsito, destruyendo playones y pozas que eran de los lugares más atractivos del río Nombre de Dios. Encima de esto, todavía vimos más tala y quema de bosque, también cerca de Brazo de Cedro. ¡Este tractor ha destruído propiedad pública sin reparo alguno!
 tags:
   - travesias
 title: Camino Real 2008
@@ -35,8 +32,6 @@ url: /2008/02/19/camino-real-2008
 wpb_post_views_count: "10"
 
 ---
-\[caption id="attachment\_1592" align="alignleft" width="300" caption="Camino Real 2008"\] [![Camino Real 2008](/wp-content/uploads/2008/02/P2180119-300x225.jpg)](//wp-content/uploads/2008/02/P2180119.jpg)\[/caption\]
-
 Ayer regresamos de nuestro recorrido por El  a Boquerón Arriba. Jordi y yo estábamos acompañando a Jesus Luna (jefe de campamento) y a Andrés Ciudad (sub-director) de La Ruta Quetzal 2008. Nos acompañó el legendario Luis Puleio, especialista de supervivencia en la selva de las antiguas Fuerzas de Defensa de Panamá. Además venían Yaser y Juan Carlos de SINAPROC. Hicimos nuestro recorrido habitual del Camino Real desde el punto hasta donde llega el auto por el lado de Nombre de Dios hasta Boquerón arriba.
 
 Después de 18 años de estar haciendo este recorrido, no me sorprende mucho de lo que pueda encontrarme en el camino. Pero esta vez vi algo que nunca pensé que se daría en esta ruta. Un tractor había entrado por el río Nombre de Dios casi hasta Brazo de Cedro, acomodando la cama del río para poder entrar en un buen 4x4 hasta una finca que está como 5 kilómetros río arriba. Lo peor de esta destrucción indiscriminada es que había acomodado los bancos de los ríos para hacer posible el fácil tránsito, destruyendo playones y pozas que eran de los lugares más atractivos del río Nombre de Dios. Encima de esto, todavía vimos más tala y quema de bosque, también cerca de Brazo de Cedro. ¡Este tractor ha destruído propiedad pública sin reparo alguno!
@@ -52,3 +47,5 @@ En un recodo donde siempre paramos a darnos una refrescada, uno monos cariblanco
 Cuando llegamos a Santa Librada ya Yaser venía tan mal que no nos quedó otra que decirle que tenían que llegar por su cuenta a Boquerón Arriba. Esperamos una hora a que nos alcanzaran: le había tomado 2:30 hacer el recorrido que a nosotros nos tomó hora y media. Como ya estábamos en el camino principal, sabíamos que ellos llegarían tarde pero seguros al encuentro con su vehículo. Además, después vimos que ya están arreglando el camino y que los carros pueden llegar mucho más cerca de Santa Librada.
 
 Después de ver el estado de los dos extremos del Camino Real, es obvio que si no se protege por medio de alguna ley o proyecto especial, pronto este sendero perderá gran parte de su atractivo. Tenemos un sendero histórico, el primer sendero transístmico de América, y lo hemos estado dejando perderse en el abandono desde hace unos 150 años atrás, cuando el ferrocarril de Panamá le quito la ventaja y la fiebre del oro hizo atractivo el precio del cruce en tren a travéz del Istmo de Panamá. Ojalá despertaran las autoridades que están encargadas de salvaguardar nuestro patrimonio histórico y los recursos naturales. A pesar que este sendero está parcialmente dentro del Parque Nacional Chagres, no recibe ningún tipo de protección. El gobierno no ha contado con recursos para brindar ningún tipo de amparo a este importante sendero.
+
+Fotos de la caminata: https://photos.app.goo.gl/RAMkFffMh95TLNddA

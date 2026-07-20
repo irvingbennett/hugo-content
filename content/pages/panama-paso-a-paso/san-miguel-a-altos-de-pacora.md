@@ -23,7 +23,7 @@ parent_post_id: "3119"
 post_id: "3418"
 title: San Miguel a Altos de Pacora
 url: /archives/panama-paso-a-paso/san-miguel-a-altos-de-pacora
-
+weight: 0120
 ---
 El Río Pacora nace en Altos de Pacora, arriba de Cerro Azul, en las faldas de Cerro Jefe. Este río primero fluye hacia el este hasta chocarse con las Montañuelas de Tapagra que dividen su cuenca de la cuenca del Río Mamoní. Mucha gente goza de los balnearios que hay en sus orillas cuando ya el río está mas cerca del mar, pero no tanta gente sube hasta San Miguel, y más arriba, para gozar de todos los atractivos de esta área. A nosotros nos llevaban desde jóvenes al Río Pacora en un viaje de horas largas por un camino de canto rodado que terminaba en San Miguel. Ahora se puede llegar a San Miguel (son 60 kilómetros desde el centro de la ciudad de Panamá) en hora y media por una carretera asfaltada y en excelente estado.
 

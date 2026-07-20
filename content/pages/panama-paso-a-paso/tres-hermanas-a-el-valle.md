@@ -26,6 +26,7 @@ url: /archives/panama-paso-a-paso/tres-hermanas-a-el-valle
 
 categories:
   - "Caminatas"
+weight: 0040
 ---
 {{< figure align="aligncenter"  src="/wp-content/uploads/gallery_backup/p9193334.jpeg" alt="" caption="" >}}
 

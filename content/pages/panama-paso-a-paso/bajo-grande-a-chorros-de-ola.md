@@ -23,7 +23,7 @@ parent_post_id: "3119"
 post_id: "3264"
 title: Bajo Grande a Chorros de Olá
 url: /archives/panama-paso-a-paso/bajo-grande-a-chorros-de-ola
-
+weight: 0090
 ---
 Esta ruta es conocida como "El Sendero de Las Brujas" pero todavía no hemos visto ninguna. Esta es una ruta con unas vistas expansivas y espectaculares que parte de Bajo Grande, después de El Copé y termina en Los Chorros de Olá, una cascada inmensa que se puede ver desde la Vía Interamericana si saben hacia donde fijar la mirada. Esta ruta tiene una gran trepada hasta Cerro Golondrina, pasando por 1,000 metros de altura y luego una larga bajada hasta Los Chorros de Olá. Hay muchos lugares donde dormir, pero la selección puede ser limitada en el verano porque no hay muchos para acampar con agua.
 

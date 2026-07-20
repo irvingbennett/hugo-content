@@ -23,7 +23,7 @@ post_id: "7000"
 tags:
   - travesias
 title: Río Boquerón 2026
-url: /
+url: /2026/04/28/rio-boqueron-2026
 
 ---
 Este fin de semana caminamos a la poza del Longué en el Río Boquerón. Fuimos un buen grupo, 16 caminantes, con una composición variada. Eramos nueve hombres y siete mujeres, casi mitad y mitad. Esta caminata la gestionó Irving y logró un buen quorum. Todavía fuimos más los viejos, pero vino un buen contingente de jóvenes. Un cuarto de los caminantes eran neófitos totales, venían a su primera caminata: Sofía (amiga de Laura), José (amigo de Irving), Maxi y Luz (amigos corredores) nunca habían hecho una caminata, y menos por el bosque. Todos se portaron a la altura y quedaron apuntados para la próxima aventura.

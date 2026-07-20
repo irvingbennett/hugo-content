@@ -22,7 +22,7 @@ parent_post_id: "3119"
 post_id: "4392"
 title: Canán a Puerto Limón
 url: /archives/panama-paso-a-paso/canan-a-puerto-limon
-
+weight: 0360
 ---
 ![](/wp-content/uploads/2017/09/PICT0608.jpg) 
 
@@ -36,4 +36,5 @@ En Canán hay que aprovechar el tiempo viendo y comprando artesanías directamen
 
 El viaje en bote permite observar las grandes aves que habitan la orilla del Membrillo y el Chucunaque. Generalmente se pueden observar [jabirús](https://es.wikipedia.org/wiki/Jabiru_mycteria), la gran [garza azulada](https://es.wikipedia.org/wiki/Ardea_herodias), el pato aguja (parecido al paticuervo, que también se observa en el viaje), y, por supuesto, las cigüeñas. Todas estas aves son muy comunes en los grandes ríos de Panamá pero no se ven tan fácilmente como en los ríos de Darién. Si todavía no los han espantado otro botes es muy común ver lagartos asoleándose. Toda esta fauna es parte del premio de haber cruzado Darién caminando, pero también se puede hacer el viaje al revés solamente hasta Canán con el expreso propósito de visitar a los indígenas y gozar de la observación de aves.
 
-![](/wp-content/uploads/2017/10/Canán-PuertoLimón.jpg) Ruta en Wikiloc: [https://es.wikiloc.com/wikiloc/view.do?id=20222381](https://es.wikiloc.com/wikiloc/view.do) Fotos: [TransDarien](https://drive.google.com/drive/folders/0B9Lo7PLtA7BXcnBMajlrZHRtLXc)
+![](/wp-content/uploads/2017/10/Canán-PuertoLimón.jpg) 
+Ruta en Wikiloc: [https://es.wikiloc.com/wikiloc/view.do?id=20222381](https://es.wikiloc.com/wikiloc/view.do) Fotos: [TransDarien](https://photos.app.goo.gl/f4PQTkeLJzpVQk1T6)

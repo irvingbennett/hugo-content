@@ -11,8 +11,6 @@ author: Rompy
 categories:
   - "General"
 date: "2008-03-28T12:27:04+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=269
-parent_post_id: null
 post_id: "269"
 summary: Recientemente han habido apagones frecuentes en la ciudad. Cada uno de estos apagones han sucedido cuando estoy lejos del servidor que aloja esta página. En cada una de esas instancias, después que se ha agotado la batería del servidor, se ha apagado automáticamente. No hay ningún problema con eso, pero el servidor se ha quedado apagado hasta que pueda volver a encenderlo. Además de esto, los servidores de correo del resto del mundo han estado quejándose de que este servidor esta ubicado dentro de una sección de IPs residenciales y me están rebotando el correo. Por último, ya he pasado (hace tiempo ahora mismo) por varias instancias en las que he tenido fallos mecánicos del disco duro y lo he tenido que cambiar.
 title: Servidores Virtuales
@@ -28,4 +26,6 @@ Estoy considerando cortarle la corriente a mi servidor después de mudar todo su
 
 Yo creo que puedo ahorrarme tiempo y dinero con uno de estos dos planes. El problema sería quitarme el hábito de estar atendiendo mi servidor. Todos los días le dedico unos minutos para ver como está funcionando todo. Tendría menos preocupaciones sabiendo que mis sistemas están alojados en un sitio que es casi a prueba de holocaustos nucleares. La parte que tengo que decidir es realmente que es lo que me atrae a este tema. ¿Los sitios web por su contenido? ¿Jugar con nuevas tecnologías? ¿O trabajar con el equipo (hardware)?
 
-La barrera para lograr el cambio a un servidor completamente virtual es todo el trabajo que conlleva migrar los múltiples sistemas y servidores que ya tengo funcionando desde hace ratos en este equipo casero. ¿Cuanto tiempo me tomará migrar [9,000+ fotos](/gallery) a un servidor virtual? Si no logro apagar mi servidor, no voy a poder conseguir un ahorro energético en mi cuenta mensual de electricidad.
+La barrera para lograr el cambio a un servidor completamente virtual es todo el trabajo que conlleva migrar los múltiples sistemas y servidores que ya tengo funcionando desde hace ratos en este equipo casero. ¿Cuanto tiempo me tomará migrar 9,000+ fotos a un servidor virtual? Si no logro apagar mi servidor, no voy a poder conseguir un ahorro energético en mi cuenta mensual de electricidad.
+
+**N.B.:** Moví mi servidor a Media Temple y ahí se quedó por años hasta que GoDaddy compró esa empresa. Luego me tocó mudarme a una cantdad de hospedajes, incluyendo a GoDaddy hasta que decidí mudar todo a Cloudflre y dejar WordPress. atrás para siempre. Ahora estos escritos están todos en HTML y no hay ningún servidor dinámico detrás de todo esto. La galería de fotos que usaba dejó de existir y mudé todas mis fotos a Google Fotos. Las 9,000 fotos de la galería han llegado a 120,000 fotos en Google Fotos en el 2026.

@@ -29,8 +29,6 @@ url: /2010/12/07/camino-a-western-states-100
 wpb_post_views_count: "11"
 
 ---
-\[caption id="attachment\_1340" align="aligncenter" width="448" caption="Western States 100"\] [![Mapa de la carrera](/wp-content/uploads/2010/12/wstrailgraphic-1024x671.jpg)](//wp-content/uploads/2010/12/wstrailgraphic.jpg)\[/caption\]
-
 ¡Es oficial! He salido, por suerte, premiado en la lotería con una posición en la linea de partida para el Western States 100 para junio 25 del 2011. Tenía a Leadville 100 de respaldo por si esto no sucedía. Ahora la primera meta del 2011 esta claramente definida: la icónica carrera de 100 millas, la más vieja de todas, la ultra de las ultras, Western States. El lema de la carrera es "100 millas, un día". Esa es la meta...
 
 Ya he probado que puedo terminar una carrera de 100 millas (161 kilómetros), ahora quiero medirme contra la marca de las 24 horas. Esto sube la barra un poco, especialmente para un viejo como yo, que voy a tener 50 años para la fecha de la carrera. Pero eso hace interesante la motivación para hacer la carrera. El premio, en este caso, es la hebilla de plata que dan al terminar en menos de 24 horas. Estoy claro que el peligro de buscar completar la carrera en menos de un día pone en peligro el poder terminar la carrera.

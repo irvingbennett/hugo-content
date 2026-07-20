@@ -19,7 +19,7 @@ parent_post_id: "3119"
 post_id: "4161"
 title: Camino del Oleoducto
 url: /archives/panama-paso-a-paso/camino-del-oleoducto
-
+weight: 0330
 ---
 {{< figure align="alignleft" width=150 src="/wp-content/uploads/gallery_backup/PB100013.jpg" alt="" caption="" >}}
 

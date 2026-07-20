@@ -5,7 +5,7 @@ cover:
   image: /wp-content/uploads/gallery_backup/go-hugo-io.png
 author: Rompy
 ---
-Después de más de 20 años usando WordPress he cambiado a [Hugo](https:gohugo.io). WordPress me sirvio
+Después de más de 20 años usando WordPress he cambiado a [Hugo](https://gohugo.io). WordPress me sirvio
 muy bien durante todo este tiempo pero ya me estaba cansando del tiempo y el costo de manejar ese 
 sistema. Yo lo tenía hospedado en GoDaddy (que es un desastre) después que ellos compraron 
 Media Temple donde tuve mi instalación por muchos años. Antes valía la pena pagar por un hospedaje

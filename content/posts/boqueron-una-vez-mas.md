@@ -8,6 +8,8 @@ _jetpack_related_posts_cache:
       - id: 252
       - id: 899
 author: Rompy
+cover:
+  image: "/wp-content/uploads/gallery_backup/PA150116.JPG"
 categories:
   - "Caminatas"
   - "General"
@@ -20,7 +22,7 @@ url: /2006/02/15/boqueron-una-vez-mas
 wpb_post_views_count: "16"
 
 ---
-![Boquerón](/wp-content/uploads/gallery_backup/boq029.miniatura.JPG)Un "El Camino Real"). Ya estoy planeando el de este año. Para mi, este es uno de los caminos de selva más atractivos que ofrece el Parque Nacional Chagres. La primera vez que lo caminé me tomo cuatro días hacerlo, y partí desde Nuevo Vigía en el Lago Alajuela. Cuando me bajé de la piragua encontré que había un camino que llegaba hasta el mismo lugar y que se podía recorrer en carro. Inmediatamente hice una nota para buscarlo en el mapa cuando terminara ese primer viaje. Eso fue en 1990 y con nosotros venía Michèle Labrut, autora del libro ["Getting to Know Panama"](http://www.google.com/search), quien había sido la gestora del viaje. Ella quería escribir una historia sobre piratas y el Camino Real.
+![Boquerón](/wp-content/uploads/gallery_backup/boq029.miniatura.JPG "El Camino Real") Ya estoy planeando Boquerón una vez más, el de este año. Para mí, este es uno de los caminos de selva más atractivos que ofrece el Parque Nacional Chagres. La primera vez que lo caminé me tomo cuatro días hacerlo, y partí desde Nuevo Vigía en el Lago Alajuela. Cuando me bajé de la piragua encontré que había un camino que llegaba hasta el mismo lugar y que se podía recorrer en carro. Inmediatamente hice una nota para buscarlo en el mapa cuando terminara ese primer viaje. Eso fue en 1990 y con nosotros venía Michèle Labrut, autora del libro ["Getting to Know Panama"](http://www.google.com/search), quien había sido la gestora del viaje. Ella quería escribir una historia sobre piratas y el Camino Real.
 
 Ese viaje fue una verdadera odisea, al igual que el próximo que le siguió. En esa ocasión el río se nos creció y tardamos horas tratando de avanzar por las orillas del río, abriendo nuestro camino a punta de machete. En ese viaje salimos un día tarde. Lo que acabó por retrasarnos fue que al salir del bosque nos encontramos con qué habían desmontado toda el área por donde teníamos que salir, siguiendo uno de los brazos del Río Nombre de Dios. Nos demoramos mucho tratando de avanzar por la maraña de arbustos que se había formado por encima de los árboles que habían tumbado. Esto se repitió por varios viajes: cada vez que llegaba al mismo lugar encontraba que los campesinos habían talado un poco más del bosque. Finalmente opté por siempre hacer el viaje desde Nombre de Dios hacia Panamá y evitar este anti-climax.
 
@@ -36,4 +38,5 @@ Este camino lo he hecho a través del año y siempre me ha ido bien. Los mejores
 
 Referencias:
 
-[http://wiki.alairelibre.net/wiki/CaminoReal](http://wiki.alairelibre.net/wiki/CaminoReal "El Camino Real") [/paseo/images.html](/paseo/images.html "Fotos")
+[El Camino Real](http://localhost:1313/archives/panama-paso-a-paso/el-camino-real/)
+[Fotos](https://photos.app.goo.gl/6GQ2fAMQd5rNGCL8A)

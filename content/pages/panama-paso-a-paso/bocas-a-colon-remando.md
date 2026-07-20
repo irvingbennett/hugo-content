@@ -22,7 +22,7 @@ parent_post_id: "3119"
 post_id: "3844"
 title: Bocas a Colón remando
 url: /archives/panama-paso-a-paso/bocas-a-colon-remando
-
+weight: 0240
 ---
 Este fin de semana que pasó partimos de Chiriquí Grande en Bocas del Toro y remamos hasta Miguel de La Borda en Colón en cinco días. La distancia es de 261kms como hicimos la remada pasando por el Escudo de Veraguas. Esta isla puede y debe ser el objetivo principal de este viaje que debe hacerse viajando hacia el este siempre porque los vientos y las corrientes prevalecen en esa dirección todo el años. La temporada correcta para este viaje es de septiembre y octubre cuando el viento y las olas están al mínimo. **_Este viaje no es recomendable en ninguna otra época_**.
 

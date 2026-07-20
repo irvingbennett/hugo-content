@@ -25,6 +25,7 @@ url: /archives/panama-paso-a-paso/rio-chame
 
 categories:
   - "Kayaking"
+weight: 0170
 ---
 {{< figure align="alignleft" width=150 src="/wp-content/uploads/gallery_backup/P8240045.jpg" alt="" caption="" >}}
 

@@ -30,7 +30,7 @@ parent_post_id: "3119"
 post_id: "4487"
 title: El Reto del Chagres
 url: /archives/panama-paso-a-paso/el-reto-del-chagres
-
+weight: 0410
 ---
 {{< figure align="aligncenter" width=1000 src="/wp-content/uploads/gallery_backup/PB220138.jpg" alt="" caption="" >}}
 

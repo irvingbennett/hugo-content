@@ -22,7 +22,7 @@ parent_post_id: "3119"
 post_id: "3674"
 title: Vuelta de Sofrón
 url: /archives/panama-paso-a-paso/vuelta-de-sofron
-
+weight: 0190
 ---
 El Valle de Antón tiene sus lugares icónicos, como La India Dormida, El Cerro Cariguana, El Gaital, Los Berrales, La Piedra Pintada, y tiene sus lugares escondidos. La vuelta de Sofrón está en la segunda categoría. El Río Sofrón nace en la cabeza de La India Dormida y termina como un afluente del Río Zaratí que sale a Penonomé. Si no tomas un mapa y decides ir a visitarlo, el Río Sofrón y sus chorros no van a mandarte una tarjeta de invitación.
 

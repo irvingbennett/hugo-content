@@ -22,7 +22,7 @@ parent_post_id: "3119"
 post_id: "3827"
 title: La India Dormida
 url: /archives/panama-paso-a-paso/la-india-dormida
-
+weight: 0230
 ---
 La India Dormida es el cerro más famoso de El Valle de Antón, tiene su propia leyenda y fue inmortalizada en una poesía de Rogelio Sinán. Todo el filo de este cerro se puede caminar en unas cuantas horas en un recorrido de 15 kilómetros si se sigue la ruta propuesta. Hay muchas variantes más cortas porque hay cuatro senderos que suben a La India Dormida (por los pies, por el medio, por el cuello y por la cabeza) y una calle de asfalto que la atraviesa.
 

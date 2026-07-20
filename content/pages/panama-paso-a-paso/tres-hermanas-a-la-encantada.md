@@ -26,6 +26,7 @@ url: /archives/panama-paso-a-paso/tres-hermanas-a-la-encantada
 
 categories:
   - "Caminatas"
+weight: 0050
 ---
 Tres Hermanas a La Encantada es una buen ruta para el verano, antes que se vuelva un gran lodazal con el invierno. Esta caminata parte de Tres Hermanas y se dirige al norte hacia La Encantada, un agradable caserío a orillas del Río Indio. Desde La Encantada hay que tomar una piragua para poder terminar la caminata en Boca de Río Indio. La ruta pasa por Los Uveros, Piedra Amarilla, El Limón (donde sugiero que se duerma, a la mitad del camino), y sigue hacia Puerco Gorda, Los Olivos, Cabecera de Pólvora y La Candileba antes de llegar a La Encantada, un total de 32 kilómetros.
 

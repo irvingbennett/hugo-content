@@ -23,7 +23,7 @@ post_id: "3130"
 title: La Ruta del Indio
 url: /archives/panama-paso-a-paso/la-ruta-del-indio
 slug: "la-ruta-del-indio"
-
+weight: 0020
 ---
 El Valle de Antón ha sido mi centro de aventuras desde pequeño. Cuando encontré el poder de los mapas para revelarme los secretos del terreno que me rodeaba y con ganas de inventar la próxima aventura épica, vi la que las provincias de Coclé y Panamá estaban divididas por dos ríos: Las Guías e Indio. Ambos ríos nacen en las faldas de lo una vez fue el volcán que formó El Valle.Decidí que ese sería mi primer proyecto: encontrar como caminar desde El Valle hasta el Caribe siguiendo las orillas del Río Indio. A continuación, un bosquejo de la Ruta del Indio.
 

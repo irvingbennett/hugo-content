@@ -22,6 +22,7 @@ parent_post_id: "240"
 post_id: "3119"
 title: Recorriendo Panamá Paso a Paso
 url: /caminando-panama
+weight: 0010
 ---
 Me han ofrecido la oportunidad de compartir con ustedes algunas de mis experiencias caminando este hermoso país, Panamá. Desde muy temprana edad mi familia, que es numerosa, pasaba los fines de semana fuera de casa visitando playas, ríos y montañas para entretenernos. Casi todos los fines de semana nos montaban en un auto y partíamos para algún rincón remoto: visitábamos El Valle, Sierra Llorona, Bayano, Pacora, Santiago, Santa Fe, Portobelo, San Lorenzo, Volcán, Boquete, Atalaya y otros lugares remotos. Con alguna frecuencia, también salíamos en bote a Taboga, Lago Alajuela (Madden en ese tiempo), Gamboa, Gatún, Bayano Y Río Chagres. Nosotros crecimos creyendo que estar afuera era lo normal para una familia, y para mi familia aún lo es.
 

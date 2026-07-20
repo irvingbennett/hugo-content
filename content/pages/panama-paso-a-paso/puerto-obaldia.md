@@ -22,7 +22,7 @@ parent_post_id: "3119"
 post_id: "4173"
 title: Puerto Obaldía
 url: /archives/panama-paso-a-paso/puerto-obaldia
-
+weight: 0340
 ---
 [![](/wp-content/uploads/2017/09/PICT0435-150x150.jpg)](//wp-content/uploads/2017/09/PICT0435.jpg) Puerto Obaldía uno de los pueblos fronterizos más remotos de Panamá. Solo se puede llegar en avión tres veces por semana, en bote hay que arreglar un viaje especial desde algún puerto caribeño, o caminando a través de Darién. Los colombianos pueden llegar a Puerto Obaldía con mayor facilidad que lo panameños. Cruzar de Puerto Obaldía a Colombia es cosa sencilla, ya sea caminando o en bote (hay transporte regular a Sapzurro y Capurganá). La razón de esta entrada es porque Puerto Obaldía es un puerto de entrada muy usado para entrar a Panamá y cruzar Darién, la próxima ruta.
 

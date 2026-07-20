@@ -22,7 +22,7 @@ parent_post_id: "3119"
 post_id: "3500"
 title: Circuito de Corpus Cristi
 url: /archives/panama-paso-a-paso/circuito-de-corpus-cristi
-
+weight: 0140
 ---
 [![](/wp-content/uploads/2017/04/DSCN3982-150x150.jpg)](//wp-content/uploads/2017/04/DSCN3982.jpg) El circuito de Corpus Cristi de 38k está dentro de la Vuelta del Mamoní y comparte el principio y el final del recorrido. Este es un buen circuito para practicar para la vuelta grande, o simplemente para una buena caminata larga, pero no tan larga. Este es otro recorrido que parte de San Miguel en el Río Pacora. Esta vuelta es mejor en el sentido del reloj para salir de la trepada de la primera loma temprano en la mañana, mientras las piernas están frescas. Lo mejor es comenzar en la madrugada para estar en el espinazo de las Montañuelas de Tapagra temprano para ver el amanecer desde allá arriba.
 

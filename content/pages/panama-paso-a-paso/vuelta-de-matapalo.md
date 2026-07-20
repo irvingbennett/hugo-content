@@ -22,7 +22,7 @@ parent_post_id: "3119"
 post_id: "3971"
 title: Vuelta de Matapalo
 url: /archives/panama-paso-a-paso/vuelta-de-matapalo
-
+weight: 0310
 ---
 {{< figure align="alignleft" width=150 src="/wp-content/uploads/gallery_backup/P4251806.jpg" alt="" caption="" >}}
 

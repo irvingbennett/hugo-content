@@ -22,7 +22,7 @@ parent_post_id: "3119"
 post_id: "3954"
 title: Río Grande desde Piedra Amarilla
 url: /archives/panama-paso-a-paso/rio-grande-desde-piedra-amarilla
-
+weight: 0300
 ---
 {{< figure align="alignleft" width=150 src="/wp-content/uploads/gallery_backup/P7280040.jpg" alt="" caption="" >}}
 

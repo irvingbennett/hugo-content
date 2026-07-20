@@ -26,7 +26,8 @@ url: /2011/01/24/relevos-transstmicos-2011
 wpb_post_views_count: "15"
 
 ---
-[![Jordi entregando](/wp-content/uploads/gallery_backup/P1230260.jpg)¡Se "Relevos")! He quedado con una curiosa mezcla de emociones después de estos relevos. En primera instancia, me alegra que todo haya salido bastante bien. En segundo lugar, ¡finalmente pude correr los Relevos Transístmicos! Que divertido fue contar con el apoyo de mi equipo, Los Abuelos Geriátricos del Hash. Este año la carrera estuvo muy [reñida](/wp-content/uploads/gallery_backup/Relevos-Transistmicos-2011/P1230189.jpg) entre UNACHI y Metrodome - Policía Nacional. Pero estoy muy consciente que mi esfuerzo dejó mucho que desear habiendo dejado demasiado para última hora.
+![Jordi entregando](/wp-content/uploads/2011/01/P1230260.jpg "Jordi entregando")
+ He quedado con una curiosa mezcla de emociones después de estos relevos. En primera instancia, me alegra que todo haya salido bastante bien. En segundo lugar, ¡finalmente pude correr los Relevos Transístmicos! Que divertido fue contar con el apoyo de mi equipo, Los Abuelos Geriátricos del Hash. Este año la carrera estuvo muy [reñida](http://localhost:8000/g3/var/resizes/Relevos-Transistmicos-2011/P1230189.jpg?m=1295889194 "Transición reñida") entre UNACHI y Metrodome - Policía Nacional. Pero estoy muy consciente que mi esfuerzo dejó mucho que desear habiendo dejado demasiado para última hora.
 
 Los corredores de Los [Relevos Transístmicos](/wp-content/uploads/gallery_backup/Relevos-Transistmicos-2011 "Fotos") se merecen un esfuerzo del 110% y todo debe quedar bien organizado. Mi naturaleza, que está lejos de ser perfeccionista, no es la más adecuada para organizar un evento como este. Las primeras veces la atracción de un gran reto, y la novedad, me motivaron a dedicarle mucho esfuerzo a la organización de esta carrera. Ahora, este año, con tres ediciones de experiencia, mi actitud fue mucho más casual en la organización.
 

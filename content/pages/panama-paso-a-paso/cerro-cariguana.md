@@ -25,6 +25,7 @@ url: /archives/panama-paso-a-paso/cerro-cariguana
 
 categories:
   - "Correr"
+weight: 0210
 ---
 {{< figure align="alignleft" width=150 src="/wp-content/uploads/gallery_backup/P9052961.jpg" alt="" caption="" >}}
 

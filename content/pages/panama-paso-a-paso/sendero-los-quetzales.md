@@ -22,7 +22,7 @@ parent_post_id: "3119"
 post_id: "3376"
 title: Sendero Los Quetzales
 url: /archives/panama-paso-a-paso/sendero-los-quetzales
-
+weight: 0110
 ---
 Ya que estamos en Chiriquí, debemos visitar el Sendero de Los Quetzales. Este sendero, entre enero y marzo, cuando los aguacates silvestres dan fruta, es el mejor lugar del país para ver quetzales. En esta época los quetzales se aparean y hacen nidos porque hay abundante comida para alimentarse y procrearse. Así es que esta es la mejor época para visitar el sendero y ver estas espectaculares aves en libertad. Este sendero ha sufrido en los últimos años porque han deforestado varias partes pero todavía quedan tramos preciosos.
 

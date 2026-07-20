@@ -22,7 +22,7 @@ parent_post_id: "3119"
 post_id: "3648"
 title: Reunión de Flota
 url: /archives/panama-paso-a-paso/reunion-de-flota
-
+weight: 0180
 ---
 {{< figure align="alignleft" width=150 src="/wp-content/uploads/gallery_backup/RioMamoni-LaMargarita-LaCapitana-1.jpg" alt="" caption="" >}}
 

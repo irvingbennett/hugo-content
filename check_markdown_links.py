@@ -14,7 +14,7 @@ import sys
 from pathlib import Path
 from typing import List, Tuple
 from urllib.error import HTTPError, URLError
-from urllib.parse import urlparse
+from urllib.parse import urlparse, urlunparse, quote, unquote
 from urllib.request import Request, urlopen
 
 LINK_PATTERN = re.compile(r"(?<!\!)\[[^\]]+\]\(")
@@ -123,8 +123,23 @@ def extract_links(markdown_text: str) -> List[str]:
     return links
 
 
+def quote_url(url: str) -> str:
+    parsed = urlparse(url)
+    path = quote(unquote(parsed.path), safe="/%")
+    query = quote(unquote(parsed.query), safe="=&%")
+    fragment = quote(unquote(parsed.fragment), safe="%")
+    return urlunparse((
+        parsed.scheme,
+        parsed.netloc,
+        path,
+        parsed.params,
+        query,
+        fragment
+    ))
+
+
 def local_target_exists(target: str, source_file: Path, repo_root: Path) -> bool:
-    cleaned_target = strip_fragment_and_query(target)
+    cleaned_target = unquote(strip_fragment_and_query(target))
     if not cleaned_target:
         return True
 
@@ -133,34 +148,44 @@ def local_target_exists(target: str, source_file: Path, repo_root: Path) -> bool
         return False
 
     if cleaned_target.startswith("/"):
-        candidate = (repo_root / cleaned_target.lstrip("/")).resolve()
+        candidates = [
+            repo_root / "static" / cleaned_target.lstrip("/"),
+            repo_root / "content" / cleaned_target.lstrip("/"),
+            repo_root / cleaned_target.lstrip("/"),
+        ]
     else:
-        candidate = (source_file.parent / cleaned_target).resolve()
+        candidates = [
+            source_file.parent / cleaned_target
+        ]
 
-    if candidate.exists():
-        return True
+    for candidate in candidates:
+        resolved = candidate.resolve()
+        if resolved.exists():
+            return True
 
-    # Handle links to directories or bare paths without an extension.
-    if candidate.suffix == "":
-        for extra in (candidate.with_suffix(".md"), candidate / "index.md", candidate / "index.html"):
-            if extra.exists():
-                return True
+        # Handle links to directories or bare paths without an extension.
+        if resolved.suffix == "":
+            for extra in (resolved.with_suffix(".md"), resolved / "index.md", resolved / "index.html"):
+                if extra.exists():
+                    return True
 
     return False
 
 
 def check_remote_link(target: str, timeout: float) -> bool:
     try:
-        parsed = urlparse(target)
+        safe_target = quote_url(target)
+        parsed = urlparse(safe_target)
         if not parsed.scheme or not parsed.netloc:
             return False
-        req = Request(target, method="HEAD")
+        req = Request(safe_target, method="HEAD")
         with urlopen(req, timeout=timeout) as response:
             return 200 <= response.getcode() < 400
     except HTTPError as exc:
         if exc.code in {405, 403}:
             try:
-                with urlopen(target, timeout=timeout) as response:
+                safe_target = quote_url(target)
+                with urlopen(safe_target, timeout=timeout) as response:
                     return 200 <= response.getcode() < 400
             except (HTTPError, URLError, TimeoutError, ValueError, ConnectionResetError):
                 return False
@@ -173,6 +198,12 @@ def check_links_in_file(markdown_file: Path, repo_root: Path, timeout: float, ch
     issues: List[Tuple[str, str]] = []
     text = markdown_file.read_text(encoding="utf-8")
     for target in extract_links(text):
+        # Normalize protocol-relative local links (e.g. starting with //wp-content)
+        if target.startswith("//"):
+            parsed = urlparse(target)
+            if parsed.netloc == "wp-content" or "." not in parsed.netloc:
+                target = "/" + target.lstrip("/")
+
         if target.startswith(("http://", "https://")):
             if check_remote and not check_remote_link(target, timeout):
                 issues.append((target, "remote"))

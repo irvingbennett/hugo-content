@@ -14,6 +14,8 @@ _last_editor_used_jetpack: block-editor
 _publicize_pending: "1"
 _wpcom_is_markdown: "1"
 author: Rompy
+cover:
+  image: /wp-content/uploads/gallery_backup/IMG-20260608-WA0017.jpg
 date: "2017-03-13T11:44:16+00:00"
 guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?page_id=3235
 parent_post_id: "3119"
@@ -24,6 +26,7 @@ url: /archives/panama-paso-a-paso/el-camino-real
 categories:
   - "Caminatas"
   - "General"
+weight: 0060
 ---
 El Camino Real es el nombre que uso para la caminata de Nombre de Dios a Boquerón Arriba. La ruta que seguimos realmente tiene tres partes: el Río Nombre de Dios, la línea de ferrocarril que pertenecía a Caribbean Manganese Company de Baltimore, Maryland, y el Río Boquerón. Ya llevamos más de 25 años haciendo esta caminata y estoy seguro que sigue bastante de cerca la misma ruta que los españoles usaban cuando iban de Nombre de Dios a Panamá (hasta Santa Librada). Ya en Santa Librada se puede tomar el empedrado viejo que iba hasta Venta de Cruces. Nosotros, por conveniencia, seguimos hasta Boquerón Arriba porque hasta allí llegan los autos con facilidad. Hoy día los autos llegan hasta Santa librada también, pero ya haría muy corta la caminata.
 

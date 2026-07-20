@@ -28,7 +28,8 @@ url: /2007/03/06/fedora-y-rails
 wpb_post_views_count: "17"
 
 ---
-![RubyOnRails](/wp-content/uploads/gallery_backup/rails.png)Antes "ruby")  
+![RubyOnRails](/wp-content/uploads/gallery_backup/ruby.jpg "Ruby On Rails")Antes de rendirme con Fedora en mi intento de instalar [Ruby on Rails](http://rubyonrails.org "ruby")  
+decidí darle un último empujón a Fedora Core 5 antes de rendirme. Tuve éxito y logré hacer que [Mephisto](http://mephistoblog.com "Mephisto") funcionara. Fedora se ha salvado, por ahora. La verdad es que lo más probable Ubuntu me iba a dar problemas en algún momento. Hay historias en ambos lados de la cerca por parte de los que se cambiaron de distribución por diversas razones.
 
 decidí darle un último empujón a Fedora Core 5 antes de rendirme. Tuve éxito y logré hacer que [Mephisto](http://mephistoblog.com "Mephisto") funcionara. Fedora se ha salvado, por ahora. La verdad es que lo más probable Ubuntu me iba a dar problemas en algún momento. Hay historias en ambos lados de la cerca por parte de los que se cambiaron de distribución por diversas razones.
 

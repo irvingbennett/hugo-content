@@ -9,11 +9,10 @@ _jetpack_related_posts_cache:
       - id: 314
 _wp_old_slug: ""
 author: Rompy
+
 categories:
   - "Kayaking"
 date: "2010-09-27T16:10:53+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=1251
-parent_post_id: null
 post_id: "1251"
 tags:
   - kayaking
@@ -22,9 +21,9 @@ url: /2010/09/27/chorros-del-grande
 wpb_post_views_count: "17"
 
 ---
-[![Susto Barato](/wp-content/uploads/gallery_backup/p9250038.jpg) "Dimas"), [Joaquín Gil del Real](/wp-content/uploads/2010/09/P9250086.jpg) y yo a bajar los chorros del Río Grande. Bajamos [Susto Barato](/wp-content/uploads/gallery_backup/P9250028.jpg "Susto barato"), [Go Left and Die](/wp-content/uploads/gallery_backup/P9250056.jpg "Go Left and Die"), El Trampolín, y todavía estamos buscando nombre para el último chorro, que, por ahora, llamaré El Empate de Dimas. Bajamos desde Bajo Grande hasta Ojo de Agua. Nos tocó un día excelente, sin mucho sol, y con el río lleno de agua. No podía pedir mejor compañía en el río, seguro de que tenía la espalda cubierta (mientras no me agachara a recoger el jabón).
+![Susto Barato](/wp-content/uploads/gallery_backup/P9250038.jpg)Este sábado nos fuimos [Dimas Pino](/wp-content/uploads/gallery_backup/P9250035.jpg "Dimas"), [Joaquín Gil del Real](/wp-content/uploads/gallery_backup/P9250086.jpg) y yo a bajar los chorros del Río Grande. Bajamos [Susto Barato](/wp-content/uploads/gallery_backup/P9250028.jpg "Susto barato"), [Go Left and Die](/wp-content/uploads/gallery_backup/P9250056.jpg "Go Left and Die"), El Trampolín, y todavía estamos buscando nombre para el último chorro, que, por ahora, llamaré El Empate de Dimas. Bajamos desde Bajo Grande hasta Ojo de Agua. Nos tocó un día excelente, sin mucho sol, y con el río lleno de agua. No podía pedir mejor compañía en el río, seguro de que tenía la espalda cubierta (mientras no me agachara a recoger el jabón).
 
-Nos tomó 3 horas con 40 minutos recorrer el tramo de río que bajamos, bastante cercano a lo que habíamos calculado. A diferencia de las primeras veces, en esta ocasión no perdimos mucho tiempo explorando los varios rápidos que tiene el [Río Grande](/wp-content/uploads/gallery_backup/Mamoni-Parte-Alta "Galería de Fotos"). La primera media hora, antes de Susto Barato, es un buen calentamiento para las tres horas que le siguen. Una vez que se llega a Susto Barato, el río no afloja su nivel de dificultad hasta unos 500 metros antes de la salida, es tiro y tiro. El único que no nado fue Joaquín, Dimas nadó una vez, y yo nadé dos veces. Por tanto, Dimas y yo nos tomamos nuestra primera cerveza en la bota de neopreno de cada uno (bootie bong).
+Nos tomó 3 horas con 40 minutos recorrer el tramo de río que bajamos, bastante cercano a lo que habíamos calculado. A diferencia de las primeras veces, en esta ocasión no perdimos mucho tiempo explorando los varios rápidos que tiene el [Río Grande](https://photos.app.goo.gl/hT8lp83shZKHy8eq1 "Galería de Fotos"). La primera media hora, antes de Susto Barato, es un buen calentamiento para las tres horas que le siguen. Una vez que se llega a Susto Barato, el río no afloja su nivel de dificultad hasta unos 500 metros antes de la salida, es tiro y tiro. El único que no nado fue Joaquín, Dimas nadó una vez, y yo nadé dos veces. Por tanto, Dimas y yo nos tomamos nuestra primera cerveza en la bota de neopreno de cada uno (bootie bong).
 
 El primer rápido del río, un cañón con curva hacia la izquierda, me dió mi primera emoción matutina: entrando al rápido el chorro de agua en la popa de mi bote me dejó vertical, viendo el cielo, con la espalda en el agua, en "wheelie". Pude balancearme bien y mantener mi cabeza fuera del agua a través del primer rápido. Todavía no le hemos puesto nombre, pero algo se nos ocurrirá cuando sea apropiado. Ese rápido necesita nombrarse.
 

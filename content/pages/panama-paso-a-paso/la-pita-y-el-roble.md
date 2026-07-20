@@ -22,7 +22,7 @@ parent_post_id: "3119"
 post_id: "4032"
 title: La Pita y El Roble
 url: /archives/panama-paso-a-paso/la-pita-y-el-roble
-
+weight: 0320
 ---
 {{< figure align="aligncenter" width=840 src="/wp-content/uploads/gallery_backup/P7240306.jpg" alt="" caption="" >}}
 

@@ -25,6 +25,7 @@ url: /archives/panama-paso-a-paso/volcan-baru
 
 categories:
   - "Caminatas"
+weight: 0100
 ---
 Subir el Volcán Barú es una de esas rutas que "hay que hacer" en Panamá. Es uno de los puntos en el país desde donde se pueden ver ambos mares en un buen día. Hay una subida difícil por la calle de acceso que sube por Boquete, y otra más difícil por el sendero que sube de Volcán. Esta ruta sube por Volcán y baja por Boquete. Si se está en unas condiciones adecuadas, se puede hacer toda la ruta en un día haciendo un buen esfuerzo.
 

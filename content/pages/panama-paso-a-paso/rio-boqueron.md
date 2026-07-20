@@ -24,7 +24,7 @@ parent_post_id: "3119"
 post_id: "3246"
 title: Río Boquerón
 url: /archives/panama-paso-a-paso/rio-boqueron
-
+weight: 0080
 ---
 Las dos entradas anteriores pueden intimidar a muchos que gozarían de una visita al Río Boquerón. Una caminata por el Boquerón, ya sea por el día o a pasar la noche vale la pena. Realmente el lugar es espectacular, especialmente en esta época de verano cuando el agua está cristalina y la preocupación por las crecidas es mínima (y casi no hay lodo en el camino). Ahora que se puede llegar en auto hasta Santa Librada es hasta más fácil llegar hasta la poza de la unión del Boquerón con el Río Longué (unas cuatro horas caminando, máximo).
 

@@ -8,6 +8,8 @@ _jetpack_related_posts_cache:
       - id: 1008
       - id: 341
 author: Rompy
+cover:
+  image: /wp-content/uploads/gallery_backup/P7270084.JPG
 categories:
   - "Kayaking"
 date: "2008-07-31T22:47:15+00:00"
@@ -23,7 +25,7 @@ wpb_post_views_count: "11"
 ---
 Este fin de semana que pasó fuimos a remar a Rí­o Chame. Tení­a tiempo de no visitar ese rí­o y nos tocó un super día: el cielo estaba nublado y el rí­o lleno de agua. La remada superó todas mis expectativas y más, quedé sorprendido. También estrené kayak nuevo y trajimos a un nuevo remero al ruedo, a Joaquí­n Gil del Real. Toda esta acción a una hora de la ciudad.
 
-Bajamos el [Rí­o Chame](/wp-content/uploads/gallery_backup/ "Fotos del Chame") desde el puente de Bajo del Rí­o hasta Cabuya. Nos pasamos unas 4:30 en el rí­o, incluyendo bastante tiempo para surfear las olas que nos encontramos en el camino. El nivel del agua estaba excelente por que ha estado lloviendo en la cabecera del rí­o. La noche anterior la habí­a pasado en El Valle con mi familia y allá llovisnó toda la noche. El agua, por supuesto, estaba ligeramente turbia por las recientes lluvias. Yo diría que el rí­o tení­a como 6" más de lo que normalmente lleva cuando el dí­a es soleado.
+Bajamos el [Rí­o Chame](https://goo.gl/photos/nV3xSXLpy3DEVYxj8 "Fotos del Chame") desde el puente de Bajo del Rí­o hasta Cabuya. Nos pasamos unas 4:30 en el rí­o, incluyendo bastante tiempo para surfear las olas que nos encontramos en el camino. El nivel del agua estaba excelente por que ha estado lloviendo en la cabecera del rí­o. La noche anterior la habí­a pasado en El Valle con mi familia y allá llovisnó toda la noche. El agua, por supuesto, estaba ligeramente turbia por las recientes lluvias. Yo diría que el rí­o tení­a como 6" más de lo que normalmente lleva cuando el dí­a es soleado.
 
 Joaquín disfrutó mucho su primera remada en un kayak río abajo. Este fin de semana que viene vamos a remar nuevamente, pero esta vez remaremos el Río Grande. Joaquín se siente cómodo en el agua y no perdió el tiempo, aprovechó todas las olas que encontramos para medírseles. Resultó una buena elección el haber escogido el Río Chame para su primera remada.
 

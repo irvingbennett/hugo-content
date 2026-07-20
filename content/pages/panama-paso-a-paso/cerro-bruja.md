@@ -27,6 +27,7 @@ url: /archives/panama-paso-a-paso/cerro-bruja
 
 categories:
   - "Caminatas"
+weight: 0070
 ---
 En mi oficina tengo un mapa de relieve del canal de Panamá que heredé de mi padre que lo tuvo bajo su cama por muchos años. Justo arriba de Portobelo hay este maciso en forma de herradura con una cara casi vertical y se llama Cerro Bruja. Un nombre como ese, para mi, es un atractivo imposible de resistir. Lo que finalmente me hizo tomar la determinación de visitarlo fue ver un chorro que se desprende precisamente de la cara sur vertical que se levanta 350 metros sobre el resto del dosel del bosque. En ese momento estábamos caminando por Río Diablo haciendo otra caminata de selva.
 
