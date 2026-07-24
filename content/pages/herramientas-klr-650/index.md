@@ -1,22 +1,8 @@
 ---
-_jetpack_related_posts_cache:
-  bfc62710165ed7b51223b165689d40a3:
-    expires: 1779880865
-    payload:
-      - id: 2165
-      - id: 3853
-      - id: 4396
-      - id: 3353
-      - id: 3971
-      - id: 3376
-_thumbnail_id: "6908"
-_wpcom_is_markdown: "1"
 author: Rompy
 cover:
   image: "/wp-content/uploads/2025/12/20210130_114551-scaled.jpg"
 date: "2025-12-12T21:56:36+00:00"
-guid: http://localhost/?page_id=6907
-parent_post_id: null
 post_id: "6907"
 title: Herramientas KLR 650
 url: /herramientas-klr-650

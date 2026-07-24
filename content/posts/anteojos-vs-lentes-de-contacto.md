@@ -1,13 +1,4 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1782126112
-    payload:
-      - id: 2205
-      - id: 431
-      - id: 1242
-_thumbnail_id: "2263"
 author: Rompy
 categories:
   - "Correr"

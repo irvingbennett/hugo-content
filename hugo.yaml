@@ -3,8 +3,10 @@ locale: ES-es
 title: Al Aire Libre
 theme: PaperMod
 taxonomies:
-  category: categories
-  tag: tags
+  category: 
+    - "categories"
+  tag: 
+    - "tags"
 params:
   description: Un Taller de Aventuras
   defaultTheme: light
@@ -21,10 +23,7 @@ params:
   hideFooter: true
   assets:
     favicon: "/favicon.ico"
-    favicon16x16: "/favicon-16x16.png"
-    favicon32x32: "/favicon-32x32.png"
     apple_touch_icon: "/apple-touch-icon.png"
-    safari_pinned_tab: "/safari-pinned-tab.svg"
   author:
     name: Rompy
   logoPath: /logo_AAL.jpg

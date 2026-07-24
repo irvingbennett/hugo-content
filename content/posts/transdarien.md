@@ -1,16 +1,4 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781831843
-    payload:
-      - id: 2152
-      - id: 1327
-      - id: 980
-      - id: 6222
-      - id: 992
-      - id: 2709
-_wp_old_slug: transdarin
 author: Rompy
 categories:
   - "Caminatas"
@@ -18,7 +6,7 @@ date: "2010-11-08T19:54:52+00:00"
 guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/2010/11/08/transdarin
 parent_post_id: null
 post_id: "1324"
-title: TransDari&eacute;n
+title: TransDarién
 url: /2010/11/08/transdarien
 wpb_post_views_count: "21"
 
