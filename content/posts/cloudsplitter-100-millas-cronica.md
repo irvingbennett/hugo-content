@@ -1,31 +1,19 @@
 ---
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781849943
-    payload:
-      - id: 5614
-      - id: 5564
-      - id: 5853
 _last_editor_used_jetpack: block-editor
-_publicize_twitter_user: '@irvingbennett'
-_thumbnail_id: "5582"
-_wpas_done_all: "1"
-_wpcom_is_markdown: "1"
 author: Rompy
 categories:
-  - "Correr"
+- Correr
 cover:
-  image: "/wp-content/uploads/2021/10/90785397-CS100-207-1-scaled.jpg"
-date: "2021-10-25T01:23:30+00:00"
-guid: http://u8z.3d5.mywebsitetransfer.com/?p=5578
+  image: /wp-content/uploads/2021/10/90785397-CS100-207-1-scaled.jpg
+date: '2021-10-25T01:23:30+00:00'
 parent_post_id: null
-post_id: "5578"
+post_id: '5578'
+slug: cloudsplitter-100-millas-cronica
 tags:
-  - ultra
+- ultra
 title: Cloudsplitter 100 millas - Crónica
-url: /2021/10/24/cloudsplitter-100-millas-cronica
-
 ---
+
 Cloudsplitter 100 posiblemente ha sido mi mejor desempeño en 100 millas. Tenía altas expectativas porque me había preparado como nunca antes. Todos mis signos vitales estaban marcando buenos valores. Quería probar cuanto podía dar en mi primera carrera de 161 kilómetros a los 60 años y mi última carrera larga había sido hace dos años.
 
 El día de la carrera empezo frío y lluvioso. Ya el pronóstico lo había advertido y estaba preparado. Elegí una camiseta liviana de lana, una camisa de lana y un pantalón corto de caminata con un calzóncillo deportivo separado. Esta combinación ya la había probado en el Ultra Tour Monte Rosa. La lana tiene la característica de mantenerte caliente aún cuando se moja y no absorbe mucho líquido. El pantalón también era de un material que repele el agua. Por último, elegí mis medias largas de lana Injinji y unas zapatillas Hoka Speedgoat 4 de paquete. ¡Todas las casillas marcadas con el vestuario!
@@ -113,4 +101,4 @@ Crucé la meta en 31:34, mi cálculo optimista era hacerlo en 34:13. Llegué dos
 {{< figure src="/wp-content/uploads/gallery_backup/246160794_240929208080346_2993737596523928822_n.jpg" alt="Sede de Partida" caption="Sede de Partida" >}}  
 {{< figure src="/wp-content/uploads/gallery_backup/246142384_240932524746681_261903729061503839_n.jpg" alt="Una vista del inicio" caption="Una vista del inicio" >}}  
 {{< figure src="/wp-content/uploads/gallery_backup/90785398-CS100-570-1.jpg" alt="Con Lee en Devil's Fork Loop" caption="Con Lee en Devil's Fork Loop" >}}  
-{{< figure src="/wp-content/uploads/gallery_backup/90785397-CS100-207-1.jpg" alt="Foto de Irving Bennett en el primer tramo" caption="Primer tramo" >}}  
+{{< figure src="/wp-content/uploads/gallery_backup/90785397-CS100-207-1.jpg" alt="Foto de Irving Bennett en el primer tramo" caption="Primer tramo" >}}

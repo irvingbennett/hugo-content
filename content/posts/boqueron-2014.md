@@ -1,36 +1,23 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781191950
-    payload:
-      - id: 1827
-      - id: 899
-      - id: 177
 _publicize_facebook_user: https://www.facebook.com/irving.bennett
-_publicize_twitter_user: '@irvingbennett'
-_thumbnail_id: "2845"
-_wpas_done_all: "1"
-_wpcom_is_markdown: "1"
 ase_map_component_start_point:
   lat: 29.76
   lng: -95.38
 author: Rompy
 categories:
-  - "General"
+- General
 cover:
-  image: "/wp-content/uploads/2014/12/20141213_074634_1-scaled.jpg"
-date: "2014-12-20T02:42:42+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=2843
+  image: /wp-content/uploads/2014/12/20141213_074634_1-scaled.jpg
+date: '2014-12-20T02:42:42+00:00'
 parent_post_id: null
-post_id: "2843"
+post_id: '2843'
+slug: boqueron-2014
 tags:
-  - travesias
-  - trek
+- travesias
+- trek
 title: Boqueron 2014
-url: /2014/12/19/boqueron-2014
-
 ---
+
 Logré hacer otro viaje por el Río Boquerón antes que terminara el 2014 y pude hacerlo con Irving Henry. Nuestro grupo fue pequeño pero no hizo falta más nadie: Irving, Joaquín, Gil, Carl y yo. Esta fue la primera caminata de selva de Irving y la pasó con singular esmero - ni siquiera la sudó (a pesar que el camino estaba hostil por lluvia, derrumbes y ríos inundados). Es bueno tener todo preparado para partir hacia una caminata en cualquier momento porque empaqué minutos antes de partir y no me faltó nada (aparte de algo más de comida).
 
 Puntual a las 5am llegaron los interesados en esta particular travesía anual que ya casi puede ser un peregrinaje para mi. Joaquín era el único veterano de este viaje, Irving es hijo mío y está medio acostumbrado a lo que le tire el camino y lo pobres holandeses no sabían que les venía por delante, pero ocasionalmente la ignorancia es una buena cosa. A las 8am y estábamos en camino por el Nombre de Dios rumbo a Boquerón arriba. Esta vez no llevamos cámara, yo porque no la encontré, Joaquín porque quería ir lo más liviano posible, y los holandeses sí llevaron la suya pero no tengo esas fotos.

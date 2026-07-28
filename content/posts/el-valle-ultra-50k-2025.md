@@ -1,39 +1,28 @@
 ---
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781818831
-    payload:
-      - id: 1411
-      - id: 1796
-      - id: 1944
 _publicize_shares:
-  - connection_id: 6900156
-    external_id: alairelibre.tumblr.com
-    external_name: Al Aire Libre
-    message: http://alairelibre.tumblr.com/post/773333942317334528
-    profile_link: http://alairelibre.tumblr.com/
-    profile_picture: ""
-    service: tumblr
-    status: success
-    timestamp: 1737508719
-_thumbnail_id: "6632"
-_wpas_done_all: "1"
-_wpcom_is_markdown: "1"
+- connection_id: 6900156
+  external_id: alairelibre.tumblr.com
+  external_name: Al Aire Libre
+  message: http://alairelibre.tumblr.com/post/773333942317334528
+  profile_link: http://alairelibre.tumblr.com/
+  profile_picture: ''
+  service: tumblr
+  status: success
+  timestamp: 1737508719
 author: Rompy
 categories:
-  - "Correr"
+- Correr
 cover:
-  image: "/wp-content/uploads/2025/01/Meta_El_Valle_Ultra_2025-1.jpg"
-date: "2025-01-22T01:18:31+00:00"
-guid: http://localhost/?p=6621
+  image: /wp-content/uploads/2025/01/Meta_El_Valle_Ultra_2025-1.jpg
+date: '2025-01-22T01:18:31+00:00'
 parent_post_id: null
-post_id: "6621"
+post_id: '6621'
+slug: el-valle-ultra-50k-2025
 tags:
-  - ultra
+- ultra
 title: El Valle Ultra 50k 2025
-url: /2025/01/21/el-valle-ultra-50k-2025
-
 ---
+
 {{< figure src="/wp-content/uploads/gallery_backup/IMG-20250118-WA0013.jpg" alt="" caption="" >}}
 
 Este sábado 18 de enero corrimos El Valle Ultra 50k. Iba de conejo con Constanza con el compromiso de acompañarla hasta la meta. En Cerro Azul hicimos lo mismo y ella quedó de segunda entre todas las mujeres, campeona en la categoría masters (45+). En esta carrera había más gente inscrita y la competencia iba a estar más dura, tanto la ruta como el grupo de competidores estaba fuerte. Al final cruzamos la meta en 8:30 y quedamos ambos en podio: Constanza quedó 2da Masters y yo 3ero Masters. Hicimos una excelente carrera, bien corrida, con nuestro esfuerzo bien manejado.

@@ -1,26 +1,17 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1782081745
-    payload:
-      - id: 526
-      - id: 182
-      - id: 1251
 author: Rompy
 categories:
-  - "Kayaking"
-date: "2009-03-17T14:23:19+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=473
+- Kayaking
+date: '2009-03-17T14:23:19+00:00'
 image: http://u8z.3d5.mywebsitetransfer.com/wp-content/uploads/2009/03/P3081173.JPG
-lightboxoff: "false"
+lightboxoff: 'false'
 parent_post_id: null
-post_id: "473"
+post_id: '473'
+slug: sorpresa-grande
 title: Sorpresa Grande
-url: /2009/03/17/sorpresa-grande
-wpb_post_views_count: "18"
-
+wpb_post_views_count: '18'
 ---
+
 Este domingo nos llevamos una gran sorpresa en el Río Grande. LLegamos esperando encontrarnos un río seco y tranquilo y nos encontramos un Río Grande fluyendo al máximo y boxeando duro. Habíamos traído a Chicho para que nos acompañara y no duró ni el primer minuto adentro de su bote. No lo debí haber dejado meterse al agua, pero no fue hasta después de bajar el primer rápido que caíen cuenta que el Grande estaba a tope.
 
 El primer rápido me volteó entrando y cuando regresé a la superficie después de un rol instantáneo ya Chicho estaba nadando. Y todavía faltaban varios huecos y olas grandes antes de llegar a las aguas más tranquilas al final del rápido. El río estaba fluyendo rápido con el volúmen tan elevado de agua que estaba bajando. Joaquín y yo iniciamos el rescate de Chicho y su equipo inmediatamente, con urgencia. Si no lográbamos completar el rescate a tiempo íbamos a tener un problema en nuestras manos: la construcción de la hidroeléctrica tiene un tramo del río lleno de varillas de hierro que lo hacen potencialmente letal y ya faltaban menos de 500 metros para llegar a ese obstáculo.

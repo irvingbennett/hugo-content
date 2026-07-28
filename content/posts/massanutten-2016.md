@@ -1,38 +1,22 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781906162
-    payload:
-      - id: 5237
-      - id: 6432
-      - id: 6025
-      - id: 5853
-      - id: 6958
-      - id: 5192
 _publicize_facebook_user: http://www.facebook.com/509096638
-_publicize_twitter_user: '@irvingbennett'
-_thumbnail_id: "2954"
-_wpas_done_all: "1"
-_wpcom_is_markdown: "1"
 ase_map_component_start_point:
   lat: 29.76
   lng: -95.38
 author: Rompy
 categories:
-  - "Correr"
+- Correr
 cover:
-  image: "/wp-content/uploads/2016/05/26984293346_37efdd3c00_o.jpg"
-date: "2016-05-23T21:02:03+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=2947
+  image: /wp-content/uploads/2016/05/26984293346_37efdd3c00_o.jpg
+date: '2016-05-23T21:02:03+00:00'
 parent_post_id: null
-post_id: "2947"
+post_id: '2947'
+slug: massanutten-2016
 tags:
-  - ultra
+- ultra
 title: Massanutten 2016
-url: /2016/05/23/massanutten-2016
-
 ---
+
 Hace una semana conseguí mi sexta hebilla de 100 millas al completar Massanutten Mountain Trail 100 en un tiempo de 34:37 (34 horas y 37 minutos). Jose Orillac me acompañó terminando su carrera en 28:30. En esta ocasión me tomó veinte minutos más que en el 2014 para completar la carrera, pero esa diferencia se puede considerar virtualmente nula para una carrera tan grande. Curiosamente, esta vez me sentí mucho más confiado que la vez anterior durante la carrera y nunca llegué a estar tan cansado (ni a tener alucinaciones por falta de sueño).
 
 Lagarto hizo una carrera espectacular quedando en el 25% superior de los corredores (me ganó por seis horas). Con esta carrera ya El Croc lleva cuatro hebillas de 100 millas. Ya está listo para correr el Ultra Trail de Mont Blanc en septiembre. Espero que la comida de las estaciones de esa carrera le caiga bien para que también la pueda completar en buena forma. Yo ahora voy para Irlanda a correr 200 kilómetros en Kerry Way 200 para asegurarme de mantener mi paridad con Jose (que viene pisándome los talones).
@@ -75,4 +59,4 @@ Lagarto había escuchado que ya venía llegando y fue al carro a buscar unas cer
 
 {{< figure src="/wp-content/uploads/gallery_backup/26969312142_cef6a960ed_o.jpg" title="26969312142\_cef6a960ed\_o" alt="26969312142\_cef6a960ed\_o" >}}
 
-{{< figure src="/wp-content/uploads/gallery_backup/26412264684_cfc26e89b1_o.jpg" title="26412264684\_cfc26e89b1\_o" alt="26412264684\_cfc26e89b1\_o" >}}  
+{{< figure src="/wp-content/uploads/gallery_backup/26412264684_cfc26e89b1_o.jpg" title="26412264684\_cfc26e89b1\_o" alt="26412264684\_cfc26e89b1\_o" >}}

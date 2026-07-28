@@ -1,24 +1,15 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781904874
-    payload:
-      - id: 41
-      - id: 155
-      - id: 1061
 author: Rompy
 categories:
-  - "Caminatas"
-date: "2009-05-30T03:29:14+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=657
+- Caminatas
+date: '2009-05-30T03:29:14+00:00'
 parent_post_id: null
-post_id: "657"
+post_id: '657'
+slug: el-barrio
 title: El Barrio
-url: /2009/05/29/el-barrio
-wpb_post_views_count: "16"
-
+wpb_post_views_count: '16'
 ---
+
 \[caption id="attachment\_1164" align="alignleft" width="240" caption="Mike Morales en Denali"\] [![Mike Morales](/wp-content/uploads/2009/05/Summit-Denali.jpg)](//wp-content/uploads/2009/05/Summit-Denali.jpg)\[/caption\]
 
 Michael Morales acaba de conquistar el Everest, el primer panameño en hacerlo. Mike cuenta con todo mi respeto y admiración. Uno de mis cuñados me preguntó que cuando iba yo para allá. Yo le contesté que Everest no estaba en mi lista. Mi lista incluye Aconcagua y Kilimanjaro, un par de jamones. Mi interés está en el barrio. Me apasiona la geografía local. El conocimiento de mi patio es lo que me atrae. Yo estoy cómodo bajo la lluvia, entre los bichos y el lodo. El frío y la nieve no son mis amigos, yo soy un simple cholo del bosque, mi piel es oscura y mis ojos también.

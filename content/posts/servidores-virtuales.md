@@ -1,23 +1,23 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1782037671
-    payload:
-      - id: 282
-      - id: 150
-      - id: 195
 author: Rompy
 categories:
-  - "General"
-date: "2008-03-28T12:27:04+00:00"
-post_id: "269"
-summary: Recientemente han habido apagones frecuentes en la ciudad. Cada uno de estos apagones han sucedido cuando estoy lejos del servidor que aloja esta página. En cada una de esas instancias, después que se ha agotado la batería del servidor, se ha apagado automáticamente. No hay ningún problema con eso, pero el servidor se ha quedado apagado hasta que pueda volver a encenderlo. Además de esto, los servidores de correo del resto del mundo han estado quejándose de que este servidor esta ubicado dentro de una sección de IPs residenciales y me están rebotando el correo. Por último, ya he pasado (hace tiempo ahora mismo) por varias instancias en las que he tenido fallos mecánicos del disco duro y lo he tenido que cambiar.
+- General
+date: '2008-03-28T12:27:04+00:00'
+post_id: '269'
+slug: servidores-virtuales
+summary: Recientemente han habido apagones frecuentes en la ciudad. Cada uno de estos
+  apagones han sucedido cuando estoy lejos del servidor que aloja esta página. En
+  cada una de esas instancias, después que se ha agotado la batería del servidor,
+  se ha apagado automáticamente. No hay ningún problema con eso, pero el servidor
+  se ha quedado apagado hasta que pueda volver a encenderlo. Además de esto, los servidores
+  de correo del resto del mundo han estado quejándose de que este servidor esta ubicado
+  dentro de una sección de IPs residenciales y me están rebotando el correo. Por último,
+  ya he pasado (hace tiempo ahora mismo) por varias instancias en las que he tenido
+  fallos mecánicos del disco duro y lo he tenido que cambiar.
 title: Servidores Virtuales
-url: /2008/03/28/servidores-virtuales
-wpb_post_views_count: "8"
-
+wpb_post_views_count: '8'
 ---
+
 Recientemente han habido apagones frecuentes en la ciudad. Cada uno de estos apagones han sucedido cuando estoy lejos del servidor que aloja esta página. En cada una de esas instancias, después que se ha agotado la batería del servidor, se ha apagado automáticamente. No hay ningún problema con eso, pero el servidor se ha quedado apagado hasta que pueda volver a encenderlo. Además de esto, los servidores de correo del resto del mundo han estado quejándose de que este servidor esta ubicado dentro de una sección de IPs residenciales y me están rebotando el correo. Por último, ya he pasado (hace tiempo ahora mismo) por varias instancias en las que he tenido fallos mecánicos del disco duro y lo he tenido que cambiar.
 
 Visitando la página de [Happy Cog](http://www.happycog.com), uno de los sitios de [Jeffrey Zeldman](http://www.happycog.com/about/zeldman/), me encontré con un enlace a [Media Temple](http://mediatemple.net/). Esta empresa ofrece servidores virtuales basados en una red de equipos distribuídos con puntos de fallo redundantes. El concepto es distinto a otros planes de hospedaje con los que he trabajado anteriormente: varios sitios comparten un servidor en una galera de servidores. Típicamente estos planes cuestan menos de $10 por sitio web al mes. El plan de Media Temple es de $20 por 100Gb, 1,000 cuentas de correo, y hasta 100 dominios. Este plan cuesta más que el plan de un solo dominio, pero si se divide entre varios dominios, sale muchísimo más barato.

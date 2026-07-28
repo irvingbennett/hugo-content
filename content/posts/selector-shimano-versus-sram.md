@@ -1,26 +1,17 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781727152
-    payload:
-      - id: 258
-      - id: 227
-      - id: 172
 author: Rompy
 categories:
-  - "Bicicletas"
-date: "2008-02-25T01:36:23+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=254
+- Bicicletas
+date: '2008-02-25T01:36:23+00:00'
 parent_post_id: null
-post_id: "254"
+post_id: '254'
+slug: selector-shimano-versus-sram
 tags:
-  - bicicletas
+- bicicletas
 title: Selector Shimano Versus SRAM
-url: /2008/02/24/selector-shimano-versus-sram
-wpb_post_views_count: "27"
-
+wpb_post_views_count: '27'
 ---
+
 ![SRAM X.0](/wp-content/uploads/sram-x.0.jpg)Después de unos 4 meses con mi nueva [Trek 8500](/2007/11/13/trek-8500/), mi selector trasero se estaba poniendo lento a la hora de cambiar, especialmente al regresar al plato grande. Esto me estaba causando mucho agravio, acostumbrado que mis selectores reaccionen inmediatamente. Yo le doy buen mantenimeinto a mis bicicletas, por lo que no podía pensar que esta pudiese ser la causa del rápido deterioro de mi nuevo selector Shimano.
 
 Ya estaba poniendo en duda el nuevo diseño de los selectores traseros Shimano, que ahora suben automáticamente por medio del resorte, contrario a lo que hacían antes. Después de 30 años (más) de estar acostumbrado a que el selector trasero cambia a una relación mayor con presión, acostumbrarme a lo contrario me estaba resultando difícil. Pero en realidad el selector nuevo subía al plato más grande sin problema, aún cambiando loma arriba y con presión en los pedales. El diseño de la nueva piña trasera engancha la cadena y la lleva a montarse fácilmente. Pero ya no estaba funcionando bien.

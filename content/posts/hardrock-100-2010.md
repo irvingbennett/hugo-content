@@ -1,27 +1,18 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781787440
-    payload:
-      - id: 1903
-      - id: 2373
-      - id: 2249
-_wp_old_slug: ""
+_wp_old_slug: ''
 author: Rompy
 categories:
-  - "Correr"
-date: "2010-07-15T14:29:55+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=1061
+- Correr
+date: '2010-07-15T14:29:55+00:00'
 parent_post_id: null
-post_id: "1061"
+post_id: '1061'
+slug: hardrock-100-2010
 tags:
-  - ultra
+- ultra
 title: Hardrock 100 - 2010
-url: /2010/07/15/hardrock-100-2010
-wpb_post_views_count: "14"
-
+wpb_post_views_count: '14'
 ---
+
 \[caption id="attachment\_1062" align="aligncenter" width="640" caption="Luis Carlos en el Hardrock 100"\] [![Luis Carlos en el Hardrock 100](/wp-content/uploads/2010/07/P7090126-1024x768.jpg)](//wp-content/uploads/2010/07/P7090126.jpg)\[/caption\]
 
 Acabamos de regresar de Silverton, Colorado, donde estuvimos acompañando a Luis Carlos en su carrera de 161 kilómetros (100 millas). El [Hardrock 100](http://hardrock100.com/ "Hardrock 100") es la carrera más difícil de su clase en el mundo, y la gente que se atreve a correrla es un grupo de gente muy tenaz y determinada. Luis Carlos no pudo con la carrera [este año](http://puravoluntad.org/historias-de-voluntad/hard-rock/la-historia-de-hardrock-100-version-2010 "Relato de LC del Hardrock 2010"), pero estoy seguro que es solo cuestión de tiempo para que muela esa roca (un dolor de cabeza intenso lo sacó de su ritmo). Lorena y yo estamos muy agradecidos por haber tenido la oportunidad de acompañar a Luis Carlos en su aventura y compartir en toda la experiencia de ese evento con [Carlitos Rettally](http://elrets.wordpress.com/ "El Rets") y Marlene Stoute.

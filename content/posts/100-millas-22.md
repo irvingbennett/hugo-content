@@ -1,43 +1,29 @@
 ---
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1782182674
-    payload:
-      - id: 1339
-      - id: 5853
-      - id: 1759
-      - id: 5192
-      - id: 2373
-      - id: 1061
 _publicize_shares:
-  - connection_id: 6900156
-    external_id: alairelibre.tumblr.com
-    external_name: Al Aire Libre
-    message: http://alairelibre.tumblr.com/post/811543563766824960
-    profile_link: http://alairelibre.tumblr.com/
-    profile_picture: ""
-    service: tumblr
-    status: success
-    timestamp: 1773948253
-    wpcom_user_id: 1142432
-_thumbnail_id: "6962"
-_wpas_done_all: "1"
-_wpcom_is_markdown: "1"
+- connection_id: 6900156
+  external_id: alairelibre.tumblr.com
+  external_name: Al Aire Libre
+  message: http://alairelibre.tumblr.com/post/811543563766824960
+  profile_link: http://alairelibre.tumblr.com/
+  profile_picture: ''
+  service: tumblr
+  status: success
+  timestamp: 1773948253
+  wpcom_user_id: 1142432
 author: Rompy
 categories:
-  - "Correr"
+- Correr
 cover:
-  image: "/wp-content/uploads/2026/03/IMG-20260223-WA0013.jpg"
-date: "2026-03-19T19:24:05+00:00"
-guid: http://localhost/?p=6958
+  image: /wp-content/uploads/2026/03/IMG-20260223-WA0013.jpg
+date: '2026-03-19T19:24:05+00:00'
 parent_post_id: null
-post_id: "6958"
+post_id: '6958'
+slug: 100-millas-22
 tags:
-  - ultra
+- ultra
 title: '100 Millas #22'
-url: /2026/03/19/100-millas-22
-
 ---
+
 Acabo de completar mi cuarto Reto del Indio y con esa carrera he llegado a 22 carreras de 100 millas completadas. He empezado 29 carreras de 100 millas hasta ahora, tres de esas me las acortaron por clima (y las terminé), y he acumulado 4 DNFs: Kerry Way 200k 2016, Western States 2017, Ultra Coahuila 2022 y Ultra Tour Monte Rosa 2023. Esta última carrera es la que más me ha costado terminar porque se me agotó la espalda baja y quedé doblado por los últimos 15 kilómetros. Con todo y eso no fui el último en terminar, solo el más viejo en llegar a la meta.
 
 {{< figure src="/wp-content/uploads/gallery_backup/IMG-20260222-WA0033.jpg" alt="" caption="" >}}

@@ -1,35 +1,17 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781855048
-    payload:
-      - id: 865
-      - id: 1845
-      - id: 1566
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781821396
-    payload:
-      - id: 865
-      - id: 1845
-      - id: 1566
-      - id: 2811
-      - id: 1956
-      - id: 2136
 author: Rompy
 categories:
-  - "Correr"
-date: "2009-07-18T22:59:22+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=714
+- Correr
+date: '2009-07-18T22:59:22+00:00'
 parent_post_id: null
-post_id: "714"
+post_id: '714'
+slug: zoot-energy-zapatillas-favoritas
 tags:
-  - triatlón
+- triatlón
 title: Zoot Energy, zapatillas favoritas
-url: /2009/07/18/zoot-energy-zapatillas-favoritas
-wpb_post_views_count: "32"
-
+wpb_post_views_count: '32'
 ---
+
 ![Zapatillas Zoot Energy](/wp-content/uploads/2009/07/zoot_energy.jpg)
 
 Hacía rato estaba buscando unas zapatillas para reemplazar mis Nike Free 5.0 que ya están cerca de llegar a su jubilación. Ultimamente no encuentro nada bueno en las zapatillas que están llegando a Panamá, y menos en las que están disponibles en mi talla: 12. Me encanta correr sin medias, pero después de los 15 kilómetros se necesita un excelente par de zapatillas para regresar con los piés intactos. Y aún con medias, tengo un par de Reeboks que me dejan algo delicado el dedo gordo del pié. Al principio del año, estando en San Diego, visité una tienda de Road Runner Sports y vi las zapatillas Zoot. Me parecieron un buen concepto, pero no me las pude probar por que se demoraron mucho en atenderme y decidí no seguir esperando (había mucha gente).

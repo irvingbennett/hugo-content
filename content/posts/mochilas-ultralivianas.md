@@ -1,38 +1,28 @@
 ---
-_edit_last: "1"
-_jetpack_dont_email_post_to_subs: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1782153562
-    payload:
-      - id: 167
-      - id: 194
-      - id: 608
-_wpas_skip_6885108: "1"
-_wpas_skip_6885117: "1"
-_wpas_skip_6885125: "1"
-_wpas_skip_6885140: "1"
-_wpas_skip_6885155: "1"
-_wpcom_is_markdown: "1"
+_jetpack_dont_email_post_to_subs: '1'
+_wpas_skip_6885108: '1'
+_wpas_skip_6885117: '1'
+_wpas_skip_6885125: '1'
+_wpas_skip_6885140: '1'
+_wpas_skip_6885155: '1'
 author: Rompy
 categories:
-  - "Caminatas"
-date: "2009-06-17T02:20:44+00:00"
+- Caminatas
+date: '2009-06-17T02:20:44+00:00'
 embed: This is the default text
-fullby_video: ""
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=682
-image: ""
+fullby_video: ''
+image: ''
 parent_post_id: null
-post_id: "682"
-seo_follow: "false"
-seo_noindex: "false"
+post_id: '682'
+seo_follow: 'false'
+seo_noindex: 'false'
+slug: mochilas-ultralivianas
 tags:
-  - equipo
+- equipo
 title: Mochilas Ultralivianas
-url: /2009/06/16/mochilas-ultralivianas
-wpb_post_views_count: "73"
-
+wpb_post_views_count: '73'
 ---
+
 {{< figure align="alignleft" width=300 src="/wp-content/uploads/gallery_backup/jam2.jpg" alt="Mochila Jam2" caption="Mochila Jam2" >}}
 
 Recientemente estaba haciendo una comparación de mochilas ultralivianas, solamente por hacer el ejercicio. Decidí comparar mi actual mochila contra algunas que hay en el mercado, y una que consiguió mi sobrino. A continuación hay una tabla con los datos básicos del estudio:

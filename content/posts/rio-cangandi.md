@@ -1,35 +1,23 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1782028968
-    payload:
-      - id: 6203
-      - id: 2843
-      - id: 2382
-_publicize_twitter_user: '@irvingbennett'
-_thumbnail_id: "3711"
-_wpas_done_all: "1"
-_wpcom_is_markdown: "1"
 author: Rompy
 categories:
-  - "Caminatas"
+- Caminatas
 cover:
-  image: "/wp-content/uploads/2017/06/DSCN6536-scaled.jpg"
-date: "2017-06-13T23:57:23+00:00"
-enclosure: |-
-  http://u8z.3d5.mywebsitetransfer.com/wp-content/uploads/2017/06/20170610_112025.mp4
-  9910549
-  video/mp4
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=3708
-parent_post_id: null
-post_id: "3708"
-tags:
-  - trek
-title: Río Cangandí
-url: /2017/06/13/rio-cangandi
+  image: /wp-content/uploads/2017/06/DSCN6536-scaled.jpg
+date: '2017-06-13T23:57:23+00:00'
+enclosure: 'http://u8z.3d5.mywebsitetransfer.com/wp-content/uploads/2017/06/20170610_112025.mp4
 
+  9910549
+
+  video/mp4'
+parent_post_id: null
+post_id: '3708'
+slug: rio-cangandi
+tags:
+- trek
+title: Río Cangandí
 ---
+
 Este fin de semana fuimos a dormir al Río Cangandí. El plan era sencillo: ir hasta donde encontráramos un lugar agradable para dormir, acampar y regresar. Generalmente me gustan los viajes de una vía, pero jamás desprecio la oportunidad de ir a acampar cuando se presenta. En este caso Sjef y otros buenos amigos estaban con ganas de ir a caminar y mi hijo Irving también estaba dispuesto a acompañarnos.
 
 [![](/wp-content/uploads/2017/06/DSCN6527-150x150.jpg)](//wp-content/uploads/2017/06/DSCN6527.jpg) Originalmente íbamos en un par de autos y éramos 12 los apuntados. Como frecuentemente sucede, el grupo se fue reduciendo y al final quedamos cuatro mosqueteros, Carlota, Sjef, Irving y yo. Manejamos hasta Madroño para cubrir todo lo que pudiéramos hacer en auto y buscamos donde dejarlo bien cuidado. Preguntando quedamos donde el Sr. Eustaquio Gil. Iguafioli, un kuna que trabaja con Earthtrain y vive con la familia donde el Sr. Gil, nos acompañó hasta el sendero hacia Cangandí porque iba para una finca del Sr. Gil a trabajar plantando culantro.
@@ -93,4 +81,4 @@ Ruta en Wikiloc: [https://es.wikiloc.com/wikiloc/view.do?id=18214927](https://e
 
 {{< figure src="/wp-content/uploads/gallery_backup/DSCN6528.jpg" title="DSCN6528" alt="DSCN6528" >}}
 
-{{< figure src="/wp-content/uploads/gallery_backup/DSCN6591.jpg" title="Sendero" alt="Sendero" >}}  
+{{< figure src="/wp-content/uploads/gallery_backup/DSCN6591.jpg" title="Sendero" alt="Sendero" >}}

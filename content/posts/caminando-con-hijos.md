@@ -1,26 +1,15 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781800721
-    payload:
-      - id: 247
-      - id: 1049
-      - id: 1153
-_thumbnail_id: "2301"
 author: Rompy
 categories:
-  - "Caminatas"
+- Caminatas
 cover:
-  image: "/wp-content/uploads/2012/11/DSCN2563.jpg"
-date: "2012-11-07T19:10:01+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=2293
+  image: /wp-content/uploads/2012/11/DSCN2563.jpg
+date: '2012-11-07T19:10:01+00:00'
 parent_post_id: null
-post_id: "2293"
+post_id: '2293'
+slug: caminando-con-hijos
 title: Caminando Con Hijos
-url: /2012/11/07/caminando-con-hijos
-wpb_post_views_count: "25"
-
+wpb_post_views_count: '25'
 ---
 
 ![Imágen de Partida](/wp-content/uploads/gallery_backup/DSCN2475.JPG)
@@ -58,4 +47,4 @@ Eventualmente logramos encontrar una buena bajada al río (Quebrada Nisperal) qu
 
 {{< figure src="/wp-content/uploads/gallery_backup/DSCN2513.jpg" title="DSCN2513" alt="DSCN2513" >}}
 
-{{< figure src="/wp-content/uploads/gallery_backup/DSCN2561.jpg" title="DSCN2561" alt="DSCN2561" >}}  
+{{< figure src="/wp-content/uploads/gallery_backup/DSCN2561.jpg" title="DSCN2561" alt="DSCN2561" >}}

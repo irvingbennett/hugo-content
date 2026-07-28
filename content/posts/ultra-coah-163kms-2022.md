@@ -1,31 +1,19 @@
 ---
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781905866
-    payload:
-      - id: 6958
-      - id: 992
-      - id: 2087
 _last_editor_used_jetpack: block-editor
-_publicize_twitter_user: '@irvingbennett'
-_thumbnail_id: "5809"
-_wpas_done_all: "1"
-_wpcom_is_markdown: "1"
 author: Rompy
 categories:
-  - "Correr"
+- Correr
 cover:
-  image: "/wp-content/uploads/2022/06/UC2022_logo2.png"
-date: "2022-06-24T15:56:54+00:00"
-guid: http://hbx.wvf.mybluehost.me/?p=5808
+  image: /wp-content/uploads/2022/06/UC2022_logo2.png
+date: '2022-06-24T15:56:54+00:00'
 parent_post_id: null
-post_id: "5808"
+post_id: '5808'
+slug: ultra-coah-163kms-2022
 tags:
-  - ultra
+- ultra
 title: Ultra Coah 163kms 2022
-url: /2022/06/24/ultra-coah-163kms-2022
-
 ---
+
 Ya pronto salgo hacia la expo y registro para [Ultra Coah](https://www.ultracoahuila.com/ultra/) 2022, una carrera de 163 kilómetros con 9,480 metros de desnivel y 35 horas de tiempo límite. Voy a hacer todo lo posible por terminarla, pero está al borde de lo que puedo lograr con mi forma actual. Estoy llegando en bastante buen estado, ileso, sin dolores, y con el entrenamiento **mínimo** necesario.
 
 {{< figure src="/wp-content/uploads/gallery_backup/20220623_181904.jpg" alt="" caption="" >}}

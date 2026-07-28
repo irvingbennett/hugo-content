@@ -1,29 +1,15 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781972158
-    payload:
-      - id: 2175
-      - id: 1411
-      - id: 1802
-      - id: 1495
-      - id: 2181
-      - id: 2388
-_thumbnail_id: "1780"
 author: Rompy
 categories:
-  - "Correr"
+- Correr
 cover:
-  image: "/wp-content/uploades/gallery_backup/P8280624.jpg"
-date: "2011-09-07T12:56:45+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=1778
+  image: /wp-content/uploades/gallery_backup/P8280624.jpg
+date: '2011-09-07T12:56:45+00:00'
 parent_post_id: null
-post_id: "1778"
+post_id: '1778'
+slug: listo-para-el-valle
 title: Listo para El Valle
-url: /2011/09/07/listo-para-el-valle
-wpb_post_views_count: "10"
-
+wpb_post_views_count: '10'
 ---
 
 !["Marcando La Silla"](/wp-content/uploads/gallery_backup/P8280624.jpg)

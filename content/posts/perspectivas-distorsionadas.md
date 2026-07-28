@@ -1,30 +1,17 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781824814
-    payload:
-      - id: 3041
-      - id: 41
-      - id: 677
-      - id: 608
-      - id: 893
-      - id: 929
-_thumbnail_id: "2144"
 author: Rompy
 categories:
-  - "Caminatas"
+- Caminatas
 cover:
-  image: "/wp-content/uploads/2012/07/CañonColorado1980.jpg"
-date: "2012-07-22T22:54:35+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=2143
+  image: /wp-content/uploads/2012/07/CañonColorado1980.jpg
+date: '2012-07-22T22:54:35+00:00'
 parent_post_id: null
-post_id: "2143"
+post_id: '2143'
+slug: perspectivas-distorsionadas
 title: Perspectivas Distorsionadas
-url: /2012/07/22/perspectivas-distorsionadas
-wpb_post_views_count: "14"
-
+wpb_post_views_count: '14'
 ---
+
 {{< figure align="aligncenter" width=640 src="/wp-content/uploads/gallery_backup/CañonColorado1980.jpg" alt="" caption="" >}}
 
 Ya varias veces me he escuchado decir algo como "pero solamente estaba corriendo 50km", "nada mas eran 21km", "un Ironman es fácil", o alguna burrada similar. Cuando lo pienso bien, queda claro que era figurativo lo que estaba hablando. La realidad es que mi visión ya tiene rato de estar distorsionada, y solamente está empeorando.

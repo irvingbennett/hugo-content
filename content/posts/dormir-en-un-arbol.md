@@ -1,25 +1,15 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1782153424
-    payload:
-      - id: 247
-      - id: 141
-      - id: 161
-_wpcom_is_markdown: "1"
 author: Rompy
 categories:
-  - "General"
-date: "2009-07-25T18:03:46+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=729
+- General
+date: '2009-07-25T18:03:46+00:00'
 parent_post_id: null
-post_id: "729"
+post_id: '729'
+slug: dormir-en-un-arbol
 title: Dormir en un Arbol
-url: /2009/07/25/dormir-en-un-arbol
-wpb_post_views_count: "11"
-
+wpb_post_views_count: '11'
 ---
+
 Hace rato que tengo ganas de dormir en un árbol, colgado en una hamaca. Con lo sencillo que es hacer esto, me sorprende que he dejado pasar tanto tiempo sin hacerlo. Ya tengo varios árboles identificados en lugares excelentes para que la experiencia sea de lo más amena. Pero no aterrizo concretando esta experiencia que estoy buscando. No tiene nada del otro mundo, pero creo que debe ser agradable ver el amanecer desde el docel del bosque, especialmente si consigo un árbol sobresaliente que esté por encima de los demás.
 
 En el Camino de Cruces hay varios árboles que podrían ser interesantes. También tengo un árbol, un ceibo inmenso, en el Río Boquerón. En el Parque Omar hay unos candidatos, pero no es tan atractivo dormir en un parque en el medio de la ciudad. En el Camino del Oleoducto, y en Camino de Plantación también hay unos buenos candidatos para trepar y pasar la noche. Creo que sería muy divertido pasar la noche con mi hijo Irving arriba de un árbol inmenso.

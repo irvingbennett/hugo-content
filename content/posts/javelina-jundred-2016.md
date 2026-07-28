@@ -1,31 +1,18 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781792257
-    payload:
-      - id: 6958
-      - id: 5237
-      - id: 913
-_publicize_twitter_user: '@irvingbennett'
-_thumbnail_id: "3089"
-_wpas_done_all: "1"
-_wpcom_is_markdown: "1"
 author: Rompy
 categories:
-  - "Correr"
+- Correr
 cover:
-  image: "/wp-content/uploads/2016/12/IMG_9424-777858.jpg"
-date: "2016-12-25T14:20:41+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=3054
+  image: /wp-content/uploads/2016/12/IMG_9424-777858.jpg
+date: '2016-12-25T14:20:41+00:00'
 parent_post_id: null
-post_id: "3054"
+post_id: '3054'
+slug: javelina-jundred-2016
 tags:
-  - ultra
+- ultra
 title: Javelina Jundred 2016
-url: /2016/12/25/javelina-jundred-2016
-
 ---
+
 Este último fin de semana de octubre corrí [Javelina Jundred](http://aravaiparunning.com/network/javelinajundred/) 100 millas en 25:58:54, mi mejor tiempo hasta ahora en las cien millas. Con esta carrera conseguí mi séptima hebilla de ultra corredor. Después de haber corrido Javelina en el 2010, mejoré el tiempo de esta carrera en 2:50 (casi tres horas) y volví a correr vestido de Hombre Araña, como lo hice aquella vez. Diría que la experiencia me permitió mejorar mi tiempo porque no creo que esté corriendo con la misma fuerza y velocidad que tenía a mis 49 años (de eso estoy seguro).
 
 Javelina Jundred se corre en McDowell Mountain Regional Park en el desierto de Arizona, afuera de Phoenix. Este año nos tocó la temperatura más alta que se haya registrado para ese día del año en toda la historia del parque. Estaba caliente. Pero a mí no me afecto tanto la temperatura, a pesar de mi disfraz, porque siempre me mantuve húmedo y usé un pañuelo con hielo alrededor del cuello. No tomé más agua de la cuenta, casi nada, de hecho. Me echaba el agua encima para mantener la temperatura cómoda. Corrí toda la carrera con dos botellas, una con Gatorade y otra con agua. La de Gatorade me la tomaba y la de agua la usaba para controlar mi temperatura.

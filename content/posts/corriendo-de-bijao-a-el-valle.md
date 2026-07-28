@@ -1,33 +1,21 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781828213
-    payload:
-      - id: 554
-      - id: 801
-      - id: 1778
-      - id: 773
-      - id: 1411
-      - id: 1043
 author: Rompy
 categories:
-  - "Correr"
-date: "2011-04-25T13:15:45+00:00"
+- Correr
+date: '2011-04-25T13:15:45+00:00'
 embed: This is the default text
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=1569
-image: ""
+image: ''
 parent_post_id: null
-post_id: "1569"
-seo_follow: "false"
-seo_noindex: "false"
+post_id: '1569'
+seo_follow: 'false'
+seo_noindex: 'false'
+slug: corriendo-de-bijao-a-el-valle
 tags:
-  - ultra
+- ultra
 title: Corriendo de Bijao a El Valle
-url: /2011/04/25/corriendo-de-bijao-a-el-valle
-wpb_post_views_count: "14"
-
+wpb_post_views_count: '14'
 ---
+
 Esta Semana Santa corrí mucho. El Viernes Santo corrimos desde Bijao, en la playa, hasta El Valle de Antón. Aún no he medido exactamente cuanto fue, pero nos tardó 3:30 para completar lo que calculo que estaba cerca de 30km. Roger y yo salimos a las 4:30am y llegamos a El Valle a las 9:00am. Por suerte había una buena luna a esa hora y nos ayudó bastante por los tramos donde no había luz en la calle.
 
 El principio del recorrido es bastante plano y luego va haciendo una inexorable trepada hasta los 850 metros antes de bajar a El Valle, a 560 metros. Los primeros 6 kilómetros fueron de asfalto, saliendo de Bijao hasta un kilómetro adentro después de la entrada de Las Guías. Luego el terreno es de una tosca bien compactada, muy cómoda para correr. Acaban de pasarle cuchilla al camino hasta la altura de El Macano. Se han tirado uno de los mejores caminos para bicicleta que hemos gozado por muchos años en El Reto del Indio. Ahora mismo pueden subir los autos 4x4 hasta El Valle sin ningún problema.

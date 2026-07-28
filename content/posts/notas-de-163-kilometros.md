@@ -1,30 +1,18 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781912639
-    payload:
-      - id: 1443
-      - id: 1845
-      - id: 913
-      - id: 6958
-      - id: 1432
-      - id: 1854
-_wp_old_slug: ""
+_wp_old_slug: ''
 author: Rompy
 categories:
-  - "Correr"
-date: "2010-11-02T23:04:42+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=1315
+- Correr
+date: '2010-11-02T23:04:42+00:00'
 parent_post_id: null
-post_id: "1315"
+post_id: '1315'
+slug: notas-de-163-kilometros
 tags:
-  - ultra
+- ultra
 title: Notas de 163 Kilómetros
-url: /2010/11/02/notas-de-163-kilometros
-wpb_post_views_count: "8"
-
+wpb_post_views_count: '8'
 ---
+
 Una semana después de haber terminado el Javelina Jundred y ya estoy bastante recuperado. El sábado monté un par de horas de bicicleta y ayer corrí en el Hash, moderadamente. Los piés ya están perdiendo la sensibilidad que tenía en las plantas, mis tendones se sienten mejor, y la uña de mi dedo gordo del pié derecho llegó a su color natural: negro. Creo que salí muy bien librado de mi batalla con Javelina Jundred 2010.
 
 Zapatillas: las Inov8 me dieron muy buen servicio hasta los 125 kilómetros. Después los cordones elásticos que les había colocado me estaban lastimando el empeine. Las usaría nuevamente, pero aflojaría los elásticos desde un principio. Los tenía algo apretados por que cuando se mojan las zapatillas necesito la tensión adicional. Preferiría que las Inov8 X-Talon 212 tuviesen la lengüeta cocida para evitar que se le metieran las pequeñas piedras, aún con las polainas puestas. Me parece que se me metieron menos piedras con las Nike Free, sin polainas, que las X-Talon con polainas. Aún así, nunca me quité las X-Talon hasta que me las cambié.

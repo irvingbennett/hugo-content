@@ -1,26 +1,17 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781778598
-    payload:
-      - id: 2909
-      - id: 194
-      - id: 171
 author: Rompy
 categories:
-  - "General"
-date: "2008-03-26T12:25:42+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=266
+- General
+date: '2008-03-26T12:25:42+00:00'
 parent_post_id: null
-post_id: "266"
+post_id: '266'
+slug: titanio-mi-metal-favorito
 tags:
-  - bicicletas
+- bicicletas
 title: Titanio, mi metal favorito
-url: /2008/03/26/titanio-mi-metal-favorito
-wpb_post_views_count: "47"
-
+wpb_post_views_count: '47'
 ---
+
 ![Tabla periódica](/wp-content/uploads/671px-Ti-TableImage.svg.png)  
 
 El [titanio](http://es.wikipedia.org/wiki/Titanio) es mi metal favorito, y casi un objeto de atracción compulsiva. Es un super metal, impervio al óxido y los ácidos, de una gran dureza pero a la vez flexible. Es especialmente práctico en aplicaciones donde el ahorro de peso es crucial, como en caminatas donde hay que cargarlo todo en la espalda. Su mayor inconveniente: es difícil trabajarlo y por eso es caro. El titanio tiene la mayor relación de fuerza vs. peso de todos los metales, es tan fuerte como el acero, pero pesa 45% menos.

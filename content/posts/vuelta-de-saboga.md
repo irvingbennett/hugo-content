@@ -1,30 +1,19 @@
 ---
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781810027
-    payload:
-      - id: 6232
-      - id: 6302
-      - id: 6601
 _last_editor_used_jetpack: block-editor
-_thumbnail_id: "6326"
-_wpas_done_all: "1"
-_wpcom_is_markdown: "1"
 author: Rompy
 categories:
-  - "Kayaking"
+- Kayaking
 cover:
-  image: "/wp-content/uploads/2024/07/IMG-20170713-WA0071.jpg"
-date: "2024-07-02T00:10:58+00:00"
-guid: http://localhost/?p=6322
+  image: /wp-content/uploads/2024/07/IMG-20170713-WA0071.jpg
+date: '2024-07-02T00:10:58+00:00'
 parent_post_id: null
-post_id: "6322"
+post_id: '6322'
+slug: vuelta-de-saboga
 tags:
-  - travesias
+- travesias
 title: Vuelta de Saboga
-url: /2024/07/01/vuelta-de-saboga
-
 ---
+
 {{< figure src="/wp-content/uploads/gallery_backup/image-2.png" alt="" caption="" >}}
 
 Esta semana que viene estoy planeando hacer una remada a Saboga vía Chepillo. El regreso sería Saboga a Taboga y de regreso a la ciudad. Si todo marcha bien nos debe tomar cuatro días. En el peor de los casos, si el mar está feo para el cruce Saboga a Taboga, regresamos por dónde vinimos, vía Chepillo. La remada más larga sería el tercer día, de Saboga a Taboga.

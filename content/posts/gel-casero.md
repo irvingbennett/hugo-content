@@ -1,27 +1,17 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781794750
-    payload:
-      - id: 482
-      - id: 1566
-      - id: 2714
-_thumbnail_id: "2055"
 author: Rompy
 categories:
-  - "Correr"
+- Correr
 cover:
-  image: "/wp-content/uploads/2012/06/power-goop.jpg"
-date: "2012-06-20T00:39:42+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=2054
+  image: /wp-content/uploads/2012/06/power-goop.jpg
+date: '2012-06-20T00:39:42+00:00'
 parent_post_id: null
-post_id: "2054"
+post_id: '2054'
+slug: gel-casero
 title: Gel Casero
-url: /2012/06/19/gel-casero
-wpb_post_views_count: "14"
-
+wpb_post_views_count: '14'
 ---
+
 {{< figure align="aligncenter" width=640 src="/wp-content/uploads/gallery_backup/power-goop.jpg" alt="" caption="" >}}
 
 Este jueves me toca correr desde Pedasí hasta Divisa (111km) como parte del evento "Frontera a Frontera" de [Pura Voluntad](http://puravoluntad.org/ "Pura Voluntad"). He decidido que es hora de probar un [gel casero](http://www.google.com/search) y esta es una buena oportunidad para probar ya que voy a tener un vehículo de soporte con todo lo que decida llevar. He buscado un par de recetas sobre como preparar un gel casero y casi todas coinciden. Me decidí por una sencilla que aparece en Active.com que usa miel, o sirope de ágave, melasa y sal.

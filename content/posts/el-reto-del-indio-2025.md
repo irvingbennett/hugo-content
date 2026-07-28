@@ -1,64 +1,53 @@
 ---
-_g_feedback_shortcode_ad8526703013caac5a54acc3bb58d31f5102d682: |-
-  [contact-field label="Nombre" type="name"  required="true" /]
-  				[contact-field label="Correo electrónico" type="email" required="true" /]
-  				[contact-field label="Web" type="url" /]
-  				[contact-field label="Mensaje" type="textarea" /]
+_g_feedback_shortcode_ad8526703013caac5a54acc3bb58d31f5102d682: "[contact-field label=\"Nombre\"
+  type=\"name\"  required=\"true\" /]\n\t\t\t\t[contact-field label=\"Correo electrónico\"
+  type=\"email\" required=\"true\" /]\n\t\t\t\t[contact-field label=\"Web\" type=\"url\"
+  /]\n\t\t\t\t[contact-field label=\"Mensaje\" type=\"textarea\" /]"
 _g_feedback_shortcode_atts_ad8526703013caac5a54acc3bb58d31f5102d682:
   block_template: null
   block_template_part: null
   className: null
-  customThankyou: ""
+  customThankyou: ''
   customThankyouHeading: Tu mensaje se ha enviado
   customThankyouMessage: ¡Gracias por tu envío!
-  customThankyouRedirect: ""
+  customThankyouRedirect: ''
   hiddenFields: null
   id: 6657
   jetpackCRM: true
   postToUrl: null
   salesforceData: null
-  show_subject: "no"
+  show_subject: 'no'
   subject: '[Al Aire Libre] El Reto del Indio 2025'
   submit_button_text: Enviar
   to: irving@alairelibre.net
   widget: 0
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781622818
-    payload:
-      - id: 6933
-      - id: 6763
-      - id: 5216
 _publicize_shares:
-  - connection_id: 6900156
-    external_id: alairelibre.tumblr.com
-    external_name: Al Aire Libre
-    message: http://alairelibre.tumblr.com/post/776490621679665152
-    profile_link: http://alairelibre.tumblr.com/
-    profile_picture: ""
-    service: tumblr
-    status: success
-    timestamp: 1740519163
-_thumbnail_id: "6658"
-_wpas_done_all: "1"
-_wpcom_is_markdown: "1"
+- connection_id: 6900156
+  external_id: alairelibre.tumblr.com
+  external_name: Al Aire Libre
+  message: http://alairelibre.tumblr.com/post/776490621679665152
+  profile_link: http://alairelibre.tumblr.com/
+  profile_picture: ''
+  service: tumblr
+  status: success
+  timestamp: 1740519163
 author: Rompy
 categories:
-  - "General"
+- General
 cover:
-  image: "/wp-content/uploads/2025/02/IMG-20250223-WA0004.jpg"
-date: "2025-02-25T21:32:35+00:00"
-enclosure: |-
-  http://localhost/wp-content/uploads/2025/02/VID-20250224-WA0036.mp4
-  0
-  video/mp4
-guid: http://localhost/?p=6657
-parent_post_id: null
-post_id: "6657"
-title: El Reto del Indio 2025
-url: /2025/02/25/el-reto-del-indio-2025
+  image: /wp-content/uploads/2025/02/IMG-20250223-WA0004.jpg
+date: '2025-02-25T21:32:35+00:00'
+enclosure: 'http://localhost/wp-content/uploads/2025/02/VID-20250224-WA0036.mp4
 
+  0
+
+  video/mp4'
+parent_post_id: null
+post_id: '6657'
+slug: el-reto-del-indio-2025
+title: El Reto del Indio 2025
 ---
+
 Este tercer Reto del Indio me salió premiado por todos lados: corrí sin problemas, quedé segunda en la categoría masters (45 años hacia arriba), hice mi mejor tiempo en esa carrera y conseguí mi hebilla #21. Ni armé bolsas para las dos estaciones intermedias, tal como salí, así llegué. Como dicen: "experiencia mata tiempo". Logré mejorar mi tiempo de la manera más sencilla: dejé de sentarme a conversar en las estaciones. Y, lo más importante, inicié la carrera bien descansado.
 
 {{< figure src="/wp-content/uploads/gallery_backup/IMG-20250223-WA0004-1.jpg" alt="" caption="" >}}

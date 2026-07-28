@@ -1,34 +1,24 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781911176
-    payload:
-      - id: 3617
-      - id: 1319
-      - id: 6958
-_thumbnail_id: "1340"
-_wp_old_slug: ""
+_wp_old_slug: ''
 author: Rompy
 categories:
-  - "Correr"
+- Correr
 cover:
-  image: "/wp-content/uploads/2010/12/wstrailgraphic.jpg"
-date: "2010-12-07T20:12:29+00:00"
+  image: /wp-content/uploads/2010/12/wstrailgraphic.jpg
+date: '2010-12-07T20:12:29+00:00'
 embed: This is the default text
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=1339
-image: ""
+image: ''
 parent_post_id: null
-post_id: "1339"
-seo_follow: "false"
-seo_noindex: "false"
+post_id: '1339'
+seo_follow: 'false'
+seo_noindex: 'false'
+slug: camino-a-western-states-100
 tags:
-  - ultra
+- ultra
 title: Camino a Western States 100
-url: /2010/12/07/camino-a-western-states-100
-wpb_post_views_count: "11"
-
+wpb_post_views_count: '11'
 ---
+
 ¡Es oficial! He salido, por suerte, premiado en la lotería con una posición en la linea de partida para el Western States 100 para junio 25 del 2011. Tenía a Leadville 100 de respaldo por si esto no sucedía. Ahora la primera meta del 2011 esta claramente definida: la icónica carrera de 100 millas, la más vieja de todas, la ultra de las ultras, Western States. El lema de la carrera es "100 millas, un día". Esa es la meta...
 
 Ya he probado que puedo terminar una carrera de 100 millas (161 kilómetros), ahora quiero medirme contra la marca de las 24 horas. Esto sube la barra un poco, especialmente para un viejo como yo, que voy a tener 50 años para la fecha de la carrera. Pero eso hace interesante la motivación para hacer la carrera. El premio, en este caso, es la hebilla de plata que dan al terminar en menos de 24 horas. Estoy claro que el peligro de buscar completar la carrera en menos de un día pone en peligro el poder terminar la carrera.

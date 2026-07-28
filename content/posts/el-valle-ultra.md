@@ -1,30 +1,18 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781907637
-    payload:
-      - id: 1327
-      - id: 2253
-      - id: 992
-      - id: 1495
-      - id: 918
-      - id: 192
-_wp_old_slug: ""
+_wp_old_slug: ''
 author: Rompy
 categories:
-  - "Correr"
-date: "2010-08-18T23:14:20+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=1155
+- Correr
+date: '2010-08-18T23:14:20+00:00'
 parent_post_id: null
-post_id: "1155"
+post_id: '1155'
+slug: el-valle-ultra
 tags:
-  - ultra
+- ultra
 title: El Valle Ultra
-url: /2010/08/18/el-valle-ultra
-wpb_post_views_count: "17"
-
+wpb_post_views_count: '17'
 ---
+
 Bueno, ya pasó el ajetreo de El Valle Trail Race 2010. Después de conversar con muchos de los participantes de la sección larga de la carrera, y escuchar la opinión de varios de la distancia de 21km., creo que la ruta fue bien acogida. Habrán quienes no la quieran repetir, quienes estén ansiando por probarla, y los que tienen un clavo que sacarse. Me alegró mucho ver una participación tan buena en esta edición del evento. Pero 45km. no es un maratón, y tampoco la consideramos ultra (por definición, puede llamarse así). En la práctica, la versión de 45km. es tan difícil como cualquier ultra, pero la [IAU](http://www.iau.org.tw/ "International Association of Ultrarunning") considera que los ultramaratones arrancan en 50km.
 
 ¿Por qué no extender la carrera un tris y volverla una ultra de verdad? En estos momentos en Panamá hay un maratón, varios [relevos](http://relevos.info "Relevos Transístimicos"), distancias intermedias, y falta una verdadera [ultramaratón](http://es.wikipedia.org/wiki/Ultramarat%C3%B3n "ultramaratón"). Opcionalmente, cambiemos el nombre a El Valle Ultra Race y dejemos la distancia como está. He escuchado varias opciones: pegar las 2 vueltas de 21km (2009 y 2010) y hacer un maratón, repetir la ruta, y cambiar la ruta. Todas esas opciones tienen sus puntos a favor.

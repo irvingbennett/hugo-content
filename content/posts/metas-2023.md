@@ -1,22 +1,14 @@
 ---
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781157190
-    payload:
-      - id: 6432
-      - id: 6958
-      - id: 6025
 author: Rompy
 categories:
-  - "General"
-date: "2023-03-20T16:23:40+00:00"
-guid: http://hbx.wvf.mybluehost.me/?p=5960
+- General
+date: '2023-03-20T16:23:40+00:00'
 parent_post_id: null
-post_id: "5960"
+post_id: '5960'
+slug: metas-2023
 title: Metas 2023
-url: /2023/03/20/metas-2023
-
 ---
+
 Este 2023 comencé con dos metas, tres entrelazadas, El Reto del Indio y Massanutten Mountain Trail Race. Entrelazado estaba conseguir llegar a 15 ultras, y también completar mi #5 MMT. De pronto se sumaron Hellbender 100m y Tahoe Rim Trail 100m porque salieron regaladas (por razones distintas). Hellbender 100 quedó justo una semana antes que Massanutten, dos cien millas separadas por 7 días.
 
 Ya había corrido dos cien millas separadas por dos semanas. Ahora toca hacer dos separadas por 7 días. Estoy escribiendo esto después de haber hecho parte del trabajo que me había propuesto al principio del año en lugar de hacerlo por adelantado. Ya estamos acabando el primer cuarto del año y no había escrito nada este año. Los primeros dos meses del año los dediqué a prepararme para El Reto del Indio, para terminarla bien y poder seguir corriendo en búsqueda del par de Hellbender y Massanutten.

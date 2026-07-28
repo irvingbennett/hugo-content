@@ -1,30 +1,18 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781907574
-    payload:
-      - id: 1535
-      - id: 2861
-      - id: 1443
-      - id: 939
-      - id: 714
-      - id: 2437
-_wp_old_slug: ""
+_wp_old_slug: ''
 author: Rompy
 categories:
-  - "Correr"
-date: "2010-08-27T15:14:40+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=1167
+- Correr
+date: '2010-08-27T15:14:40+00:00'
 parent_post_id: null
-post_id: "1167"
+post_id: '1167'
+slug: contra-la-pared
 tags:
-  - ultra
+- ultra
 title: Contra la Pared
-url: /2010/08/27/contra-la-pared
-wpb_post_views_count: "15"
-
+wpb_post_views_count: '15'
 ---
+
 [![Logo](/wp-content/uploads/gallery_backup/JavelinaJundredLogo_165x165.jpg)¡Cada "Javelina Jundred") en [Wolfram Alpha](http://www.wolframalpha.com/input/): 1 mes y 26 días. Estoy frito... No tengo idea cómo voy a estar listo en ese tiempo para correr 160km - no comprendo por qué pretendo ser un corredor de largas distancias. Pero ya estoy metida en esta carrera y todo saldrá bien con la compañía de Lorena y Luis Carlos Stoute, que también se ha sumado.
 
 El recorrido va a estar muy agradable por ser en el desierto, y la noche contará con una luna llena para no tener que correr con una linterna. También podré correr con una botella en la mano por que los puestos de ayuda están a 8 kilómetros y yo puedo cubrir esa distancia con las 220z de una botella. Nada más que tengo que dedicarme a correr y caminar hasta cruzar la meta. Voy a poder desconectar mi cerebro por muchas horas...

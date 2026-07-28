@@ -1,37 +1,16 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781901488
-    payload:
-      - id: 2884
-      - id: 1704
-      - id: 5564
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781942670
-    payload:
-      - id: 2884
-      - id: 1704
-      - id: 5564
-      - id: 1167
-      - id: 1734
-      - id: 1749
 _publicize_facebook_user: http://www.facebook.com/509096638
-_publicize_twitter_user: '@irvingbennett'
-_wpas_done_all: "1"
-_wpcom_is_markdown: "1"
 author: Rompy
 categories:
-  - "General"
-date: "2014-01-09T16:20:20+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=2553
+- General
+date: '2014-01-09T16:20:20+00:00'
 parent_post_id: null
-post_id: "2553"
+post_id: '2553'
+slug: 464280-horas-de-vuelo
 title: 464,280 Horas de Vuelo
-url: /2014/01/09/464280-horas-de-vuelo
-wpb_post_views_count: "122"
-
+wpb_post_views_count: '122'
 ---
+
 Acabo de pasar la marca de 53 vueltas al sol y es hora de planear que voy a hacer con las siguientes 8,760 horas de esta próxima vuelta. Ya me salté el resumen del 2013 y no voy a mirar hacia atrás.  Voy a proponerme unas cuantas metas razonables y un par más difícil. En el 2013 dediqué mucho tiempo a un proyecto que arrancó en el 2011 y ocupó más tiempo del que inocentemente pensé en dedicarle y ahora tengo que ver cómo vuelvo a enfocarme en las cosas que más me gustan y atraen.
 
 #### Correr

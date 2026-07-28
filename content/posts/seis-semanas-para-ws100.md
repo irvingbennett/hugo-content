@@ -1,38 +1,19 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781916728
-    payload:
-      - id: 3525
-      - id: 732
-      - id: 1838
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781943712
-    payload:
-      - id: 3525
-      - id: 732
-      - id: 1838
-      - id: 6621
-      - id: 5962
-      - id: 256
 author: Rompy
 categories:
-  - "Correr"
-date: "2011-05-14T14:28:26+00:00"
+- Correr
+date: '2011-05-14T14:28:26+00:00'
 embed: This is the default text
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=1586
-image: ""
+image: ''
 parent_post_id: null
-post_id: "1586"
-seo_follow: "false"
-seo_noindex: "false"
+post_id: '1586'
+seo_follow: 'false'
+seo_noindex: 'false'
+slug: seis-semanas-para-ws100
 tags:
-  - ultra
+- ultra
 title: Seis Semanas para WS100
-url: /2011/05/14/seis-semanas-para-ws100
-wpb_post_views_count: "12"
-
+wpb_post_views_count: '12'
 ---
 
 ![Mapa del sendero de Western States 100](/wp-content/uploads/2011/05/ws100trail.jpg)

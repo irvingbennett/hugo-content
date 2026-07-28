@@ -1,35 +1,18 @@
 ---
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781762534
-    payload:
-      - id: 191
-      - id: 460
-      - id: 243
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781723088
-    payload:
-      - id: 191
-      - id: 460
-      - id: 243
-      - id: 232
-      - id: 1374
-      - id: 48
 author: Rompy
 categories:
-  - "Bicicletas"
-  - "Caminatas"
-  - "General"
-  - "Kayaking"
-date: "2006-01-18T23:14:27+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=50
+- Bicicletas
+- Caminatas
+- General
+- Kayaking
+date: '2006-01-18T23:14:27+00:00'
 parent_post_id: null
-post_id: "50"
+post_id: '50'
+slug: reporte-de-el-reto-del-indio-2006
 title: Reporte de El Reto del Indio 2006
-url: /2006/01/18/reporte-de-el-reto-del-indio-2006
-wpb_post_views_count: "22"
-
+wpb_post_views_count: '22'
 ---
+
 Este fin de semana que pasó completamos El Reto del Indio 2006. Iñaki Lassa, Daniel Brostella, Javier Bru, Jorge Patricio Riba, Alberto Pons, Rogelio Bennett, y yo completamos la ruta completa desde Chumico hasta Boca de Río Indio. Mi sobrino Tino Nellos entró de bateador emergente cuando quedamos sin tres participantes en las últimas horas del viernes en la noche y completó la caminata y la remada. Repentinamente quedamos 7 de 10 justo antes de comenzar nuestra marcha al norte para cruzar el Istmo de Panamá en un fin de semana. Juan Carlos Espinoza, Marisa Díaz y Alberto Valdés se retiraron de El Reto del Indio en la última hora por razones de salud.
 
 Este año nos tocó una luna fenomenal que brilló hermosa cada vez que el sol se ocultó. El último día parecía que remábamos sobre el cielo cuando la luna se reflejaba sobre el agua que en momentos estaba totalmente tranquila, sin una sola ondulación en su superficie. Partimos el sábado a las 6:30am de la mañana desde la playa de Chumico. A las 9:30pm del domingo estábamos tocando la arena bajo el puente que cruza la boca del Río Indio. Pedaleamos 5 horas, caminamos 7 horas el sábado, caminamos 4 horas y media el domingo, y remamos 10 horas. Cuando nos paramos del kayak, después de estar sentados por tantas horas, las piernas estaban tan entumecidas que nos tomó unos momentos volver a recuperar su control. Cómo el año anterior, El Reto del Indio puso a prueba la tenacidad de todos los que se le enfrentaron.

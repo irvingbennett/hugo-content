@@ -1,43 +1,29 @@
 ---
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1782182675
-    payload:
-      - id: 5440
-      - id: 2609
-      - id: 5642
-      - id: 6829
-      - id: 6973
-      - id: 6135
 _publicize_shares:
-  - connection_id: 6900156
-    external_id: alairelibre.tumblr.com
-    external_name: Al Aire Libre
-    message: http://alairelibre.tumblr.com/post/793247694244216832
-    profile_link: http://alairelibre.tumblr.com/
-    profile_picture: ""
-    service: tumblr
-    status: success
-    timestamp: 1756499952
-    wpcom_user_id: 1142432
-_thumbnail_id: "6803"
-_wpas_done_all: "1"
-_wpcom_is_markdown: "1"
+- connection_id: 6900156
+  external_id: alairelibre.tumblr.com
+  external_name: Al Aire Libre
+  message: http://alairelibre.tumblr.com/post/793247694244216832
+  profile_link: http://alairelibre.tumblr.com/
+  profile_picture: ''
+  service: tumblr
+  status: success
+  timestamp: 1756499952
+  wpcom_user_id: 1142432
 author: Rompy
 categories:
-  - "KLR"
+- KLR
 cover:
-  image: "/wp-content/uploads/2025/08/20250828_131340-scaled.jpg"
-date: "2025-08-29T20:39:04+00:00"
-guid: http://localhost/?p=6802
+  image: /wp-content/uploads/2025/08/20250828_131340-scaled.jpg
+date: '2025-08-29T20:39:04+00:00'
 parent_post_id: null
-post_id: "6802"
+post_id: '6802'
+slug: rumbo-norte
 tags:
-  - klr
+- klr
 title: Rumbo Norte
-url: /2025/08/29/rumbo-norte
-
 ---
+
 Mis hijos han regresado a casa finalmente. Tengo un espacio para completar una de mis metas, una que vengo planeando desde hace mucho tiempo: un viaje al Norte en moto. Eventualmente quiero llegar a Alaska en moto, y luego tomar rumbo al sur y llegar a Patagonia y Tierra del Fuego. Ya tengo casi todo listo, me faltaba poner a punto la moto para poder partir y hacer mi vuelta larga. Acabo de hacer los trabajos necesarios para alistar mi motor para el viaje.
 
 {{< figure src="/wp-content/uploads/gallery_backup/20250809_163327.jpg" alt="" caption="" >}}

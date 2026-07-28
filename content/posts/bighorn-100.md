@@ -1,32 +1,19 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1782182361
-    payload:
-      - id: 5192
-      - id: 5237
-      - id: 6958
-_publicize_twitter_user: '@irvingbennett'
-_thumbnail_id: "4672"
-_wpas_done_all: "1"
-_wpcom_is_markdown: "1"
 author: Rompy
 categories:
-  - "Correr"
-  - "General"
+- Correr
+- General
 cover:
-  image: "/wp-content/uploads/2018/06/20180615_105154-scaled.jpg"
-date: "2018-06-28T17:39:46+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=4569
+  image: /wp-content/uploads/2018/06/20180615_105154-scaled.jpg
+date: '2018-06-28T17:39:46+00:00'
 parent_post_id: null
-post_id: "4569"
+post_id: '4569'
+slug: bighorn-100
 tags:
-  - ultra
+- ultra
 title: Bighorn 100
-url: /2018/06/28/bighorn-100
-
 ---
+
 A mediados de junio terminé [Bighorn 100](https://bighorntrailrun.com/) en Wyoming y para mi sorpresa hice la mejor carrera de mi historia como corredor de 100 millas (a los 57 años). Gran parte del buen desempeño se lo debo al haber decidido correr todos los días de febrero en un reto que se llama [Run Until You Drop](https://twitter.com/rununtilyoudrop). La otra gran ayuda fue contar con un grupo de amigos que me motivan a seguir corriendo regularmente y, de hecho, me obligan a correr más rápido y más lejos de lo que lo haría si fuera solo.
 
 ![](/wp-content/uploads/2018/06/20180615_095701.jpg)Listos para partir en el cañón del Río Tongue

@@ -1,33 +1,15 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781916728
-    payload:
-      - id: 3525
-      - id: 732
-      - id: 1838
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781943712
-    payload:
-      - id: 3525
-      - id: 732
-      - id: 1838
-      - id: 6621
-      - id: 5962
-      - id: 256
 author: Rompy
 categories:
-  - "Correr"
-date: "2009-07-05T23:14:50+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=710
+- Correr
+date: '2009-07-05T23:14:50+00:00'
 parent_post_id: null
-post_id: "710"
+post_id: '710'
+slug: 21km-y-marca-personal
 title: 21Km y Marca Personal
-url: /2009/07/05/21km-y-marca-personal
-wpb_post_views_count: "8"
-
+wpb_post_views_count: '8'
 ---
+
 \[caption id="attachment\_711" align="alignleft" width="300" caption="Cruzando la meta"\] [![Cruzando la meta](/wp-content/uploads/2009/07/P1030783-300x225.jpg)](//wp-content/uploads/2009/07/P1030783.jpg)\[/caption\]
 
 Qué buena carrera hicimos esta mañana. Mi hermano y yo corrimos juntos los 21 kilómetors, nuevamente. El año pasado hicimos 1:45 y este año bajamos a 1:38. Ya Rogelio tenía 1:34 en una carrera que corrió solo, pero yo nunca había bajado de 1:45 en esa distancia. Rogelio me acompañó desde la partida y nos fuimos hombro con hombro hasta la meta, una vez más. A propósito salimos de últimos para ir jodiendo la paciencia de principio a fin. Esta vez no nos pasó nadie.

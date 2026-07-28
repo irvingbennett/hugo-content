@@ -1,31 +1,19 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781863878
-    payload:
-      - id: 1813
-      - id: 3834
-      - id: 2152
-      - id: 1900
-      - id: 2861
-      - id: 473
 author: Rompy
 categories:
-  - "General"
-date: "2010-02-19T17:19:55+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=893
+- General
+date: '2010-02-19T17:19:55+00:00'
 parent_post_id: null
-post_id: "893"
+post_id: '893'
+slug: apnea
 tags:
-  - apnea
+- apnea
 thesis_post_image: http://u8z.3d5.mywebsitetransfer.com/wp-content/uploads/2010/02/Speargun11.jpg
 thesis_post_image_alt: Arpón
 title: Apnea
-url: /2010/02/19/apnea
-wpb_post_views_count: "13"
-
+wpb_post_views_count: '13'
 ---
+
 Estoy regresando al agua después de muchos años de inactividad. Cuando mis hijos nacieron dejé de salir a bucear por que eso también coincidió con que vendimos nuestra lancha, mis compañeros dejaron de salir al mar, y yo me ocupé con otras actividades. Después de años de salir a arponear esporádicamente, en las últimas semanas he salido al mar varias veces. ¡Se me había olvidado lo tanto que me encanta el mar!
 
 Estoy lejos de lograr bucear como cuando estaba metido de lleno en ese deporte, pero no estoy tan mal. Realmente he mejorado rápidamente el tiempo de apnea con tan sólo practicarlo en casa con regularidad. Ya puedo aguantar la respiración hasta tres minutos. Ahora solamente me queda aumentar la profundidad de mis inmersiones para volver a sentirme completamente cómodo en el agua. Pero estos detalles son de poca importancia, lo que cuenta es pasar el tiempo dentro del agua, gozando de toda la vida que flota alrededor.

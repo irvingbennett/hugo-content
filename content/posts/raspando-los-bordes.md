@@ -1,33 +1,15 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781910688
-    payload:
-      - id: 258
-      - id: 256
-      - id: 257
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781900080
-    payload:
-      - id: 258
-      - id: 256
-      - id: 257
-      - id: 52
-      - id: 677
-      - id: 2205
 author: Rompy
 categories:
-  - "Kayaking"
-date: "2007-08-07T23:55:15+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=220
+- Kayaking
+date: '2007-08-07T23:55:15+00:00'
 parent_post_id: null
-post_id: "220"
+post_id: '220'
+slug: raspando-los-bordes
 title: Raspando los bordes
-url: /2007/08/07/raspando-los-bordes
-wpb_post_views_count: "42"
-
+wpb_post_views_count: '42'
 ---
+
 ![Dedo destruído](/wp-content/uploads/gallery_backup/P7290152.JPG)
 
 En aviación hay una expresión que dice "pushing the envelope". Se refiere a los límites del diseño aerodinámico de los aviones que los pilotos de prueba experimentan. El trabajo de esos pilotos es llevar aviones de prueba hasta los límites de su aeronavegabilidad, y, en ocasiones, romperlos. Ocasionalmente, cuando los pilotos rompen los límites de aeronavegabilidad de su máquina, llegan al punto en que tumban los aviones.

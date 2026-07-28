@@ -1,25 +1,16 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1782020928
-    payload:
-      - id: 154
-      - id: 969
-      - id: 1411
 author: Rompy
 categories:
-  - "Correr"
-  - "General"
-date: "2006-11-13T20:23:30+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=179
+- Correr
+- General
+date: '2006-11-13T20:23:30+00:00'
 parent_post_id: null
-post_id: "179"
+post_id: '179'
+slug: new-york-marathon-2006
 title: New York Marathon 2006
-url: /2006/11/13/new-york-marathon-2006
-wpb_post_views_count: "16"
-
+wpb_post_views_count: '16'
 ---
+
 ![New York 2006](/wp-content/uploads/2006/11/11240-5078-034f.jpg)Este 5 de noviembre que pasó corrí el maratón de Nueva York. Fue una gran experiencia partir junto con otros 38,000 corredores desde el puente de Verrazano. Cuando me bajé del bus en Staten Island y miré hacia Manhattan, el Empire State se veía muy peqeño en la distancia. En ese momento dudé de mi preparación para esta carrera. En realidad había estado corriendo unas dos veces por semana como promedio por el último mes. Lo más largo que corrí fueron 21 kilómetros dos semanas antes de la carrera. Aún asi, mejoré mi tiempo por más de 30 minutos.
 
 1. 2006 New York 3:52:34

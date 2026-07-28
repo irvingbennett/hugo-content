@@ -1,41 +1,22 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781803221
-    payload:
-      - id: 272
-      - id: 773
-      - id: 1569
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781839645
-    payload:
-      - id: 272
-      - id: 773
-      - id: 1569
-      - id: 276
-      - id: 133
-      - id: 248
-_wpas_skip_6885108: "1"
-_wpas_skip_6885117: "1"
-_wpas_skip_6885125: "1"
-_wpas_skip_6885140: "1"
-_wpcom_is_markdown: "1"
+_wpas_skip_6885108: '1'
+_wpas_skip_6885117: '1'
+_wpas_skip_6885125: '1'
+_wpas_skip_6885140: '1'
 author: Rompy
 categories:
-  - "Bicicletas"
-  - "Caminatas"
-  - "Correr"
-  - "General"
-date: "2007-12-14T01:27:39+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=237
+- Bicicletas
+- Caminatas
+- Correr
+- General
+date: '2007-12-14T01:27:39+00:00'
 parent_post_id: null
-post_id: "237"
+post_id: '237'
+slug: el-valle-de-anton
 title: El Valle de Antón
-url: /2007/12/13/el-valle-de-anton
-wpb_post_views_count: "22"
-
+wpb_post_views_count: '22'
 ---
+
 ![La India Dormida](/wp-content/uploads/gallery_backup/DSCN0544.JPG)
 ¿Qué hace a El Valle mi lugar favorito? La lista es muy larga y tendría que comenzar en mi niñez. Pero voy a mantenerme en el presente. Por suerte siempre tengo donde quedarme en El Valle, lo que lo hace conveniente. En El Valle hay ríos, chorros, cerros, y muchos trillos que recorrer, tanto a pié como en bicicleta.
 

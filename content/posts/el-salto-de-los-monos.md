@@ -1,26 +1,17 @@
 ---
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1782119532
-    payload:
-      - id: 102
-      - id: 1550
-      - id: 514
-_wpcom_is_markdown: "1"
 author: Rompy
 categories:
-  - "Caminatas"
-date: "2024-08-09T15:15:15+00:00"
-draft: "true"
-guid: http://localhost/?p=6362
+- Caminatas
+date: '2024-08-09T15:15:15+00:00'
+draft: 'true'
 parent_post_id: null
-post_id: "6362"
+post_id: '6362'
+slug: ''
 tags:
-  - travesias
+- travesias
 title: El Salto de Los Monos
-url: /
-
 ---
+
 Esta ruta es una de las rutas más atractivas del Parque Nacional Portobelo: es corta, sencilla, y con una cascada al final que es de premio. Es curioso que, con todas las veces que hemos ido, nunca he escrito al respecto. Así es que esta entrada es sobre la ruta y la cascada más que sobre nuestra última visita hace unos días. La ruta a El Salto de Los Monos es de 10 kilómetros aproximadamente, 8 a un campamento muy adecuado y 2 más al mismo salto.
 
 Casi todo el camino es bajo el dosel arbóreo del Parque Nacional Portobelo. Hay un solo potrero que atravesar y ese es el único momento en que se está expuesto al sol caribeño. La ruta inicia justo al lado de un restaurante llamado Los Rizos, que queda en Iguanita justo después de cruzar el Río Guanche, dónde cobran $5 por día cuando dejas el auto en su estacionamiento. Desde ahí se sigue al lado del Río Guanche por 1.5 kilómetros hasta cruzar el río y continuar por la otro orilla del río.

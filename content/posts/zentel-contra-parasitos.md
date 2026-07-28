@@ -1,29 +1,20 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1782132665
-    payload:
-      - id: 415
-      - id: 253
-      - id: 1374
 _wp_old_slug: zentel-against-the-parasites
 author: Rompy
 categories:
-  - "Caminatas"
-date: "2010-06-08T18:39:40+00:00"
+- Caminatas
+date: '2010-06-08T18:39:40+00:00'
 embed: This is the default text
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=1002
-image: ""
+image: ''
 parent_post_id: null
-post_id: "1002"
-seo_follow: "false"
-seo_noindex: "false"
+post_id: '1002'
+seo_follow: 'false'
+seo_noindex: 'false'
+slug: zentel-contra-parasitos
 title: Zentel Contra los Parásitos
-url: /2010/06/08/zentel-contra-parasitos
-wpb_post_views_count: "742"
-
+wpb_post_views_count: '742'
 ---
+
 ![Zentel (albendazol)](/wp-content/uploads/gallery_backup/zentel.jpg)
 
 Frecuentemente en nuestras caminatas he tomado agua directamente de los ríos. Antes siempre bebía el agua filtrada a través de un Sweetwater Guardian, o de mi botella con filtro. Pero después de caminar con Otto Gobea y Luis Puleio, el primero del servicio especial de fronteras, y el segundo ex-instructor de supervivencia en la selva, y ver que ambos tomaban el agua directamente del río decidí tratar esa práctica. Ambos me dijeron que luego tomaban Zentel para cuidarse de cualquier parásito que pudiese encontrarse en el agua.

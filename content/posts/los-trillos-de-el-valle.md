@@ -1,27 +1,15 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1782061135
-    payload:
-      - id: 237
-      - id: 115
-      - id: 165
-      - id: 242
-      - id: 276
-      - id: 48
 author: Rompy
 categories:
-  - "General"
-date: "2006-01-10T03:18:42+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=47
+- General
+date: '2006-01-10T03:18:42+00:00'
 parent_post_id: null
-post_id: "47"
+post_id: '47'
+slug: los-trillos-de-el-valle
 title: Los trillos de El Valle
-url: /2006/01/09/los-trillos-de-el-valle
-wpb_post_views_count: "9"
-
+wpb_post_views_count: '9'
 ---
+
 Este artículo inició como uno más de varios que he escrito tratando de compilar una guía sobre los trillos de El Valle. Tomó un giro en otra dirección después de conversar un rato con mi hermano Rogelio mientras el nos preparaba una paella. Le contaba que me extrañaba no ver más jóvenes en montañeras recorriendo los trillos que abundan en las laderas que rodean El Valle. La teoría de Rogelio es que los jóvenes no se interesaban en el ejercicio hasta después de los 25 años cuando ya era algo necesario para mantenerse saludables.
 
 Por otro lado también dijo que lo más probable es que la mayoría no sabía que los trillos estaban allí. Esa es una razón un poco mas crédula y, por eso, yo quiero hacer algo al respecto. Desde hace algún tiempo he estado anotando los detalles de los trillos que voy recorriendo para luego organizarlo todo en una guía. Para eso estoy usando MediaWiki, el programa detrás de Wikipedia. En [PanaWiki](http://wiki.alairelibre.net) ya hay algo de este trabajo disponible.

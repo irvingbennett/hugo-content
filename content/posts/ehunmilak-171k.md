@@ -1,69 +1,55 @@
 ---
-_g_feedback_shortcode_8efa80d79e08ff36d884d2716a430293523dbdee: |-
-  [contact-field label="Nombre" type="name"  required="true" /]
-  				[contact-field label="Correo electrónico" type="email" required="true" /]
-  				[contact-field label="Web" type="url" /]
-  				[contact-field label="Mensaje" type="textarea" /]
+_g_feedback_shortcode_8efa80d79e08ff36d884d2716a430293523dbdee: "[contact-field label=\"Nombre\"
+  type=\"name\"  required=\"true\" /]\n\t\t\t\t[contact-field label=\"Correo electrónico\"
+  type=\"email\" required=\"true\" /]\n\t\t\t\t[contact-field label=\"Web\" type=\"url\"
+  /]\n\t\t\t\t[contact-field label=\"Mensaje\" type=\"textarea\" /]"
 _g_feedback_shortcode_atts_8efa80d79e08ff36d884d2716a430293523dbdee:
   block_template: null
   block_template_part: null
   className: null
-  customThankyou: ""
+  customThankyou: ''
   customThankyouHeading: Tu mensaje se ha enviado
   customThankyouMessage: ¡Gracias por tu envío!
-  customThankyouRedirect: ""
+  customThankyouRedirect: ''
   hiddenFields: null
   id: 6763
   jetpackCRM: true
   postToUrl: null
   salesforceData: null
-  show_subject: "no"
+  show_subject: 'no'
   stepTransition: fade-slide
   subject: '[Al Aire Libre] '
   submit_button_text: Enviar
   to: irving@alairelibre.net
   widget: 0
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1782182676
-    payload:
-      - id: 6738
-      - id: 908
-      - id: 1759
-      - id: 1027
-      - id: 913
-      - id: 75
 _publicize_shares:
-  - connection_id: 6900156
-    external_id: alairelibre.tumblr.com
-    external_name: Al Aire Libre
-    message: http://alairelibre.tumblr.com/post/789054463848644608
-    profile_link: http://alairelibre.tumblr.com/
-    profile_picture: ""
-    service: tumblr
-    status: success
-    timestamp: 1752500976
-    wpcom_user_id: 1142432
-_thumbnail_id: "6765"
-_wpas_done_all: "1"
-_wpcom_is_markdown: "1"
+- connection_id: 6900156
+  external_id: alairelibre.tumblr.com
+  external_name: Al Aire Libre
+  message: http://alairelibre.tumblr.com/post/789054463848644608
+  profile_link: http://alairelibre.tumblr.com/
+  profile_picture: ''
+  service: tumblr
+  status: success
+  timestamp: 1752500976
+  wpcom_user_id: 1142432
 author: Rompy
 categories:
-  - "General"
+- General
 cover:
-  image: "/wp-content/uploads/2025/07/20250712_095334-scaled.jpg"
-date: "2025-07-14T13:49:26+00:00"
-enclosure: |-
-  http://localhost/wp-content/uploads/2025/07/VID-20250714-WA0025.mp4
-  0
-  video/mp4
-guid: http://localhost/?p=6763
-parent_post_id: null
-post_id: "6763"
-title: Ehunmilak 171k
-url: /2025/07/14/ehunmilak-171k
+  image: /wp-content/uploads/2025/07/20250712_095334-scaled.jpg
+date: '2025-07-14T13:49:26+00:00'
+enclosure: 'http://localhost/wp-content/uploads/2025/07/VID-20250714-WA0025.mp4
 
+  0
+
+  video/mp4'
+parent_post_id: null
+post_id: '6763'
+slug: ehunmilak-171k
+title: Ehunmilak 171k
 ---
+
 {{< figure src="/wp-content/uploads/gallery_backup/IMG-20250714-WA0019.jpg" alt="" caption="" >}}
 
 No logré terminar Ehunmilak 125k. La causa indiscutible fueron las dos horas de inactividad, principalmente en las estaciones grandes. Ehunmilak es una prueba dura y no se puede subestimar. Perdí un poco de foco cuando bajaron la distancia a 125k y corrí despreocupado por los cortes. Ahora me lamento porque me quedé sin subir el Aizkorri, el punto más alto de la prueba. Al final estoy contento con la carrera y muy impresionado por la calidad del evento. Es notable la importancia que le dan a Ehunmilak 171k en Beasain y la provincia de Guipuzkoa. Voy a regresar buscando terminar esta prueba.

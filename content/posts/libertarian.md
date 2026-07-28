@@ -1,24 +1,15 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781924019
-    payload:
-      - id: 1761
-      - id: 2714
-      - id: 200
 author: Rompy
 categories:
-  - "General"
-date: "2009-06-19T13:10:54+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=687
+- General
+date: '2009-06-19T13:10:54+00:00'
 parent_post_id: null
-post_id: "687"
+post_id: '687'
+slug: libertarian
 title: Libertarian
-url: /2009/06/19/libertarian
-wpb_post_views_count: "9"
-
+wpb_post_views_count: '9'
 ---
+
 You are a   
 **Social Liberal**  
 (80% permissive)  

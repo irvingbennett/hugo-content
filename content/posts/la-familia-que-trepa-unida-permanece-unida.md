@@ -1,26 +1,16 @@
 ---
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781812852
-    payload:
-      - id: 149
-      - id: 215
-      - id: 137
-      - id: 124
-      - id: 126
-      - id: 729
 author: Rompy
+categories:
+- General
 cover:
   image: /wp-content/uploads/gallery_backup/DSC04703.JPG
-categories:
-  - "General"
-date: "2006-07-05T02:09:18+00:00"
-post_id: "142"
+date: '2006-07-05T02:09:18+00:00'
+post_id: '142'
+slug: la-familia-que-trepa-unida-permanece-unida
 title: La familia que trepa unida... permanece unida!
-url: /2006/07/04/la-familia-que-trepa-unida-permanece-unida
-wpb_post_views_count: "7"
-
+wpb_post_views_count: '7'
 ---
+
 ![Tirolesa en El Valle](/wp-content/uploads/gallery_backup/P8020254.JPG) que estaba trepando. Esta vez lo hicimos bien y pudimos divertirnos mucho haciendo tirolesas en el patio de la casa. Al final del día había hecho bastante ejercicio halando a mis hijos hasta la parte más alta de la tirolesa para que luego se deslizaran por la soga.
 
 La verdad es que mi hija no se ríe igual cuando le hago cosquillas, ni Irving. Pero cuando Laura se está deslizando por la soga, su risa puede ser infecciosa y me hace sonreir de oreja a oreja. ¡Qué alegría me da escucharlos reirse! Y todo esto me conviene: tengo un gimnasio en mi propio patio.

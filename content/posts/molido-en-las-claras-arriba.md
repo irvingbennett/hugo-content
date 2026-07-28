@@ -1,33 +1,16 @@
 ---
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1782011664
-    payload:
-      - id: 162
-      - id: 2528
-      - id: 753
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1782004530
-    payload:
-      - id: 162
-      - id: 2528
-      - id: 753
-      - id: 992
-      - id: 1391
-      - id: 463
 author: Rompy
 categories:
-  - "Caminatas"
-  - "General"
-date: "2006-12-22T00:07:19+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=189
+- Caminatas
+- General
+date: '2006-12-22T00:07:19+00:00'
 parent_post_id: null
-post_id: "189"
+post_id: '189'
+slug: molido-en-las-claras-arriba
 title: Molido en Las Claras Arriba
-url: /2006/12/21/molido-en-las-claras-arriba
-wpb_post_views_count: "10"
-
+wpb_post_views_count: '10'
 ---
+
 Este domingo que pasó me fui con mi hermano Rogelio a caminar desde Tres Hermanas hasta Las Claras Arrba, ambos lugares remotos en la provincia de Panamá. Quería refrescar un recorrido que hicimos este año como parte de El Reto del Indio 2006. Como ya se está acercando El [Reto del Indio 2007](http://elretodelindio.info "El Reto del Indio"), y este tramo lo vamos a recorrer en la oscuridad, quería buscar todas las posibles desviaciones que me podrían perder en el recorrido hacia Tres Hermanas. Hablé con varios amigos para armar un grupo para este recorrido, pero solamente mi hermano estuvo dispuesto a acompañarme (siempre lo está, suerte la mía).
 
 Ese tramo tiene 15 kilómetros y lo íbamos a recorrer de ida y vuelta. Como acabamos de correr el [Maratón de Nueva York](http://www.ingnycmarathon.org "Maratón de Nueva York"), yo pensé que estaba en buenas condiciones. Mi hermano dijo que el me acompañaba para variar su rutina de entrenamiento (quiere ganarse a Lance en el próximo maratón) y que por que no corríamos por el camino para entrenar. De ingenuo, yo le dije que estaba de acuerdo. Aun más ingenuo, cuando comenzamos el camino, que es todo loma arriba, comencé a correr. No había pasado una hora y ya tenía el estómago colgando afuera de la boca. LLegué a Las Claras Arriba viendo cocuyos.

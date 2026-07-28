@@ -1,33 +1,23 @@
 ---
-_edit_last: "1"
-_jetpack_dont_email_post_to_subs: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781951685
-    payload:
-      - id: 682
-      - id: 239
-      - id: 608
+_jetpack_dont_email_post_to_subs: '1'
 _last_editor_used_jetpack: block-editor
-_wpas_skip_6885108: "1"
-_wpas_skip_6885117: "1"
-_wpas_skip_6885125: "1"
-_wpas_skip_6885140: "1"
-_wpcom_is_markdown: "1"
+_wpas_skip_6885108: '1'
+_wpas_skip_6885117: '1'
+_wpas_skip_6885125: '1'
+_wpas_skip_6885140: '1'
 author: Rompy
 categories:
-  - "Caminatas"
-date: "2009-09-17T19:59:11+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=764
+- Caminatas
+date: '2009-09-17T19:59:11+00:00'
 parent_post_id: null
-post_id: "764"
+post_id: '764'
+slug: mountain-laurel-revelation
 tags:
-  - equipo
+- equipo
 title: Mountain Laurel Revelation
-url: /2009/09/17/mountain-laurel-revelation
-wpb_post_views_count: "47"
-
+wpb_post_views_count: '47'
 ---
+
 {{< figure align="alignleft" width=300 src="/wp-content/uploads/gallery_backup/2009packpockets.jpg" alt="Bolsillos de Dyneema" caption="Bolsillos de Dyneema" >}}
 
 He tenido una revelación, en ocasiones dos bolsillos se convierten en una mochila. Entré a Mountain Laurel a comprar una par de bolsillos para mi mochila Golite Jam. La versión nueva de esta mochila tiene unos bolsillos muy convenientes en la correa y hace tiempo he estado pensando al respecto. Visité http://backpackinglight.com para ver que tenían que decir al respecto y encontré un buen par de bolsillos para mi mochila y hasta el material era el mismo, y del mismo color (Dyneema gris con rayas blancas). Los compré inmediatamente. Allí debió terminar todo el asunto.

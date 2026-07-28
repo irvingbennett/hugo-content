@@ -1,26 +1,17 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781637713
-    payload:
-      - id: 5614
-      - id: 1566
-      - id: 2110
 author: Rompy
 categories:
-  - "Correr"
-date: "2011-06-18T01:45:54+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=1734
+- Correr
+date: '2011-06-18T01:45:54+00:00'
 parent_post_id: null
-post_id: "1734"
+post_id: '1734'
+slug: preparativos-finales-para-ws100
 tags:
-  - ultra
+- ultra
 title: Preparativos Finales para WS100
-url: /2011/06/17/preparativos-finales-para-ws100
-wpb_post_views_count: "11"
-
+wpb_post_views_count: '11'
 ---
+
 ¡Ahora si estoy en la recta final! Nos montamos en el avión el martes directo para Sacramento y Western States 100. Ya no hay mucho más que pueda hacer para cambiar los resultados del evento. Todavía me quedan un par de corridas cortas por completar para la parte de preparación física. En adición me falta la empacada, que es poca. Es un ultra-maratón, solamente necesito unas zapatillas, un par de botellas de agua, ropa de correr, lentes fotocromáticos y una gorra.
 
 ## Equipo:

@@ -1,39 +1,19 @@
 ---
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781639097
-    payload:
-      - id: 2884
-      - id: 6958
-      - id: 6025
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781630372
-    payload:
-      - id: 2884
-      - id: 6958
-      - id: 6025
-      - id: 6432
-      - id: 5237
-      - id: 2947
 _last_editor_used_jetpack: block-editor
-_thumbnail_id: "6049"
-_wpas_done_all: "1"
-_wpcom_is_markdown: "1"
 author: Rompy
 categories:
-  - "Correr"
+- Correr
 cover:
-  image: "/wp-content/uploads/2023/08/WhatsApp-Image-2023-07-17-at-8.56.37-AM.jpeg"
-date: "2023-08-24T17:22:01+00:00"
-guid: http://hbx.wvf.mybluehost.me/?p=6034
+  image: /wp-content/uploads/2023/08/WhatsApp-Image-2023-07-17-at-8.56.37-AM.jpeg
+date: '2023-08-24T17:22:01+00:00'
 parent_post_id: null
-post_id: "6034"
+post_id: '6034'
+slug: tahoe-rim-trail-100-2023
 tags:
-  - ultra
+- ultra
 title: Tahoe Rim Trail 100 - 2023
-url: /2023/08/24/tahoe-rim-trail-100-2023
-
 ---
+
 Tahoe Rim Trail 100m ha sido una gran experiencia, una carrera vieja con una ruta nueva. Hacía tanto tiempo que no corría por California que había olvidado lo fabuloso que son los senderos acá, lo hermoso de los paisajes y la atención excepcional en las estaciones de apoyo. Encima, este año fui al meet & greet y conocí al director de la carrera, George Ruiz, y a bastante del personal de apoyo en las estaciones de apoyo. Cuando llegaba a las estaciones me recibían por nombre y me atendían como a un viejo amigo. ¡Fuera de serie!
 
 Viajé ultra-ligero a la partida y usando los medios de transporte más económicos posible. Fue buses, trenes y automóviles toda la distancia. Por suerte Steve Lang me fue a recoger a Reno para llevarme a Carson City, mi destino final y lugar de partida de la carrera (desde Western Nevada College). Bajé los $500 del alquiler del auto a menos de $125 por todo el transporte. Fue una experiencia interesante.  
@@ -125,4 +105,4 @@ Cuando salimos a la calle y quedaban un par de kilómetros para terminar. No iba
 
 {{< figure src="/wp-content/uploads/gallery_backup/20230720_101532.jpg" alt="" caption="" >}}
 
-{{< figure src="/wp-content/uploads/gallery_backup/WhatsApp-Image-2023-07-17-at-8.56.37-AM.jpeg" alt="" caption="" >}}  
+{{< figure src="/wp-content/uploads/gallery_backup/WhatsApp-Image-2023-07-17-at-8.56.37-AM.jpeg" alt="" caption="" >}}

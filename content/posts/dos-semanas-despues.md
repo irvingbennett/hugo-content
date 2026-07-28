@@ -1,26 +1,17 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781781645
-    payload:
-      - id: 2364
-      - id: 5960
-      - id: 1287
 author: Rompy
 categories:
-  - "Correr"
-date: "2011-07-12T17:52:08+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=1764
+- Correr
+date: '2011-07-12T17:52:08+00:00'
 parent_post_id: null
-post_id: "1764"
+post_id: '1764'
+slug: dos-semanas-despues
 tags:
-  - ultra
+- ultra
 title: Dos Semanas Después
-url: /2011/07/12/dos-semanas-despues
-wpb_post_views_count: "16"
-
+wpb_post_views_count: '16'
 ---
+
 Esta ha sido la recuperación más rápida que he tenido después de correr un [ultramaratón](http://es.wikipedia.org/wiki/Ultramarat%C3%B3n "Ultramaratón"). Con la excepción de las uñas que me hacen falta (todas las del pié derecho) ya siento mis músculos y mis tendones al 100%. Ya mi pulso cardíaco está de vuelta a su nivel normal, no tengo ninguna dolencia física, y nada me recuerda que corrí 161 kilómetros hace un par de semanas. De hecho, ya estoy pensando en el próximo evento.
 
 Este viernes corrí un par de horas con [Ernesto Durán](http://vivenciasdeernesto.blogspot.com/ "Vivencias de Ernesto"), el domingo fue día de doble acción con Joaquín: pedaleamos de Cerro Azul hasta La Chapa, pasando por Altos de Cerro Azul, y luego remamos el Río Pacora, y ayer corrí duro en el Hash. Hoy estoy muy tranquilo y sin ningún reflejo del esfuerzo del fin de semana. Yo creo que ya mi cuerpo está bastante avanzado en su adaptación al maltrato físico. De hecho, mi cuerpo tal vez necesité un poco de abuso para estar en su mejor forma.

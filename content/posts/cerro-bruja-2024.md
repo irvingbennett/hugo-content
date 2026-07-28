@@ -1,30 +1,19 @@
 ---
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781657374
-    payload:
-      - id: 2967
-      - id: 1827
-      - id: 5364
 _last_editor_used_jetpack: block-editor
-_thumbnail_id: "6204"
-_wpas_done_all: "1"
-_wpcom_is_markdown: "1"
 author: Rompy
 categories:
-  - "Caminatas"
+- Caminatas
 cover:
-  image: "/wp-content/uploads/2024/01/20240120_092736-scaled.jpg"
-date: "2024-01-24T16:32:55+00:00"
-guid: http://hbx.wvf.mybluehost.me/?p=6203
+  image: /wp-content/uploads/2024/01/20240120_092736-scaled.jpg
+date: '2024-01-24T16:32:55+00:00'
 parent_post_id: null
-post_id: "6203"
+post_id: '6203'
+slug: cerro-bruja-2024
 tags:
-  - trek
+- trek
 title: Cerro Bruja 2024
-url: /2024/01/24/cerro-bruja-2024
-
 ---
+
 Hemos vuelto a visitar Cerro Bruja para iniciar el año con una buena caminata. Ha resultado ser muy reveladora. Ha dejado claro que ya estamos avanzados de edad y ya no es tan fácil enfrentar retos duros. Aún así, llegamos hasta la curumba de esta montaña tan particular. La Bruja sigue dando qué hacer cuando uno quiere conquistarla y esta vez no fue una excepción. Iniciamos cinco veteranos de esta montaña y dos neófitos: Sjef, Popo, Tony y Jorge ya habían subido, y Henrik y Sonia iban por primera vez.
 
 {{< figure src="/wp-content/uploads/gallery_backup/IMG_20240120_105805.jpg" alt="" caption="" >}}

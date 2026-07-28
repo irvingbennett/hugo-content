@@ -1,33 +1,17 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781853223
-    payload:
-      - id: 2714
-      - id: 5237
-      - id: 6958
-      - id: 6432
-      - id: 6025
-      - id: 2947
 _publicize_facebook_user: https://www.facebook.com/irving.bennett
-_publicize_twitter_user: '@irvingbennett'
-_thumbnail_id: "2692"
-_wpas_done_all: "1"
 author: Rompy
 categories:
-  - "Correr"
+- Correr
 cover:
-  image: "/wp-content/uploads/2014/06/LogoFatDog100_lowres02.gif"
-date: "2014-06-06T12:26:06+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=2690
+  image: /wp-content/uploads/2014/06/LogoFatDog100_lowres02.gif
+date: '2014-06-06T12:26:06+00:00'
 parent_post_id: null
-post_id: "2690"
+post_id: '2690'
+slug: fat-dog-120-millas
 tags:
-  - ultra
+- ultra
 title: Fat Dog 120 millas
-url: /2014/06/06/fat-dog-120-millas
-
 ---
 
 !["Fat Dog 120"](/wp-content/uploads/gallery_backup/168.jpg) 

@@ -1,30 +1,20 @@
 ---
-_edit_last: "1"
-_jetpack_dont_email_post_to_subs: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1782163284
-    payload:
-      - id: 840
-      - id: 2843
-      - id: 341
-_wpas_skip_6885108: "1"
-_wpas_skip_6885117: "1"
-_wpas_skip_6885125: "1"
-_wpas_skip_6885140: "1"
-_wpcom_is_markdown: "1"
+_jetpack_dont_email_post_to_subs: '1'
+_wpas_skip_6885108: '1'
+_wpas_skip_6885117: '1'
+_wpas_skip_6885125: '1'
+_wpas_skip_6885140: '1'
 author: Rompy
 categories:
-  - "Caminatas"
-date: "2007-04-04T14:30:07+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=199
+- Caminatas
+date: '2007-04-04T14:30:07+00:00'
 parent_post_id: null
-post_id: "199"
+post_id: '199'
+slug: jordana-y-rio-indio
 title: Jordanal y Río Indio
-url: /2007/04/04/jordana-y-rio-indio
-wpb_post_views_count: "18"
-
+wpb_post_views_count: '18'
 ---
+
 ![Camino a Jordanal](/wp-content/uploads/gallery_backup/p3310325.jpg)
 "Dorita", una de nuestros dobermans, se cansó, y después a Alex le salieron ampollas.
 ![Alex](/wp-content/uploads/gallery_backup/P3310347.JPG "Alexandra curando ampollas")
@@ -41,4 +31,4 @@ Por suerte mi cuñado logró conseguir señal y llamar a mi esposa. Ella bajó c
 ![Río Las Minas](/wp-content/uploads/gallery_backup/P3310344.JPG "Río Las Minas")
 ![Río Indio](/wp-content/uploads/gallery_backup/P3310362.JPG "Río Indio")
 ![Quebrada Jordanal](/wp-content/uploads/gallery_backup/rog052.JPG "La poza de Jordanal")
-![dañado todo](/wp-content/uploads/gallery_backup/P1130138.JPG "Derrumbe por lluvias") 
+![dañado todo](/wp-content/uploads/gallery_backup/P1130138.JPG "Derrumbe por lluvias")

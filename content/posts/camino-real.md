@@ -1,29 +1,17 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781806079
-    payload:
-      - id: 3182
-      - id: 980
-      - id: 939
-      - id: 1176
-      - id: 899
-      - id: 113
 author: Rompy
 categories:
-  - "Caminatas"
-date: "2009-04-15T15:45:21+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=531
+- Caminatas
+date: '2009-04-15T15:45:21+00:00'
 parent_post_id: null
-post_id: "531"
+post_id: '531'
+slug: camino-real
 tags:
-  - hash
+- hash
 title: Camino Real
-url: /2009/04/15/camino-real
-wpb_post_views_count: "6"
-
+wpb_post_views_count: '6'
 ---
+
 Una vez más vamos a caminar el Camino Real. Esta vez vamos con el grupo más grande que he llevado por ese camino. Ahora mismo hay 29 personas en la lista (la capacidad del bus Toyota Coaster) y hay gente esperando cupo. Va a estar apretada la dormida por que no estoy seguro que tanta gente quepa en la pequeña península donde acampamos a orillas del río. Vamos a tener un culebrón de gente en la parte del camino en que caminamos por los rieles del viejo ferrocarril. Pero el grupo será muy divertido y la pasaremos fantástico.
 
 La última vez que caminé con este grupo tan grande, la gente del Hash, fue en el 2006. Aquella vez también llenamos un Coaster, pero al modelo viejo no le cabía tanta gente. Creo que la mayoría de los que vienen esta vez ya anteriormente han caminado por este sendero. Muchos, al igual que yo, esperamos con ganas la próxima oportunidad de atravesar este pequeño tramo de bosque tropical húmedo (selva). Cada año hay menos bosque en este recorrido a medida que la tala se va comiendo los bordes de este camino. ¡Que lástima!

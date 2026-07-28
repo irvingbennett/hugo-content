@@ -1,30 +1,15 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1782028595
-    payload:
-      - id: 4569
-      - id: 2181
-      - id: 1411
-      - id: 1949
-      - id: 2388
-      - id: 2364
 _publicize_facebook_user: https://www.facebook.com/irving.bennett
-_publicize_twitter_user: '@irvingbennett'
-_wpas_done_all: "1"
-_wpcom_is_markdown: "1"
 author: Rompy
 categories:
-  - "Correr"
-date: "2014-08-04T13:32:29+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=2727
+- Correr
+date: '2014-08-04T13:32:29+00:00'
 parent_post_id: null
-post_id: "2727"
+post_id: '2727'
+slug: distancia-versus-velocidad
 title: Distancia versus Velocidad
-url: /2014/08/04/distancia-versus-velocidad
-
 ---
+
 Ayer corrimos Roger, Isabelita y yo por La Mesa. Tuvimos una agradable corrida haciendo distancia por todos los senderos más corribles que hay arriba, después de subir por Los Berrales. La temperatura estaba excelente, fresca y agradablemente húmeda. No llevábamos ningún apuro y, tal vez, la única meta era pasar los 21 kilómetros para Isabelita que se está entrenando para su primer maratón en octubre de este año. Yo ya estoy a la vuelta de Fat Dog 12o millas y se podría decir que estoy en ahusando (disminuyendo la carga de ejercicio).
 
 Cuando ya estábamos en el último sendero camino a la casa, la parte de arriba del sendero de los árboles cuadrados, me pasa Roger a balazo haciendo despliegue de su velocidad. Me lo encontré cojo docientos metros más adelante. Había pisado mal una piedra y se había lástimado el quinto metatarso (el de la parte de afuera del pie) y tuvo que regresar caminando a poner el pie en hielo. Apenas se había recuperado de una pubalgia y ahora iba a quedar en reposo por una nueva lesión. ¡Ya llegando a la casa! En ese mismo sendero Isabelita también se dobló el tobillo hace unos meses.

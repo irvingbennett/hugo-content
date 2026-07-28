@@ -25,7 +25,7 @@ url: /archives/equipo-para-acampar
 # Listado Ultraliviano
 
 - [Mochila SUL](/2009/06/16/mochilas-ultralivianas "Mochilas Ultralivianas") (Super Ultra Liviana)
-- [Zapatillas](/2010/01/28/zapatillas-todo-terreno "Zapatillas todo terreno") de correr por trillos (Salomon)
+- [Zapatillas](/2010/01/28/zapatillas-todo-terreno "Zapatillas todo terreno") de correr por trillos
 - Tazón de titanio de .7Lt
 - spork
 - [Estufa](/2006/11/25/la-estufa-de-cerveza-balboa "La estufa de lata de Heineken") de alcohol

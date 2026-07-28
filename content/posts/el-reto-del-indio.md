@@ -1,44 +1,25 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781767031
-    payload:
-      - id: 1374
-      - id: 50
-      - id: 463
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781758950
-    payload:
-      - id: 1374
-      - id: 50
-      - id: 463
-      - id: 243
-      - id: 992
-      - id: 1391
 _last_editor_used_jetpack: block-editor
-_wpas_skip_6885108: "1"
-_wpas_skip_6885117: "1"
-_wpas_skip_6885125: "1"
-_wpas_skip_6885140: "1"
-_wpcom_is_markdown: "1"
+_wpas_skip_6885108: '1'
+_wpas_skip_6885117: '1'
+_wpas_skip_6885125: '1'
+_wpas_skip_6885140: '1'
 ase_map_component_start_point:
   lat: 29.76
   lng: -95.38
 author: Rompy
 categories:
-  - "Caminatas"
-  - "General"
-  - "Kayaking"
-date: "2005-01-25T22:09:32+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=13
+- Caminatas
+- General
+- Kayaking
+date: '2005-01-25T22:09:32+00:00'
 parent_post_id: null
-post_id: "13"
+post_id: '13'
+slug: el-reto-del-indio
 title: El Reto del Indio
-url: /2005/01/25/el-reto-del-indio
-wpb_post_views_count: "12"
-
+wpb_post_views_count: '12'
 ---
+
 {{< figure align="alignleft" width=150 src="/wp-content/uploads/gallery_backup/DSC01204.jpg" alt="La Partida" caption="La Partida" >}}
 
 El Reto del Indio, llegar desde el Pacífico hasta el Atlántico en un fin de semana, sin motores y por trillos, fue todo un éxito. También fue un gran reto: ninguno de los participantes puede decir que fue fácil (O.K., quizás Jorge Heilbron). Probamos que era posible lograr la ruta que planeamos el año pasado. Nuestra estimación del recorrido fue bastante precisa y el plan se ejecutó con bastante atino.

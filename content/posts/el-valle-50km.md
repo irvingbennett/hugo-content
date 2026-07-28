@@ -1,27 +1,17 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1782185863
-    payload:
-      - id: 1778
-      - id: 1944
-      - id: 1949
-_thumbnail_id: "1793"
 author: Rompy
+categories:
+- Correr
 cover:
   image: /wp-content/uploads/gallery_backup/perspectiva-50km.jpg
-categories:
-  - "Correr"
-date: "2011-09-09T13:15:01+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=1792
+date: '2011-09-09T13:15:01+00:00'
 parent_post_id: null
-post_id: "1792"
+post_id: '1792'
+slug: el-valle-50km
 title: El Valle 50km
-url: /2011/09/09/el-valle-50km
-wpb_post_views_count: "10"
-
+wpb_post_views_count: '10'
 ---
+
 Este domingo me toca tomar de mi propio chocolate: El Valle Trail Race 50km. Ahora mismo es un poco tarde, pero estoy experimentando preocupaciones al respecto. He tomado muy a la ligera esta carrera, corriendo solamente los fines de semana marcando y revisando el recorrido, y en el Hash los lunes. Por supuesto, ahora estoy preocupado. No de terminar, caminando llego, pero quiero hacer 8 horas. Ese es el mismo tiempo que hice el año anterior en 45 kilómetros.
 
 El año pasado, con todo y que la carrera era exigente, el desnivel total era solamente 1,890 metros, y la pendiente promedio era 7%. Este año el desnivel es de 2,188 metros y la pendiente promedio es de 8%. Entonces, razonablemente, no veo por qué pretender hacer el mismo tiempo este año en una carrera más larga y más difícil que la del año anterior. Pero yo creo que el trayecto de este año permite correr más que el recorrido del año anterior. Este año hay pocos tramos tan técnicos como los del 2010, y por eso tengo que hacer mejor tiempo. En parte mi predicción la baso en Miwok 100.

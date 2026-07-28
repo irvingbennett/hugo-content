@@ -1,32 +1,13 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781786888
-    payload:
-      - id: 949
-      - id: 1208
-      - id: 443
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781819374
-    payload:
-      - id: 949
-      - id: 1208
-      - id: 443
-      - id: 157
-      - id: 314
-      - id: 307
 author: Rompy
 categories:
-  - "Kayaking"
-date: "2009-04-06T18:57:22+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/2009/04/06/mamoni-cristalino
+- Kayaking
+date: '2009-04-06T18:57:22+00:00'
 parent_post_id: null
-post_id: "526"
+post_id: '526'
+slug: mamoni-cristalino
 title: Mamoni Cristalino
-url: /2009/04/06/mamoni-cristalino
-wpb_post_views_count: "9"
-
+wpb_post_views_count: '9'
 ---
 
 ![Alex](/wp-content/uploads/gallery_backup/P4051341.JPG)

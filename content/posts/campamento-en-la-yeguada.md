@@ -1,28 +1,17 @@
 ---
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781961019
-    payload:
-      - id: 122
-      - id: 248
-      - id: 1566
-      - id: 819
-      - id: 1569
-      - id: 23
 author: Rompy
+categories:
+- General
 cover:
   image: /wp-content/uploads/gallery_backup/DSC03164.JPG
-categories:
-  - "General"
-date: "2006-03-01T17:46:04+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=89
+date: '2006-03-01T17:46:04+00:00'
 parent_post_id: null
-post_id: "89"
+post_id: '89'
+slug: campamento-en-la-yeguada
 title: Campamento en La Yeguada
-url: /2006/03/01/campamento-en-la-yeguada
-wpb_post_views_count: "12"
-
+wpb_post_views_count: '12'
 ---
+
 ![Paella en La Yeguada](/wp-content/uploads/2006/03/DSC03106.miniatura.JPG)
 Nuestro campamento en La Yeguada resultó ser toda una congregación. Contamos 17 toldas entre las de nuestra familia y la de nuestros amigos. Entre los que fuimos de nuestra familia sumamos 20 personas, de las cuales la mayoría eran nuestros hijos. Nuestro amigo Iñaki llevó a su hija de 2 meses, que por ahora puede ser la más jóven en visitar La Yeguada. Hace un par de años nosotros llevamos a Laura cuando tenía 4 meses.
 

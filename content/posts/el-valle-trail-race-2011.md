@@ -1,29 +1,19 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781758350
-    payload:
-      - id: 1778
-      - id: 1802
-      - id: 2181
-_thumbnail_id: "1500"
 author: Rompy
 categories:
-  - "Correr"
+- Correr
 cover:
-  image: "/wp-content/uploads/2011/03/El_Valle_Trail_Race-2011.jpg"
-date: "2011-03-25T15:37:28+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=1495
+  image: /wp-content/uploads/2011/03/El_Valle_Trail_Race-2011.jpg
+date: '2011-03-25T15:37:28+00:00'
 parent_post_id: null
-post_id: "1495"
+post_id: '1495'
+slug: el-valle-trail-race-2011
 tags:
-  - ultra
+- ultra
 title: El Valle Trail Race 2011
-url: /2011/03/25/el-valle-trail-race-2011
-wpb_post_views_count: "15"
-
+wpb_post_views_count: '15'
 ---
+
 ![](//wp-content/uploads/2011/03/El_Valle_Trail_Race-2011.jpg)
 
 Hoy apareció un comentario de Carlitos anunciando la fecha para [El Valle Trail Race 2011](http://elvalletrailrace.org "El Valle Trail Race 2011"): septiembre 4. La fecha es fija, y la distancia planeada es 50km. ¡Me parece excelente! Es lo único que se hasta ahora. Tengo una buena idea para alargar la última versión de la carrera para hacerla de 50km, corriendo de \[link id='1043' text='La India Dormida'\] hacia \[link id='1411' text='Altos de La Estancia'\] por un sendero excelente. Este tramo inclusive permite que los corredores se encuentren y se crucen, ofreciendo algo de información y motivación a los que vienen detrás de los corredores que van de regreso.

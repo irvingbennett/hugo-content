@@ -1,44 +1,24 @@
 ---
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781936197
-    payload:
-      - id: 5960
-      - id: 1411
-      - id: 6933
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781964672
-    payload:
-      - id: 5960
-      - id: 1411
-      - id: 6933
-      - id: 5216
-      - id: 1153
-      - id: 6005
 _last_editor_used_jetpack: block-editor
-_publicize_twitter_user: '@irvingbennett'
-_thumbnail_id: "5968"
-_wpas_done_all: "1"
-_wpcom_is_markdown: "1"
 author: Rompy
 categories:
-  - "Correr"
+- Correr
 cover:
-  image: "/wp-content/uploads/2023/03/WhatsApp-Image-2023-03-05-at-10.25.47-AM.jpeg"
-date: "2023-03-27T19:00:58+00:00"
-enclosure: |-
-  /wp-content/uploads/2023/03/WhatsApp-Video-2023-03-05-at-9.42.32-PM.mp4
-  6690330
-  video/mp4
-guid: http://hbx.wvf.mybluehost.me/?p=5962
-parent_post_id: null
-post_id: "5962"
-tags:
-  - ultra
-title: El Reto del Indio 2023
-url: /2023/03/27/el-reto-del-indio-2023
+  image: /wp-content/uploads/2023/03/WhatsApp-Image-2023-03-05-at-10.25.47-AM.jpeg
+date: '2023-03-27T19:00:58+00:00'
+enclosure: '/wp-content/uploads/2023/03/WhatsApp-Video-2023-03-05-at-9.42.32-PM.mp4
 
+  6690330
+
+  video/mp4'
+parent_post_id: null
+post_id: '5962'
+slug: el-reto-del-indio-2023
+tags:
+- ultra
+title: El Reto del Indio 2023
 ---
+
 Finalmente terminé un Reto del Indio, después de dos intentos anteriores. En el 2021 iba de barredor y me quedé cuando llegué a El Valle. El 2022 se comenzó el sábado en la mañana y encontré que estaba muy caliente el día para correr esa carrera. Este año todo estaba como quería, incluyendo mi preparación física. Las cosas fluyeron sin preocupaciones y todo, casi todo, salió tal cual me hubiese gustado. Con esta carrera he completado 15 ultramaratones de 100 millas y más.
 
 Llegué a la partida con mi cuate Robert Souter que también iba a correr los 160k, Robie por primera vez y yo buscando terminar mi número 15. El clima estaba sabroso, todavía soplaba la brisa de verano y la temperatura estaba agradable. Este año fui recatado y me tomé unas Heineken Cero al llegar a la partida en lugar de las Balboas que me había tomado anteriormente. En el camino había tomado Malta Vigor para manterme hidratado y alimentado, acompañado con papitas Lays para tener una dosis saludable de carbohidratos y grasa. Ya Eladio Quintero estaba en la partida alistándose. Poco a poco fueron llegando los demás participantes, algunos en su auto y la mayoría en el bus que salía de Pro Health Shop.

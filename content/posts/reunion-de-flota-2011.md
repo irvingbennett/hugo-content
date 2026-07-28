@@ -1,29 +1,15 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781867064
-    payload:
-      - id: 395
-      - id: 314
-      - id: 785
-      - id: 2382
-      - id: 36
-      - id: 41
-_thumbnail_id: "1874"
 author: Rompy
 categories:
-  - "Kayaking"
+- Kayaking
 cover:
-  image: "/wp-content/uploads/2011/10/PA301069.jpg"
-date: "2011-10-31T19:06:53+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=1873
+  image: /wp-content/uploads/2011/10/PA301069.jpg
+date: '2011-10-31T19:06:53+00:00'
 parent_post_id: null
-post_id: "1873"
+post_id: '1873'
+slug: reunion-de-flota-2011
 title: Reunión de Flota 2011
-url: /2011/10/31/reunion-de-flota-2011
-wpb_post_views_count: "15"
-
+wpb_post_views_count: '15'
 ---
 
 ![Los Remeros](/wp-content/uploads/2011/10/PA301069.jpg)

@@ -1,18 +1,17 @@
 ---
 author: Rompy
 categories:
-  - "Correr"
+- Correr
 cover:
-  image: "/wp-content/uploads/2012/10/12904725.jpg"
-date: "2012-10-10T00:41:10+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=2260
+  image: /wp-content/uploads/2012/10/12904725.jpg
+date: '2012-10-10T00:41:10+00:00'
 parent_post_id: null
-post_id: "2260"
+post_id: '2260'
+slug: anteojos-vs-lentes-de-contacto
 title: Anteojos vs Lentes de Contacto
-url: /2012/10/09/anteojos-vs-lentes-de-contacto
-wpb_post_views_count: "20"
-
+wpb_post_views_count: '20'
 ---
+
 He quedado con un debate en mi cabeza sobre anteojos versus lentes de contacto en las carreras grandes. Por mucho tiempo he usado lentes de contacto cuando salgo a hacer ejercicio. El resto del tiempo siempre uso anteojos. Hace unos años me conseguí unos Oakley de prescripción pensando en comenzar a correr más a menudo con lentes para no andar con el lío de los lentes de contactos. Los Oakley me funcionaron de maravilla, tanto que me mandé a hacer unos con lentes Transition (fotocromáticos), y luego otros con Transitions y progresivos.
 
 Ahora solamente estaba usando los lentes de contacto para kayak y bicicleta. Para kayak por el agua, y para bicicleta porque así usaba unos lentes más grandes que me protejen del lodo y las piedras que tira la llanta delantera hacia arriba. Cuando voy a caminar al bosque también me pongo lentes de contacto porque así me ahorro el problema de los lentes empañados por la humedad del ambiente y el vapor que salé de mi cuerpo. Todo esto lo tomé en cuenta cuando me fui a correr el Ultra Trail du Mont Blanc. Me llevé mi mejor par de anteojos, lentes de deporte fotocromáticos y lentes de contacto.
@@ -29,4 +28,4 @@ Pero cuando la cosa se puso dura, los lentes me fallaron. Mi visión quedó comp
 
 {{< figure src="/wp-content/uploads/gallery_backup/oakley-why4.jpg" title="oakley-why4" alt="oakley-why4" >}}
 
-{{< figure src="/wp-content/uploads/gallery_backup/12904725.jpg" title="12904725" alt="12904725" >}}  
+{{< figure src="/wp-content/uploads/gallery_backup/12904725.jpg" title="12904725" alt="12904725" >}}

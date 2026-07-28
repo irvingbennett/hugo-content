@@ -1,29 +1,19 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781945278
-    payload:
-      - id: 2339
-      - id: 1827
-      - id: 2388
-_thumbnail_id: "2088"
 author: Rompy
 categories:
-  - "Correr"
+- Correr
 cover:
-  image: "/wp-content/uploads/2012/06/Volvan-Boquete.jpg"
-date: "2012-06-28T16:04:19+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=2087
+  image: /wp-content/uploads/2012/06/Volvan-Boquete.jpg
+date: '2012-06-28T16:04:19+00:00'
 parent_post_id: null
-post_id: "2087"
+post_id: '2087'
+slug: ultra-volcan-baru
 tags:
-  - ultra
+- ultra
 title: Ultra Volcán Barú
-url: /2012/06/28/ultra-volcan-baru
-wpb_post_views_count: "15"
-
+wpb_post_views_count: '15'
 ---
+
 ![](/wp-content/uploads/2012/06/Volvan-Boquete.jpg) 
 
 Lo pienso y me da espanto --- ya nada más quedan 9 semanas para el Ultra Trail de Mont Blanc. Llamé a Luis Carlos Stoute para pedirle las pistas de sus subidas al Volcán Baru, que ya ha subido por ambos lados recientemente, y me contó que pronto va a subirlo y bajarlo 2 veces seguidas. Desafortunadamente yo no voy a poder acompañarlo para cuando él tiene pensado su entrenamiento por que tengo que pasar un fin de semana con mi familia, con toda mi familia, mis otros cuatro hermanos y sus hijos.

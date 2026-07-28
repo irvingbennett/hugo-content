@@ -1,24 +1,15 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1782042321
-    payload:
-      - id: 536
-      - id: 41
-      - id: 1002
 author: Rompy
 categories:
-  - "Caminatas"
-date: "2007-08-16T19:22:47+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=223
+- Caminatas
+date: '2007-08-16T19:22:47+00:00'
 parent_post_id: null
-post_id: "223"
+post_id: '223'
+slug: torsalo
 title: Tórsalo
-url: /2007/08/16/torsalo
-wpb_post_views_count: "249"
-
+wpb_post_views_count: '249'
 ---
+
 ![El Tórsalo](/wp-content/uploads/2007/08/P5040182.JPG)
 
 Nunca pensé que compartiría mi cuerpo con un gusano. La verdad es que puedo haber sido ingenuo. Con todo el tiempo que he pasado en el campo, las probabilidades eran que tarde o temprano me tocaría encontrarme con parásitos. Pensaba que las posibilidades eran hacia los parásitos intestinales, pero ese número todavía no ha salido en mi lotería. Hace unos días me saqué mi primer tórsalo.

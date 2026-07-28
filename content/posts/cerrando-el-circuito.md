@@ -1,28 +1,15 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781958332
-    payload:
-      - id: 1327
-      - id: 1490
-      - id: 753
-      - id: 1827
-      - id: 193
-      - id: 2553
 author: Rompy
 categories:
-  - "Correr"
-date: "2011-03-28T19:00:28+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=1507
+- Correr
+date: '2011-03-28T19:00:28+00:00'
 parent_post_id: null
-post_id: "1507"
+post_id: '1507'
+slug: cerrando-el-circuito
 tags:
-  - ultra
+- ultra
 title: Cerrando el Circuito
-url: /2011/03/28/cerrando-el-circuito
-wpb_post_views_count: "20"
-
+wpb_post_views_count: '20'
 ---
 
 ![Jordi y yo](/wp-content/uploads/2011/03/P3270480.jpg)

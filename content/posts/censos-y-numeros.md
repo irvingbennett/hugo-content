@@ -1,32 +1,19 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781856620
-    payload:
-      - id: 41
-      - id: 1242
-      - id: 268
-      - id: 102
-      - id: 1550
-      - id: 256
-_thumbnail_id: "961"
 author: Rompy
 categories:
-  - "Bicicletas"
+- Bicicletas
 cover:
-  image: "/wp-content/uploads/2010/05/TT2.jpg"
-date: "2010-05-16T20:22:34+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=960
+  image: /wp-content/uploads/2010/05/TT2.jpg
+date: '2010-05-16T20:22:34+00:00'
 parent_post_id: null
-post_id: "960"
+post_id: '960'
+slug: censos-y-numeros
 tags:
-  - triatlón
+- triatlón
 title: Censos y Números
-url: /2010/05/16/censos-y-numeros
-wpb_post_views_count: "15"
-
+wpb_post_views_count: '15'
 ---
+
 \[caption id="attachment\_961" align="alignnone" width="590" caption="Lance en su mejor posición"\] [  
 ![Beneficios aerodinámicos en el contrarelog](/wp-content/uploads/2010/05/TT2.jpg)](//wp-content/uploads/2010/05/TT2.jpg)\[/caption\]
 

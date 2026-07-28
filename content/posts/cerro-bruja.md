@@ -1,35 +1,22 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1782114036
-    payload:
-      - id: 5364
-      - id: 193
-      - id: 1827
 _publicize_facebook_user: http://www.facebook.com/509096638
-_publicize_twitter_user: '@irvingbennett'
-_thumbnail_id: "2977"
-_wpas_done_all: "1"
-_wpcom_is_markdown: "1"
 ase_map_component_start_point:
   lat: 29.76
   lng: -95.38
 author: Rompy
 categories:
-  - "Caminatas"
+- Caminatas
 cover:
-  image: "/wp-content/uploads/2016/06/13321660_10154306247899940_1696281126442168569_n.jpg"
-date: "2016-06-12T21:50:02+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=2967
+  image: /wp-content/uploads/2016/06/13321660_10154306247899940_1696281126442168569_n.jpg
+date: '2016-06-12T21:50:02+00:00'
 parent_post_id: null
-post_id: "2967"
+post_id: '2967'
+slug: cerro-bruja
 tags:
-  - trek
+- trek
 title: Cerro Bruja
-url: /2016/06/12/cerro-bruja
-
 ---
+
 Después de 20 años, y tres intentos, logramos subir Cerro Bruja una vez más. Con 979 metros de altura, Cerro Bruja es lo más alto del Parque Nacional Portobelo. En Cerro Bruja nace el Río Guanche, Río Piedras, Río Diablo y Río Gatún. Tratamos de subirlo en un día en dos ocasiones anteriores y en ambas ocasiones el terreno, la falta de agua, y lo difícil del acceso nos ganaron. Para la tercera vez decidimos planear nuestro viaje de manera que usáramos dos días para subir y el tercer día para bajar y regresar. Esta vez todo salió como planeado y logramos dormir arriba de Cerro Bruja, justo en el nacimiento del Río Guanche. No encontramos el punto geodésico que indica los 979 metros de altura pero estábamos a pocos metros de donde sea que esta colocada esa marca.
 
 Los primeros dos viajes fueron en plena temporada seca y no nos tocó nada de lluvia. Esta vez nos llovió torrencialmente en los dos primeros días. Por suerte llovió durante el día y las noches nos tocaron despejadas, aunque siempre húmedas por toda el agua que continuaba goteando de los árboles a través de la noche. Hubiese sido triste tener que cocinar bajo la lluvia y las conversas vespertinas habrían sido más cortas y menos divertidas. Afortunadamente el suelo todavía no había absorbido tanta agua así que no nos tocó tener que luchar para conseguir buena tracción en las largas trepadas que nos tocaron.
@@ -94,4 +81,4 @@ Al final del camino me impresiona que pude llegar a Cerro Bruja en el primer int
 
 {{< figure src="/wp-content/uploads/gallery_backup/13315786_10154306260314940_3023205947667325017_n.jpg" title="13315786\_10154306260314940\_3023205947667325017\_n" alt="13315786\_10154306260314940\_3023205947667325017\_n" >}}
 
-{{< figure src="/wp-content/uploads/gallery_backup/13315285_10154306248889940_371715880715348924_n.jpg" title="13315285\_10154306248889940\_371715880715348924\_n" alt="13315285\_10154306248889940\_371715880715348924\_n" >}}  
+{{< figure src="/wp-content/uploads/gallery_backup/13315285_10154306248889940_371715880715348924_n.jpg" title="13315285\_10154306248889940\_371715880715348924\_n" alt="13315285\_10154306248889940\_371715880715348924\_n" >}}

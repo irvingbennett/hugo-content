@@ -1,42 +1,28 @@
 ---
-_edit_last: "1"
-_jetpack_dont_email_post_to_subs: "1"
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1782132485
-    payload:
-      - id: 1759
-      - id: 2249
-      - id: 2087
-      - id: 1944
-      - id: 1903
-      - id: 1778
-_thumbnail_id: "1603"
-_wpas_skip_6885108: "1"
-_wpas_skip_6885117: "1"
-_wpas_skip_6885125: "1"
-_wpas_skip_6885140: "1"
-_wpcom_is_markdown: "1"
+_jetpack_dont_email_post_to_subs: '1'
+_wpas_skip_6885108: '1'
+_wpas_skip_6885117: '1'
+_wpas_skip_6885125: '1'
+_wpas_skip_6885140: '1'
 author: Rompy
 categories:
-  - "Caminatas"
+- Caminatas
 cover:
-  image: "/wp-content/uploads/2011/05/Carte-UTMB-coureurs_720.jpg"
-date: "2011-05-18T16:43:52+00:00"
+  image: /wp-content/uploads/2011/05/Carte-UTMB-coureurs_720.jpg
+date: '2011-05-18T16:43:52+00:00'
 embed: This is the default text
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=1596
-image: ""
+image: ''
 parent_post_id: null
-post_id: "1596"
-seo_follow: "false"
-seo_noindex: "false"
+post_id: '1596'
+seo_follow: 'false'
+seo_noindex: 'false'
+slug: ultra-trail-de-mont-blanc
 tags:
-  - ultra
+- ultra
 title: Ultra Trail de Mont Blanc
-url: /2011/05/18/ultra-trail-de-mont-blanc
-wpb_post_views_count: "15"
-
+wpb_post_views_count: '15'
 ---
+
 {{< figure align="alignleft" width=150 src="/wp-content/uploads/gallery_backup/Carte-UTMB-coureurs_720.jpg" alt="Recorrido" caption="Recorrido" >}}
 
 Todavía no he terminado [Western States 2011](http://ws100.com/home.html "WS100") y ya estoy pensando en [Ultra Trail de Mont Blanc 2012](http://www.ultratrailmb.com/page/20/UTMB%C2%AE.html "UTMB 2012"). No lo puedo evitar, ya no es necesario el resultado de WS100 para poder inscribirme en UTMB por que he adquirido los puntos necesarios para participar en esa carrera, una de las ultras más difíciles del mundo por el desnivel que tiene. Lejos de perder el enfoque en mi próximo recorrido, lo estoy viendo como un entrenamiento para el evento más grande a futuro. Estoy tratando de pensar en que puedo hacer que me próxima carrera sea más relevante para la siguiente.

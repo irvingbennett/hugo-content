@@ -1,33 +1,20 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781827241
-    payload:
-      - id: 1287
-      - id: 51
-      - id: 64
-      - id: 252
-      - id: 1838
-      - id: 534
-_thumbnail_id: "1936"
 author: Rompy
 categories:
-  - "Caminatas"
+- Caminatas
 cover:
-  image: "/wp-content/uploads/2011/12/Nombre-de-Dios_a_Gamboa.jpg"
-date: "2011-12-30T01:38:24+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=1935
+  image: /wp-content/uploads/2011/12/Nombre-de-Dios_a_Gamboa.jpg
+date: '2011-12-30T01:38:24+00:00'
 parent_post_id: null
-post_id: "1935"
+post_id: '1935'
+slug: nombre-de-dios-a-gamboa
 tags:
-  - kayaking
-  - trek
+- kayaking
+- trek
 title: Nombre de Dios a Gamboa
-url: /2011/12/29/nombre-de-dios-a-gamboa
-wpb_post_views_count: "28"
-
+wpb_post_views_count: '28'
 ---
+
 {{< figure align="aligncenter" width=640 src="/wp-content/uploads/gallery_backup/Nombre-de-Dios_a_Gamboa.jpg" alt=" Ruta Nombre de Dios a Gamboa" caption=" Ruta Nombre de Dios a Gamboa" >}}
 
 Anoche regresé de caminar y remar de Nombre de Dios a Gamboa. El lunes en la mañana me escribió mi amigo Juan Antonio preguntando si quería llevar a unos hombres a caminar el Camino Real y le dije que me interesaba. Al reunirme con la gente, eran un par de tenientes de la Marina y un teniente de los Marines, me dijeron que querían cruzar el Istmo en tres días. Después de decirles que estaban locos les conté de un viaje parecido que había hecho con [Scott Schumaker](http://www.scottschumaker.com/content/view/16/32/ "Panorama") y Jorge Heilbron hace unos años atrás. Les gustó la idea y al día siguiente partimos a recorrer el Istmo.

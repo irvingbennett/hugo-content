@@ -1,42 +1,26 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781924637
-    payload:
-      - id: 3617
-      - id: 6958
-      - id: 2947
-      - id: 908
-      - id: 1339
-      - id: 2884
 _publicize_facebook_user: http://www.facebook.com/509096638
-_publicize_twitter_user: '@irvingbennett'
-_thumbnail_id: "3001"
-_wpas_done_all: "1"
-_wpas_skip_6885108: "1"
-_wpas_skip_6885117: "1"
-_wpas_skip_6885125: "1"
-_wpas_skip_6885140: "1"
-_wpcom_is_markdown: "1"
+_wpas_skip_6885108: '1'
+_wpas_skip_6885117: '1'
+_wpas_skip_6885125: '1'
+_wpas_skip_6885140: '1'
 ase_map_component_start_point:
   lat: 29.76
   lng: -95.38
 author: Rompy
 categories:
-  - "Correr"
+- Correr
 cover:
-  image: "/wp-content/uploads/2016/07/kerry-way-ultra-new-1.jpg"
-date: "2016-07-21T02:38:55+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=2999
+  image: /wp-content/uploads/2016/07/kerry-way-ultra-new-1.jpg
+date: '2016-07-21T02:38:55+00:00'
 parent_post_id: null
-post_id: "2999"
+post_id: '2999'
+slug: kerry-way-ultra-200kms
 tags:
-  - ultra
+- ultra
 title: Kerry Way Ultra 200kms
-url: /2016/07/20/kerry-way-ultra-200kms
-
 ---
+
 Ya estamos en la recta final para Kerry Way Ultra en Irlanda: el 2 de septiembre Roger y yo estaremos en la partida, la meta estará a 200 kilómetros de distancia y durante el recorrido tendremos un desnivel de más de 5,000 metros. Tenemos 40 horas para terminar y la ayuda de Isa y Lorena será vital porque la carrera no tiene estaciones de apoyo como las carreras típicas (es auto asistida, ni agua nos van a dar). Esta carrera será del tipo "pague por sufrir" sin duda alguna. Y ya estoy sufriendo sin comenzar la carrera porque mi rodilla derecha está actuando rara últimamente.
 
 Kerry Way es una carrera muy pequeña: en el 2015 comenzaron 43 y terminaron 25 dentro de las 40 horas. La carrera sigue uno de los senderos de larga distancia de Irlanda que recorre el perímetro de la península de Kerry en County Kerry partiendo y terminando en Killarney. La ruta pasa por el cerro más alto de Irlanda, **Carrauntoohil,** con 1,038 metros de elevación. ¡Por suerte nosotros no pasaremos por la cima! Con Google Earth ya pasé por encima de toda la ruta y la carrera será algo como las escenas de Corazón Valiente en Escocia corriendo por parajes de hierba entre cerros más altos.
@@ -94,4 +78,4 @@ La tabla a continuación es mi estimado de lo que creo que puedo hacer en Kerry 
 
 {{< figure src="/wp-content/uploads/gallery_backup/TheKerryWayUltra14.jpg" title="TheKerryWayUltra14" alt="TheKerryWayUltra14" >}}
 
-{{< figure src="/wp-content/uploads/gallery_backup/TheKerryWayUltra3.jpg" title="TheKerryWayUltra3" alt="TheKerryWayUltra3" >}}  
+{{< figure src="/wp-content/uploads/gallery_backup/TheKerryWayUltra3.jpg" title="TheKerryWayUltra3" alt="TheKerryWayUltra3" >}}

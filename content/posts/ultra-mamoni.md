@@ -1,27 +1,18 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1782010513
-    payload:
-      - id: 1490
-      - id: 1507
-      - id: 2378
-_wp_old_slug: ""
+_wp_old_slug: ''
 author: Rompy
 categories:
-  - "Correr"
-date: "2010-11-17T22:07:52+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=1327
+- Correr
+date: '2010-11-17T22:07:52+00:00'
 parent_post_id: null
-post_id: "1327"
+post_id: '1327'
+slug: ultra-mamoni
 tags:
-  - ultra
+- ultra
 title: Ultra Mamoni
-url: /2010/11/17/ultra-mamoni
-wpb_post_views_count: "8"
-
+wpb_post_views_count: '8'
 ---
+
 [![](/wp-content/uploads/2010/11/UltraMamoni-1024x726.jpg)](//wp-content/uploads/2010/11/UltraMamoni.jpg) Pensando donde se podría hacer una buena ultra maratón de senderos escogí el área del Río Mamoní y el Río Pacora como la mejor. He escogido una ruta que voy a inspeccionar para luego usar en una propuesta para hacer una carrera de larga distancia. Hay un par de opciones para el circuito, pero inicialmente voy a explorar el ciruicto por Corpus Cristi. Ya conocemos bastante del camino y solamente hace falta definir unos tramos que cruzan del Mamoní al Pacora.
 
 Si salimos de Carriazo, llegando a San Miguel, en el Pacora, la ruta sería un circuito perfecto de casi 50 kilómetros (47 kilómetros en el mapa, a grosso modo). Si salimos de La Margarita de Chepo, la ruta sería como un lolipop, un circuito con una línea recta. En este caso la ruta puede ser desde 65 kilómetros hasta 47 kilómetros, dependiendo de cuanto de la recta se recorre. Este recorrido es en su mayoría por caminos de tierra, y solamente se tocaría un tramo pequeño de asfalto en Carriazo y otro en La Margarita.

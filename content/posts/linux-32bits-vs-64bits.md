@@ -1,23 +1,15 @@
 ---
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1782028357
-    payload:
-      - id: 110
-      - id: 207
-      - id: 187
 author: Rompy
 categories:
-  - "General"
-date: "2006-07-11T14:38:59+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=150
+- General
+date: '2006-07-11T14:38:59+00:00'
 parent_post_id: null
-post_id: "150"
+post_id: '150'
+slug: linux-32bits-vs-64bits
 title: Linux 32bits vs. 64bits
-url: /2006/07/11/linux-32bits-vs-64bits
-wpb_post_views_count: "8"
-
+wpb_post_views_count: '8'
 ---
+
 En [marzo](/) de este año hice una serie de cambios en mi servidor Linux. Primero cambié la tarjeta de madre de una que usaba un AMD Athlon a una que usada un AMD Athlon 64. Y luego actualicé la versión de Linux a Fedora Core 5. Todo esto fué bastante sencillo por que era una actualización razonable: mismo tipo de tarjeta madre, mismo procesador, y una actualización del sistema operativo en el mismo sistema. ¡No traten de hacer esto con Windows 2003 server! Yo solo me tire una curva cuando decidí que, además de la actualización a Core 5, también instalaría la versión de 64 bits de Linux.
 
 La verdad es que esto hubiese estado bien si hacía una instalación fresca y no mezclaba las cosas. Pero en realidad todavía hay muchas cosas que no han sido portadas a 64 bits y el sistema trata de vivir en un mundo de librerías mixtas. Las cosas se enredaron un poco y no es hasta hace poco que he deshecho el enredo que ocasioné. Hice una instalación fresca de Fedora Core 5 32bits en discos vírgenes y movi mis datos de un lado al otro. Esto también resultó fácil por el uso de LVM para virtualizar los disco duros.

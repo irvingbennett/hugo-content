@@ -1,16 +1,15 @@
 ---
 author: Rompy
 categories:
-  - "Caminatas"
-date: "2010-11-08T19:54:52+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/2010/11/08/transdarin
+- Caminatas
+date: '2010-11-08T19:54:52+00:00'
 parent_post_id: null
-post_id: "1324"
+post_id: '1324'
+slug: transdarien
 title: TransDarién
-url: /2010/11/08/transdarien
-wpb_post_views_count: "21"
-
+wpb_post_views_count: '21'
 ---
+
 Hace varios años que no camino por Darién. Ahora que han vuelto a abrir el aeropuerto de Puerto Obaldía creo que es tiempo de regresar por esos lares. Me encantaría volver a la ruta del TransDarién que hicimos Hernán Araúz y yo hace casi 20 años atrás. Luego la volví a repetir con Lorena, Sarah Simpson y Humberto Altamirano. La ruta tiene todos los ingredientes para ser una ruta clásica, y una distancia ideal que permite desconectarse lo suficiente para poder apreciar el entorno, totalmente ajeno del mundo exterior.
 
 Partimos de Puerto Obaldía, pasamos por Armila, subimos por el Río Pito, cruzamos la división continental hacia el Río Tacartí, y terminamos siguiendo el Río Membrillo hasta Canaán, un caserío Emberá-Wounan. Esta ruta permite atravesar varios días de bosque primario, totalmente alejados del contacto humano (fuera del grupo) y de asentamientos indígenas. El Río Tacartí es amplio, con fondo de piedras, y cristalino en el verano. A partir de Canaán ya se vuelve navegable el Río Membrillo, permitiendo terminar el viaje en un largo viaje en piragua, llegando a Metetí.

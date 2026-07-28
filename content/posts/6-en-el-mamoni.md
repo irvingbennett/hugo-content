@@ -1,33 +1,16 @@
 ---
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1782166130
-    payload:
-      - id: 314
-      - id: 526
-      - id: 395
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1782183167
-    payload:
-      - id: 314
-      - id: 526
-      - id: 395
-      - id: 949
-      - id: 1208
-      - id: 307
 author: Rompy
 categories:
-  - "General"
-  - "Kayaking"
-date: "2006-08-15T12:19:18+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=157
+- General
+- Kayaking
+date: '2006-08-15T12:19:18+00:00'
 parent_post_id: null
-post_id: "157"
+post_id: '157'
+slug: 6-en-el-mamoni
 title: 6 en el Mamoni
-url: /2006/08/15/6-en-el-mamoni
-wpb_post_views_count: "9"
-
+wpb_post_views_count: '9'
 ---
+
 ![Mamoni](/wp-content/uploads/gallery_backup/ElCajon.jpg "Mamoni") Ayer bajamos el Mamoní. Seis kayakeros hicimos un buen grupo y la pasamos expectacularmente en el río. Bajamos tranquilos, sin apuros, gozando de un día que parecía de verano. El río estaba algo bajo de agua, pero resulto perfecto para que nuestra acompañante, Alexandra, no se asustara mucho en su primer descenso de este río. Alexandra se portó con mucho aplomo y nos dejó muy impresionados con su ecuanimidad ante todas las novedades que se le presentaron en el río.
 
 Tino, otro sobrino, llevo su Pentax Optio (a prueba de agua) y nos tomó muchas [fotos](https://photos.app.goo.gl/cvxBqC736rCBjFM97 "vídeos del Manoní"). Increible cuanto vídeo cabe hoy día en un aparato tan pequeño. La calidad de las películas es excelente y la duración de la batería es más que apropiada. El único inconveniente de tomar vídeo es que tomamos menos fotos durante el viaje. Pero este definitivamente es un inconveniente pequeño. Si una foto vale más que mil palabras, ¿Qué podemos decir de un vídeo?

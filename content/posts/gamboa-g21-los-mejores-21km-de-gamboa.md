@@ -1,27 +1,18 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781773668
-    payload:
-      - id: 1838
-      - id: 2364
-      - id: 2465
-_wp_old_slug: ""
+_wp_old_slug: ''
 author: Rompy
 categories:
-  - "Correr"
-date: "2010-10-04T16:26:04+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=1287
+- Correr
+date: '2010-10-04T16:26:04+00:00'
 parent_post_id: null
-post_id: "1287"
+post_id: '1287'
+slug: gamboa-g21-los-mejores-21km-de-gamboa
 tags:
-  - maraton
+- maraton
 title: Gamboa g21 - Los mejores 21km de Gamboa
-url: /2010/10/04/gamboa-g21-los-mejores-21km-de-gamboa
-wpb_post_views_count: "7"
-
+wpb_post_views_count: '7'
 ---
+
 \[caption id="attachment\_1288" align="alignleft" width="200" caption="Lorena y Sandra terminando"\] [![Lorena y Sandra terminando](/wp-content/uploads/2010/10/LorenaySandra21km-200x300.jpg)](//wp-content/uploads/2010/10/LorenaySandra21km.jpg)\[/caption\]
 
 Este domingo corrimos los 21 kilómetros de Gamboa. Sin lugar a dudas que este evento se ha ganado su posición en la historia de esa carrera como la mejor edición a la fecha. La participación fue masiva, tanto de parte de los corredores, como de los espectadores y el personal de apoyo. César Kiamco, como director de la carrera, se merece un premio por su excelente labor. Me alegró ver el regreso a la ruta tradicional de esta carrera, que, cuando la corrí por primera vez, partía de Gamboa.

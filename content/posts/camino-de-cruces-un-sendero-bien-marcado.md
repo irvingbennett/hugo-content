@@ -1,26 +1,17 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1782076228
-    payload:
-      - id: 2412
-      - id: 2339
-      - id: 2175
 author: Rompy
 categories:
-  - "Caminatas"
-  - "Correr"
-  - "General"
-date: "2006-07-04T16:17:13+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=141
+- Caminatas
+- Correr
+- General
+date: '2006-07-04T16:17:13+00:00'
 parent_post_id: null
-post_id: "141"
+post_id: '141'
+slug: camino-de-cruces-un-sendero-bien-marcado
 title: Camino de Cruces, un sendero bien marcado
-url: /2006/07/04/camino-de-cruces-un-sendero-bien-marcado
-wpb_post_views_count: "19"
-
+wpb_post_views_count: '19'
 ---
+
 ![Cruces](/wp-content/uploads/2006/07/cruces20060625.jpg)
 
 Este 25 de junio organizamos una caminata por el sendero del Camino de Cruces para recoger fondos para nuestro Club Orientación Panamá. No tenía mayores expectativas sobre lo que iba a encontrar en el trillo que había recorrido anteriormente. Al final quede muy complacido con el paseo: el trillo estaba muy bien señalado y nuestro recorrido transcurrió agradablemente.

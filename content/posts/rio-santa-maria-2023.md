@@ -1,31 +1,19 @@
 ---
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1782126954
-    payload:
-      - id: 785
-      - id: 35
-      - id: 2382
 _last_editor_used_jetpack: block-editor
-_publicize_twitter_user: '@irvingbennett'
-_thumbnail_id: "5951"
-_wpas_done_all: "1"
-_wpcom_is_markdown: "1"
 author: Rompy
 categories:
-  - "Kayaking"
+- Kayaking
 cover:
-  image: "/wp-content/uploads/2023/01/20230107_151105-scaled.jpg"
-date: "2024-06-10T14:32:26+00:00"
-guid: http://hbx.wvf.mybluehost.me/?p=5950
+  image: /wp-content/uploads/2023/01/20230107_151105-scaled.jpg
+date: '2024-06-10T14:32:26+00:00'
 parent_post_id: null
-post_id: "5950"
+post_id: '5950'
+slug: rio-santa-maria-2023
 tags:
-  - travesias
+- travesias
 title: Río Santa María 2023
-url: /2024/06/10/rio-santa-maria-2023
-
 ---
+
 Este 7, 8, y 9 de enero bajamos el Río Santa María remando. Pasamos tres días remando y dos noches acampando a orillas del río. Nos tocó un clima fabuloso, el río tenía un nivel ideal de agua, y las noches fueron iluminadas por una luna llena acompañada por cientos de luciérnagas. Bajamos en toda clase de botes a remo: canoas, kayaks, y kayaks inflables. Hasta una balsa bajó el río (pero no con nosotros porque partieron por delante y nunca los alcanzamos).
 
 Este mismo viaje lo habíamos hecho en el 2020 y lo tratamos de repetir en el 2021 y 2022 sin éxito por los problemas del covid 19. Esta vez fuimos el doble de botes porque las expectativas fueron acumulándose con cada año que pasó sin poder remar el Santa María. En total fuimos 10 botes (11 iniciaron) los que remaron desde San Francisco hasta el puente de Divisa, 50 kilómetros de río.

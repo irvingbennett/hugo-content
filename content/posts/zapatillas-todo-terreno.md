@@ -1,9 +1,9 @@
 ---
-title: Zapatillas todo terreno
-url: /2010/01/28/zapatillas-todo-terreno
-wpb_post_views_count: "57"
 categories:
-  - "Caminatas"
+- Caminatas
+slug: zapatillas-todo-terreno
+title: Zapatillas todo terreno
+wpb_post_views_count: '57'
 ---
 
 ![Salomon XA Pro 3D trail running shoes with rugged outsole and protective toe cap](/wp-content/uploads/2010/01/salomon-xa-pro-3d2.jpg)

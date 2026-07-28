@@ -1,43 +1,29 @@
 ---
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1782182674
-    payload:
-      - id: 5960
-      - id: 1411
-      - id: 6958
-      - id: 992
-      - id: 5962
-      - id: 191
 _publicize_shares:
-  - connection_id: 6900156
-    external_id: alairelibre.tumblr.com
-    external_name: Al Aire Libre
-    message: http://alairelibre.tumblr.com/post/810017559691870208
-    profile_link: http://alairelibre.tumblr.com/
-    profile_picture: ""
-    service: tumblr
-    status: success
-    timestamp: 1772492943
-    wpcom_user_id: 1142432
-_thumbnail_id: "6947"
-_wpas_done_all: "1"
-_wpcom_is_markdown: "1"
+- connection_id: 6900156
+  external_id: alairelibre.tumblr.com
+  external_name: Al Aire Libre
+  message: http://alairelibre.tumblr.com/post/810017559691870208
+  profile_link: http://alairelibre.tumblr.com/
+  profile_picture: ''
+  service: tumblr
+  status: success
+  timestamp: 1772492943
+  wpcom_user_id: 1142432
 author: Rompy
 categories:
-  - "Correr"
+- Correr
 cover:
-  image: "/wp-content/uploads/2026/03/20260224_085419-scaled.jpg"
-date: "2026-03-02T23:08:53+00:00"
-guid: http://localhost/?p=6933
+  image: /wp-content/uploads/2026/03/20260224_085419-scaled.jpg
+date: '2026-03-02T23:08:53+00:00'
 parent_post_id: null
-post_id: "6933"
+post_id: '6933'
+slug: el-reto-del-indio-2026
 tags:
-  - ultra
+- ultra
 title: El Reto del Indio 2026
-url: /2026/03/02/el-reto-del-indio-2026
-
 ---
+
 Este Reto del Indio ha sido la carrera de 100 millas que más me ha costado terminar. Terminé mi carrera en 37:39:52, 20 minutos contra el corte de la carrera. Me tocó ayudarme con un bastón los últimos 15 kilómetros porque ya la espalda no me sostenía erguido. Eso me pasa por no entrenar suficiente fuerza antes del evento. No me vuelve a suceder. Llegando a Playa Blanca me vino a buscar Irving y su compañía fue un alivio durante esos últimos dos kilómetros. Al llegar a la meta Laura me colocó la medalla. Esos detalles justificaron todo el esfuerzo.
 
 {{< figure src="/wp-content/uploads/gallery_backup/whatsapp-image-2026-02-22-at-11.31.10-am.jpeg" alt="" caption="¡En la meta!" >}}

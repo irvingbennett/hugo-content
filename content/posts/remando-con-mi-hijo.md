@@ -1,26 +1,17 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781963457
-    payload:
-      - id: 290
-      - id: 310
-      - id: 35
 author: Rompy
 categories:
-  - "Kayaking"
-date: "2008-08-27T12:31:21+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=341
+- Kayaking
+date: '2008-08-27T12:31:21+00:00'
 parent_post_id: null
-post_id: "341"
+post_id: '341'
+slug: remando-con-mi-hijo
 tags:
-  - kayaking
+- kayaking
 title: Remando con mi hijo
-url: /2008/08/27/remando-con-mi-hijo
-wpb_post_views_count: "13"
-
+wpb_post_views_count: '13'
 ---
+
 ![Irving en su kayak](/wp-content/uploads/gallery_backup/www.boqueteoutdooradventures.com "Boquete Outdoor Adventures"). Como el río era fácil, decidí llevar a mi hijo a bajar su primer río en su propio bote. ¡Mi hijo dejó impresionados a todos, incluyéndome a mi! Bajó todo el río sin ningún problema, remando tranquilamente por más de cuatro horas. Cualquiera hubiese pensado que llevaba años haciendo esto. Comprarle un kayak para niños a mi hijo Irving ha sido una de las mejores decisiones que he tomado en mi vida. Que alegría compartir un día completo en cercana compañía con Irving.
 
 [John Miller](/wp-content/uploads/gallery_backup/P8240011.JPG.html "John Miller en Río Chame") estaba dando una clase de introducción a Annie Young, Joaquín Gil del Real, y Jorge Barriga. Jaime Vásquez, Dimas Pino y Papito estaban asistiendo al grupo, y Paulo Vargas, mi hijo Irving y yo los acompaños en la bajado del río. Después de llegar a la primer charca del río, John se dedicó a repasar las diferentes paladas y técnicas de remo en kayak. Irving prontamente fue perdiendo la paciencia: ¡el quería seguir bajando el río! Al los pocos minutos me dijo "Papa, tenemos que volver al río tu y yo, pero sin John, para poder bajar todo el río sin parar". Ese momento no tiene precio...

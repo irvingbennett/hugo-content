@@ -1,38 +1,19 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781863705
-    payload:
-      - id: 27
-      - id: 307
-      - id: 34
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781879166
-    payload:
-      - id: 27
-      - id: 307
-      - id: 34
-      - id: 1008
-      - id: 443
-      - id: 395
-_thumbnail_id: "951"
 author: Rompy
 categories:
-  - "Kayaking"
+- Kayaking
 cover:
-  image: "/wp-content/uploads/2010/05/P50801172-scaled.jpg"
-date: "2010-05-11T12:22:05+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=949
+  image: /wp-content/uploads/2010/05/P50801172-scaled.jpg
+date: '2010-05-11T12:22:05+00:00'
 parent_post_id: null
-post_id: "949"
+post_id: '949'
+slug: mamoni-en-primavera
 tags:
-  - kayaking
+- kayaking
 title: Mamoní en Primavera
-url: /2010/05/11/mamoni-en-primavera
-wpb_post_views_count: "77"
-
+wpb_post_views_count: '77'
 ---
+
 [![Joaquín en el Mamoní](/wp-content/uploads/gallery_backup/p50801172.jpg) "Fotos del Río Mamoní") que la del Pacora. A las 3:10pm estábamos en el agua, listos para bajar el río: un poco tarde para mi gusto, pero solamente éramos Joaquín y yo, y el río no cargaba mucho volumen.
 
 Nuestro plan original era remar el Pacora partiendo al medio día. Cuando llegué a recoger a Joaquín, este había dejado su remo en el estacionamiento de su casa ¿En qué estaría pensando? Entre la buscada del remo, una parada rápida para almorzar (autrápido del McDonald's), y la subida hasta San Miguel para ver el Pacora, se nos fueron las tres horas antes de poder meternos al agua.

@@ -1,41 +1,28 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781799644
-    payload:
-      - id: 5216
-      - id: 5960
-      - id: 6958
 _publicize_facebook_user: https://www.facebook.com/irving.bennett
-_publicize_twitter_user: '@irvingbennett'
-_thumbnail_id: "2669"
 _wp_old_slug: massannuten-mountain-trail-100-completado
-_wpas_done_all: "1"
-_wpas_skip_6885108: "1"
-_wpas_skip_6885117: "1"
-_wpas_skip_6885125: "1"
-_wpas_skip_6885140: "1"
-_wpas_skip_6885155: "1"
-_wpcom_is_markdown: "1"
+_wpas_skip_6885108: '1'
+_wpas_skip_6885117: '1'
+_wpas_skip_6885125: '1'
+_wpas_skip_6885140: '1'
+_wpas_skip_6885155: '1'
 ase_map_component_start_point:
   lat: 29.76
   lng: -95.38
 author: Rompy
 categories:
-  - "Correr"
+- Correr
 cover:
-  image: "/wp-content/uploads/2014/05/IMG-20140518-WA0027-e1400757717289.jpg"
-date: "2014-05-22T02:08:44+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=2661
+  image: /wp-content/uploads/2014/05/IMG-20140518-WA0027-e1400757717289.jpg
+date: '2014-05-22T02:08:44+00:00'
 parent_post_id: null
-post_id: "2661"
+post_id: '2661'
+slug: massanutten-mountain-trail-100-completado
 tags:
-  - ultra
+- ultra
 title: Massanutten Mountain Trail 100 completado
-url: /2014/05/21/massanutten-mountain-trail-100-completado
-
 ---
+
 Este fin de semana corrí [Massanutten Mountain Trail 100](http://www.vhtrc.org/mmt "Massanutten Mountain Trail 100") en 34 horas, 17 minutos y 19 segundos. Jamás había corrido por tantas horas seguidas. Fue una buena experiencia preparatoria para [Fat Dog 120 millas](http://www.mountainmadness.ca/fatdog.php "Fat Dog 120") en agosto.  Esperaba que iba a encontrar dificultades para terminar esta carrera porque solamente había podido correr 120 km en mis últimos 30 días y acababa de pasar por un [Herpes Zóster](/2014/04/25/herpes-zoster "Herpes Zóster") que me dejó tumbado por una semana y enclenque por otro par más. Tuve la inmensa suerte de encontrarme con un par de viejos zorros que me ayudaron a completar esta carrera y en el proceso aprendí muchas cosas que me hubiese tomado muchos años más descubrir.
 
 Este año tenía programado correr Rocky Raccoon 100 en febrero pero una accidente en moto me lastimo el pie derecho y me dejó sin correr por un par de meses. Por eso me metí en la lotería de Massanutten para ver si conseguía entrar en esa carrera y lograr correr un 100 millas este año (el año pasado no pude hacerlo por falta de tiempo y otras razones). No salí en la lotería pero quedé de #100 en la lista de espera. No fue hasta el 25 de abril que entré a la carrera, el último día posible porque en ese día se cerraban los movimientos de la lista de espera a la lista de inscritos. Esa noticia la recibí con [emociones mixtas](/2014/05/11/massanutten-o-morir "¡Massanutten o morir!").
@@ -133,4 +120,4 @@ La bajada a la estación se me hacía interminable. Paul me daba un estimado de 
 
 {{< figure src="/wp-content/uploads/gallery_backup/14204994362_1cda3c34ea_o.jpg" title="14204994362\_1cda3c34ea\_o" alt="14204994362\_1cda3c34ea\_o" >}}
 
-{{< figure src="/wp-content/uploads/gallery_backup/14204981552_5916dc1207_o.jpg" title="14204981552\_5916dc1207\_o" alt="14204981552\_5916dc1207\_o" >}}  
+{{< figure src="/wp-content/uploads/gallery_backup/14204981552_5916dc1207_o.jpg" title="14204981552\_5916dc1207\_o" alt="14204981552\_5916dc1207\_o" >}}

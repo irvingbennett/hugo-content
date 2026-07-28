@@ -1,45 +1,31 @@
 ---
-_edit_last: "1"
-_jetpack_dont_email_post_to_subs: "1"
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781999907
-    payload:
-      - id: 2152
-      - id: 6657
-      - id: 6933
-      - id: 183
-      - id: 111
-      - id: 2609
-_thumbnail_id: "1692"
-_wpas_skip_6885108: "1"
-_wpas_skip_6885117: "1"
-_wpas_skip_6885125: "1"
-_wpas_skip_6885140: "1"
-_wpcom_is_markdown: "1"
+_jetpack_dont_email_post_to_subs: '1'
+_wpas_skip_6885108: '1'
+_wpas_skip_6885117: '1'
+_wpas_skip_6885125: '1'
+_wpas_skip_6885140: '1'
 ase_map_component_start_point:
   lat: 29.76
   lng: -95.38
 author: Rompy
 categories:
-  - "Caminatas"
+- Caminatas
 cover:
-  image: "/wp-content/uploads/2011/06/118Panama-.jpg"
-date: "2011-06-09T15:43:17+00:00"
+  image: /wp-content/uploads/2011/06/118Panama-.jpg
+date: '2011-06-09T15:43:17+00:00'
 embed: This is the default text
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=1690
-image: ""
+image: ''
 parent_post_id: null
-post_id: "1690"
-seo_follow: "false"
-seo_noindex: "false"
+post_id: '1690'
+seo_follow: 'false'
+seo_noindex: 'false'
+slug: balboa-patrol
 tags:
-  - travesias
+- travesias
 title: Balboa Patrol
-url: /2011/06/09/balboa-patrol
-wpb_post_views_count: "103"
-
+wpb_post_views_count: '103'
 ---
+
 {{< figure align="alignleft" width=300 src="/wp-content/uploads/gallery_backup/15Panama-.jpg" alt="Balboa Patrol" caption="Balboa Patrol" >}}
 
 En 1979 crucé el Darién, de norte a sur, con la Patrulla Balboa. Balboa Patrol, como le llamaron los Ingleses, era un grupo de 21 personas que intentaríamos seguir la ruta que uso Vasco Nuñez de Balboa para cruzar el Istmo de Panamá en 1913 y encontrar el Mar del Sur, que luego Magallanes cambiaría de nombre a Oceáno Pacífico. Eso fue un 25 de septiembre de 1513, ya hace casi 500 años atrás. Ahora pronto estaremos celebrando esos [500 años](/wp-content/uploads/2011/06/logo-500-balboa.jpg) y Panamá ha formado una comisión para planear las actividades y celebraciones. Como esa Patrulla Balboa fue algo muy importante para mi en su momento, yo también voy a planear mi propia conmemoración: voy a volver a repetir ese viaje.
@@ -148,4 +134,4 @@ Ya tengo en mente un plan para desarrollar la segunda versión de la Patrulla Ba
 
 {{< figure src="/wp-content/uploads/gallery_backup/15Panama-.jpg" title="15Panama" alt="15Panama" >}}
 
-{{< figure src="/wp-content/uploads/gallery_backup/07Panama-.jpg" title="07Panama" alt="07Panama" >}}  
+{{< figure src="/wp-content/uploads/gallery_backup/07Panama-.jpg" title="07Panama" alt="07Panama" >}}

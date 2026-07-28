@@ -1,30 +1,19 @@
 ---
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781420082
-    payload:
-      - id: 5960
-      - id: 6958
-      - id: 5997
 _last_editor_used_jetpack: block-editor
-_thumbnail_id: "6006"
-_wpas_done_all: "1"
-_wpcom_is_markdown: "1"
 author: Rompy
 categories:
-  - "Correr"
+- Correr
 cover:
-  image: "/wp-content/uploads/2023/05/DSC_9594-scaled.jpg"
-date: "2023-05-25T10:24:34+00:00"
-guid: http://hbx.wvf.mybluehost.me/?p=6005
+  image: /wp-content/uploads/2023/05/DSC_9594-scaled.jpg
+date: '2023-05-25T10:24:34+00:00'
 parent_post_id: null
-post_id: "6005"
+post_id: '6005'
+slug: massanutten-100-millas-2023
 tags:
-  - ultra
+- ultra
 title: Massanutten 100 Millas 2023
-url: /2023/05/25/massanutten-100-millas-2023
-
 ---
+
 Este mayo 20 corrí con Chemi Mandarakas mi Massanutten #5 en un tiempo de 31 horas, 31 minuto. Ha sido mi mejor MMT 100 por más de dos horas. Lo sobresaliente del caso es que esta corrida ha sido una semana después de correr [Hellbender 100 Millas](/2023/05/24/hellbender-100-millas). Originalmente no planeaba hacer una corrida seguida de la otra, pero se dio la oportunidad de hacer Hellbender después que me había registrado en Massanutten y la tomé. Chemi se anotó a correr ambas y se armó el plan por serendipia.
 
 Cuando terminé Hellbender quedé algo cansado muscularmente, más que en El Reto del Indio. Mis pies fueron los que peor quedaron por el agua que nos cayó toda la noche durante la corrida. Por suerte todo se recuperó a un punto aceptable antes de que empezara Massanutten. En todo caso, lo que venía era una experiencia nueva para ambos porque ninguno de nosotros había hecho dos ultras seguidas. Ya yo había corrido dos ultras con dos semanas de separación y me fue bien en la segunda, pero 7 días entre medio era algo nuevo.

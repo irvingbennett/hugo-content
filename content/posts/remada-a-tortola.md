@@ -3,64 +3,49 @@ _g_feedback_shortcode_atts_d699ac9904cd909363039c637e061da320138040:
   block_template: null
   block_template_part: null
   className: null
-  customThankyou: ""
+  customThankyou: ''
   customThankyouHeading: Tu mensaje se ha enviado
   customThankyouMessage: ¡Gracias por tu envío!
-  customThankyouRedirect: ""
+  customThankyouRedirect: ''
   hiddenFields: null
   id: 6693
   jetpackCRM: true
   postToUrl: null
   salesforceData: null
-  show_subject: "no"
+  show_subject: 'no'
   subject: '[Al Aire Libre] '
   submit_button_text: Enviar
   to: irving@alairelibre.net
   widget: 0
-_g_feedback_shortcode_d699ac9904cd909363039c637e061da320138040: |-
-  [contact-field label="Nombre" type="name"  required="true" /]
-  				[contact-field label="Correo electrónico" type="email" required="true" /]
-  				[contact-field label="Web" type="url" /]
-  				[contact-field label="Mensaje" type="textarea" /]
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1782182677
-    payload:
-      - id: 6601
-      - id: 6322
-      - id: 6302
-      - id: 6232
-      - id: 290
-      - id: 310
+_g_feedback_shortcode_d699ac9904cd909363039c637e061da320138040: "[contact-field label=\"Nombre\"
+  type=\"name\"  required=\"true\" /]\n\t\t\t\t[contact-field label=\"Correo electrónico\"
+  type=\"email\" required=\"true\" /]\n\t\t\t\t[contact-field label=\"Web\" type=\"url\"
+  /]\n\t\t\t\t[contact-field label=\"Mensaje\" type=\"textarea\" /]"
 _publicize_shares:
-  - connection_id: 6900156
-    external_id: alairelibre.tumblr.com
-    external_name: Al Aire Libre
-    message: http://alairelibre.tumblr.com/post/781454416999022592
-    profile_link: http://alairelibre.tumblr.com/
-    profile_picture: ""
-    service: tumblr
-    status: success
-    timestamp: 1745253007
-    wpcom_user_id: 1142432
-_thumbnail_id: "6694"
-_wpas_done_all: "1"
-_wpcom_is_markdown: "1"
+- connection_id: 6900156
+  external_id: alairelibre.tumblr.com
+  external_name: Al Aire Libre
+  message: http://alairelibre.tumblr.com/post/781454416999022592
+  profile_link: http://alairelibre.tumblr.com/
+  profile_picture: ''
+  service: tumblr
+  status: success
+  timestamp: 1745253007
+  wpcom_user_id: 1142432
 author: Rompy
 categories:
-  - "Kayaking"
+- Kayaking
 cover:
-  image: "/wp-content/uploads/2025/04/20250419_103642-scaled.jpg"
-date: "2025-04-21T16:29:55+00:00"
-guid: http://localhost/?p=6693
+  image: /wp-content/uploads/2025/04/20250419_103642-scaled.jpg
+date: '2025-04-21T16:29:55+00:00'
 parent_post_id: null
-post_id: "6693"
+post_id: '6693'
+slug: remada-a-tortola
 tags:
-  - kayaking
+- kayaking
 title: Remada a Tórtola
-url: /2025/04/21/remada-a-tortola
-
 ---
+
 Este sábado remamos a Isla Tórtola ida y vuelta, 30 kilómetros en total. Estoy haciendo el trabajo para estar seguro de poder remar a Taboga ida y vuelta desde Parque Paitilla en un día, 42 kilómetros en total. Estoy seguro que podemos remar esa distancia ahora mismo, pero también estoy seguro que el regreso será duro y doloroso sin el entrenamiento que lo haga fácil y agradable. Hay que endurecer las manos y los tendones para que esas distancias se hagan rutinarias.
 
 {{< figure src="/wp-content/uploads/gallery_backup/20250419_070945.jpg" alt="" caption="" >}}

@@ -1,26 +1,17 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781969920
-    payload:
-      - id: 1287
-      - id: 732
-      - id: 2465
 author: Rompy
 categories:
-  - "Correr"
-date: "2011-10-03T17:52:04+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=1838
+- Correr
+date: '2011-10-03T17:52:04+00:00'
 parent_post_id: null
-post_id: "1838"
+post_id: '1838'
+slug: gamboa-21km-2011
 tags:
-  - hash
+- hash
 title: Gamboa 21km 2011
-url: /2011/10/03/gamboa-21km-2011
-wpb_post_views_count: "11"
-
+wpb_post_views_count: '11'
 ---
+
 [![](/wp-content/uploads/2011/10/318542_116710185102758_100002913327500_111684_1954530524_n-200x300.jpg)](//wp-content/uploads/2011/10/318542_116710185102758_100002913327500_111684_1954530524_n.jpg) Estoy impresionado por la participación que hubo en Gamboa este domingo. En los resultado aparece que terminaron 135 hombre y 179 mujeres. Esto es aún más increíble que la cantidad de personas que corrieron: más mujeres que hombres. Me alegra mucho ver que las mujeres han salido en masa a correr. Por mi parte, disfruté mucho la corrida a pesar de que me salió una molestia como en el kilómetro 8 y casi me retiro.
 
 Iba corriendo y conversando con Federico Bravo, que terminó en 1:40, cuando sentí el tirón en la pantorrilla derecha. Este músculo me ha estado molestando con frecuencia desde hace más de un año. Casi me retiro, inicié la caminata de vuelta a la meta y me arrepentí. Aún no me he retirado de una carrera y ya estaba llegando a la mitad, caminando acababa.

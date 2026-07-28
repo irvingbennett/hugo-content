@@ -1,37 +1,25 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781799399
-    payload:
-      - id: 50
-      - id: 460
-      - id: 232
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781809865
-    payload:
-      - id: 50
-      - id: 460
-      - id: 232
-      - id: 1374
-      - id: 191
-      - id: 831
 author: Rompy
 categories:
-  - "Bicicletas"
-  - "Caminatas"
-  - "Kayaking"
-date: "2008-01-18T13:24:03+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/2008/01/18/el-reto-del-indio-2008-2/
+- Bicicletas
+- Caminatas
+- Kayaking
+date: '2008-01-18T13:24:03+00:00'
 parent_post_id: null
-post_id: "243"
-summary: 
-  Este sábado 12 y domingo 13 de enero hicimos el Reto del Indio 2008, el cuarto que hemos hecho. Quisiera decir que cada vez se pone más fácil, pero en realidad con cada Reto hemos adquirido experiencia y conocemos mejor lo que hay que hacer pare terminar El Reto del Indio en menos tiempo. Este año partimos de Chumicho el sábado a las 6:26am y llegamos a Boca de Río Indio a las 6:46pm el domingo, todavía con algo de luz. Con todo y las largas horas que ya traíamos encima, Rolando y Dimas se enfrascaron en una competencia de velocidad contra Rogelio y yo que duro casi media hora. Al final perdimos el duelo los viejos, pero solo por un par de minutos.
+post_id: '243'
+slug: el-reto-del-indio-2008-2
+summary: Este sábado 12 y domingo 13 de enero hicimos el Reto del Indio 2008, el cuarto
+  que hemos hecho. Quisiera decir que cada vez se pone más fácil, pero en realidad
+  con cada Reto hemos adquirido experiencia y conocemos mejor lo que hay que hacer
+  pare terminar El Reto del Indio en menos tiempo. Este año partimos de Chumicho el
+  sábado a las 6:26am y llegamos a Boca de Río Indio a las 6:46pm el domingo, todavía
+  con algo de luz. Con todo y las largas horas que ya traíamos encima, Rolando y Dimas
+  se enfrascaron en una competencia de velocidad contra Rogelio y yo que duro casi
+  media hora. Al final perdimos el duelo los viejos, pero solo por un par de minutos.
 title: El Reto del Indio 2008
-url: /2008/01/18/el-reto-del-indio-2008-2
-wpb_post_views_count: "24"
-
+wpb_post_views_count: '24'
 ---
+
 ![El Reto del Indio](/wp-content/uploads/gallery_backup/P1120112.JPG) Este sábado 12 y domingo 13 de enero hicimos el Reto del Indio 2008, el cuarto que hemos hecho. Quisiera decir que cada vez se pone más fácil, pero en realidad con cada Reto hemos adquirido experiencia y conocemos mejor lo que hay que hacer pare terminar El Reto del Indio en menos tiempo. Este año partimos de Chumicho el sábado a las 6:26am y llegamos a Boca de Río Indio a las 6:46pm el domingo, todavía con algo de luz. Con todo y las largas horas que ya traíamos encima, Rolando y Dimas se enfrascaron en una competencia de velocidad contra Rogelio y yo que duro casi media hora. Al final perdimos el duelo los viejos, pero solo por un par de minutos.
 
 En este Reto hemos tenido la mayor participación de todos los Retos, y todos los que se enfrentaron a cada etapa la lograron terminar. Eso para mi es motivo de gran satisfacción. El Reto del Indio ha logrado motivar a muchos amigos a mantenerse entrenando a través del año para poder tener un mejor desempeño en el próximo Reto del Indio. Andrés Correa es un claro ejemplo de esto: el año pasado vino por la bicicleta y terminó remando también. Y desde entonces se estuvo preparando para este año, logrando un excelente desempeño. Igualmente, Irene Caballero se preparó desde octubre para este Reto e hizo la pedaleada en muy buen tiempo.

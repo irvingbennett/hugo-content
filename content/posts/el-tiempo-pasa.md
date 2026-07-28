@@ -1,25 +1,16 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781938419
-    payload:
-      - id: 290
-      - id: 341
-      - id: 1893
 _wp_old_slug: el-tiempo
 author: Rompy
 categories:
-  - "Kayaking"
-date: "2005-10-07T03:02:27+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=35
+- Kayaking
+date: '2005-10-07T03:02:27+00:00'
 parent_post_id: null
-post_id: "35"
+post_id: '35'
+slug: el-tiempo-pasa
 title: El Tiempo pasa
-url: /2005/10/06/el-tiempo-pasa
-wpb_post_views_count: "4"
-
+wpb_post_views_count: '4'
 ---
+
 [Pacora Arriba](/wp-content/uploads/gallery_backup/DSC00307.jpg "Pacora Arriba")[![](/wp-content/uploads/2005/10/DSC00307.jpg)](//wp-content/uploads/2005/10/DSC00307.jpg)¡Qué rápido pasa el tiempo! Nadie puede decir que yo me siento viejo, y menos que actúo cómo un viejo. Por el contrario, algunos en la familia están esperando el día en que "crezca". Acabo de ir al baño, algo que puede ser más íntimo de lo que deba comentar, pero relevante. Me encontre con una revista de Outside Magazine que juraría que compre hace poco. Ya tiene cinco (5) años de estar dando vueltas por mi casa. En la portada de la revista estaba Brad Ludden, un joven remero que ya ha logrado mucha fama remando kayaks. Cuando yo era más joven, jamás encontré a alguién con un remo en la mano en la portada de una revista de deportees.
 
 La primera vez que logré enderezar un kayak volteado fué hace más de 20 años, cuando aún estaba en la universidad. Escogí kayaking como una de las materias de educación física que eran obligatorias en cada semestre. Parecería extraño que hubiese escogido esa materia, pero crecí rodeado de catálogos de kayaks que no se de donde sacaba mi viejo. Nunca compró su kayak, mi viejo, pero me dejó con la curiosidad de saber que es lo que tanto le atraía (en teoría). Bueno, ya se por que puede que le hayan atraído los kayaks a él. Pasaron casi 20 años antes que yo tuviera mi propio kayak.

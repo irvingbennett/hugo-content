@@ -1,26 +1,15 @@
 ---
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781838982
-    payload:
-      - id: 310
-      - id: 276
-      - id: 133
-      - id: 1215
-      - id: 395
-      - id: 750
 author: Rompy
 categories:
-  - "General"
-date: "2006-10-01T22:21:45+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=172
+- General
+date: '2006-10-01T22:21:45+00:00'
 parent_post_id: null
-post_id: "172"
+post_id: '172'
+slug: el-valle-bajo-lluvia-8262006
 title: El Valle bajo lluvia - 8/26/2006
-url: /2006/10/01/el-valle-bajo-lluvia-8262006
-wpb_post_views_count: "6"
-
+wpb_post_views_count: '6'
 ---
+
 Creo que traje el equipo equivocado a El Valle este fin de semana. Traje mi bicicleta, pero debí haber traído mi kayak. No ha parado de llover desde que llegué de la ciudad. No ha sido un día perdido: traje mi iPod y he pasado todo el tiempo sentado junto a mi estéreo, con las bocinas pegadas a mis oídos, escuchando una gama ecléctica de música. Todo esto acompañado de una variedad de bebidas alcohólicas: Oporto, Chivas, y Guiness.
 
 Todo el tiempo he estado debatiendo si salir a montar en la lluvia o no. Después de todo, acabo de cambiar mis frenos de disco originales Shimano nuevos y estoy ansioso por ver que tal funcionan. Y este, El Valle, es uno de los mejores lugares para poner a prueba los frenos de disco en las largas bajadas que se descuelgan de cualquier punto cardinal desde el centro de esta caldera volcánica.

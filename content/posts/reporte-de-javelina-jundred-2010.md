@@ -1,27 +1,17 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781863976
-    payload:
-      - id: 913
-      - id: 1167
-      - id: 1315
 _last_editor_used_jetpack: block-editor
-_wp_old_slug: ""
+_wp_old_slug: ''
 author: Rompy
 categories:
-  - "Correr"
-date: "2010-10-27T17:11:01+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=1306
+- Correr
+date: '2010-10-27T17:11:01+00:00'
 parent_post_id: null
-post_id: "1306"
+post_id: '1306'
+slug: reporte-de-javelina-jundred-2010
 tags:
-  - ultra
+- ultra
 title: Reporte de Javelina Jundred 2010
-url: /2010/10/27/reporte-de-javelina-jundred-2010
-wpb_post_views_count: "6"
-
+wpb_post_views_count: '6'
 ---
 
 ![Spiderman y Luis Carlos en la meta](/wp-content/uploads/2010/10/PA240194.jpg)

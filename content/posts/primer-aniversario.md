@@ -1,26 +1,15 @@
 ---
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781644807
-    payload:
-      - id: 112
-      - id: 52
-      - id: 2430
-      - id: 115
-      - id: 47
-      - id: 24
 author: Rompy
 categories:
-  - "General"
-date: "2005-09-17T17:23:59+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=33
+- General
+date: '2005-09-17T17:23:59+00:00'
 parent_post_id: null
-post_id: "33"
+post_id: '33'
+slug: primer-aniversario
 title: Primer Aniversario
-url: /2005/09/17/primer-aniversario
-wpb_post_views_count: "9"
-
+wpb_post_views_count: '9'
 ---
+
 Ayer cumplió un año este blog. ¡Féliz cumpleaños! Sólo he escrito 18 entradas en todo ese tiempo. No es mucho realmente, pero una parte sustancial del tiempo transcurrido la he pasado "debajo de la tapa", por así decirlo. Espero que este año contribuya con más contenido, y, posiblemente, encuentre a algunos más que tengan interés por usar este espacio para escribir sus propias entradas. He estado usando, al mismo tiempo, en paralelo, otros sistemas para escribir.
 
 Este sitio tiene 3 (¿o cuatro?) sitios relacionados: [Al Aire Libre punto Net](http://localhost), [Al Aire Libre punto Org](http://alairelibre.org), Plone en Al Aire Libre, y [PanaWiki](http://wiki.alairelibre.net). Cada uno de esos lugares es un experimento usando algún medio de publicación en el web distinto. De todos esos, PanaWiki, que usa MediaWiki, es mi favorito y al que más contenido he contribuído. También es el más reciente de todos.

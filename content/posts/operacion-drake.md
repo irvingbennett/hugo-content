@@ -1,35 +1,21 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781830400
-    payload:
-      - id: 111
-      - id: 1827
-      - id: 41
-      - id: 1690
-      - id: 1821
-      - id: 11
-_thumbnail_id: "1610"
 author: Rompy
 categories:
-  - "Caminatas"
+- Caminatas
 cover:
-  image: "/wp-content/uploads/2011/05/Darien1979-resized.png"
-date: "2011-05-21T13:44:35+00:00"
+  image: /wp-content/uploads/2011/05/Darien1979-resized.png
+date: '2011-05-21T13:44:35+00:00'
 embed: This is the default text
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=1606
-image: ""
+image: ''
 parent_post_id: null
-post_id: "1606"
-seo_follow: "false"
-seo_noindex: "false"
+post_id: '1606'
+seo_follow: 'false'
+seo_noindex: 'false'
+slug: operacion-drake
 tags:
-  - travesias
+- travesias
 title: Operación Drake
-url: /2011/05/21/operacion-drake
-wpb_post_views_count: "14"
-
+wpb_post_views_count: '14'
 ---
 
 ![Darien1979 - Operación Drake](/wp-content/uploads/2011/05/Darien1979-resized.png)

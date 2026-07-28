@@ -1,31 +1,18 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1782180735
-    payload:
-      - id: 6222
-      - id: 1833
-      - id: 41
-_publicize_twitter_user: '@irvingbennett'
-_thumbnail_id: "3838"
-_wpas_done_all: "1"
-_wpcom_is_markdown: "1"
 author: Rompy
 categories:
-  - "Kayaking"
+- Kayaking
 cover:
-  image: "/wp-content/uploads/2017/07/IMG-20170713-WA0029.jpg"
-date: "2017-07-16T12:34:43+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=3834
+  image: /wp-content/uploads/2017/07/IMG-20170713-WA0029.jpg
+date: '2017-07-16T12:34:43+00:00'
 parent_post_id: null
-post_id: "3834"
+post_id: '3834'
+slug: bocas-del-toro-a-colon-remando
 tags:
-  - kayaking
+- kayaking
 title: Bocas del Toro a Colón Remando
-url: /2017/07/16/bocas-del-toro-a-colon-remando
-
 ---
+
 {{< figure align="alignleft" width=150 src="/wp-content/uploads/gallery_backup/IMG-20170713-WA0001.jpg" alt="" caption="" >}}
 
 Este 12 de julio terminamos de remar de Chiriquí Grande en Bocas del Toro a Miguel de La Borda en Colón. Teníamos años hablando al respecto hasta que logramos concretar el viaje. Mi cuñado Jorge Espino, mi hermano Roger y su hijo Rogelio, Iñaki Lasa y yo fuimos los que quedamos en los botes (había un grupo grande de interesados que al final solo vieron los toros desde la barrera). El viaje fue más difícil de lo que anticipamos y para mí, más memorable de lo que esperaba.

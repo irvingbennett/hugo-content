@@ -1,26 +1,17 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781687493
-    payload:
-      - id: 200
-      - id: 1339
-      - id: 1443
 author: Rompy
 categories:
-  - "Correr"
-date: "2011-07-04T15:39:41+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=1761
+- Correr
+date: '2011-07-04T15:39:41+00:00'
 parent_post_id: null
-post_id: "1761"
+post_id: '1761'
+slug: resultados-sanguineos
 tags:
-  - ultra
+- ultra
 title: Resultados Sanguíneos
-url: /2011/07/04/resultados-sanguineos
-wpb_post_views_count: "1172"
-
+wpb_post_views_count: '1172'
 ---
+
 Al final de Western States 100 me hicieron una prueba de sangre que era parte del estudio médico asociado este año con esa carrera. Los valores resultaron interesantes y probaron que ya tengo mi hidratación bastante bien medida. Prácticamente todos mis valores fueron normales, con la excepción del CPK (que estaba por los cielos, como era de esperarse).
 <table width="500" cellspacing="0" cellpadding="10">
 <tbody>

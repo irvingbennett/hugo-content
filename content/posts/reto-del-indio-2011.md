@@ -1,33 +1,23 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781761894
-    payload:
-      - id: 13
-      - id: 50
-      - id: 463
-_wp_old_slug: ""
+_wp_old_slug: ''
 author: Rompy
 categories:
-  - "Bicicletas"
-  - "Caminatas"
-  - "Kayaking"
-date: "2010-12-20T18:51:57+00:00"
+- Bicicletas
+- Caminatas
+- Kayaking
+date: '2010-12-20T18:51:57+00:00'
 embed: This is the default text
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=1374
-image: ""
+image: ''
 parent_post_id: null
-post_id: "1374"
-seo_follow: "false"
-seo_noindex: "false"
+post_id: '1374'
+seo_follow: 'false'
+seo_noindex: 'false'
+slug: reto-del-indio-2011
 tags:
-  - kayaking
-  - ultra
+- kayaking
+- ultra
 title: Reto del Indio 2011
-url: /2010/12/20/reto-del-indio-2011
-wpb_post_views_count: "14"
-
+wpb_post_views_count: '14'
 ---
 
 ![Reto del Indio 2011](/wp-content/uploads/2010/12/retodelindio.jpg)

@@ -1,27 +1,18 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781913499
-    payload:
-      - id: 826
-      - id: 908
-      - id: 913
-_wp_old_slug: ""
+_wp_old_slug: ''
 author: Rompy
 categories:
-  - "Correr"
-date: "2010-10-12T17:44:55+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=1298
+- Correr
+date: '2010-10-12T17:44:55+00:00'
 parent_post_id: null
-post_id: "1298"
+post_id: '1298'
+slug: 815-por-kilometro
 tags:
-  - ultra
+- ultra
 title: 8:15 por Kilómetro
-url: /2010/10/12/815-por-kilometro
-wpb_post_views_count: "10"
-
+wpb_post_views_count: '10'
 ---
+
 Ese es el paso que me va a llevar a la meta: 8:15 por kilómetro. Si logro mantenerme en movimiento a 8:15 por kilómetro, por 22 horas, puedo terminar el Javelina Jundred en menos de 24 horas, incluyendo los descansos. La respuesta a esa posibilidad solamente me la va a dar la práctica. No tengo idea como voy a estar después de 100 kilómetros.
 
 Los primeros 80 kilómetros solamente son para acercarme a la meta, los próximos 20 son para ganarme una medalla para los flojos, y los próximos 60 kilómetros son los que me separan del objetivo: terminar. No estoy suficientemente preparado para este reto, desafortunadamente. Ahora la meta sí está lejos...

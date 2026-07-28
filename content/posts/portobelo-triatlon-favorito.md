@@ -1,30 +1,21 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1782153891
-    payload:
-      - id: 102
-      - id: 1559
-      - id: 256
 author: Rompy
 categories:
-  - "Correr"
-date: "2011-04-05T17:02:47+00:00"
+- Correr
+date: '2011-04-05T17:02:47+00:00'
 embed: This is the default text
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=1550
-image: ""
+image: ''
 parent_post_id: null
-post_id: "1550"
-seo_follow: "false"
-seo_noindex: "false"
+post_id: '1550'
+seo_follow: 'false'
+seo_noindex: 'false'
+slug: portobelo-triatlon-favorito
 tags:
-  - triatlón
+- triatlón
 title: Portobelo - Triatlón Favorito
-url: /2011/04/05/portobelo-triatlon-favorito
-wpb_post_views_count: "16"
-
+wpb_post_views_count: '16'
 ---
+
 \[caption id="attachment\_1556" align="alignleft" width="218" caption="Portobelo 2008"\] [![Portobelo 2008](/wp-content/uploads/2011/04/ihb00031-e1302026885555-218x300.jpg)](//wp-content/uploads/2011/04/ihb00031.jpg)\[/caption\]
 
 Este fin de semana es el Triatlón Extremo de Portobelo, mi triatlón favorito. Yo le quitaría el nombre de "extremo", pero, para muchos, eso es lo que es. Vengo participando en este triatlón desde 1999 y lo he visto crecer, evolucionar, y cambiar. Lástima que pareciera estar perdiendo participación cada año, a pesar que hay más triatletas en Panamá participando en las otras pruebas. Por definición, los triatletas no son extremos y la mayoría no tienen montañeras, siendo este el mayor impedimento para el crecimiento de esta prueba.

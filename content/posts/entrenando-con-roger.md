@@ -1,29 +1,19 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781683888
-    payload:
-      - id: 1495
-      - id: 1111
-      - id: 2181
-_thumbnail_id: "2176"
 author: Rompy
 categories:
-  - "Correr"
+- Correr
 cover:
-  image: "/wp-content/uploads/2012/08/DSCN1233.jpg"
-date: "2012-08-07T18:53:00+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=2175
+  image: /wp-content/uploads/2012/08/DSCN1233.jpg
+date: '2012-08-07T18:53:00+00:00'
 parent_post_id: null
-post_id: "2175"
+post_id: '2175'
+slug: entrenando-con-roger
 tags:
-  - ultra
+- ultra
 title: Entrenando con Roger
-url: /2012/08/07/entrenando-con-roger
-wpb_post_views_count: "12"
-
+wpb_post_views_count: '12'
 ---
+
 [![](/wp-content/uploads/gallery_backup/DSCN1233.jpg)¡Qué "UTMB")! Este domingo corrimos juntos unos 40km por parte de la ruta de [El Valle Trail Race](http://elvalletrailrace.org/ "EVTR"). Isa y Lorena nos acompañaron por la segunda parte de nuestro recorrido, que incluyo los berrales, Matahogado y Los LLanitos. Recorrimos senderos nuevos entre La Mesa y Matahogado, muy interesantes.
 
 Nos tocó un día excelente por que el cielo estaba espectacular en la madrugada y se nubló cuando el sol comenzó a ponerse caliente. Lo primero que recorrimos fue La Silla, Chichibalí, El Roble, El Macancito y bajamos por el Cocorrón de regreso a El Valle. Aún hay marcas claras de las que pusimos con pintura antes de la última carrera de El Valle. La Silla estaba muy resbalosa, particularmente en la bajada hacia El Limón. Fue divertido bajar detrás de Roger filmándolo. Tengo que aprender cómo hace la gente para mantener la cámara estable cuando filman a corredores. Mi película hasta marea por la cantidad de movimiento que tiene.

@@ -1,35 +1,15 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781739435
-    payload:
-      - id: 1827
-      - id: 133
-      - id: 2043
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781701235
-    payload:
-      - id: 1827
-      - id: 133
-      - id: 2043
-      - id: 193
-      - id: 6203
-      - id: 665
-_thumbnail_id: "1822"
 author: Rompy
 categories:
-  - "Caminatas"
+- Caminatas
 cover:
-  image: "/wp-content/uploads/2011/09/Captura.png"
-date: "2011-09-23T19:33:13+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=1821
+  image: /wp-content/uploads/2011/09/Captura.png
+date: '2011-09-23T19:33:13+00:00'
 parent_post_id: null
-post_id: "1821"
+post_id: '1821'
+slug: cerro-brewster
 title: Cerro Brewster
-url: /2011/09/23/cerro-brewster
-wpb_post_views_count: "19"
-
+wpb_post_views_count: '19'
 ---
 
 ![Camino Cangandí - Cerro Azul](/wp-content/uploads/2011/09/Captura.png)

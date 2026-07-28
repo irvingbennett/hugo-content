@@ -1,31 +1,18 @@
 ---
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1777357313
-    payload:
-      - id: 2843
-      - id: 3182
-      - id: 1827
-      - id: 64
-      - id: 899
-      - id: 534
-_thumbnail_id: "7001"
-_wpcom_is_markdown: "1"
 author: Rompy
 categories:
-  - "Caminatas"
+- Caminatas
 cover:
-  image: "/wp-content/uploads/2026/04/20260426_102433-scaled.jpg"
-date: "2026-04-28T10:18:52+00:00"
-guid: http://localhost/?p=7000
+  image: /wp-content/uploads/2026/04/20260426_102433-scaled.jpg
+date: '2026-04-28T10:18:52+00:00'
 parent_post_id: null
-post_id: "7000"
+post_id: '7000'
+slug: rio-boqueron-2026
 tags:
-  - travesias
+- travesias
 title: Río Boquerón 2026
-url: /2026/04/28/rio-boqueron-2026
-
 ---
+
 Este fin de semana caminamos a la poza del Longué en el Río Boquerón. Fuimos un buen grupo, 16 caminantes, con una composición variada. Eramos nueve hombres y siete mujeres, casi mitad y mitad. Esta caminata la gestionó Irving y logró un buen quorum. Todavía fuimos más los viejos, pero vino un buen contingente de jóvenes. Un cuarto de los caminantes eran neófitos totales, venían a su primera caminata: Sofía (amiga de Laura), José (amigo de Irving), Maxi y Luz (amigos corredores) nunca habían hecho una caminata, y menos por el bosque. Todos se portaron a la altura y quedaron apuntados para la próxima aventura.
 
 {{< figure src="/wp-content/uploads/gallery_backup/20260425_092421.jpg" alt="" caption="" >}}

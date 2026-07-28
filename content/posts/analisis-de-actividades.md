@@ -1,31 +1,19 @@
 ---
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1782182267
-    payload:
-      - id: 2388
-      - id: 5759
-      - id: 732
 _last_editor_used_jetpack: block-editor
-_publicize_twitter_user: '@irvingbennett'
-_thumbnail_id: "5680"
-_wpas_done_all: "1"
-_wpcom_is_markdown: "1"
 author: Rompy
 categories:
-  - "Correr"
+- Correr
 cover:
-  image: "/wp-content/uploads/2022/01/poster_2021_grid.svg"
-date: "2022-01-05T20:42:10+00:00"
-guid: http://u8z.3d5.mywebsitetransfer.com/?p=5681
+  image: /wp-content/uploads/2022/01/poster_2021_grid.svg
+date: '2022-01-05T20:42:10+00:00'
 parent_post_id: null
-post_id: "5681"
+post_id: '5681'
+slug: analisis-de-actividades
 tags:
-  - correr
+- correr
 title: Análisis de Actividades
-url: /2022/01/05/analisis-de-actividades
-
 ---
+
 Ahora que terminó el 2021 Strava le presenta a cada atleta un resumen de su año deportivo. Esto me dejó con curiosidad por reproducir los análisis que hizo Strava usando las mismas pistas que se cargaron desde mi reloj. Ya tenía avanzado algo del trabajo tal como lo describí en la entrada anterior a esta. El enfoque de esta entrada, en lugar de ser las calles recorridas, es ver como ha estada mejorando, o empeorando, mi rendimiento al correr.
 
 Aunque he logrado mantener algo de forma a través de los años, estos no pasan en vano. Cada año uno pierde al menos un latido en la capacidad máxima del corazón. Ese es tema de otra entrada. En esta vuelta quería repetir algo del resumen de Strava. Un ejemplo:

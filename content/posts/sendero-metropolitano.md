@@ -1,30 +1,17 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781981385
-    payload:
-      - id: 2482
-      - id: 896
-      - id: 2004
-      - id: 2861
-      - id: 1535
-      - id: 2388
-_thumbnail_id: "2147"
 author: Rompy
 categories:
-  - "Correr"
+- Correr
 cover:
-  image: "/wp-content/uploads/2012/07/Las-Antenas.png"
-date: "2012-07-24T16:24:44+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=2146
+  image: /wp-content/uploads/2012/07/Las-Antenas.png
+date: '2012-07-24T16:24:44+00:00'
 parent_post_id: null
-post_id: "2146"
+post_id: '2146'
+slug: sendero-metropolitano
 title: Sendero Metropolitano
-url: /2012/07/24/sendero-metropolitano
-wpb_post_views_count: "9"
-
+wpb_post_views_count: '9'
 ---
+
 [![](/wp-content/uploads/2012/07/Las-Antenas-640x360.png)](//wp-content/uploads/2012/07/Las-Antenas.png) Desde hace unos meses he estado pensando en un sendero metropolitano. Lo he mencionado varias veces y lo he conversado durante corridas por el Parque Metropolitano, mientras nos preparábamos para Miwok 100km. El Parque Metropolitano está bien, es una excelente opción, pero creo que es caro a $1 la entrada, y muy corto. Tenemos todo el Parque Camino de Cruces, que es mucho más grande que el Parque Metropolitano para aprovechar. ¿Por qué no lo hacemos?
 
 De hecho, ya hay un circuito / sendero en Panamá que solamente necesita un poco de atención y uso para mejorarlo. El circuito mide aproximadamente unos 16km de lo cuales un tercio es por calles y aceras. La imagen al principio de esta entrada tiene algo como un triángulo amarillo indicando el recorrido. El trazo derecho y el trazo superior, que son bastante rectos, siguen el corte del tendido eléctrico de alto voltaje que corta los Parques Metropolitano y Camino de Cruces. El borde izquierdo del triángulo está formado por un sendero que entra desde el Camino de Las Antenas del Parque Camino de Cruces hacia Clayton, y luego por la calle bordea los parques. Desafortunadamente parte de esa calle no tiene aceras decentes.

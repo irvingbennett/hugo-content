@@ -1,31 +1,18 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1779243796
-    payload:
-      - id: 5960
-      - id: 6005
-      - id: 6958
-_publicize_twitter_user: '@irvingbennett'
-_thumbnail_id: "3532"
-_wpas_done_all: "1"
-_wpcom_is_markdown: "1"
 author: Rompy
 categories:
-  - "Correr"
+- Correr
 cover:
-  image: "/wp-content/uploads/2017/05/20170505_152714-scaled.jpg"
-date: "2019-05-04T22:54:10+00:00"
-guid: http://u8z.3d5.mywebsitetransfer.com/?p=5192
+  image: /wp-content/uploads/2017/05/20170505_152714-scaled.jpg
+date: '2019-05-04T22:54:10+00:00'
 parent_post_id: null
-post_id: "5192"
+post_id: '5192'
+slug: rumbo-a-massanutten-2019
 tags:
-  - ultra
+- ultra
 title: Rumbo a Massanutten 2019
-url: /2019/05/04/rumbo-a-massanutten-2019
-
 ---
+
 Exactamente en dos semanas debo estar en la partida de Massanutten 2019. Si logro terminarla habré completado mi carrera de 160kms+ #10. Preparé una tabla con todas las cien millas que hemos completado los corredores de Panamá y será la número 50. Además, esta será la cuarta vez que corro Massanutten. También es posible que esta vaya a ser mi mejor carrera de cien millas porque puede que esté en las mejores condiciones que he tenido antes de correr esta distancia.
 
 {{< figure src="/wp-content/uploads/gallery_backup/UltraRanking2019.jpg?fit=640,250" alt="" caption="" >}}

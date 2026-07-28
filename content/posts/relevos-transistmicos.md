@@ -1,33 +1,15 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781770206
-    payload:
-      - id: 859
-      - id: 1422
-      - id: 992
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781727400
-    payload:
-      - id: 859
-      - id: 1422
-      - id: 992
-      - id: 482
-      - id: 2388
-      - id: 2364
 author: Rompy
 categories:
-  - "Correr"
-date: "2007-06-27T22:13:12+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=210
+- Correr
+date: '2007-06-27T22:13:12+00:00'
 parent_post_id: null
-post_id: "210"
+post_id: '210'
+slug: relevos-transistmicos
 title: Relevos Transístmicos
-url: /2007/06/27/relevos-transistmicos
-wpb_post_views_count: "27"
-
+wpb_post_views_count: '27'
 ---
+
 ![Relay Race](/wp-content/uploads/2007/06/1-89-ti-relay.jpg)
 
 He iniciado un proyecto que me mantendrá muy ocupado por el resto del año. Estoy promoviendo una carrera de relevos para el domingo 8 de enero del 2008: [**La Carrera de Relevos Transístmicos de Panamá**](http://relevos.info "Relevos Transístmicos"). Esta carrera parte de Colón y llega a la ciudad de Panamá por la Vía Transístmica, terminando en La Calzada de Amador. Los equipos de relevo estarán constituídos por 12 corredores (máximo): 10 relevistas y 2 alternos. Esto quiere decir que cada corredor tendrá un tramo de 8 kilómetros aproximadamente.

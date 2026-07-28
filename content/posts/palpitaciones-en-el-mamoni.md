@@ -1,30 +1,18 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781907077
-    payload:
-      - id: 949
-      - id: 157
-      - id: 281
-      - id: 314
-      - id: 526
-      - id: 307
-_wp_old_slug: ""
+_wp_old_slug: ''
 author: Rompy
 categories:
-  - "Kayaking"
-date: "2010-09-06T03:20:23+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=1208
+- Kayaking
+date: '2010-09-06T03:20:23+00:00'
 parent_post_id: null
-post_id: "1208"
+post_id: '1208'
+slug: palpitaciones-en-el-mamoni
 tags:
-  - kayaking
+- kayaking
 title: Palpitaciones en el Mamoní
-url: /2010/09/05/palpitaciones-en-el-mamoni
-wpb_post_views_count: "14"
-
+wpb_post_views_count: '14'
 ---
+
 [![](/wp-content/uploads/2010/09/P9040159-1024x768.jpg)](//wp-content/uploads/2010/09/P9040159.jpg) Este sábado, cuando estábamos iniciando el descenso del Mamoní, le dije a Joaquín que extrañaba los días en que el Río Mamoní hacía que mi corazón palpitara con la emoción del miedo, la anticipación, y la mortificación de lo que podía pasar en el río. Le contaba que era peligroso sentirse cómodo en el río, despreocupado, tomando de hecho los rápidos, sin calcular con precisión el recorrido a través de las piedras. Es en esos momentos de despreocupación que el minuto de descuido puede hacernos daño. Pero estaba equivocado...
 
 A medida que iniciamos el descenso, el Mamoní es fácil al principio y va en crescendo, fui observando que el río tenía mucha agua. El nivel del flujo estaba cerca del máximo normal, el agua estaba turbia, y habían señales de inundaciones recientes. Justo al fondo del primer rápido nos topamos con una nutria. La tuve a menos de 6" del bote. Joaquín la había visto desde lejos y me alerto sobre su presencia. Poco después Joaquín vio un lagarto pequeño hundirse en una piscina, cerca de una piedra donde siempre duermen unos murciélagos de [proboscis](http://fireflyforest.net/firefly/2007/07/09/proboscis-bat/). El río estaba interesándome desde el principio.

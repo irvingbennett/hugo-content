@@ -1,34 +1,16 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781894265
-    payload:
-      - id: 6222
-      - id: 163
-      - id: 117
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781862046
-    payload:
-      - id: 6222
-      - id: 163
-      - id: 117
-      - id: 395
-      - id: 6829
-      - id: 65
 _wp_old_slug: bsqueda
 author: Rompy
 categories:
-  - "Caminatas"
-date: "2009-05-08T12:58:37+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=554
+- Caminatas
+date: '2009-05-08T12:58:37+00:00'
 parent_post_id: null
-post_id: "554"
+post_id: '554'
+slug: busqueda
 title: Búsqueda
-url: /2009/05/08/busqueda
-wpb_post_views_count: "17"
-
+wpb_post_views_count: '17'
 ---
+
 ## Canadiense, haciendo su doctorado, 5’ 8”, 30 años…
 
 El lunes 3 de febrero de este año recibí una llamada del señor Howard Wenzel, Presidente de Ecotours, preguntándome si estaría interesado y dispuesto a montar una búsqueda de un joven que se había extraviado cruzando la selva del Darién, solo, camino a Colombia. Luego de breve conversación le dije que en principio estaba interesado y que mandara toda la información pertinente para poder analizar lo que podía hacer. En la tarde ese día llegó el fax con la información de Stephen Berkowitz: canadiense, haciendo su doctorado, 5’ 8”, 30 años, etc.

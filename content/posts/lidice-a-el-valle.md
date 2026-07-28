@@ -1,29 +1,15 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781846409
-    payload:
-      - id: 980
-      - id: 1327
-      - id: 1049
-      - id: 992
-      - id: 1155
-      - id: 1043
 _publicize_facebook_user: https://www.facebook.com/irving.bennett
-_publicize_twitter_user: '@irvingbennett'
-_wpas_done_all: "1"
 author: Rompy
 categories:
-  - "Caminatas"
-date: "2014-07-11T19:38:13+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=2709
+- Caminatas
+date: '2014-07-11T19:38:13+00:00'
 parent_post_id: null
-post_id: "2709"
+post_id: '2709'
+slug: lidice-a-el-valle
 title: Lídice a El Valle
-url: /2014/07/11/lidice-a-el-valle
-
 ---
+
 Esta noche vamos a caminar/correr desde Lídice hasta El Valle como entrenamiento para Fat Dog 120.
 
 \[sgpx gpx="/wp-content/uploads/gpx/lidice-elCacao-penasBlancas-laMesa.gpx"\]

@@ -1,26 +1,17 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781932441
-    payload:
-      - id: 41
-      - id: 1949
-      - id: 1944
 author: Rompy
 categories:
-  - "Correr"
-date: "2012-04-25T21:43:44+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=1956
+- Correr
+date: '2012-04-25T21:43:44+00:00'
 parent_post_id: null
-post_id: "1956"
+post_id: '1956'
+slug: 10-dias-para-miwok
 tags:
-  - ultra
+- ultra
 title: 10 Días para Miwok
-url: /2012/04/25/10-dias-para-miwok
-wpb_post_views_count: "13"
-
+wpb_post_views_count: '13'
 ---
+
 \[caption id="attachment\_1957" align="alignleft" width="340" caption="Brooks Green Silence"\] [![Brooks Green Silence](/wp-content/uploads/2012/04/green-silence.png)](//wp-content/uploads/2012/04/green-silence.png)\[/caption\]
 
 Bueno, ya hicimos todo el trabajo necesario para estar listos para Miwok 100km este 5 de mayo. Ya no puedo hacer nada para mejorar, y solamente nos queda cuidarnos para que nada suceda en los días que quedan. Ahora estoy repasando mentalmente lo que voy a hacer durante la carrera, y, principalmente, qué me voy a poner en los pies.

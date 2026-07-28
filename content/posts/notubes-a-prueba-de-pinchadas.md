@@ -1,28 +1,16 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781881175
-    payload:
-      - id: 268
-      - id: 294
-      - id: 6521
-      - id: 242
-      - id: 227
-      - id: 106
 author: Rompy
 categories:
-  - "Bicicletas"
-  - "General"
-date: "2007-11-17T01:14:11+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=229
+- Bicicletas
+- General
+date: '2007-11-17T01:14:11+00:00'
 parent_post_id: null
-post_id: "229"
+post_id: '229'
+slug: notubes-a-prueba-de-pinchadas
 title: Notubes - a prueba de pinchadas
-url: /2007/11/16/notubes-a-prueba-de-pinchadas
-wpb_post_views_count: "13"
-
+wpb_post_views_count: '13'
 ---
+
 [![notube system](/wp-content/uploads/gallery_backup/large_standard_kit.jpg "notube system") Siendo típicamente temático, lo próximo que quería hacer para mi bicicleta nueva era hacerla a prueba de problemas comunes. De todos los problemas que regularmente le ocurren a un ciclista, el más común son las llantas pinchadas. Antes de conseguir el sistema de Stan's Notubes recuerdo una montada con mi cuñado Jordi: 4 ciclistas, 5 pinchazos. Fuerons tantos que, aparte de usar los tubos extras que llevamos, quedamos parchando tubos.
 
 Desde que cambié a usar Notubes, no he vuelto a tener estos problemas. Y estoy hablando de rines regulares, y llantas regulares, pero rodando sin tubos. El sistema básico trae una cinta que sella los rayos de la llanta regular, y el líquido a base de latex sella la llanta normal (no "tubeless"). Al final uno se ahorra tener que cargar tubos de repuesto, bomba de aire (que la cargue otro) y parches. No solo se ahorra uno las pinchadas, también se ahorra peso.

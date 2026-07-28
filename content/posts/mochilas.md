@@ -1,33 +1,21 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1782053507
-    payload:
-      - id: 253
-      - id: 167
-      - id: 899
-      - id: 764
-      - id: 682
-      - id: 201
 author: Rompy
 categories:
-  - "Caminatas"
-date: "2009-05-20T05:01:34+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=608
+- Caminatas
+date: '2009-05-20T05:01:34+00:00'
 parent_post_id: null
-post_id: "608"
+post_id: '608'
+slug: mochilas
 tags:
-  - equipo
+- equipo
 thesis_post_image: http://u8z.3d5.mywebsitetransfer.com/wp-content/uploads/2009/05/elvalle1-02301.jpg
 thesis_post_image_alt: Mochilas
 thesis_thumb: http://u8z.3d5.mywebsitetransfer.com/wp-content/uploads/2009/05/elvalle1-0230.jpg
 thesis_thumb_alt: Mochilas
 title: Mochilas
-url: /2009/05/20/mochilas
-wpb_post_views_count: "16"
-
+wpb_post_views_count: '16'
 ---
+
 Hace unos momentos estaba pensando sobre mochilas y su evolución. Pronto quedé pensando solamente en las mochilas. Y luego pase a hacer una recolección de mis mochilas, las que tengo aún, y las que he usado a través de muchos años. Esto comenzó en parte por que recordé unas imágenes que estaba viendo en mi computadora, entre las cuales tenía unas fotos viajes de caminatas de hace muchos años. Una de esta era una foto de nuestra caminata de Panamá a El Valle de Antón en 1976. Recuerdo muy bien la [mochila](/wp-content/uploads/gallery_backup/elvalle1-0250.jpg "Mi mochila") que usé en esa caminata de hace más de 30 años, 33 años para ser precisos.
 
 Esa mochila, una [Kelty de marco externo](/wp-content/uploads/2009/05/elvalle2-98.jpg), la usé por muchos años y me acompaño en unas aventuras épicas. La más grande fue una caminata de 21 días cruzando Darién desde el Caribe hasta Santa Fe de Darién. Bajamos por el Río Subcutí, el cual recuerdo como si fuera ayer. La mochila me sirvió muy bien, pero el marco molestaba cuando se enredaba con la vegetación de la selva. Pero era cómodo cargar ese marco en la espalda. Luego me llevé esa mochila en una caminata de 7 días por el Cañón del Colorado, por la plataforma de Tonto. Ese viaje lo caminé sólo, íngrimo. Y luego tuve muchos viajes más con esa mochila. Pero justo después del viaje del Colorado compré una mochila de marco interno que aún conservo.

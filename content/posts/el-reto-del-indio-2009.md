@@ -1,31 +1,19 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781880136
-    payload:
-      - id: 13
-      - id: 1374
-      - id: 50
-      - id: 992
-      - id: 232
-      - id: 243
 author: Rompy
 categories:
-  - "General"
-date: "2009-01-22T13:20:52+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=463
+- General
+date: '2009-01-22T13:20:52+00:00'
 image: http://u8z.3d5.mywebsitetransfer.com/wp-content/uploads/2009/01/P1100476.JPG
-lightboxoff: "false"
+lightboxoff: 'false'
 parent_post_id: null
-post_id: "463"
+post_id: '463'
+slug: el-reto-del-indio-2009
 tags:
-  - travesias
+- travesias
 title: El Reto del Indio 2009
-url: /2009/01/22/el-reto-del-indio-2009
-wpb_post_views_count: "19"
-
+wpb_post_views_count: '19'
 ---
+
 Como lo hemos venido haciendo desde hace 5 años, este segundo fin de semana de enero, el domingo 25 de enero, iniciamos nuestro quinto [Reto del Indio](http://elretodelindio.info "El Reto del Indio"). Mientras salía el sol en la tranquila playa de Chumico, nosotros preparábamos nuestras bicicletas para la partida entre las redes de los pescadores que todavía estaban en sus camas. En cuanto rayó el sol tomamos nuestra foto de partida para documentar nuestro inicio del reto: del Pacífico al Caribe en un fin de semana.
 
 Irene Caballero, Joaquín Gil del Real, Andrés Correa, Antonio Grijalba, Edgar Miranda, René Van Horde, Roger Bennett y yo, Irving Bennett, conformábamos los ocho que haríamos el cruce del Istmo de Panamá de playa a playa, desde Chumico en el Pacífico hasta la playa de Boca de Río Indio en el Mar Caribe. Con la excepción de Joaquín, Edgar y Tato (René), todos ya anteriormente habíamos tenido experiencia con el Reto del Indio, ya sea parcial, como Irene y Antonio, o completa como Andrés y los Bennett. Este era el tercer año de Andrés, que al igual que Irene, empezó con la pedaleada primero, y luego se anotó al Reto completo.

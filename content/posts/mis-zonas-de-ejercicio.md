@@ -1,32 +1,24 @@
 ---
-_edit_last: "1"
-_format_audio_embed: ""
-_format_image: <img src="/wp-content/uploads/gallery_backup/MaximumHeartRateByAgeVariousFormulae.png" width="739" height="454" alt="MaximumHeartRateByAgeVariousFormulae" class="wp-image-2466 size-full" />
-_format_link_url: ""
-_format_quote_source_name: ""
-_format_quote_source_url: ""
-_format_url: ""
-_format_video_embed: ""
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781335852
-    payload:
-      - id: 1838
-      - id: 1287
-      - id: 1771
-_wpas_done_all: "1"
+_format_audio_embed: ''
+_format_image: <img src="/wp-content/uploads/gallery_backup/MaximumHeartRateByAgeVariousFormulae.png"
+  width="739" height="454" alt="MaximumHeartRateByAgeVariousFormulae" class="wp-image-2466
+  size-full" />
+_format_link_url: ''
+_format_quote_source_name: ''
+_format_quote_source_url: ''
+_format_url: ''
+_format_video_embed: ''
 author: Rompy
 categories:
-  - "Correr"
-date: "2013-05-29T20:20:00+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=2465
+- Correr
+date: '2013-05-29T20:20:00+00:00'
 parent_post_id: null
-post_id: "2465"
+post_id: '2465'
+slug: mis-zonas-de-ejercicio
 title: Mis Zonas de Ejercicio
-url: /2013/05/29/mis-zonas-de-ejercicio
-wpb_post_views_count: "32"
-
+wpb_post_views_count: '32'
 ---
+
 [![gamboa2013](/wp-content/uploads/gallery_backup/gamboa2013.jpg) "Máximo por edad"), mi máximo está entre 170 y 175. En Gamboa llegué hasta 173 en un momento dado, y mi promedio fue de 156 latidos por minuto. Eso quiere decir que logré mantener mis pulsaciones al 90% de máximo durante los [2 : 24 ' 24 . 1](http://www.movescount.com/moves/move13808894 "Mi movida") que me tomó completar la distancia. Completé los 21km usando mi gps porque cuando me acercaba a la meta solamente leía 20km así es que me fui a correr por otro lado hasta que llegué a los 21km.
 
 Mi paso al principio estaba decente, cerca de 5:45 por kilómetro por los primeros 7km, pero luego fue disminuyendo con el tiempo mientras yo mantenía el mismo nivel de esfuerzo cardíaco. Si hubiese mantenido mis pulsaciones cerca de 140lpm habría podido mantener un paso mucho más constante. Pero esa no era la intención del esfuerzo que había planeado para Gamboa. He usado mi Suunto Ambit mucho más de lo que jamás usé mi Garmin Forerunner 301 por lo conveniente que es el Suunto Ambit que hasta se puede usar como reloj de diario.

@@ -1,32 +1,20 @@
 ---
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1782091002
-    payload:
-      - id: 153
-      - id: 181
-      - id: 34
 _last_editor_used_jetpack: block-editor
-_publicize_twitter_user: '@irvingbennett'
-_thumbnail_id: "5505"
-_wpas_done_all: "1"
-_wpcom_is_markdown: "1"
 author: Rompy
 categories:
-  - "Caminatas"
+- Caminatas
 cover:
-  image: "/wp-content/uploads/2021/06/20210625_154124-scaled.jpg"
-date: "2021-07-02T20:36:33+00:00"
-guid: http://u8z.3d5.mywebsitetransfer.com/?p=5504
+  image: /wp-content/uploads/2021/06/20210625_154124-scaled.jpg
+date: '2021-07-02T20:36:33+00:00'
 parent_post_id: null
-post_id: "5504"
+post_id: '5504'
+slug: san-cristobal-y-rio-piedra
 tags:
-  - hash
-  - trek
+- hash
+- trek
 title: San Cristóbal y Río Piedra
-url: /2021/07/02/san-cristobal-y-rio-piedra
-
 ---
+
 Este fin de semana caminamos desde Altos de Pacora hasta San Cristóbal y Río Piedra. Fue una caminata relativamente corta que alargamos a tres días para hacerla aún más fácil. Ya estamos entrados en años y fácil es mejor que difícil. El camino hasta Río Piedra es casi todo bajada, pero desde Altos de Pacora hasta San Cristóbal la bajada es muy empinada con pendientes de hasta 30% de inclinación (hasta 40% según mi gps, pero no creo que esto sea correcto).
 
 {{< figure src="/wp-content/uploads/gallery_backup/IMG_1525.jpg" alt="" caption="" >}}

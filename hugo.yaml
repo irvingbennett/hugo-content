@@ -3,10 +3,10 @@ locale: ES-es
 title: Al Aire Libre
 theme: PaperMod
 taxonomies:
-  category: 
-    - "categories"
-  tag: 
-    - "tags"
+  category: "categories"
+  tag: "tags"
+permalinks:
+  posts: "/:year/:month/:day/:slug/"
 params:
   description: Un Taller de Aventuras
   defaultTheme: light

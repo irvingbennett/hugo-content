@@ -1,24 +1,15 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781683888
-    payload:
-      - id: 1171
-      - id: 1332
-      - id: 1242
 author: Rompy
 categories:
-  - "Bicicletas"
-date: "2009-07-28T15:25:43+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=732
+- Bicicletas
+date: '2009-07-28T15:25:43+00:00'
 parent_post_id: null
-post_id: "732"
+post_id: '732'
+slug: panama-canal-triathlon
 title: Panama Canal Triathlon
-url: /2009/07/28/panama-canal-triathlon
-wpb_post_views_count: "8"
-
+wpb_post_views_count: '8'
 ---
+
 Este domingo participé, y terminé, en el Panama Canal Triathlon, un medio Ironman que organiza la Unión de Triatlón de Panamá. Este era el segundo de estos en que participaba y ya sabía que esperar del evento: mucho sufrimiento en la corrida. Este triatlón solamente es la mitad del que me toca en noviembre, el Ironman de Cozumel. Pero la corrida en esta carrera es al medio día y nos tocó un sol importado del mismo infierno. Casi me retiro cuando llegué al final de la calzada, en el primer cuarto de mi corrida.
 
 Las distancias de este evento son 1,800 metros nadando, 90 kilómetros en bicicleta, y 21 kilómetros corriendo. Este evento sería mi termómetro para ver cómo va mi preparación para Cozumel en noviembre. La nadada, que es lo que menos practico (si es que se le puede llamar práctica a lo poco que nado), era lo que menos me preocupaba pues en esta ocasión venía mucho mejor preparado que en todas las veces anteriores. Esta vez había practicado suficiente para sentirme cómodo. Esta vez también contaba con la ayuda de Rogelio, mi hermano, a quien pensaba seguir en la nadada y ayudarme de la tracción de nadar en su estela. Este plan lo truncó Roberto Brenes cuando, a unos 300 metros después de haber partido, se interpuso en mi camino y me separó de Rogelio. Mis ánimos fueron bajando cuando vi que Roberto no pudo mantenerse en la estela de Rogelio, y yo no pensaba hacer el esfuerzo por alcanzarlo. En ese momento me fue pasando Esteban Vissuetti y decidí que él sería quien me llevaría remolcado en esta vuelta. Por suerte Esteban tiene un buen estilo y una patada suave que me facilitó seguirlo. Desafortunadamente para Esteban, estuve tocándole los piés más de lo que es cortéz, pero no tenía otra opción ya que la visibilidad era casi nula y no podía verlo.

@@ -1,40 +1,26 @@
 ---
-_edit_last: "1"
-_jetpack_dont_email_post_to_subs: "1"
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781864499
-    payload:
-      - id: 980
-      - id: 122
-      - id: 113
-      - id: 702
-      - id: 1838
-      - id: 939
-_thumbnail_id: "3118"
-_wpas_skip_6885108: "1"
-_wpas_skip_6885117: "1"
-_wpas_skip_6885125: "1"
-_wpas_skip_6885140: "1"
-_wpcom_is_markdown: "1"
+_jetpack_dont_email_post_to_subs: '1'
+_wpas_skip_6885108: '1'
+_wpas_skip_6885117: '1'
+_wpas_skip_6885125: '1'
+_wpas_skip_6885140: '1'
 author: Rompy
 categories:
-  - "Caminatas"
+- Caminatas
 cover:
-  image: "/wp-content/uploads/2009/05/P5242249-e1485049494793.jpg"
-date: "2009-05-26T23:19:57+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=645
+  image: /wp-content/uploads/2009/05/P5242249-e1485049494793.jpg
+date: '2009-05-26T23:19:57+00:00'
 parent_post_id: null
-post_id: "645"
+post_id: '645'
+slug: de-la-mesa-a-el-cacao
 tags:
-  - hash
-  - travesias
+- hash
+- travesias
 thesis_thumb: http://picasaweb.google.com/Rompy.in.Panama/PenasBlancasCerroNegro#5339764204111601922
 title: De La Mesa a El Cacao
-url: /2009/05/26/de-la-mesa-a-el-cacao
-wpb_post_views_count: "14"
-
+wpb_post_views_count: '14'
 ---
+
 {{< figure align="aligncenter" width=640 src="/wp-content/uploads/gallery_backup/P5242264.jpg" alt="" caption="" >}}
 
 Este fin de semana que pasó nos fuimos a caminar desde La Mesa hasta El Cacao. Eramos un gran grupo de buenos amigos, 25 personas, la mayoría corredores del Hash. La ruta que escogimos era exigente, pero casi todos los que venían sabían que podían esperar, y yo estaba seguro que todos podían hacerlo. Hubo excepciones, pero estas no fueron sorpresa. La pasamos muy bien en [nuestro recorrido](http://maps.google.com/maps) y visité senderos nuevos e inesperados. No salimos exactamente por donde había planeado pasar, pero esa es la belleza de salir a caminar con un plan de vuelo flexible y una buena idea del terreno en la cabeza.

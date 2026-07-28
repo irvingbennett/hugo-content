@@ -1,38 +1,19 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781919407
-    payload:
-      - id: 183
-      - id: 742
-      - id: 2279
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781894226
-    payload:
-      - id: 183
-      - id: 742
-      - id: 2279
-      - id: 2437
-      - id: 2947
-      - id: 3054
-_thumbnail_id: "2083"
 author: Rompy
 categories:
-  - "General"
+- General
 cover:
-  image: "/wp-content/uploads/2012/06/20120624_091521.jpg"
-date: "2012-06-25T21:41:23+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=2081
+  image: /wp-content/uploads/2012/06/20120624_091521.jpg
+date: '2012-06-25T21:41:23+00:00'
 parent_post_id: null
-post_id: "2081"
+post_id: '2081'
+slug: cerveza-casera
 tags:
-  - cerveza
+- cerveza
 title: Cerveza Casera
-url: /2012/06/25/cerveza-casera
-wpb_post_views_count: "26"
-
+wpb_post_views_count: '26'
 ---
+
 {{< figure align="aligncenter" width=640 src="/wp-content/uploads/gallery_backup/20120624_080254.jpg" alt="Iniciando la embotellada" caption="Iniciando la embotellada" >}}
 
 No es un secreto que a mi me gusta la cerveza. Al menos una de cada 10 entradas en esta bitácora menciona la palabra cerveza, y, de seguro, la cuenta podría ser más alta si no me importara ser monótono. Ahora que estoy bebiendo regularmente cerveza que he elaborado en casa, puedo escribir específicamente de cerveza y mi afición por la misma.
@@ -45,4 +26,4 @@ El proceso es muy sencillo: hay que cocinar una mezcla y fermentarla (2 semanas)
 
 {{< figure src="/wp-content/uploads/gallery_backup/20120624_080254.jpg" title="20120624\_080254" alt="20120624\_080254" >}}
 
-{{< figure src="/wp-content/uploads/gallery_backup/20120624_091521.jpg" title="20120624\_091521" alt="20120624\_091521" >}}  
+{{< figure src="/wp-content/uploads/gallery_backup/20120624_091521.jpg" title="20120624\_091521" alt="20120624\_091521" >}}

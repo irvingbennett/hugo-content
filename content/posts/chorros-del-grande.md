@@ -1,26 +1,17 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781914343
-    payload:
-      - id: 829
-      - id: 443
-      - id: 314
-_wp_old_slug: ""
+_wp_old_slug: ''
 author: Rompy
-
 categories:
-  - "Kayaking"
-date: "2010-09-27T16:10:53+00:00"
-post_id: "1251"
+- Kayaking
+date: '2010-09-27T16:10:53+00:00'
+post_id: '1251'
+slug: chorros-del-grande
 tags:
-  - kayaking
+- kayaking
 title: Chorros del Grande
-url: /2010/09/27/chorros-del-grande
-wpb_post_views_count: "17"
-
+wpb_post_views_count: '17'
 ---
+
 ![Susto Barato](/wp-content/uploads/gallery_backup/P9250038.jpg)Este sábado nos fuimos [Dimas Pino](/wp-content/uploads/gallery_backup/P9250035.jpg "Dimas"), [Joaquín Gil del Real](/wp-content/uploads/gallery_backup/P9250086.jpg) y yo a bajar los chorros del Río Grande. Bajamos [Susto Barato](/wp-content/uploads/gallery_backup/P9250028.jpg "Susto barato"), [Go Left and Die](/wp-content/uploads/gallery_backup/P9250056.jpg "Go Left and Die"), El Trampolín, y todavía estamos buscando nombre para el último chorro, que, por ahora, llamaré El Empate de Dimas. Bajamos desde Bajo Grande hasta Ojo de Agua. Nos tocó un día excelente, sin mucho sol, y con el río lleno de agua. No podía pedir mejor compañía en el río, seguro de que tenía la espalda cubierta (mientras no me agachara a recoger el jabón).
 
 Nos tomó 3 horas con 40 minutos recorrer el tramo de río que bajamos, bastante cercano a lo que habíamos calculado. A diferencia de las primeras veces, en esta ocasión no perdimos mucho tiempo explorando los varios rápidos que tiene el [Río Grande](https://photos.app.goo.gl/hT8lp83shZKHy8eq1 "Galería de Fotos"). La primera media hora, antes de Susto Barato, es un buen calentamiento para las tres horas que le siguen. Una vez que se llega a Susto Barato, el río no afloja su nivel de dificultad hasta unos 500 metros antes de la salida, es tiro y tiro. El único que no nado fue Joaquín, Dimas nadó una vez, y yo nadé dos veces. Por tanto, Dimas y yo nos tomamos nuestra primera cerveza en la bota de neopreno de cada uno (bootie bong).
@@ -71,4 +62,4 @@ Después de ese rápido siguen unos jardines de piedras que ya son el glaseado e
 
 {{< figure src="/wp-content/uploads/gallery_backup/P9250003.jpg" title="JoseMarquez" alt="JoseMarquez" >}}
 
-{{< figure src="/wp-content/uploads/gallery_backup/P9250105.jpg" title="Esperandoalauto" alt="Esperandoalauto" >}}  
+{{< figure src="/wp-content/uploads/gallery_backup/P9250105.jpg" title="Esperandoalauto" alt="Esperandoalauto" >}}

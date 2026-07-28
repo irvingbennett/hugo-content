@@ -1,25 +1,15 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781798703
-    payload:
-      - id: 357
-      - id: 362
-      - id: 1332
 author: Rompy
 categories:
-  - "Bicicletas"
-date: "2009-12-03T20:36:52+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=819
+- Bicicletas
+date: '2009-12-03T20:36:52+00:00'
 parent_post_id: null
-post_id: "819"
+post_id: '819'
+slug: ironman-cozumel-2009-2
 thesis_thumb: http://u8z.3d5.mywebsitetransfer.com/wp-content/uploads/2009/12/IMG_7936-150x150.jpg
 thesis_thumb_alt: Team Ironman Panama
 title: Ironman Cozumel 2009
-url: /2009/12/03/ironman-cozumel-2009-2
-wpb_post_views_count: "12"
-
+wpb_post_views_count: '12'
 ---
 
 ![Pedaleando en el Ironman](/wp-content/uploads/2009/12/cozumel-bicicleta2.jpg)

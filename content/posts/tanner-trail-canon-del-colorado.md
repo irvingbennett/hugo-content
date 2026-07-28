@@ -1,31 +1,18 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1782190013
-    payload:
-      - id: 4569
-      - id: 1043
-      - id: 1049
-_publicize_twitter_user: '@irvingbennett'
-_thumbnail_id: "3044"
-_wpas_done_all: "1"
-_wpcom_is_markdown: "1"
 author: Rompy
 categories:
-  - "Caminatas"
+- Caminatas
 cover:
-  image: "/wp-content/uploads/2016/11/20161026_091303-scaled.jpg"
-date: "2016-11-21T16:55:14+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=3041
+  image: /wp-content/uploads/2016/11/20161026_091303-scaled.jpg
+date: '2016-11-21T16:55:14+00:00'
 parent_post_id: null
-post_id: "3041"
+post_id: '3041'
+slug: tanner-trail-canon-del-colorado
 tags:
-  - travesias
+- travesias
 title: Tanner Trail, Cañón del Colorado
-url: /2016/11/21/tanner-trail-canon-del-colorado
-
 ---
+
 A finales de octubre finalmente pude regresar al Cañón del Colorado. Hacía 35 años que no regresaba a pesar de tenerlo siempre presente en mi mente. Esta vez se me presentó el espacio de tiempo correcto para hacer una breve incursión entre una convención de negocios y una carrera de 100 millas. Posiblemente una bajada al Río Colorado no era la mejor forma de prepararme para correr 100 millas justo después de la actividad, pero la cosa era ahora o vaya usted a saber cuando.
 
 Mi plan original era bajar por Tanner Trail, bordear el Río Colorado por el Sendero de Escalante, y volver a subir al South Rim (el Borde del Sur) por el sendero de New Hance. Bueno, en realidad mi plan original era menos ambicioso y solamente quería bajar por Bright Angel, dormir en Cottonwood y subir de regreso por Kaibab. Cuando escribí a pedir el permiso me dijeron que era imposible porque estaba totalmente lleno el cupo para esa travesía. Así es que de allí salté al plan B y escogí esta ruta alterna. En realidad esta ruta me gusta más que la idea original, solamente que era más sensato hacer el recorrido por los caminos más conocidos. Yo nunca había bajado hasta el mismo Río Colorado, a pesar de haber hecho dos caminatas de una semana cada una por la plataforma de Tonto, una en 1980 y la otra en 1981.

@@ -1,30 +1,18 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1782004166
-    payload:
-      - id: 443
-      - id: 1251
-      - id: 453
-      - id: 314
-      - id: 929
-      - id: 949
-_wp_old_slug: ""
+_wp_old_slug: ''
 author: Rompy
 categories:
-  - "Kayaking"
-date: "2010-10-01T13:10:51+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=829
+- Kayaking
+date: '2010-10-01T13:10:51+00:00'
 parent_post_id: null
-post_id: "829"
+post_id: '829'
+slug: seis-pulgadas
 tags:
-  - kayaking
+- kayaking
 title: Seis Pulgadas
-url: /2010/10/01/seis-pulgadas
-wpb_post_views_count: "9"
-
+wpb_post_views_count: '9'
 ---
+
 En algunas cosas seis pulgadas hacen toda la diferencia. En la parte alta del Río Grande hacen la diferencia entre el cielo y la tierra. Fuimos a remar esta sección antes que entrara el verano para despedir el año. Dimas nos visitó de Chiriquí para esta remada. Encontramos que el río estaba al seco, como seis pulgadas menos que la última vez. En primera instancia pensamos que el río no iba a llenar nuestras expectativas, pero al final resultó que tuvimos un día espectacular en el agua.
 
 Lástima que no pude tomar fotos por que me robaron mi cámara y Joaquín tiene días buscando la suya. Esta vez, con la ayuda de Dimas, bajamos todos los chorros que tiene esta sección del río. Bueno, Dimas bajó todo el río. Joaquín y yo caminamos dos de los chorros, pero quedamos con ganas de completar esta sección en algún futuro cercano. De seguro no será hasta el próximo año.

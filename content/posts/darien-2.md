@@ -1,30 +1,19 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1782112194
-    payload:
-      - id: 2152
-      - id: 1690
-      - id: 1324
-_thumbnail_id: "6430"
-_wpcom_is_markdown: "1"
 author: Rompy
 categories:
-  - "General"
+- General
 cover:
-  image: "/wp-content/uploads/2008/05/P5110013-scaled.jpg"
-date: "2008-05-15T00:55:31+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=284
+  image: /wp-content/uploads/2008/05/P5110013-scaled.jpg
+date: '2008-05-15T00:55:31+00:00'
 parent_post_id: null
-post_id: "284"
+post_id: '284'
+slug: darien-2
 tags:
-  - travesias
+- travesias
 title: Darien
-url: /2008/05/14/darien-2
-wpb_post_views_count: "40"
-
+wpb_post_views_count: '40'
 ---
+
 Tenía más de 10 años de no estar en Metetí, Darién. Nunca antes había manejado hasta Metetí. Curiosamente, siempre había llegado a Darién caminando, volando, o en bote, pero nunca manejando. Varias veces salí de Darién en transporte terrestre, pero con más frecuencia salía volando. En aquellos tiempos en que frecuentaba esa provincia, la carretera Interamericana era más bien un camino de lodo.
 
 Mucho ha cambiando ahora: se puede llegar a Yaviza en 6 horas de manejo en cualquier auto. Además, hay fincas con ganado y caballos a todo lo largo del recorrido. Los únicos bosques que quedan en pié a orillas de la carretera están en una reserva indígena. Visité el Filo del Tallo y pude ver que todo la planicie de Metetí es ahora un solo potrero con algunos árbole interspersos. Cada vez los bosques están más remotos. Y se podían ver [árboles talados](/wp-content/uploads/gallery_backup/P5110018.JPG), en grandes cantidades, por varios lugares.

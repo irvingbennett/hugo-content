@@ -1,24 +1,16 @@
 ---
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781783901
-    payload:
-      - id: 27
-      - id: 381
-      - id: 1900
 author: Rompy
 categories:
-  - "General"
-  - "Kayaking"
-date: "2006-11-22T01:05:26+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=182
+- General
+- Kayaking
+date: '2006-11-22T01:05:26+00:00'
 parent_post_id: null
-post_id: "182"
+post_id: '182'
+slug: factor-miedo-en-el-rio-grande
 title: Factor miedo en el Río Grande
-url: /2006/11/21/factor-miedo-en-el-rio-grande
-wpb_post_views_count: "11"
-
+wpb_post_views_count: '11'
 ---
+
 ![El último cangilón](/wp-content/uploads/gallery_backup/P7280022.jpg) Hace dos semanas fuimos a remar al Río Grande en Penonomé, aprovechando que el fin de semana del 3 de noviembre iba a estar en El Valle junto con mis sobrinos. Por más que intente conseguir al menos un adulto más para que nos acompañara, no fue posible. Terminamos remando Alexandra (16), Tino (17) y yo (45, casi 46). El Río Grande no es un río complicado, pero tiene un solo acceso y una sola salida en su sección media. Esto aumenta los factores de riesgo en caso de que algo salga mal.
 
 Tino y Alex ya habían bajado este río un par de veces, pero esta era la primera vez que Alex bajaba esta sección sola en su kayak rígido. Alex ya había bajado la sección baja en su kayak Arc, y Tino si la conocía mejor. El rol de Alex es más sólido que el de Tino, pero Tino está más confiado en el agua. Alex tiene ataques de indecisión cuando es confrontada con muchas opciones a través de un rápido.

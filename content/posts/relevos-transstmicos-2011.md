@@ -1,31 +1,21 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1782092511
-    payload:
-      - id: 859
-      - id: 210
-      - id: 482
-_thumbnail_id: "1425"
 author: Rompy
 categories:
-  - "Correr"
+- Correr
 cover:
-  image: "/wp-content/uploads/2011/01/P1230260.jpg"
-date: "2011-01-24T20:23:02+00:00"
+  image: /wp-content/uploads/2011/01/P1230260.jpg
+date: '2011-01-24T20:23:02+00:00'
 embed: This is the default text
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=1422
-image: ""
+image: ''
 parent_post_id: null
-post_id: "1422"
-seo_follow: "false"
-seo_noindex: "false"
+post_id: '1422'
+seo_follow: 'false'
+seo_noindex: 'false'
+slug: relevos-transstmicos-2011
 title: Relevos Transístmicos 2011
-url: /2011/01/24/relevos-transstmicos-2011
-wpb_post_views_count: "15"
-
+wpb_post_views_count: '15'
 ---
+
 ![Jordi entregando](/wp-content/uploads/2011/01/P1230260.jpg "Jordi entregando")
  He quedado con una curiosa mezcla de emociones después de estos relevos. En primera instancia, me alegra que todo haya salido bastante bien. En segundo lugar, ¡finalmente pude correr los Relevos Transístmicos! Que divertido fue contar con el apoyo de mi equipo, Los Abuelos Geriátricos del Hash. Este año la carrera estuvo muy [reñida](http://localhost:8000/g3/var/resizes/Relevos-Transistmicos-2011/P1230189.jpg?m=1295889194 "Transición reñida") entre UNACHI y Metrodome - Policía Nacional. Pero estoy muy consciente que mi esfuerzo dejó mucho que desear habiendo dejado demasiado para última hora.
 

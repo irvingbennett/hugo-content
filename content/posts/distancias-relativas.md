@@ -1,24 +1,17 @@
 ---
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1782165474
-    payload:
-      - id: 463
-      - id: 13
-      - id: 237
 author: Rompy
+categories:
+- Caminatas
+- General
 cover:
   image: /wp-content/uploads/gallery_backup/P9170044.JPG
-categories:
-  - "Caminatas"
-  - "General"
-date: "2006-09-28T15:38:10+00:00"
-post_id: "165"
+date: '2006-09-28T15:38:10+00:00'
+post_id: '165'
+slug: distancias-relativas
 title: Distancias Relativas
-url: /2006/09/28/distancias-relativas
-wpb_post_views_count: "7"
-
+wpb_post_views_count: '7'
 ---
+
 [Las Guías](https://goo.gl/photos/UxattbFNBsQ2dsau5 "Las Guías"). Nos tomó seis horas caminar los 22 kilómetros del trillo a un paso cómodo. El camino es todo cuesta arriba, pero la pendiente siempre es leve. Lo cómico del asunto es que cuando llegamos al Macano coma a 14 kms. hacia El Valle, nos pusimos a conversar con los lugareños mientras esperábamos a unos que se habían quedado atrás. Ya llevábamos como 4 horas caminando y nos faltaban otro par de horas para llegar a El Valle.
 ![Las Guías](/wp-content/uploads/gallery_backup/P9170057.JPG)
 

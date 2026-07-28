@@ -1,24 +1,15 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1782036761
-    payload:
-      - id: 949
-      - id: 1900
-      - id: 27
 author: Rompy
 categories:
-  - "Kayaking"
-date: "2008-12-15T14:19:15+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=443
+- Kayaking
+date: '2008-12-15T14:19:15+00:00'
 parent_post_id: null
-post_id: "443"
+post_id: '443'
+slug: ultima-remada
 title: Ultima Remada
-url: /2008/12/15/ultima-remada
-wpb_post_views_count: "12"
-
+wpb_post_views_count: '12'
 ---
+
 \[caption id="attachment\_447" align="alignnone" width="604" caption="Revisando un rápido"\]![Revisando un rápido](/wp-content/uploads/2008/12/n1415981227_30170720_1687.jpg)\[/caption\]
 
 Este fin de semana despedimos la temporada de lluvia del 2008 con remadas consecutivas: remamos el Río Pacora el sábado y el Río Mamoní el domingo. Ya dudo que pueda volver al río hasta el próximo año. Pero esta despedida fue muy dulce. Los ríos tenían un excelente nivel de agua, el agua estaba cristalina por que no había llovido recientemente, y la brisa de verano ya estaba soplando. Los árboles deciduos ya estaban tirando sus hojas al río.

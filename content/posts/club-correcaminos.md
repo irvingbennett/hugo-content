@@ -1,31 +1,22 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781628236
-    payload:
-      - id: 210
-      - id: 2373
-      - id: 1287
-_wp_old_slug: ""
+_wp_old_slug: ''
 author: Rompy
 categories:
-  - "Correr"
-date: "2010-09-01T23:22:21+00:00"
+- Correr
+date: '2010-09-01T23:22:21+00:00'
 embed: This is the default text
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=1176
-image: ""
+image: ''
 parent_post_id: null
-post_id: "1176"
-seo_follow: "false"
-seo_noindex: "false"
+post_id: '1176'
+seo_follow: 'false'
+seo_noindex: 'false'
+slug: club-correcaminos
 tags:
-  - correr
+- correr
 title: Club Correcaminos
-url: /2010/09/01/club-correcaminos
-wpb_post_views_count: "9"
-
+wpb_post_views_count: '9'
 ---
+
 \[caption id="attachment\_1179" align="aligncenter" width="464" caption="Corriendo Cerro Cabra"\] [![Cerro Cabra](/wp-content/uploads/2010/09/P3071132-1024x768.jpg)](//wp-content/uploads/2010/09/P3071132.jpg)\[/caption\]
 
 Hace mucho tiempo las carreras de Corredores del Istmo eran eventos muy sencillos. Los corredores se reunían y escogían la junta directiva. Ya existía un calendario preestablecido de carreras que tenían una cierta lógica: las distancias iban en ascenso, en ciclos, hasta llegar al maratón en diciembre. Se corría cada tres semanas, aproximadamente.

@@ -1,35 +1,22 @@
 ---
-_edit_last: "1"
-_jetpack_dont_email_post_to_subs: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781786313
-    payload:
-      - id: 71
-      - id: 865
-      - id: 1566
+_jetpack_dont_email_post_to_subs: '1'
 _publicize_facebook_user: https://www.facebook.com/irving.bennett
-_publicize_twitter_user: '@irvingbennett'
-_thumbnail_id: "2814"
-_wpas_done_all: "1"
-_wpas_skip_6885108: "1"
-_wpas_skip_6885117: "1"
-_wpas_skip_6885125: "1"
-_wpas_skip_6885140: "1"
-_wpcom_is_markdown: "1"
+_wpas_skip_6885108: '1'
+_wpas_skip_6885117: '1'
+_wpas_skip_6885125: '1'
+_wpas_skip_6885140: '1'
 author: Rompy
 categories:
-  - "General"
+- General
 cover:
-  image: "/wp-content/uploads/2014/10/DSCN4087-scaled.jpg"
-date: "2014-10-09T22:59:04+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=2811
+  image: /wp-content/uploads/2014/10/DSCN4087-scaled.jpg
+date: '2014-10-09T22:59:04+00:00'
 parent_post_id: null
-post_id: "2811"
+post_id: '2811'
+slug: nudo-para-zapatillas
 title: Nudo para Zapatillas
-url: /2014/10/09/nudo-para-zapatillas
-
 ---
+
 Esta parecerá una entrada irrelevante. Después de todo, aprendemos a amarrarnos los cordones en nuestros primeros año y después lo repetimos todos los días. Pero no lo es. En primera instancia, la mitad de las personas hacen mal el simple nudo de los zapatos, y, en segunda instancia, ese nudo no es apropiado para las zapatillas (menos para una carrera). Por último, el método que usa la mayoría, que es hacer un nudo adicional con los lazos, es una mala idea y también se suelta.
 
 Este pasado fin de semana varios amigos míos participaron en una carrera de 21km y mi hermano le ganó a uno de ellos. Una de las razones que me dio mi hermano fue textualmente: "tres veces paró a amarrarse los cordones y tres veces hizo el esfuerzo para alcanzarme. En la tercera, cuando me alcanzó, ya no tenía gasolina". Eso jamás debió haber sucedido. Además, ya varias veces he intentado enseñarle cómo amarrar apropiadamente los cordones de sus zapatillas. Tao está en el 50% de los que aprendieron mal el nudo simple para amarrarse las zapatillas.

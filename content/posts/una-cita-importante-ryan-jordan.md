@@ -1,32 +1,19 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781831836
-    payload:
-      - id: 1761
-      - id: 201
-      - id: 241
-      - id: 1195
-      - id: 183
-      - id: 1624
-_wpas_skip_6885108: "1"
-_wpas_skip_6885117: "1"
-_wpas_skip_6885125: "1"
-_wpas_skip_6885140: "1"
-_wpcom_is_markdown: "1"
+_wpas_skip_6885108: '1'
+_wpas_skip_6885117: '1'
+_wpas_skip_6885125: '1'
+_wpas_skip_6885140: '1'
 author: Rompy
 categories:
-  - "General"
-date: "2007-04-14T13:18:10+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=200
+- General
+date: '2007-04-14T13:18:10+00:00'
 parent_post_id: null
-post_id: "200"
+post_id: '200'
+slug: una-cita-importante-ryan-jordan
 title: Una cita importante - Ryan Jordan
-url: /2007/04/14/una-cita-importante-ryan-jordan
-wpb_post_views_count: "12"
-
+wpb_post_views_count: '12'
 ---
+
 Todo lo que sigue a continuación fue tomado del blog de [Ryan Jordan](http://backpackinglight.typepad.com/ "Backpacking Light"), pero como lo encontré importante decidí copiarlo para compartirlo.
 
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\- Cita -----------------------

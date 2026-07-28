@@ -1,43 +1,29 @@
 ---
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1782182674
-    payload:
-      - id: 6829
-      - id: 6222
-      - id: 732
-      - id: 1690
-      - id: 252
-      - id: 6521
 _publicize_shares:
-  - connection_id: 6900156
-    external_id: alairelibre.tumblr.com
-    external_name: Al Aire Libre
-    message: http://alairelibre.tumblr.com/post/802739570060951552
-    profile_link: http://alairelibre.tumblr.com/
-    profile_picture: ""
-    service: tumblr
-    status: success
-    timestamp: 1765552111
-    wpcom_user_id: 1142432
-_thumbnail_id: "6873"
-_wpas_done_all: "1"
-_wpcom_is_markdown: "1"
+- connection_id: 6900156
+  external_id: alairelibre.tumblr.com
+  external_name: Al Aire Libre
+  message: http://alairelibre.tumblr.com/post/802739570060951552
+  profile_link: http://alairelibre.tumblr.com/
+  profile_picture: ''
+  service: tumblr
+  status: success
+  timestamp: 1765552111
+  wpcom_user_id: 1142432
 author: Rompy
 categories:
-  - "KLR"
+- KLR
 cover:
-  image: "/wp-content/uploads/2025/12/20251017_071931-scaled.jpg"
-date: "2025-12-12T15:08:21+00:00"
-guid: http://localhost/?p=6872
+  image: /wp-content/uploads/2025/12/20251017_071931-scaled.jpg
+date: '2025-12-12T15:08:21+00:00'
 parent_post_id: null
-post_id: "6872"
+post_id: '6872'
+slug: canada-a-panama
 tags:
-  - travesias
+- travesias
 title: Canadá a Panamá
-url: /2025/12/12/canada-a-panama
-
 ---
+
 Ya regresé hace un rato y no logro reconectar con el ritmo normal de mi vida. No pensé que sería tan grande el impacto de este viaje, pero así fue. Ya anteriormente había hecho travesías largas, más largas que esta, pero ahora tengo más años y el resultado fue diferente, más afirmante de lo poco que necesitamos para estar bien. Pero ese no es el tema de esta entrada, solo pretendo escribir un breve resumen ahora, un recuento somero del regreso. Luego haré otras entradas con más detalles y dedicadas a puntos específicos.
 
 Inicié mi retorno de Salt Spring a Panamá el 17 de octubre muy temprano, antes que saliera el sol. Tenía que tomar dos trasbordadores para llegar a tierra firme: uno de Salt Spring a Isla de Vancouver, y otro de ahí a Tsawassen en tierra firme, justo abajo de la ciudad de Vancouver. Me tocó un amanecer muy bonito mientras esperaba que nos montaran al segundo trasbordo. Demoré mas de lo que esperaba en Salt Spring mientras esperaba un juego de inyectores para mi carburador que había ordenado de una tienda en el medio de Canadá.

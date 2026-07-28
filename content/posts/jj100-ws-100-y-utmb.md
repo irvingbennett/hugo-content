@@ -1,29 +1,18 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781777797
-    payload:
-      - id: 1759
-      - id: 1903
-      - id: 1778
-_publicize_twitter_user: '@irvingbennett'
-_wpcom_is_markdown: "1"
 author: Rompy
 categories:
-  - "Correr"
-date: "2010-04-18T16:57:46+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=913
+- Correr
+date: '2010-04-18T16:57:46+00:00'
 parent_post_id: null
-post_id: "913"
+post_id: '913'
+slug: jj100-ws-100-y-utmb
 tags:
-  - ultra
+- ultra
 thesis_post_image: http://u8z.3d5.mywebsitetransfer.com/wp-content/uploads/2010/04/P4100115-e1271609801426.jpg
 title: JJ100, WS 100 y UTMB
-url: /2010/04/18/jj100-ws-100-y-utmb
-wpb_post_views_count: "11"
-
+wpb_post_views_count: '11'
 ---
+
 Finalmente logré correr el ultramaratón American River 50. Crucé la meta en 10:10:54, según el reloj oficial. Partimos 7 panameños juntos y todos lograron cruzar la meta de acuerdo con sus expectativas. Ha sido muy emocionante leer y escuchar sobre las experiencias de Nicolas García, Carlos Retally, Iris Regalado, Margaret Von Sanger, Lizbet Ramirez, y mi hermano Roger. Yo había estado muy ocupado, hasta ahora, y no me podido sentar a escribir nada sobre esa experiencia. Pero mientras pensaba sobre esa carrera, y trabajaba, mi interés me ha llevado a explorar las posibilidades que se me han abierto: el [Western States 100](http://ws100.com/home.html "WS 100 ultra") y el [Ultratour du Mont Blanc](https://utmbmontblanc.com/en/UTMB "UTMB"). Ambas carreras requieren de experiencia previa para poder registrarse.
 
 El tiempo que hice en el AR50 me permite registrarme para la lotería del WS 100 del 2011. Para el UTMB necesito acumular 4 puntos para probar que tengo experiencia previa. Por años he estado leyendo del WS 100, y el UTMB apareció en mi radar hace poco, pero ambas experiencias parecían estar fuera de mi alcance: no contaba con el fondo, ni la voluntad, para participar en eventos de esa magnitud. Correr 160 kilómetros o más pone al cuerpo frente a pruebas extremas, lo lleva al límite, y pone en peligro ciertas funciones vitales del cuerpo - no es relajo. Y yo siempre he sido muy relajado para esa clase de compromisos... Pero mientras más he tratado de acabar con mi cuerpo, más resistente se ha vuelto. Parece que la naturaleza casi que nos ha hecho a prueba de nosotros mismos.

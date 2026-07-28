@@ -1,27 +1,18 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781802374
-    payload:
-      - id: 750
-      - id: 1043
-      - id: 1155
-_wp_old_slug: ""
+_wp_old_slug: ''
 author: Rompy
 categories:
-  - "Correr"
-date: "2010-07-14T18:47:17+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=1049
+- Correr
+date: '2010-07-14T18:47:17+00:00'
 parent_post_id: null
-post_id: "1049"
+post_id: '1049'
+slug: el-valle-trail-marathon-45k
 tags:
-  - maraton
+- maraton
 title: El Valle Trail Marathon - 45k
-url: /2010/07/14/el-valle-trail-marathon-45k
-wpb_post_views_count: "12"
-
+wpb_post_views_count: '12'
 ---
+
 \[caption id="attachment\_1050" align="alignleft" width="225" caption="El Valle Trail Marathon - 45k"\] [![Ruta del maratón](/wp-content/uploads/2010/07/El_Valle_Trail_Marathon-45k-225x300.jpg)](//wp-content/uploads/2010/07/El_Valle_Trail_Marathon-45k.jpg)\[/caption\]
 
 Este 15 de agosto, 2010 tendremos el 2do El Valle Trail Marathon. Este año la ruta ha cambiado y correremos hacia el norte partiendo desde el Hotel Campestre, en dirección hacia Matahogado. A continuación sigue la descripción de la ruta de los 45k, la versión ultra del maratón. En Facebook hay un [recorrido fotográfico completo](http://www.facebook.com/album.php) de la parte de 21k y la [parte del ultra](http://www.facebook.com/album.php). Nadie debe pensar que esta carrera es comparable con un maratón normal - este recorrido cae claramente bajo la categoría de ultra-maratón por su dificultad.

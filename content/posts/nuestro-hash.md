@@ -1,24 +1,15 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781980653
-    payload:
-      - id: 122
-      - id: 113
-      - id: 1029
 author: Rompy
 categories:
-  - "Correr"
-date: "2010-05-05T21:09:17+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=939
+- Correr
+date: '2010-05-05T21:09:17+00:00'
 parent_post_id: null
-post_id: "939"
+post_id: '939'
+slug: nuestro-hash
 title: Nuestro Hash
-url: /2010/05/05/nuestro-hash
-wpb_post_views_count: "11"
-
+wpb_post_views_count: '11'
 ---
+
 Ayer marqué el Hash junto con mi amigo Beto Pons. Las dos veces que hemos marcado juntos un Hash nos ha tocado hacerlo con lluvia, y la pintura que usamos no se pudo pegar bien a la calle. Aún así, llegó un buen grupo a correr y todos gozamos de la intensa lluvia que nos tocó durante el Hash. Qué gusto me da compartir todos los lunes con este variado grupo de gente. Hoy por hoy, sin duda, es el grupo de personas que veo con más frecuencia en mi vida.
 
 Tengo amigos como Alberto, que son amigos desde la escuela, a quien veo con frecuencia. Pero también lo veo todos los lunes en el Hash. Al Hash casi que lo veo más a menudo que a mi familia. Solamente los que van a la misma iglesia todos los domingos tienen un grupo tan unido como nuestros Hashers. Nosotros corremos todos los lunes, llueve, truene o relampaguee. Lo principal que hay que tener para ser un miembro de nuestro grupo es tolerancia y un buen sentido del humor. Sin esos dos ingredientes la permanencia en nuestro grupo es difícil, o imposible.

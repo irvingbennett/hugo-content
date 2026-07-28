@@ -1,27 +1,17 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1782055090
-    payload:
-      - id: 252
-      - id: 3182
-      - id: 64
-_wpcom_is_markdown: "1"
 author: Rompy
 categories:
-  - caminatas
-date: "2009-04-21T20:00:29+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/2009/04/21/boquern-2009
+- caminatas
+date: '2009-04-21T20:00:29+00:00'
 parent_post_id: null
-post_id: "534"
+post_id: '534'
+slug: boqueron-2009
 tags:
-  - travesias
+- travesias
 title: Boquerón 2009
-url: /2009/04/21/boqueron-2009
-wpb_post_views_count: "9"
-
+wpb_post_views_count: '9'
 ---
+
 Este sábado 18 de abril partimos desde La Línea en Nombre de Dios por el Río Nombre de Dios hacia Boquerón Arriba, siguiendo lo que aproximadamente era El Camino Real desde Nombre de Dios hacia Panamá. Eramos 24 personas, 7 mujeres y 17 hombres, la mayoría miembros del Hash de Panamá. Mi esposa estaba un poco preocupada por que éramos un grupo muy grande, pero yo estaba cómodo por que conocía a todos de los que formaban el grupo y estaba seguro que la íbamos a pasar muy bien.
 
 Como ya muchos del grupo han recorrido el camino anteriormente, la mitad aprovecharon la primera oportunidad para perderse en todo el inicio del viaje. En realidad se habían marchado por el río y nosotros por un sendero que salía al mismo río, pero más adelante. El grupo que se fue por el río perdió la confianza y decidieron regresarse y seguir el mismo sendero por el cual partimos nosotros. De ese momento en adelante todos quedaron alerta y más nunca necesité preocuparme por que se me fuera a perder alguién. Hasta cuando iba al baño me seguían después de esa primera separación.

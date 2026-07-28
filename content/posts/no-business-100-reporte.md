@@ -1,35 +1,24 @@
 ---
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781946745
-    payload:
-      - id: 5853
-      - id: 6025
-      - id: 6432
 _last_editor_used_jetpack: block-editor
-_publicize_twitter_user: '@irvingbennett'
-_thumbnail_id: "5861"
-_wpas_done_all: "1"
-_wpcom_is_markdown: "1"
 author: Rompy
 categories:
-  - "Correr"
+- Correr
 cover:
-  image: "/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-15-at-3.16.23-PM.jpeg"
-date: "2022-10-18T19:55:09+00:00"
-enclosure: |-
-  /wp-content/uploads/2022/10/WhatsApp-Video-2022-10-18-at-10.41.39-AM.mp4
-  5114484
-  video/mp4
-guid: http://hbx.wvf.mybluehost.me/?p=5860
-parent_post_id: null
-post_id: "5860"
-tags:
-  - ultra
-title: No Business 100 - Reporte
-url: /2022/10/18/no-business-100-reporte
+  image: /wp-content/uploads/2022/10/WhatsApp-Image-2022-10-15-at-3.16.23-PM.jpeg
+date: '2022-10-18T19:55:09+00:00'
+enclosure: '/wp-content/uploads/2022/10/WhatsApp-Video-2022-10-18-at-10.41.39-AM.mp4
 
+  5114484
+
+  video/mp4'
+parent_post_id: null
+post_id: '5860'
+slug: no-business-100-reporte
+tags:
+- ultra
+title: No Business 100 - Reporte
 ---
+
 Finalmente completé mi 100 millas #13 y pasé lo que estaba comenzando a parecer una barrera. No Business 100 ha sido una carrera que he gozado mucho y el recorrido puede ser el más atractivo de todos los que he hecho. El sendero era muy corrible y tanto las subidas como las bajadas eran bastante leves, con sus contadas excepciones. Las estaciones de apoyo estuvieron fenomenales, repletas de buena comida y bebida, incluyendo el Sword que usaron como bebida energética.
 
 {{< figure src="/wp-content/uploads/gallery_backup/WhatsApp-Image-2022-10-13-at-8.35.24-PM.jpeg" alt="" caption="" >}}

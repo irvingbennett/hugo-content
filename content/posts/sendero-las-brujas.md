@@ -1,34 +1,35 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1782126422
-    payload:
-      - id: 1827
-      - id: 2967
-      - id: 194
 _last_editor_used_jetpack: block-editor
-_wpas_skip_6885117: "1"
-_wpas_skip_6885125: "1"
-_wpcom_is_markdown: "1"
+_wpas_skip_6885117: '1'
+_wpas_skip_6885125: '1'
 author: Rompy
 categories:
-  - "Caminatas"
-date: "2007-02-22T18:41:47+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=193
+- Caminatas
+date: '2007-02-22T18:41:47+00:00'
 parent_post_id: null
-post_id: "193"
-summary: |-
-  ![Jordi y Rompy](/wp-content/uploads/gallery_backup/p2190308.jpg), en el Río Olá. Había escuchado del sendero por Miguel Esquivel, y luego leí en Weekend un reportaje sobre el sendero. El nombre de Sendero Las Brujas se lo puso Miguel al camino. En el reportaje hablaban que habían tomado tres días para hacer el sendero, pero la distancia era muy corta para tomarse tanto tiempo.
+post_id: '193'
+slug: sendero-las-brujas
+summary: '![Jordi y Rompy](/wp-content/uploads/gallery_backup/p2190308.jpg), en el
+  Río Olá. Había escuchado del sendero por Miguel Esquivel, y luego leí en Weekend
+  un reportaje sobre el sendero. El nombre de Sendero Las Brujas se lo puso Miguel
+  al camino. En el reportaje hablaban que habían tomado tres días para hacer el sendero,
+  pero la distancia era muy corta para tomarse tanto tiempo.
 
-  Nosotros sabíamos que podíamos cubrir cómodamente esa distancia en un día y medio. Arreglamos el viaje para que nos dejaran en Bajo Grande y nos recogieran en El Ciruelo, después de Los Chorros, al día siguiente, poco después del medio día. El sendero se notaba interesante en la carta topográfica por que mucho del recorrido era por los filos del [Cerro Golondrina](/wp-content/uploads/gallery_backup/P2180263.JPG "Cerro Golondrina"), a más de mil métros de altura. El sendero inicia con una trepada desde Bajo Grande hacia Las Sabanas, un pueblito que está repleto de árboles de naranja.
+
+  Nosotros sabíamos que podíamos cubrir cómodamente esa distancia en un día y medio.
+  Arreglamos el viaje para que nos dejaran en Bajo Grande y nos recogieran en El Ciruelo,
+  después de Los Chorros, al día siguiente, poco después del medio día. El sendero
+  se notaba interesante en la carta topográfica por que mucho del recorrido era por
+  los filos del [Cerro Golondrina](/wp-content/uploads/gallery_backup/P2180263.JPG
+  "Cerro Golondrina"), a más de mil métros de altura. El sendero inicia con una trepada
+  desde Bajo Grande hacia Las Sabanas, un pueblito que está repleto de árboles de
+  naranja.'
 tags:
-  - travesias
+- travesias
 title: Sendero Las Brujas
-url: /2007/02/22/sendero-las-brujas
-wpb_post_views_count: "32"
-
+wpb_post_views_count: '32'
 ---
+
 ![Jordi y Rompy](/wp-content/uploads/gallery_backup/Sendero_Las_Brujas "Sendero de Las Brujas"), un trillo que va desde [Bajo Grande](/wp-content/uploads/gallery_backup/P2180224.JPG "Zarzo de Bajo Grande"), en el Río Grande, hasta Los [Chorros de Olá](/wp-content/uploads/gallery_backup/p2190308.jpg), en el Río Olá. Había escuchado del sendero por Miguel Esquivel, y luego leí en Weekend un reportaje sobre el sendero. El nombre de Sendero Las Brujas se lo puso Miguel al camino. En el reportaje hablaban que habían tomado tres días para hacer el sendero, pero la distancia era muy corta para tomarse tanto tiempo.
 
 Nosotros sabíamos que podíamos cubrir cómodamente esa distancia en un día y medio. Arreglamos el viaje para que nos dejaran en Bajo Grande y nos recogieran en El Ciruelo, después de Los Chorros, al día siguiente, poco después del medio día. El sendero se notaba interesante en la carta topográfica por que mucho del recorrido era por los filos del [Cerro Golondrina](/wp-content/uploads/gallery_backup/P2180263.JPG "Cerro Golondrina"), a más de mil métros de altura. El sendero inicia con una trepada desde Bajo Grande hacia Las Sabanas, un pueblito que está repleto de árboles de naranja.

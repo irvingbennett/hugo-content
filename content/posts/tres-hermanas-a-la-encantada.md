@@ -1,34 +1,21 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1782028347
-    payload:
-      - id: 831
-      - id: 773
-      - id: 239
-      - id: 1391
-      - id: 463
-      - id: 50
-_wpas_skip_6885108: "1"
-_wpas_skip_6885117: "1"
-_wpas_skip_6885125: "1"
-_wpas_skip_6885140: "1"
-_wpcom_is_markdown: "1"
+_wpas_skip_6885108: '1'
+_wpas_skip_6885117: '1'
+_wpas_skip_6885125: '1'
+_wpas_skip_6885140: '1'
 author: Rompy
 categories:
-  - "Caminatas"
-date: "2009-09-12T22:59:33+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=753
+- Caminatas
+date: '2009-09-12T22:59:33+00:00'
 parent_post_id: null
-post_id: "753"
+post_id: '753'
+slug: tres-hermanas-a-la-encantada
 tags:
-  - trek
+- trek
 title: Tres Hermanas a La Encantada
-url: /2009/09/12/tres-hermanas-a-la-encantada
-wpb_post_views_count: "29"
-
+wpb_post_views_count: '29'
 ---
+
 {{< figure align="alignleft" src="/wp-content/uploads/gallery_backup/P9103056.jpg" alt="P9103056" caption="Jorge Patricio y Jordi" >}}
 
 Ayer regresamos Jordi, Jorge Patricio y yo de un viaje exploratorio que nos llevó desde [Tres Hermanas hasta La Encantada](https://photos.app.goo.gl/LXIMXzxxADoyLtEy2 "Tres Hermanas a La Encantada"), a orillas del Río Indio. Nuestra intención original, muy ambiciosa, era llegar hasta la Boca de Río Indio. Sabíamos que iba a estar difícil llegar hasta el mar desde Tres Hermanas, caminando, en un par de días. Aún así llegamos bastante cerca de cumplir nuestra meta. El terreno estaba algo más difícil de lo que esperábamos, y el calor de caminar por tierras bajas y pantanosas fue agobiante.

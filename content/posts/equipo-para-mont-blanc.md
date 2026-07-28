@@ -1,26 +1,17 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781770502
-    payload:
-      - id: 1596
-      - id: 1759
-      - id: 1944
 author: Rompy
 categories:
-  - "Correr"
-date: "2012-07-05T22:22:53+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=2110
+- Correr
+date: '2012-07-05T22:22:53+00:00'
 parent_post_id: null
-post_id: "2110"
+post_id: '2110'
+slug: equipo-para-mont-blanc
 tags:
-  - ultra
+- ultra
 title: Equipo Para Mont Blanc
-url: /2012/07/05/equipo-para-mont-blanc
-wpb_post_views_count: "12"
-
+wpb_post_views_count: '12'
 ---
+
 [![](/wp-content/uploads/2012/07/advance-skin-12-150x150.jpg)](//wp-content/uploads/2012/07/advance-skin-12.jpg) Primero, lo primero. El equipo más importante para el Ultra Trail de Mont Blanc, el único que realmente cuenta, es el cuerpo viejo que tengo que arrastrar por los 168 kilómetros del recorrido de Mont Blanc. Dicho lo anterior, estoy tratando de decidir qué voy a cargar durante las 40+ horas que me tomará completar ese bucle a través de tres países. Ya tengo la mayoría de lo que necesito. Pero vayamos al detalle:
 
 | Regla | Equipo | Peso |

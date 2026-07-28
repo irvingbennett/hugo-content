@@ -1,32 +1,20 @@
 ---
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781764209
-    payload:
-      - id: 6405
-      - id: 5216
-      - id: 1949
 _last_editor_used_jetpack: block-editor
 _oembed_20160ae35fad0e70217fb7b380bd5e8f: '{{unknown}}'
-_publicize_twitter_user: '@irvingbennett'
-_thumbnail_id: "5942"
-_wpas_done_all: "1"
-_wpcom_is_markdown: "1"
 author: Rompy
 categories:
-  - "Correr"
+- Correr
 cover:
-  image: "/wp-content/uploads/2022/11/20221106_154418-2-scaled.jpg"
-date: "2022-11-08T20:34:10+00:00"
-guid: http://hbx.wvf.mybluehost.me/?p=5907
+  image: /wp-content/uploads/2022/11/20221106_154418-2-scaled.jpg
+date: '2022-11-08T20:34:10+00:00'
 parent_post_id: null
-post_id: "5907"
+post_id: '5907'
+slug: deadman-peaks-backbone-106m
 tags:
-  - ultra
+- ultra
 title: Deadman Peaks Backbone 106M
-url: /2022/11/08/deadman-peaks-backbone-106m
-
 ---
+
 Tenía bajas expectativas para esta carrera en Cuba, New Mexico, EEUU porque la información estaba desactualizada en el sitio web de la carrera y la participación es extremadamente baja. En el 2021 terminaron 9 de 21 que empezaron la carrera. Este año creo que empezamos 24 y yo terminé de último en 34:44:26. Mi reloj marcó 173.18 kilómetros, como tres kilómetros de más por unas cuantas perdidas en el camino. Cuándo crucé la meta estaba totalmente complacido con el recorrido y todo lo que esta aventura me proporcionó, fue toda una experiencia muy especial.
 
 {{< figure src="/wp-content/uploads/gallery_backup/continental_divide.png" alt="" caption="" >}}

@@ -1,32 +1,20 @@
 ---
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1782179795
-    payload:
-      - id: 1996
-      - id: 1966
-      - id: 5853
 _last_editor_used_jetpack: block-editor
-_publicize_twitter_user: '@irvingbennett'
-_thumbnail_id: "5836"
-_wpas_done_all: "1"
-_wpcom_is_markdown: "1"
 author: Rompy
 categories:
-  - "Correr"
+- Correr
 cover:
-  image: "/wp-content/uploads/2022/08/20220826_165033-scaled.jpg"
-date: "2022-08-29T04:38:20+00:00"
-guid: http://hbx.wvf.mybluehost.me/?p=5831
+  image: /wp-content/uploads/2022/08/20220826_165033-scaled.jpg
+date: '2022-08-29T04:38:20+00:00'
 parent_post_id: null
-post_id: "5831"
+post_id: '5831'
+slug: andes-race-100k
 tags:
-  - correr
-  - ultra
+- correr
+- ultra
 title: Andes Race 100K
-url: /2022/08/28/andes-race-100k
-
 ---
+
 El viernes a las 5pm partí a correr Andes Race 100K esperando terminarla sin mayores problemas. La razón principal por la que confiaba que la iba a poder terminar fue la presentación del director de carrera que hizo énfasis en que la carrera estaba diseñada para poder caminarla toda. Inicialmente no estaba tan confiado de poder terminar exitosamente la carrera por los puntos de corte que me parecían apretados para una carrera con un desnivel de 6,500 metros.
 
 {{< figure src="/wp-content/uploads/gallery_backup/ALTIMETRIA-100K.jpg" alt="" caption="" >}}

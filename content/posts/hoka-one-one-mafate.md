@@ -1,25 +1,15 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1782179741
-    payload:
-      - id: 1956
-      - id: 1854
-      - id: 1796
 author: Rompy
 categories:
-  - "Correr"
-date: "2011-10-06T17:33:16+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=1845
+- Correr
+date: '2011-10-06T17:33:16+00:00'
 parent_post_id: null
-post_id: "1845"
+post_id: '1845'
+slug: hoka-one-one-mafate
 tags:
-  - ultra
+- ultra
 title: Hoka One One Mafate
-url: /2011/10/06/hoka-one-one-mafate
-wpb_post_views_count: "21"
-
+wpb_post_views_count: '21'
 ---
 
 ![Hoka One One Mafate](/wp-content/uploads/2011/10/hoka-mafate.jpg)

@@ -1,29 +1,19 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781988723
-    payload:
-      - id: 2271
-      - id: 1944
-      - id: 2087
-_thumbnail_id: "2282"
 author: Rompy
 categories:
-  - "Correr"
+- Correr
 cover:
-  image: "/wp-content/uploads/2012/10/DSCN2386.jpg"
-date: "2012-10-29T19:11:39+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=2279
+  image: /wp-content/uploads/2012/10/DSCN2386.jpg
+date: '2012-10-29T19:11:39+00:00'
 parent_post_id: null
-post_id: "2279"
+post_id: '2279'
+slug: reporte-evtr-50k-2012
 tags:
-  - ultra
+- ultra
 title: Reporte EVTR 50k 2012
-url: /2012/10/29/reporte-evtr-50k-2012
-wpb_post_views_count: "12"
-
+wpb_post_views_count: '12'
 ---
+
 [![](/wp-content/uploads/2012/10/DSCN2385-640x480.jpg)](//wp-content/uploads/2012/10/DSCN2385.jpg) El Valle Trail Race 50k 2012 fue la edición más concurrida hasta ahora. Nuestra pequeña carrera sigue creciendo y cumpliendo su misión de llevar el campo a los corredores, o al revés. En esta vuelta me fui de barrendero con Iris Regalado y Andrés Muñoz y pasé un día excepcionalmente entretenido compartiendo 50km de trillo con dos personajes. Iris estaba buscando completar el recorrido sin perderse, como le ha sucedido en sus intentos anteriores, y Andrés estaba corriendo su primer ultra y maratón.
 
 [![](/wp-content/uploads/2012/10/DSCN2386-150x150.jpg)](//wp-content/uploads/2012/10/DSCN2386.jpg) Nos tocó un día espectacular pero tal vez algo caliente para estar corriendo 50km por el campo. Aún no he visto los resultados oficiales y en la foto de partida de los 50km tengo a 20 corredores, incluyendo al 1ro y 2do lugar del año pasado: Víctor Gil y Ernesto Durán, quienes regresan para un nuevo y épico duelo. Habían muchos extranjeros entre los participantes: franceses, suecos, alemanes, y colombianos (no todos en plurar). Varios de los participantes han estado presentes desde la primera edición de la carrera. Todos se veían muy animados y con ganas de afrontar este reto una vez más. La partida fue muy relajada y los corredores arrancaron a correr muy tranquilos.Mi plan de carrera era muy sencillo. Yo iba a asegurarme que Iris no se perdiera y llegará a la meta, finalmente. Andrés decidió que ese plan le gustaba y se montó en el bus. Juntos, los tres, corrimos tranquilamente todo el día. Bajando La Silla apareció Cristina Mata de la nada: se había perdido y estaba feliz de haber regresado al recorrido correcto. La bajada de La Silla nos tomó una eternidad porque Iris venía dando pasitos de bebé. Pero eventualmente terminamos y pudimos proceder a seguir corriendo. Cuando estábamos bajando hacia El Roble nos fuimos encontrando a los primeros corredores de los 21km que venían en dirección contraria.

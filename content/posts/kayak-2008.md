@@ -1,29 +1,17 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781899406
-    payload:
-      - id: 310
-      - id: 453
-      - id: 25
-      - id: 1008
-      - id: 425
-      - id: 341
 author: Rompy
 categories:
-  - "Kayaking"
-date: "2008-05-23T15:20:07+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=290
+- Kayaking
+date: '2008-05-23T15:20:07+00:00'
 parent_post_id: null
-post_id: "290"
+post_id: '290'
+slug: kayak-2008
 tags:
-  - kayaking
+- kayaking
 title: Kayak 2008
-url: /2008/05/23/kayak-2008
-wpb_post_views_count: "14"
-
+wpb_post_views_count: '14'
 ---
+
 ![Río Grande](/wp-content/uploads/gallery_backup/P6240332.JPG)
 
 Las lluvias se han tomado su dulce tiempo en bendecirnos con su agua. Este año ya casi llega al final de su primera mitad y la temporada de kayak aún no llega. Espero ansioso que las lluvias llenen de agua los ríos para meterme en mi kayak. Hace tiempo que no comparto un día en el agua con mis amigos del río. Pero, nunca es tarde cuando la dicha es buena.

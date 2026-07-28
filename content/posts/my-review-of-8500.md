@@ -1,27 +1,16 @@
 ---
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781999478
-    payload:
-      - id: 227
-      - id: 232
-      - id: 294
-      - id: 258
-      - id: 254
-      - id: 1761
 author: Rompy
 categories:
-  - "Bicicletas"
-  - "General"
-date: "2008-01-05T04:42:32+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/2008/01/04/my-review-of-8500/
+- Bicicletas
+- General
+date: '2008-01-05T04:42:32+00:00'
 parent_post_id: null
-post_id: "241"
+post_id: '241'
+slug: my-review-of-8500
 title: My Review of 8500
-url: /2008/01/04/my-review-of-8500
-wpb_post_views_count: "14"
-
+wpb_post_views_count: '14'
 ---
+
 [Originally submitted at Trek](http://www.trekbikes.com/us/en/bikes/2008/mountain_hardtail/8_series/8500/)
 
 ![](http://images.powerreviews.com/images_products/09/07/473870_100.jpg)

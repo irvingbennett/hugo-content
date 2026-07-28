@@ -1,30 +1,21 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1782155401
-    payload:
-      - id: 2181
-      - id: 1569
-      - id: 2364
 author: Rompy
 categories:
-  - "Correr"
-date: "2011-04-19T20:40:31+00:00"
+- Correr
+date: '2011-04-19T20:40:31+00:00'
 embed: This is the default text
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=1566
-image: ""
+image: ''
 parent_post_id: null
-post_id: "1566"
-seo_follow: "false"
-seo_noindex: "false"
+post_id: '1566'
+seo_follow: 'false'
+seo_noindex: 'false'
+slug: 30km-de-la-yeguada
 tags:
-  - ultra
+- ultra
 title: 30km de La Yeguada
-url: /2011/04/19/30km-de-la-yeguada
-wpb_post_views_count: "10"
-
+wpb_post_views_count: '10'
 ---
+
 \[caption id="attachment\_1572" align="alignleft" width="300" caption="Corriendo con Roger"\] [![](/wp-content/uploads/2011/04/P4170703-300x225.jpg)](//wp-content/uploads/2011/04/P4170703.jpg)\[/caption\]
 
 Este fin de semana hice un fondo de 30km con mi hermano Roger en preparación para [Miwok 100](http://www.run100s.com/miwok/ "Miwok 100km") este 7 de mayo del 2011. Tracé un circuito en Google Earth, después lo revisé en Expert GPS, y luego lo pasé a mi Garmin para asegurarme de seguir la ruta correctamente y medir nuestro rendimiento. Quería probar toda mi configuración para la carrera próxima y verificar que estaba todo bien. No es bueno estrenar cosas nuevas en una carrera que me va a tomar 15 horas completar, si tengo suerte. El recorrido tenía unas subidas muy importantes para entrenamiento y como prueba de nuestra condición actual. La conclusión ejecutiva: Roger está muy bien, y yo estoy en graves problemas.

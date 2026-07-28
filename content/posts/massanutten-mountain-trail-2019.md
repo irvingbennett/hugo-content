@@ -1,39 +1,18 @@
 ---
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1782012890
-    payload:
-      - id: 6958
-      - id: 6432
-      - id: 6025
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781971061
-    payload:
-      - id: 6958
-      - id: 6432
-      - id: 6025
-      - id: 5237
-      - id: 5960
-      - id: 3525
-_publicize_twitter_user: '@irvingbennett'
-_thumbnail_id: "5221"
-_wp_desired_post_slug: ""
+_wp_desired_post_slug: ''
 _wp_old_slug: __trashed
-_wpas_done_all: "1"
-_wpcom_is_markdown: "1"
 author: Rompy
 categories:
-  - "Correr"
+- Correr
 cover:
-  image: "/wp-content/uploads/2019/05/MMT2019_finish.jpg"
-date: "2019-05-22T20:30:14+00:00"
-guid: http://u8z.3d5.mywebsitetransfer.com/?p=5216
+  image: /wp-content/uploads/2019/05/MMT2019_finish.jpg
+date: '2019-05-22T20:30:14+00:00'
 parent_post_id: null
-post_id: "5216"
+post_id: '5216'
+slug: massanutten-mountain-trail-2019
 title: Massanutten Mountain Trail 2019
-url: /2019/05/22/massanutten-mountain-trail-2019
-
 ---
+
 Este domingo 19 de mayo terminé mi cuarto Massanutten Mountain Trail 100 millas en 32:56:04 en la posición 75 de 190 que empezaron. Esta ha sido mi posición más alta en esta carrera, y mi mejor tiempo, lograda bajo un calor hostil que dejó a la mitad de los participantes sin poder terminar la carrera (solamente terminaron 96 de 190). Curiosamente, con todo y el calor, me fue muy bien a través de toda la carrera sin encontrar mayores inconvenientes.
 
 | Estación | Posición | Tiempo |

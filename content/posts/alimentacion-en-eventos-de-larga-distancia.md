@@ -1,39 +1,18 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781788662
-    payload:
-      - id: 1339
-      - id: 2884
-      - id: 192
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781810300
-    payload:
-      - id: 1339
-      - id: 2884
-      - id: 192
-      - id: 5192
-      - id: 1332
-      - id: 5564
 _publicize_facebook_user: https://www.facebook.com/irving.bennett
-_publicize_twitter_user: '@irvingbennett'
-_wpas_done_all: "1"
-_wpcom_is_markdown: "1"
 ase_map_component_start_point:
   lat: 29.76
   lng: -95.38
 author: Rompy
 categories:
-  - "Correr"
-date: "2015-04-13T13:58:16+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=2853
+- Correr
+date: '2015-04-13T13:58:16+00:00'
 parent_post_id: null
-post_id: "2853"
+post_id: '2853'
+slug: alimentacion-en-eventos-de-larga-distancia
 title: Alimentación en Eventos de Larga Distancia
-url: /2015/04/13/alimentacion-en-eventos-de-larga-distancia
-
 ---
+
 Fernando Revuelta me pidió que le escribiera algo sobre alimentación en carreras de larga distancia. Lograr el balance de alimentación óptimo en este tipo de eventos es, tal vez, la parte más difícil para poder completar estos retos. La parte física se logra con entrenamientos continuos de menor duración pero el día de la carrera hay que pasarse horas mucho más largas que las que se cubrieron en los entrenamientos. La alimentación de la carrera hay que practicarla durante los entrenamientos para encontrar que es lo que mejor funciona para cada uno. Dicho lo anterior, a continuación hay un resumen de lo que me ha funcionado anteriormente:
 
 - Reemplazar agua por bebidas balanceadas (Gatorade, Carbo Pro, GU2O, etc.)

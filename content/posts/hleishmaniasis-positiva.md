@@ -1,53 +1,42 @@
 ---
-_edit_last: "1"
-_g_feedback_shortcode_1791802d88c9001973de4d76bd11cd6bf346f5cb: |-
-  [contact-field label="Nombre" type="name"  required="true" /]
-  				[contact-field label="Correo electrónico" type="email" required="true" /]
-  				[contact-field label="Web" type="url" /]
-  				[contact-field label="Mensaje" type="textarea" /]
+_g_feedback_shortcode_1791802d88c9001973de4d76bd11cd6bf346f5cb: "[contact-field label=\"Nombre\"
+  type=\"name\"  required=\"true\" /]\n\t\t\t\t[contact-field label=\"Correo electrónico\"
+  type=\"email\" required=\"true\" /]\n\t\t\t\t[contact-field label=\"Web\" type=\"url\"
+  /]\n\t\t\t\t[contact-field label=\"Mensaje\" type=\"textarea\" /]"
 _g_feedback_shortcode_atts_1791802d88c9001973de4d76bd11cd6bf346f5cb:
   block_template: null
   block_template_part: null
   className: null
-  customThankyou: ""
+  customThankyou: ''
   customThankyouHeading: Tu mensaje se ha enviado
   customThankyouMessage: ¡Gracias por tu envío!
-  customThankyouRedirect: ""
+  customThankyouRedirect: ''
   hiddenFields: null
   id: 544
   jetpackCRM: true
   postToUrl: null
   salesforceData: null
-  show_subject: "no"
+  show_subject: 'no'
   subject: '[Al Aire Libre] Leishmaniasis Positiva'
   submit_button_text: Enviar
   to: irving@alairelibre.net
   widget: 0
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1782146840
-    payload:
-      - id: 41
-      - id: 114
-      - id: 2456
 author: Rompy
 categories:
-  - "Caminatas"
-date: "2009-05-01T00:43:04+00:00"
+- Caminatas
+date: '2009-05-01T00:43:04+00:00'
 embed: This is the default text
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=544
-image: ""
+image: ''
 parent_post_id: null
-post_id: "544"
-seo_follow: "false"
-seo_noindex: "false"
+post_id: '544'
+seo_follow: 'false'
+seo_noindex: 'false'
+slug: leishmaniasis-positiva
 thesis_post_image: http://u8z.3d5.mywebsitetransfer.com/wp-content/uploads/2009/04/P4271889.jpg
 thesis_post_image_alt: Lesiones
 thesis_thumb: http://u8z.3d5.mywebsitetransfer.com/wp-content/uploads/2009/05/p4271889-150x150.jpg
 title: Leishmaniasis Positiva
-url: /2009/04/30/leishmaniasis-positiva
-wpb_post_views_count: "15"
-
+wpb_post_views_count: '15'
 ---
 
 ![Lesión](/wp-content/uploads/2009/05/P42718891.jpg)

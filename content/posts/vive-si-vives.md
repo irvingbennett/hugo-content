@@ -1,40 +1,21 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1782152041
-    payload:
-      - id: 41
-      - id: 1887
-      - id: 126
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1782183182
-    payload:
-      - id: 41
-      - id: 1887
-      - id: 126
-      - id: 1606
-      - id: 705
-      - id: 139
-_thumbnail_id: "1625"
 author: Rompy
 categories:
-  - "General"
+- General
 cover:
-  image: "/wp-content/uploads/2011/06/TheLivingYears.jpg"
-date: "2011-06-01T14:17:23+00:00"
+  image: /wp-content/uploads/2011/06/TheLivingYears.jpg
+date: '2011-06-01T14:17:23+00:00'
 embed: This is the default text
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=1624
-image: ""
+image: ''
 parent_post_id: null
-post_id: "1624"
-seo_follow: "false"
-seo_noindex: "false"
+post_id: '1624'
+seo_follow: 'false'
+seo_noindex: 'false'
+slug: vive-si-vives
 title: Vive si vives
-url: /2011/06/01/vive-si-vives
-wpb_post_views_count: "11"
-
+wpb_post_views_count: '11'
 ---
+
 \[caption id="attachment\_1625" align="alignnone" width="430" caption="The Living Years"\] [![](/wp-content/uploads/2011/06/TheLivingYears.jpg)](//wp-content/uploads/2011/06/TheLivingYears.jpg)\[/caption\]
 
 Mientras estás vivo, vive. "Dum vivimus vivamus" es un viejo refrán del latín. En tiempos antiguos, cuando la vida era corta y llena de desvaríos, este dicho tenía mucho más valor que ahora. Pero aún sigue teniendo la misma fuerza el mensaje contenido en esas viejas palabras. Estaba revisando mis objetivos y viendo cuales se me estaban escapando. En parte esto fue motivado este fin de semana en un almuerzo en El Valle, mientras mencionaba el [GR1](http://es.wikipedia.org/wiki/GR-1 "Gran Recorrido 1") y decía que quería hacerlo. Mi madre me dijo que mi padre siempre quiso llevarnos a bicicletear por Europa y nunca lo hicimos.

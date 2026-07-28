@@ -1,30 +1,18 @@
 ---
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1782072508
-    payload:
-      - id: 6232
-      - id: 1391
-      - id: 1900
-      - id: 6302
-      - id: 453
-      - id: 5950
-_thumbnail_id: "6223"
 author: alairelibre
 categories:
-  - "Kayaking"
+- Kayaking
 cover:
-  image: "/wp-content/uploads/2024/05/20240522_063625-scaled.jpg"
-date: "2024-05-21T18:22:53+00:00"
-guid: http://localhost/?p=6222
+  image: /wp-content/uploads/2024/05/20240522_063625-scaled.jpg
+date: '2024-05-21T18:22:53+00:00'
 parent_post_id: null
-post_id: "6222"
+post_id: '6222'
+slug: rumbo-a-cartagena
 tags:
-  - travesias
+- travesias
 title: Rumbo a Cartagena
-url: /2024/05/21/rumbo-a-cartagena
-
 ---
+
 Todo camino comienza con el primer paso. Cartagena es un plan que tiene muchos años de estarse marinando, pero ahora está tomando forma. En el 2017 remamos de [Bocas del Toro a Colón](/2017/07/16/bocas-del-toro-a-colon-remando) y quedamos con las ganas de terminar de remar la costa caribeña de Panamá. El asunto es que al llegar a Puerto Obaldía, en la frontera con Colombia, no hay una manera sencilla de regresar. Por eso tengo en mente Cartagena como un destino para terminar esa remada.
 
 {{< figure src="/wp-content/uploads/gallery_backup/20240508_121556.jpg" alt="" caption="Rompy remando" >}}

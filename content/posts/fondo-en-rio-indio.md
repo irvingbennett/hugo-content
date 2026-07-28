@@ -1,38 +1,19 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781860404
-    payload:
-      - id: 1490
-      - id: 1327
-      - id: 2388
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781831684
-    payload:
-      - id: 1490
-      - id: 1327
-      - id: 2388
-      - id: 1507
-      - id: 2378
-      - id: 2861
-_thumbnail_id: "2320"
 author: Rompy
 categories:
-  - "Correr"
+- Correr
 cover:
-  image: "/wp-content/uploads/2012/11/DSCN0368.jpg"
-date: "2012-11-11T16:00:45+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=2318
+  image: /wp-content/uploads/2012/11/DSCN0368.jpg
+date: '2012-11-11T16:00:45+00:00'
 parent_post_id: null
-post_id: "2318"
+post_id: '2318'
+slug: fondo-en-rio-indio
 tags:
-  - pacora
+- pacora
 title: Fondo en Río Indio
-url: /2012/11/11/fondo-en-rio-indio
-wpb_post_views_count: "22"
-
+wpb_post_views_count: '22'
 ---
+
 Ayer me fui con Iñaki a correr un fondo en Río Indio. Cuando sonó mi teléfono a las 6:00am no tenía idea donde estaba, apenas pensaba que había cerrado mis ojos a las 2:00am cuando regresé del re-matrimonio de hermana con Rolando 2.01 (nuevo y mejorado). Me levanté apurado, me puse un pantalón para correr, tomé mis zapatillas y salí de la casa rumbo a San Miguel de Pacora a correr unos 32km como fondo para el Maratón de Panamá en diciembre.
 
 Este fondo es uno de mis favoritos cerca de la ciudad de Panamá. Me gusta más que Pipeline y Plantation porque siempre tengo un río cerca para refrescarme y tomar agua. Además, como el camino va cerca del río siempre, la inclinación del camino es muy gentil todo el tiempo. De ida es una subida bastante constante, y el regreso entonces es una leve bajada (que ayuda a cerrar bien, en menos tiempo que la primera mitad). Por último, y muy importante, terminamos de vuelta ne La Taberna del Río para una buena re-hidratación.
@@ -61,4 +42,4 @@ Mi conclusión de este fondo es que a duras penas voy a poder correr el maratón
 
 {{< figure src="/wp-content/uploads/gallery_backup/DSCN0433.jpg" title="DSCN0433" alt="DSCN0433" >}}
 
-{{< figure src="/wp-content/uploads/gallery_backup/DSCN0436.jpg" title="DSCN0436" alt="DSCN0436" >}}  
+{{< figure src="/wp-content/uploads/gallery_backup/DSCN0436.jpg" title="DSCN0436" alt="DSCN0436" >}}

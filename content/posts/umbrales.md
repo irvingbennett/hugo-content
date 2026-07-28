@@ -1,24 +1,15 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781806015
-    payload:
-      - id: 740
-      - id: 96
-      - id: 913
 author: Rompy
 categories:
-  - "General"
-date: "2009-07-04T09:43:15+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=705
+- General
+date: '2009-07-04T09:43:15+00:00'
 parent_post_id: null
-post_id: "705"
+post_id: '705'
+slug: umbrales
 title: Umbrales
-url: /2009/07/04/umbrales
-wpb_post_views_count: "16"
-
+wpb_post_views_count: '16'
 ---
+
 He cruzado un umbral que me ha abierto espacios interiores que antes no había podido ver. Una extraña cadena de eventos me ha sometido a estrés físico y emocional. Iba a agregar espiritual, por hábito, pero he llegado a la conclusión de que no tengo tal cosa. Todo ha llegado de la manera más curiosa por que físicamente la tierra tembló cuando estaba por cruzar este hito interno. Acaba de ocurrir un temblor y yo estaba despierto en mi cama mientras experimentaba este torbellino de ideas.
 
 Un libro de ciencia ficción muy divertido que acabo de volver a leer, otra vez, dice que cuando sometes a un cuerpo a estrés en todas las dimensiones, de espacio y tiempo, este desaperece de este mundo y llega a otra universo. Bueno, por eso ese libro es de ciencia ficción. El estrés es algo muy saludable para el cuerpo humana, que es una máquina biológica muy sofisticada. En mi caso me he dado cuenta que mientras más hago, más puedo hacer. Suena lógico, y esto es válido para todo el mundo, pero es difícil comprometerse con el esfuerzo que permite llegar a experimentar este efecto.

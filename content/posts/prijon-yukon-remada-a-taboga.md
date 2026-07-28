@@ -1,48 +1,28 @@
 ---
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781784568
-    payload:
-      - id: 6232
-      - id: 6302
-      - id: 6322
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781761678
-    payload:
-      - id: 6232
-      - id: 6302
-      - id: 6322
-      - id: 6242
-      - id: 6693
-      - id: 1893
 _publicize_shares:
-  - connection_id: 6900156
-    external_id: alairelibre.tumblr.com
-    external_name: Al Aire Libre
-    message: http://alairelibre.tumblr.com/post/772420344807047168
-    profile_link: http://alairelibre.tumblr.com/
-    profile_picture: ""
-    service: tumblr
-    status: success
-    timestamp: 1736637444
-_thumbnail_id: "6602"
-_wpas_done_all: "1"
-_wpcom_is_markdown: "1"
+- connection_id: 6900156
+  external_id: alairelibre.tumblr.com
+  external_name: Al Aire Libre
+  message: http://alairelibre.tumblr.com/post/772420344807047168
+  profile_link: http://alairelibre.tumblr.com/
+  profile_picture: ''
+  service: tumblr
+  status: success
+  timestamp: 1736637444
 author: Rompy
 categories:
-  - "Kayaking"
+- Kayaking
 cover:
-  image: "/wp-content/uploads/2025/01/20250109_132813-scaled.jpg"
-date: "2025-01-11T23:17:16+00:00"
-guid: http://localhost/?p=6601
+  image: /wp-content/uploads/2025/01/20250109_132813-scaled.jpg
+date: '2025-01-11T23:17:16+00:00'
 parent_post_id: null
-post_id: "6601"
+post_id: '6601'
+slug: prijon-yukon-remada-a-taboga
 tags:
-  - kayaking
+- kayaking
 title: Prijon Yukon - Remada a Taboga
-url: /2025/01/11/prijon-yukon-remada-a-taboga
-
 ---
+
 Este jueves 9 de enero remé a Taboga desde Parque Paitilla en el Prijon Yukon. Escogí ir en ese bote porque pensé que con el viento y las olas que podía encontrar me iría mejor y llegaría más rápido. Se me pasó configurarlo para mi tamaño y tuve que remar algo incómodo dentro de la cabina. Me tomó una hora menos la remada comparada con el Coast XT y mis pulsaciones promedio estuvieron en 83 pulsaciones por minuto, 17 menos que la última vez. En el agua el Yukon es una belleza, pero la cargada del auto a la rampa es dura por las 25 kilos que pesa ese bote.
 
 Cuando me senté dentro del kayak, ya en el agua, los pedales estaban muy cortos y me tocó ajustarlos. Por suerte se pueden ajustar fácilmente. Luego que los ajusté, mis rodillas quedaban fuera de las rodilleras. Tenía que echar el asiento atrás, o mover las rodilleras hacia adelante. Ambos ajustes necesitaban de una herramienta que está tras el respaldar del asiento. Cuando la saqué estaba oxidada y no servía para nada. Debí haber hecho el ajuste antes de cargar el bote en el auto. Se me pasó hacerlo porque normalmente remo el Yukon gris y ya está perfectamente ajustado a mis necesidades. Este bote está para una mujer más pequeña que yo. Tocó remarlo tal cual.

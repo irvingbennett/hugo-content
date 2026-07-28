@@ -1,31 +1,19 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781905612
-    payload:
-      - id: 773
-      - id: 1374
-      - id: 13
-      - id: 992
-      - id: 463
-      - id: 831
 author: Rompy
 categories:
-  - "Bicicletas"
-  - "Caminatas"
-  - "Kayaking"
-date: "2011-01-12T19:26:53+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=1391
+- Bicicletas
+- Caminatas
+- Kayaking
+date: '2011-01-12T19:26:53+00:00'
 parent_post_id: null
-post_id: "1391"
+post_id: '1391'
+slug: reto-del-indio-2011-2
 tags:
-  - ultra
+- ultra
 title: Reto del Indio 2011
-url: /2011/01/12/reto-del-indio-2011-2
-wpb_post_views_count: "18"
-
+wpb_post_views_count: '18'
 ---
+
 Este fin de semana completamos el 7o Reto del Indio. En esta ocasión fuimos 16 los que participamos, el doble que el año pasado. La ruta estuvo más difícil que nunca con todo el barro que había por las lluvias que no han dejado de caer. Por contratiempos no pudimos completar el recorrido en 24 horas, pero, si restamos los atrasos por causas externas, los primeros en llegar al Caribe hubiesen hecho un tiempo de 20 horas. ¡Increíble!
 
 Partimos de Chumico con un sol abrasador a las 13:43 según la [foto de partida](/wp-content/uploads/gallery_backup/P1090007.jpg "Partida") habitual. Nuestro destino estaba al otro lado del continente, en la vertiente del Caribe: la Boca del Río Indio, a 116 kilómetros. Teníamos que pedalear hasta El Valle, subir a La Mesa, y bajar a Jordanal. Luego, en Jordanal, iniciamos a caminar hasta Tres Hermanas. Desde Tres Hermanas íbamos a remar hasta nuestro [destino final](/wp-content/uploads/gallery_backup/P1100050.jpg "Boca de Río Indio"). Iniciando la pedaleada se le salió la cadena a Isabel y me quedé a esperarla. Fue lo último que supe del grupo. Solamente mi hermano fiel, Roger, se quedó con nosotros. Tampoco su fidelidad le duró mucho y pronto se fue a darle caza al resto.

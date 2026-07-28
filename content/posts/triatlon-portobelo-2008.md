@@ -1,26 +1,17 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781705748
-    payload:
-      - id: 102
-      - id: 2442
-      - id: 1550
 author: Rompy
 categories:
-  - "General"
-date: "2008-03-10T20:51:44+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=256
+- General
+date: '2008-03-10T20:51:44+00:00'
 parent_post_id: null
-post_id: "256"
+post_id: '256'
+slug: triatlon-portobelo-2008
 tags:
-  - triatlón
+- triatlón
 title: Triatlón Portobelo 2008
-url: /2008/03/10/triatlon-portobelo-2008
-wpb_post_views_count: "27"
-
+wpb_post_views_count: '27'
 ---
+
 ![Cruzando la meta](/wp-content/uploads/portobelo2008.JPG)
 
 Este año no pude romper las 4 horas en el Triatlón de Portobelo 2008. Quedé de 4to en mi categoría en la que ganó mi hermano Rogelio Bennett, seguido de Eladio Quintero y Vladimir Bolaños. Este año estaba seguro que quedaría en el podio por que mi hermano no iba a competir (supuestamente me iba a acompañar). Me alegra mucho por Rogelio que finalmente se ganará su primer lugar en este gran triatlón. Cuando salí del agua y vi que Rogelio no estaba por ningún lado, pensé que tal vez tendría la oportunidad de conseguir el 3er lugar ya que Vladimir estaba detrás de mi todavía.

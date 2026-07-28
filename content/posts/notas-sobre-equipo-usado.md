@@ -1,31 +1,19 @@
 ---
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781741053
-    payload:
-      - id: 253
-      - id: 608
-      - id: 5808
 _last_editor_used_jetpack: block-editor
-_publicize_twitter_user: '@irvingbennett'
-_thumbnail_id: "5976"
-_wpas_done_all: "1"
-_wpcom_is_markdown: "1"
 author: Rompy
 categories:
-  - "Correr"
+- Correr
 cover:
-  image: "/wp-content/uploads/2023/03/IMG-20230303-WA0013.jpg"
-date: "2023-03-30T18:16:36+00:00"
-guid: http://hbx.wvf.mybluehost.me/?p=5972
+  image: /wp-content/uploads/2023/03/IMG-20230303-WA0013.jpg
+date: '2023-03-30T18:16:36+00:00'
 parent_post_id: null
-post_id: "5972"
+post_id: '5972'
+slug: notas-sobre-equipo-usado
 tags:
-  - ultra
+- ultra
 title: Notas Sobre Equipo Usado
-url: /2023/03/30/notas-sobre-equipo-usado
-
 ---
+
 En El Reto del Indio 2023 me fue bastante bien, en general. Cometí errores de novato que no resultaron en ninguna tragedia durante la carrera. La ropa que usé estaba bien, pero no era la ideal. Me fui sin medias por los primeros 80 kilómetros (llevaba las medias en la mochila). Usé mi lámpara con baterías de litio recargables (sin llevar pilas extras) sin haber comprobado cuánto durarían a toda potencia. Al final resolví todos los problemas y no hubo drama.
 
 | Mochila | Salomon ADV Skin 12 talla L | Tengo esta mochila desde el 2019 y la había usado para Ultra Trail Monte Rosa solamente. |

@@ -1,66 +1,51 @@
 ---
-_g_feedback_shortcode_4d4bde8eea72750860fd8423c6f94b83b04797d6: |-
-  [contact-field label="Nombre" type="name"  required="true" /]
-  				[contact-field label="Correo electrónico" type="email" required="true" /]
-  				[contact-field label="Web" type="url" /]
-  				[contact-field label="Mensaje" type="textarea" /]
+_g_feedback_shortcode_4d4bde8eea72750860fd8423c6f94b83b04797d6: "[contact-field label=\"Nombre\"
+  type=\"name\"  required=\"true\" /]\n\t\t\t\t[contact-field label=\"Correo electrónico\"
+  type=\"email\" required=\"true\" /]\n\t\t\t\t[contact-field label=\"Web\" type=\"url\"
+  /]\n\t\t\t\t[contact-field label=\"Mensaje\" type=\"textarea\" /]"
 _g_feedback_shortcode_atts_4d4bde8eea72750860fd8423c6f94b83b04797d6:
   block_template: null
   block_template_part: null
   className: null
-  customThankyou: ""
+  customThankyou: ''
   customThankyouHeading: Tu mensaje se ha enviado
   customThankyouMessage: ¡Gracias por tu envío!
-  customThankyouRedirect: ""
+  customThankyouRedirect: ''
   hiddenFields: null
   id: 6738
   jetpackCRM: true
   postToUrl: null
   salesforceData: null
-  show_subject: "no"
+  show_subject: 'no'
   subject: '[Al Aire Libre] Rumbo a Ehunmilak 171'
   submit_button_text: Enviar
   to: irving@alairelibre.net
   widget: 0
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1782182676
-    payload:
-      - id: 6763
-      - id: 1759
-      - id: 908
-      - id: 1944
-      - id: 5853
-      - id: 913
 _publicize_shares:
-  - connection_id: 6900156
-    external_id: alairelibre.tumblr.com
-    external_name: Al Aire Libre
-    message: http://alairelibre.tumblr.com/post/786275865328812032
-    profile_link: http://alairelibre.tumblr.com/
-    profile_picture: ""
-    service: tumblr
-    status: success
-    timestamp: 1749851098
-    wpcom_user_id: 1142432
-_thumbnail_id: "6739"
-_wpas_done_all: "1"
-_wpcom_is_markdown: "1"
+- connection_id: 6900156
+  external_id: alairelibre.tumblr.com
+  external_name: Al Aire Libre
+  message: http://alairelibre.tumblr.com/post/786275865328812032
+  profile_link: http://alairelibre.tumblr.com/
+  profile_picture: ''
+  service: tumblr
+  status: success
+  timestamp: 1749851098
+  wpcom_user_id: 1142432
 author: Rompy
 categories:
-  - "Correr"
+- Correr
 cover:
-  image: "/wp-content/uploads/2025/06/IMG_5781-scaled.jpg"
-date: "2025-06-13T21:44:47+00:00"
-guid: http://localhost/?p=6738
+  image: /wp-content/uploads/2025/06/IMG_5781-scaled.jpg
+date: '2025-06-13T21:44:47+00:00'
 parent_post_id: null
-post_id: "6738"
+post_id: '6738'
+slug: rumbo-a-ehunmilak-171
 tags:
-  - ultra
+- ultra
 title: Rumbo a Ehunmilak 171
-url: /2025/06/13/rumbo-a-ehunmilak-171
-
 ---
+
 Ya es oficial, estoy inscrito en Ehunmilak 171 y el 11 de julio estaré en la partida de esa carrera. Ehunmilak significa 100 millas en euskera, el lenguaje de los vascos. La prueba empieza y termina en Beasain, y tiene 10,500 metros de desnivel. Nos dan 48 horas para terminar la carrera. Es una prueba con exigencias casi idénticas la Ultra Trail de Mont Blanc. La diferencia principal es que los cruces de montaña no son tan elevados como en esa prueba y toda se corre dentro del País Vasco. Desde antes que mi hijo Irving se fuera a estudiar a San Sebastián ya tenía vista esa prueba. Ahora que Irving ha terminado sus estudios esta es mi última oportunidad para ir a correr mientras él esté allá.
 
 La logística de la carrera es bastante sencilla porque es un circuito que inicia y termina en el mismo lugar. También tiene muchas estaciones, 16 para ser preciso, con dos estaciones grandes con todo y bolsas de recambio. La comida será típica de las carreras europeas, pero con sabor español en lugar de suizo o francés. Los tiempos de corte están bien, comenzando apretados y luego se ponen más holgados. Pienso correr lo más cercano a un paso constante que me cruce con buen margen por las estaciones con tiempos de corte. Ya veré cómo me va.

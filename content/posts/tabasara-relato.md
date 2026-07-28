@@ -1,33 +1,15 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781776828
-    payload:
-      - id: 15
-      - id: 16
-      - id: 79
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781813644
-    payload:
-      - id: 15
-      - id: 16
-      - id: 79
-      - id: 42
-      - id: 2417
-      - id: 1833
 author: Rompy
 categories:
-  - "Kayaking"
-date: "2005-04-26T18:03:45+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=23
+- Kayaking
+date: '2005-04-26T18:03:45+00:00'
 parent_post_id: null
-post_id: "23"
+post_id: '23'
+slug: tabasara-relato
 title: Tabasará - Relato
-url: /2005/04/26/tabasara-relato
-wpb_post_views_count: "18"
-
+wpb_post_views_count: '18'
 ---
+
 ![La Partida](/wp-content/uploads/gallery_backup/P4230003.jpg "En la partida") 
 
 Este sábado 23 de abril salimos temprano hacia Chiriquí para bajar el Tabasará. LLevamos tres canoas para entrar al río Tabasará justo en el puente de la vía Interamericana y salir en el otro puente del Tabasará, cerca de Puerto Vidal, por donde pasa la Interamericana vieja. El grupo era todo familia: mi Tío Johnny, mi hermano Roger y su hijo Rogelio, mi hermana Denise, mi esposa Lorena y mi hijo Irving. Estaba muy contento por que Lorena había accedido a traer a Irving.

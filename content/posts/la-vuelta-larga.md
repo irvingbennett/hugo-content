@@ -1,29 +1,19 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781533518
-    payload:
-      - id: 47
-      - id: 276
-      - id: 115
-_wpas_skip_6885108: "1"
-_wpas_skip_6885117: "1"
-_wpas_skip_6885125: "1"
-_wpas_skip_6885140: "1"
-_wpcom_is_markdown: "1"
+_wpas_skip_6885108: '1'
+_wpas_skip_6885117: '1'
+_wpas_skip_6885125: '1'
+_wpas_skip_6885140: '1'
 author: Rompy
 categories:
-  - "Bicicletas"
-date: "2008-01-08T23:34:00+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/2008/01/08/la-vuelta-larga/
+- Bicicletas
+date: '2008-01-08T23:34:00+00:00'
 parent_post_id: null
-post_id: "242"
+post_id: '242'
+slug: la-vuelta-larga
 title: La Vuelta Larga
-url: /2008/01/08/la-vuelta-larga
-wpb_post_views_count: "12"
-
+wpb_post_views_count: '12'
 ---
+
 ![Bontrager Race X Lite ACC](/wp-content/uploads/260224.jpg)Este domingo hicimos una montada épica en montañeras, "La Vuelta Larga", saliendo desde El Valle, bajando por Matahogado hasta La Laguna, y regresando por el camino de Altos del María. Después de 5 horas y media de montar por trillos y caminos de tierra regresamos a El Valle totalmente contentos y cansados. El camino que recorrimos tiene de todo: descensos intrépidos, trillos excelentes, bosque, ríos, ascensos interminables, y buena vista. Desafortunadamente el tubo de mi asiento se rompió temprano en el viaje y tuve que pedalear desde una posición muy incomoda, con un par de pulgadas menos en la extensión de mis piernas.
 
 La ruta que recorrimos no es muy larga, en total solamente montamos 20 kilómetros, pero siempre estábamos bajando, o subiendo. Solamente montamos un par de kilómetros de asfalto. Todo el resto de la montada era por trillos o caminos de penetración. La primera parte del camino es el descenso hasta la carretera que sube a La Laguna. La segunda parte es el ascenso hasta el Cerro La Gaita, y la parte final es el descenso de vuelta a El Valle.

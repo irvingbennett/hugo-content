@@ -1,29 +1,19 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781789451
-    payload:
-      - id: 1944
-      - id: 1949
-      - id: 1996
-_thumbnail_id: "1992"
 author: Rompy
 categories:
-  - "Correr"
+- Correr
 cover:
-  image: "/wp-content/uploads/2012/05/MPanSmall-35.jpg"
-date: "2012-05-12T15:47:16+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=1966
+  image: /wp-content/uploads/2012/05/MPanSmall-35.jpg
+date: '2012-05-12T15:47:16+00:00'
 parent_post_id: null
-post_id: "1966"
+post_id: '1966'
+slug: reporte-miwok-2012-100k
 tags:
-  - ultra
+- ultra
 title: Reporte Miwok 2012 100k
-url: /2012/05/12/reporte-miwok-2012-100k
-wpb_post_views_count: "12"
-
+wpb_post_views_count: '12'
 ---
+
 [![](/wp-content/uploads/2012/05/MPanSmall-35.jpg)](//wp-content/uploads/2012/05/MPanSmall-35.jpg)
 ¡Misión cumplida! Todo el equipo panameño desempeño un excelente papel en Miwok 2012. Todo el entrenamiento que hicimos juntos se vio reflejado en el resultado: 4 de nosotros terminamos dentro de los mismos 20 minutos, después de 100 kilómetros corriendo por un terreno con 3,800 metros de desnivel. Luis y Jose no terminaron en el mismo bloque por que a uno lo molesto una rodilla y al otro el estómago (todo puede pasar en una carrera tan larga).
 

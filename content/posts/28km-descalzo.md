@@ -1,24 +1,15 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781754146
-    payload:
-      - id: 705
-      - id: 2271
-      - id: 740
 author: Rompy
 categories:
-  - "Caminatas"
-date: "2011-12-09T16:18:06+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=1921
+- Caminatas
+date: '2011-12-09T16:18:06+00:00'
 parent_post_id: null
-post_id: "1921"
+post_id: '1921'
+slug: 28km-descalzo
 title: 28km Descalzo
-url: /2011/12/09/28km-descalzo
-wpb_post_views_count: "11"
-
+wpb_post_views_count: '11'
 ---
+
 Unas noches atrás me fui descalzo desde El Valle de Antón hasta Las Uvas, en la Interamericana, 28km de asfalto, de noche. No llevaba agua y solamente vestía un pantalón de correr y una camiseta de poliéster. Partí a las 11:00pm y llegué a Las Uvas a las 7:00am, parando a dormir como una hora. No dormí más por que al enfriarme mientras descansaba perdí calor corporal y no me quedo más remedio que reanudar mi peregrinar.
 
 Aprendí varias cosas: a ese ritmo puedo hacer el Ultra Trail de Mont Blanc en 46 horas, dentro del tiempo de corte. Cuando se va lento, 4km por hora, el cuerpo no necesita mucho para mantenerse en movimiento. También, es mejor descansar durante el día, cuando el calor abrasa el cuerpo - durante la noche el frío hace incómodo el descanso.

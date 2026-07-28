@@ -1,27 +1,17 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1782167561
-    payload:
-      - id: 2224
-      - id: 1778
-      - id: 1043
-_thumbnail_id: "1803"
 author: Rompy
 categories:
-  - "Caminatas"
+- Caminatas
 cover:
-  image: "/wp-content/uploads/2011/09/P8280517.jpg"
-date: "2011-09-16T02:50:56+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=1802
+  image: /wp-content/uploads/2011/09/P8280517.jpg
+date: '2011-09-16T02:50:56+00:00'
 parent_post_id: null
-post_id: "1802"
+post_id: '1802'
+slug: el-valle-trail-50km
 title: El Valle Trail 50km
-url: /2011/09/15/el-valle-trail-50km
-wpb_post_views_count: "14"
-
+wpb_post_views_count: '14'
 ---
+
 \[caption id="attachment\_1803" align="aligncenter" width="584" caption="Ruta 21km"\] [![](/wp-content/uploads/2011/09/P8280517-1024x768.jpg)](//wp-content/uploads/2011/09/P8280517.jpg)\[/caption\]
 
 Después de la carrera de este fin de semana he quedado pensando sobre maneras de marcar el sendero de la carrera. Hace años pensamos en promover un sendero como el  Trans-Panama para lo que era la Asociación de Turismo Ecológico usando un esquema como el de "Adopta tu hectárea" y lo llamamos el "Kilómetro Ecológico". El proyecto jamás despego, pero sigo pensando que algo así sería factible para marcar de manera permanente la ruta de la carrera.

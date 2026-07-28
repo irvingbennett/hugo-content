@@ -1,31 +1,21 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1782037134
-    payload:
-      - id: 2029
-      - id: 1966
-      - id: 2437
 _last_editor_used_jetpack: block-editor
-_thumbnail_id: "2063"
 author: Rompy
 categories:
-  - "Correr"
+- Correr
 cover:
-  image: "/wp-content/uploads/2012/06/111km-Azuero.jpg"
-date: "2012-06-25T20:11:27+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=2062
+  image: /wp-content/uploads/2012/06/111km-Azuero.jpg
+date: '2012-06-25T20:11:27+00:00'
 parent_post_id: null
-post_id: "2062"
+post_id: '2062'
+slug: 111km-de-azuero
 tags:
-  - ultra
+- ultra
 title: 111km de Azuero
-url: /2012/06/25/111km-de-azuero
-wpb_post_views_count: "16"
-
+wpb_post_views_count: '16'
 ---
- Como parte del día 4 del evento “Frontera a Frontera” de la Fundación Pura Voluntad, este jueves corrí 111km partiendo desde la Playa de Destiladeros en Azuero rumbo a Divisa. El propósito de este recorrido era apoyar el mensaje que la fundación estaría entregando a través de varios talleres en Chitré, Las Tablas y Pocrí. Con voluntad y esfuerzo se puede lograr mucho, y, a mi me costó más voluntad que esfuerzo lograr cumplir con mi recorrido.
+
+Como parte del día 4 del evento “Frontera a Frontera” de la Fundación Pura Voluntad, este jueves corrí 111km partiendo desde la Playa de Destiladeros en Azuero rumbo a Divisa. El propósito de este recorrido era apoyar el mensaje que la fundación estaría entregando a través de varios talleres en Chitré, Las Tablas y Pocrí. Con voluntad y esfuerzo se puede lograr mucho, y, a mi me costó más voluntad que esfuerzo lograr cumplir con mi recorrido.
 
 A las 3:22am Margaret Von Sanger y yo partimos desde Destiladeros con el Océano Pacífico rompiendo en la playa a nuestras espaldas. Nos acompañaba Daniel Ramírez en un auto que sería mi apoyo a través de un largo, largo día. Mi estimado era que me tomaría unas 16 horas recorrer la distancia que me tocaba correr. Quería recorrer unos 50 kilómetros antes que el sol me calentara el camino y bajara mi rendimiento. Las primeras horas de la madrugada se me pasaron entretenido con las historias de Margaret y sus entrenamientos por el campo. Cada vez que nos ladraba un perro Margaret lo mandaba a callar con su nombre, y todos la conocían.
 
@@ -59,4 +49,4 @@ Cuando ya se estaba poniendo difícil la cosa, me llegó un grupo de Chitré par
 
 {{< figure src="/wp-content/uploads/gallery_backup/DSCN0929.jpg" title="La vista desde el auto escolta" alt="La vista desde el auto escolta" >}}
 
-{{< figure src="/wp-content/uploads/gallery_backup/DSCN0934.jpg" title="Por la orilla con Miguel Regalado" alt="Por la orilla con Miguel Regalado" >}}  
+{{< figure src="/wp-content/uploads/gallery_backup/DSCN0934.jpg" title="Por la orilla con Miguel Regalado" alt="Por la orilla con Miguel Regalado" >}}

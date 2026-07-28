@@ -1,55 +1,42 @@
 ---
-_g_feedback_shortcode_6d1f1913b0875a496a4c563749e805481693fe14: |-
-  [contact-field label="Nombre" type="name"  required="true" /]
-  				[contact-field label="Correo electrónico" type="email" required="true" /]
-  				[contact-field label="Web" type="url" /]
-  				[contact-field label="Mensaje" type="textarea" /]
+_g_feedback_shortcode_6d1f1913b0875a496a4c563749e805481693fe14: "[contact-field label=\"Nombre\"
+  type=\"name\"  required=\"true\" /]\n\t\t\t\t[contact-field label=\"Correo electrónico\"
+  type=\"email\" required=\"true\" /]\n\t\t\t\t[contact-field label=\"Web\" type=\"url\"
+  /]\n\t\t\t\t[contact-field label=\"Mensaje\" type=\"textarea\" /]"
 _g_feedback_shortcode_atts_6d1f1913b0875a496a4c563749e805481693fe14:
   block_template: null
   block_template_part: null
   className: null
-  customThankyou: ""
+  customThankyou: ''
   customThankyouHeading: Tu mensaje se ha enviado
   customThankyouMessage: ¡Gracias por tu envío!
-  customThankyouRedirect: ""
+  customThankyouRedirect: ''
   hiddenFields: null
   id: 5665
   jetpackCRM: true
   postToUrl: null
   salesforceData: null
-  show_subject: "no"
+  show_subject: 'no'
   subject: '[Al Aire Libre] Corriendo La Ciudad'
   submit_button_text: Enviar
   to: irving@alairelibre.net
   widget: 0
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781848808
-    payload:
-      - id: 2378
-      - id: 2266
-      - id: 1949
 _last_editor_used_jetpack: block-editor
-_publicize_twitter_user: '@irvingbennett'
-_thumbnail_id: "5666"
-_wpas_done_all: "1"
-_wpcom_is_markdown: "1"
 author: Rompy
 categories:
-  - "Correr"
+- Correr
 cover:
-  image: "/wp-content/uploads/2021/12/IrvingBennett-CallesDePanama.jpg"
-date: "2021-12-20T18:59:50+00:00"
-guid: http://u8z.3d5.mywebsitetransfer.com/?p=5665
+  image: /wp-content/uploads/2021/12/IrvingBennett-CallesDePanama.jpg
+date: '2021-12-20T18:59:50+00:00'
 parent_post_id: null
-post_id: "5665"
+post_id: '5665'
+slug: corriendo-la-ciudad
 tags:
-  - correr
-  - hash
+- correr
+- hash
 title: Corriendo La Ciudad
-url: /2021/12/20/corriendo-la-ciudad
-
 ---
+
 De noviembre 1 a diciembre 15, 2018, Ricky Gates se corrió todas las calles de la ciudad de San Francisco, California, Estados Unidos. Le tomó 45 días, corriendo 7 horas, 22 minutos por día, y 46.5 kilómetros por día, recorrer todas las calles de San Francisco. Su esfuerzo quedó bien documentado con una cámara Gopro y su reloj con gps dejó guardado cada recorrido. Luego unos amigos suyos hicieron una presentación gráfica excelente de lo que hizo.
 
 {{< figure src="/wp-content/uploads/gallery_backup/RickyGateEverySingleStreet-SanFrancisco-DataVisualisationbyYvanFornes.png" alt="" caption="" >}}

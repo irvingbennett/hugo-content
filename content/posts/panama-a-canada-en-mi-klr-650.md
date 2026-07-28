@@ -1,44 +1,30 @@
 ---
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1782182675
-    payload:
-      - id: 2609
-      - id: 6973
-      - id: 5440
-      - id: 6872
-      - id: 6521
-      - id: 6802
 _publicize_shares:
-  - connection_id: 6900156
-    external_id: alairelibre.tumblr.com
-    external_name: Al Aire Libre
-    message: http://alairelibre.tumblr.com/post/797502945494269952
-    profile_link: http://alairelibre.tumblr.com/
-    profile_picture: ""
-    service: tumblr
-    status: success
-    timestamp: 1760558077
-    wpcom_user_id: 1142432
-_thumbnail_id: "6832"
-_wpas_done_all: "1"
-_wpcom_is_markdown: "1"
+- connection_id: 6900156
+  external_id: alairelibre.tumblr.com
+  external_name: Al Aire Libre
+  message: http://alairelibre.tumblr.com/post/797502945494269952
+  profile_link: http://alairelibre.tumblr.com/
+  profile_picture: ''
+  service: tumblr
+  status: success
+  timestamp: 1760558077
+  wpcom_user_id: 1142432
 author: Rompy
 categories:
-  - "KLR"
+- KLR
 cover:
-  image: "/wp-content/uploads/2025/10/20250917_071040-scaled.jpg"
-date: "2025-10-15T19:54:29+00:00"
-guid: http://localhost/?p=6829
+  image: /wp-content/uploads/2025/10/20250917_071040-scaled.jpg
+date: '2025-10-15T19:54:29+00:00'
 parent_post_id: null
-post_id: "6829"
+post_id: '6829'
+slug: panama-a-canada-en-mi-klr-650
 tags:
-  - klr
-  - travesias
+- klr
+- travesias
 title: Panamá a Canadá en mi KLR 650
-url: /2025/10/15/panama-a-canada-en-mi-klr-650
-
 ---
+
 Después de cruzar ocho fronteras y manejar 8,900 kilómetros he llegado a Canadá. Salí de Panamá hace tres semanas y me he pasado manejando casi sin parar para cruzar toda Centro América, Estados Unidos y llegar a Canadá. Parte de mi apuro era llegar antes que se pusiera muy frío acá arriba en Columbia Británica. Ahora puedo iniciar mi viaje de regreso y tomarlo con calma bajando de regreso a casa.
 
 En los primeros siete días crucé las fronteras de Panamá, Costa Rica, Nicaragua, Honduras, Guatemala y México. No estaba seguro que iba a poder lograr cruzar todas estas fronteras sin encontrar ningún problema. Resultó ser más fácil de lo que esperaba. Siempre encontré algunos contratiempos en cada lugar, pero nada particularmente sobresaliente. Los cruces se fueron haciendo cada vez más sencillos y rutinarios. Estados Unidos y Canadá fueron los más fáciles y rápidos.

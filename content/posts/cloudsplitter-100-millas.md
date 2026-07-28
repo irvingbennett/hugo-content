@@ -1,31 +1,19 @@
 ---
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781719864
-    payload:
-      - id: 5853
-      - id: 5578
-      - id: 1319
 _last_editor_used_jetpack: block-editor
-_publicize_twitter_user: '@irvingbennett'
-_thumbnail_id: "5571"
-_wpas_done_all: "1"
-_wpcom_is_markdown: "1"
 author: Rompy
 categories:
-  - "Correr"
+- Correr
 cover:
-  image: "/wp-content/uploads/2021/10/WhatsApp-Image-2021-08-07-at-20.10.47-1.jpg"
-date: "2021-10-08T20:38:32+00:00"
-guid: http://u8z.3d5.mywebsitetransfer.com/?p=5564
+  image: /wp-content/uploads/2021/10/WhatsApp-Image-2021-08-07-at-20.10.47-1.jpg
+date: '2021-10-08T20:38:32+00:00'
 parent_post_id: null
-post_id: "5564"
+post_id: '5564'
+slug: cloudsplitter-100-millas
 tags:
-  - ultra
+- ultra
 title: Cloudsplitter 100 millas
-url: /2021/10/08/cloudsplitter-100-millas
-
 ---
+
 En una semana exacta estaré recogiendo mi paquete de carrera para [Cloudsplitter 100m](http://www.cloudsplitter100.com/CSAbout.shtml) en Norton, Virginia. Si termino la carrera obtendré mi hebilla #12 y empato a Jose Orillac que llegó ya a esa cantidad. Voy a estar corriendo con Luis Carlos Stoute que también va por la misma distancia. Ya este año Jose y Luis Carlos completaron su carrera de 100 millas, y Luis va por su segunda. Yo no he podido correr esa distancia desde el 2019 por el tema del momento, COVID, por el cual me han cancelado las carreras que tenía alineadas.
 
 Esta carrera será mi primera carrera de 160 kilómetros en mi sexta década. Esto me preocupa un poco, pero nada fuera de lo normal. Voy a llegar muy bien entrenado para este evento. Tal vez esté mejor entrenado que para cualquier otra de las carreras anteriores.

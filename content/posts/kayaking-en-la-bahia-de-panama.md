@@ -1,32 +1,21 @@
 ---
-_jetpack_memberships_contains_paid_content: ""
-_jetpack_memberships_contains_paywalled_content: ""
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1782182202
-    payload:
-      - id: 6302
-      - id: 1833
-      - id: 6222
+_jetpack_memberships_contains_paid_content: ''
+_jetpack_memberships_contains_paywalled_content: ''
 _last_editor_used_jetpack: block-editor
-_thumbnail_id: "6233"
-_wpas_done_all: "1"
-_wpcom_is_markdown: "1"
 author: Rompy
 categories:
-  - "Kayaking"
+- Kayaking
 cover:
-  image: "/wp-content/uploads/2024/05/20240522_063625-scaled.jpg"
-date: "2024-05-22T23:37:34+00:00"
-guid: http://localhost/?p=6232
+  image: /wp-content/uploads/2024/05/20240522_063625-scaled.jpg
+date: '2024-05-22T23:37:34+00:00'
 parent_post_id: null
-post_id: "6232"
+post_id: '6232'
+slug: kayaking-en-la-bahia-de-panama
 tags:
-  - kayaking
+- kayaking
 title: Kayaking en la Bahía de Panamá
-url: /2024/05/22/kayaking-en-la-bahia-de-panama
-
 ---
+
 En los últimos días he remado tres veces en la Bahía de Panamá. Los kayaks Prijon Kodiak de 17' están permanentemente sobre el techo del auto para que sea sencillo salir a remar. Ya he salido de la rampa de la Calzada de Amador un par de veces y una vez de la rampa de Parque Paitilla. La verdad es que la temporada lluviosa es excelente para remar porque los días son frescos y la capa nubosa atenúa los rayos del sol.
 
 {{< figure src="/wp-content/uploads/gallery_backup/20240508_121556.jpg" alt="Irving Bennett" caption="Irving Bennett" >}}

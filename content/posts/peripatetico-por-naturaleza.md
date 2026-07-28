@@ -1,28 +1,15 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1782073117
-    payload:
-      - id: 64
-      - id: 111
-      - id: 2843
-      - id: 899
-      - id: 284
-      - id: 199
-_wpcom_is_markdown: "1"
 author: Rompy
 categories:
-  - "Caminatas"
-date: "2006-07-21T04:47:58+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=155
+- Caminatas
+date: '2006-07-21T04:47:58+00:00'
 parent_post_id: null
-post_id: "155"
+post_id: '155'
+slug: peripatetico-por-naturaleza
 title: Peripatético por naturaleza
-url: /2006/07/20/peripatetico-por-naturaleza
-wpb_post_views_count: "7"
-
+wpb_post_views_count: '7'
 ---
+
 ![Panama - El Valle, 1976](/wp-content/uploads/gallery_backup/elvalle1-0250.jpg) Este año, en marzo, cumplimos 30 años de haber caminado de Panamá a El Valle (toda la familia). Desde entonces nunca he parado de caminar por todos lados. Bueno, todos caminamos todos los días. Me refiero a mochilear de vez en cuando. Lo que más me gustan son los viajes largos, pero esos son más difíciles de organizar y conseguir quorum. El quorum, para mi, es parte fundamental del viaje.
 
 Ya he caminado solo en más de una ocasión. Es algo que hay que hacer al menos una vez. Yo quiero hacerlo nuevamente, varias veces. Pero siempre he estado en los extremos de la curva, la famosa campana de Bell. En una ocasión un inglés me dijo que para ser explorador había un solo requisito: tener una espalda fuerte y una mente debil. A mi me sonó como dos cosas, pero no discutí.

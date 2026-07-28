@@ -1,36 +1,26 @@
 ---
-_jetpack_memberships_contains_paid_content: ""
-_jetpack_memberships_contains_paywalled_content: ""
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781902680
-    payload:
-      - id: 6262
-      - id: 6302
-      - id: 6222
+_jetpack_memberships_contains_paid_content: ''
+_jetpack_memberships_contains_paywalled_content: ''
 _last_editor_used_jetpack: block-editor
-_thumbnail_id: "6243"
-_wpas_done_all: "1"
-_wpcom_is_markdown: "1"
 author: Rompy
 categories:
-  - "Kayaking"
+- Kayaking
 cover:
-  image: "/wp-content/uploads/2024/05/20240523_183132-scaled.jpg"
-date: "2024-05-27T13:52:51+00:00"
-enclosure: |-
-  /wp-content/uploads/2024/05/WhatsApp-Video-2024-05-24-at-11.41.21-AM.mp4
-  3275816
-  video/mp4
-guid: http://localhost/?p=6242
-parent_post_id: null
-post_id: "6242"
-tags:
-  - kayaking
-title: Orukayak Coast XT
-url: /2024/05/27/orukayak-coast-xt
+  image: /wp-content/uploads/2024/05/20240523_183132-scaled.jpg
+date: '2024-05-27T13:52:51+00:00'
+enclosure: '/wp-content/uploads/2024/05/WhatsApp-Video-2024-05-24-at-11.41.21-AM.mp4
 
+  3275816
+
+  video/mp4'
+parent_post_id: null
+post_id: '6242'
+slug: orukayak-coast-xt
+tags:
+- kayaking
+title: Orukayak Coast XT
 ---
+
 Ya me llegó mi [Orukayak Coast XT](https://www.orukayak.com/products/the-coast-xt) y estoy muy satisfecho con la decisión de comprarlo. Conseguí un paquete a buen precio que incluía el bote más los accesorios indispensables para remarlo. Apenas mi hermano Roger me dió el bote, lo armé. El bote está hecho de plástico y doblado como un bote de papel, un diseño muy ingenioso.
 
 {{< figure src="/wp-content/uploads/gallery_backup/20240523_174705.jpg" alt="" caption="" >}}

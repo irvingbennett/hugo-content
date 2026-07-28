@@ -1,25 +1,15 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1782068201
-    payload:
-      - id: 1495
-      - id: 1155
-      - id: 1287
-_wpas_done_all: "1"
 author: Rompy
 categories:
-  - "Correr"
-date: "2012-12-03T16:54:09+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=2364
+- Correr
+date: '2012-12-03T16:54:09+00:00'
 parent_post_id: null
-post_id: "2364"
+post_id: '2364'
+slug: maraton-panama-2012
 title: Maratón Panamá 2012
-url: /2012/12/03/maraton-panama-2012
-wpb_post_views_count: "12"
-
+wpb_post_views_count: '12'
 ---
+
 [![Roger y yo](/wp-content/uploads/2012/12/73058_10151142836755825_763949843_n-640x480.jpg)](//wp-content/uploads/2012/12/73058_10151142836755825_763949843_n.jpg) Este año cerré el calendario con un fondo bueno, el maratón de Panamá. Lo corrí junto con Roger por los primeros 21km, y después no le pude seguir el paso. Ambos corrimos con el mismo número, los dos íbamos de bandidos, cada cual por sus razones. La principal razón mía es que no tenía ganas de pagarle a Corredores del Istmo por haber aprobado por tercera vez consecutiva al mismo presidente (ahora tenemos que soportarlo por otros 2 años). Roger estaba recuperándose de una lesión que tuvo corriendo rápido los 21km de Gamboa y no quería tener ninguna presión durante la carrera. Ninguno de los dos habíamos hecho el trabajo para poder hacer una buena carrera este año.
 
 Todavía no me aprendo bien las funciones de mi Suunto Ambit y toqué el botón que no era cuando partimos a correr. Obviamente corrimos unos kilómetros antes de que me diera cuenta y empezara el cronómetro correctamente. Mi tiempo oficial puede ser unos 15 minutos más que lo que marqué al final, pero no es realmente relevante a la hora de sacar cuentas. Hacía rato que no corría con un pulsímetro y, si le hago caso a lo que dicen los datos, corrí dos horas muy duro, y casi dos horas a máximo esfuerzo. La verdad, tengo que ajustar las zonas del reloj para que tengan sentido  los números. Mi pulsación más alta fue subiendo la loma de Miraflores cuando corrí detras de la bici de Gabriel González y su grupo como unos 200 metros loma arriba, casi logro coronar antes de explotar.

@@ -1,24 +1,16 @@
 ---
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781792135
-    payload:
-      - id: 764
-      - id: 167
-      - id: 266
 author: Rompy
 categories:
-  - "Caminatas"
-  - "General"
-date: "2006-10-01T20:41:51+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=171
+- Caminatas
+- General
+date: '2006-10-01T20:41:51+00:00'
 parent_post_id: null
-post_id: "171"
+post_id: '171'
+slug: pequenos-ahorros-de-peso
 title: Pequeños ahorros de peso
-url: /2006/10/01/pequenos-ahorros-de-peso
-wpb_post_views_count: "7"
-
+wpb_post_views_count: '7'
 ---
+
 ![Platypus 32oz.](/wp-content/uploads/2006/10/platypus.miniatura.jpg)![Nalgene 32oz. Boca Grande](/wp-content/uploads/2006/10/nalgenewm32.miniatura.jpg)![Nalgene 32oz. Boca Chica](/wp-content/uploads/2006/10/nalgenenm32.miniatura.jpg)
 
 No se cuantos de ustedes se han puesto a pensar en el peso de lo que cargan en su mochila. Yo no le daba mucha importancia antes cuando podía cargar lo que se me antojara en la espalda. Todavía puedo cargar bastante, pero cada vez tiene menos sentido llevar peso innecesario sobre mi espalda. La primera descripción que escuché sobre los requisitos para ser un aventurero fue: "una mente débil y una espalda fuerte". Creo que todavía es válido el dicho, pero para algo debe valer la experiencia.

@@ -1,27 +1,18 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781209928
-    payload:
-      - id: 819
-      - id: 732
-      - id: 1171
-_wp_old_slug: ""
+_wp_old_slug: ''
 author: Rompy
 categories:
-  - "Correr"
-date: "2010-12-02T16:57:06+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=1332
+- Correr
+date: '2010-12-02T16:57:06+00:00'
 parent_post_id: null
-post_id: "1332"
+post_id: '1332'
+slug: ironman-cozumel-2010
 tags:
-  - triatlón
+- triatlón
 title: Ironman Cozumel 2010
-url: /2010/12/02/ironman-cozumel-2010
-wpb_post_views_count: "11"
-
+wpb_post_views_count: '11'
 ---
+
 Este domingo terminé mi segundo Ironman en 13:21:26, 20 minutos mejor que el año pasado. Hice mi carrera tal como la había planeado, pero no pude rendir a la hora de la corrida. Toda la mejoría salió de la bicicleta y las transiciones. La nadada me tomó más que el año pasado, pero, aparentemente la ruta de ese año estaba más corta por que nadie que repitió la carrera logró igualar su tiempo del año anterior, ni los profesionales.
 
 Mi plan era sencillo: nadar con calma, llegar al final de la bicicleta, y dejarlo todo en la corrida. Lo ejecuté al pié de la letra, pero me quedó mucho para la corrida y terminé corriendo en 3 minutos más que el año pasado. Posiblemente mi reciente corrida de 163 kilómetros en Javelina Jundred me quitó un poco de jugo, ya que me pasé recuperando todo este último mes.

@@ -1,35 +1,22 @@
 ---
-_edit_last: "1"
-_jetpack_dont_email_post_to_subs: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1782072938
-    payload:
-      - id: 163
-      - id: 1740
-      - id: 665
+_jetpack_dont_email_post_to_subs: '1'
 _publicize_facebook_user: https://www.facebook.com/irving.bennett
-_publicize_twitter_user: '@irvingbennett'
-_thumbnail_id: "2788"
-_wpas_done_all: "1"
-_wpas_skip_6885108: "1"
-_wpas_skip_6885117: "1"
-_wpas_skip_6885125: "1"
-_wpas_skip_6885140: "1"
-_wpcom_is_markdown: "1"
+_wpas_skip_6885108: '1'
+_wpas_skip_6885117: '1'
+_wpas_skip_6885125: '1'
+_wpas_skip_6885140: '1'
 author: Rompy
 categories:
-  - "Caminatas"
+- Caminatas
 cover:
-  image: "/wp-content/uploads/2014/09/EL-VALLE-RIM-TRAIL-2014-Maperitive.jpg"
-date: "2014-09-10T15:31:59+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=2787
+  image: /wp-content/uploads/2014/09/EL-VALLE-RIM-TRAIL-2014-Maperitive.jpg
+date: '2014-09-10T15:31:59+00:00'
 parent_post_id: null
-post_id: "2787"
+post_id: '2787'
+slug: mapas-y-cartografia
 title: Mapas y Cartografía
-url: /2014/09/10/mapas-y-cartografia
-
 ---
+
 Es increíble cómo ha avanzado la tecnología en los últimos años en el campo de los sistemas de información geográfica (SIG, GIS en inglés). Desde muy temprano mi padre me expuso a los mapas y cuando caminamos de [Panamá a El Valle](/2006/02/08/panama-el-valle-1976 "Panamá – El Valle, 1976") realmente comprendí la cantidad de información que había en ellos. A través de muchos años de aventuras he ido moldeando mi representación del Istmo de Panamá a sus mapas cartográficos. Ahora con herramientas como Google Earth, GPS Expert, Maperitive y relojes como el Suunto Ambit la tierra se ha encogido considerablemente: ya cabe en la pantalla de mi computadora.
 
 {{< figure align="alignright" width=640 src="/wp-content/uploads/gallery_backup/20140910_091300-crop.jpg" alt="Mapa de El Valle barnizado" caption="Mapa de El Valle barnizado" >}}
@@ -51,4 +38,4 @@ Aquí es donde entra una herramienta de SIG cómo Maperitive que trae informaci�
 
 {{< figure src="/wp-content/uploads/gallery_backup/P2140026.jpg" title="OLYMPUS DIGITAL CAMERA" alt="OLYMPUS DIGITAL CAMERA" >}}
 
-{{< figure src="/wp-content/uploads/gallery_backup/38070032.jpg" title="38070032" alt="38070032" >}}  
+{{< figure src="/wp-content/uploads/gallery_backup/38070032.jpg" title="38070032" alt="38070032" >}}

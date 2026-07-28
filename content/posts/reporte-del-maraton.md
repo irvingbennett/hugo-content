@@ -1,26 +1,17 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781788169
-    payload:
-      - id: 1335
-      - id: 969
-      - id: 801
 author: Rompy
 categories:
-  - "Correr"
-date: "2009-08-09T21:40:50+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=742
+- Correr
+date: '2009-08-09T21:40:50+00:00'
 parent_post_id: null
-post_id: "742"
+post_id: '742'
+slug: reporte-del-maraton
 tags:
-  - maraton
+- maraton
 title: Reporte del Maratón
-url: /2009/08/09/reporte-del-maraton
-wpb_post_views_count: "9"
-
+wpb_post_views_count: '9'
 ---
+
 Ya descansé de mi maratón de esta mañana. Corrí los 42.195 kilómetros del Maratón de Panamá en 3:33:13 segundos. Estaba buscando hacer 3:30 minutos, pero no tengo ninguna queja del tiempo que logré. Ha sido el mejor tiempo que he logrado en un maratón y es muy meritorio haber logrado ese tiempo en el Maratón de Panamá, que es un maratón muy difícil por lo alto de la temperatura. Por suerte este año iniciamos más temprano que en otros años, partiendo poco después de las 5:00am.
 
 La primera mitad del maratón la corrí un poco más rápido de lo que tenía planeado, cruzando los primeros 21 kilómetros en 1:42. Mi intención era correr el maratón a un paso constante. Si hubiese logrado seguir mi plan, debí haber cruzado la mitad de la carrera en 1:45. Pero por más que traté de mantenerme a un paso de 4:55 minutos por kilómetro, frecuentemente mi gps me estaba marcando 4:40 por kilómetro. No estoy seguro que me hubiese ido mejor de haber corrido una carrera distinta apegándome a mi plan. La segunda mitad nos tocó con un sol bastante caliente. El cielo estaba completamente despejado y el calor pronto fue haciendo que mi paso se subiera por encima de los 5:00 minutos por kilómetro. Por suerte encontré bastante sombra por el area de Balboa, pero no suficiente.

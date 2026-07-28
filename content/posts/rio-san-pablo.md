@@ -1,28 +1,17 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1782130872
-    payload:
-      - id: 5504
-      - id: 153
-      - id: 15
-_wpas_done_all: "1"
-_wpcom_is_markdown: "1"
 author: Rompy
 categories:
-  - "Kayaking"
-date: "2013-01-16T18:26:13+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=2417
+- Kayaking
+date: '2013-01-16T18:26:13+00:00'
 parent_post_id: null
-post_id: "2417"
+post_id: '2417'
+slug: rio-san-pablo
 tags:
-  - remar
+- remar
 title: Río San Pablo
-url: /2013/01/16/rio-san-pablo
-wpb_post_views_count: "15"
-
+wpb_post_views_count: '15'
 ---
+
 [![DSCN2903](/wp-content/uploads/2013/01/DSCN2903-640x480.jpg)](//wp-content/uploads/2013/01/DSCN2903.jpg) Bajamos el Río San Pablo desde el puente de la Carretera Interamericana hasta el puerto de Soná, 31 kilómetros de río aproximadamente. No logré reunir mucha gente, pero los que fuimos la pasamos excelente. A todos les encantó el río. El Tabasará tiene más acción que este río, pero para pasarla tranquilo con la familia y acampar este río es superior.
 
 Pensé que las orillas del Río San Pablo iban a estar muy deforestadas y encontré que tienen unos árboles inmensos y prácticamente  no hay señas de habitación. Al final, ya llegando a Soná, comenzamos a encontrar gente en el río, al principio solamente vimos aves y nutrias. Curiosamente, las playas que tiene el río son casi todas de rocas redondas. Justo a los 17km del primer tramo encontramos el lugar apropiado para acampar y resultó muy bien el sitio.
@@ -47,4 +36,4 @@ Todos concurrimos con que sería bueno regresar pronto a este río. La bajada es
 
 {{< figure src="/wp-content/uploads/gallery_backup/DSCN2903.jpg" title="DSCN2903" alt="DSCN2903" >}}
 
-{{< figure src="/wp-content/uploads/gallery_backup/DSCN2904.jpg" title="DSCN2904" alt="DSCN2904" >}}  
+{{< figure src="/wp-content/uploads/gallery_backup/DSCN2904.jpg" title="DSCN2904" alt="DSCN2904" >}}

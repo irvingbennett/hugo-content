@@ -1,27 +1,17 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781817546
-    payload:
-      - id: 266
-      - id: 271
-      - id: 2382
-      - id: 6933
-      - id: 514
-      - id: 6657
 author: Rompy
+categories:
+- Bicicletas
 cover:
   image: /wp-content/uploads/gallery_backup/P4270047.JPG
-categories:
-  - "Bicicletas"
-date: "2008-04-16T14:19:03+00:00"
+date: '2008-04-16T14:19:03+00:00'
 parent_post_id: null
-post_id: "277"
+post_id: '277'
+slug: cruce-de-lagarto-2008
 title: Cruce de Lagarto 2008
-url: /2008/04/16/cruce-de-lagarto-2008
-wpb_post_views_count: "12"
+wpb_post_views_count: '12'
 ---
+
 Este paseo lo considero como un punto de reunión obligatorio para los ciclistas de montaña. Para mi es la oportunidad de ver gente con la cual comparto el gusto por la bicicleta y que solamente veo una vez al año. Como siempre, este es un paseo bien organizado y su logística es impecable. Este año nos tocó un sol abrasador hasta llegar a Chorrera, cuando el cielo decidió abrir la regadera con todo.
 
 El tramo de Gatún a Escobal estaba recién asfaltado. Este tramo siempre es rápido. Los primeros que llegamos promediamos 26 kilómetros por hora. No comprendo por qué más nadie aprovecha el tiempo que nos tenemos que quedar esperando al resto del grupo para darse un chapuzón en el lago. ¡El agua estaba deliciosa y refrescante!

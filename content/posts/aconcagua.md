@@ -1,28 +1,17 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781717063
-    payload:
-      - id: 263
-      - id: 84
-      - id: 42
 _last_editor_used_jetpack: block-editor
-_publicize_twitter_user: '@irvingbennett'
-_wpcom_is_markdown: "1"
 author: Rompy
 categories:
-  - "Caminatas"
-  - "General"
-date: "2004-11-25T22:01:57+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=11
+- Caminatas
+- General
+date: '2004-11-25T22:01:57+00:00'
 parent_post_id: null
-post_id: "11"
+post_id: '11'
+slug: aconcagua
 title: Aconcagua
-url: /2004/11/25/aconcagua
-wpb_post_views_count: "9"
-
+wpb_post_views_count: '9'
 ---
+
 {{< figure src="/wp-content/uploads/gallery_backup/DSC01498.jpg" alt="" caption="" >}}
 
 Mi hermano y yo estamos planeando subir el Aconcagua en febrero del 2005. Inicialmente yo había planteado la idea de subirlo en el 2006, pero mi hermano lo adelantó: no nos estamos poniendo más jóvenes. Estoy muy entusiasmado por pasar un tiempo extendido junto con Rogelio. Hace mucho tiempo que no hacemos algo largo, solo los dos. En realidad, nunca hemos hecho una caminata solo los dos. Hemos hecho mucho juntos, inclusive caminatas largas (5 días), pero siempre habían otras personas con nosotros.

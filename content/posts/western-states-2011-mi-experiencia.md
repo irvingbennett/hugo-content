@@ -1,35 +1,22 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781842952
-    payload:
-      - id: 3617
-      - id: 1339
-      - id: 1319
-      - id: 1443
-      - id: 1586
-      - id: 1792
 _last_editor_used_jetpack: block-editor
-_wpas_skip_6885108: "1"
-_wpas_skip_6885117: "1"
-_wpas_skip_6885125: "1"
-_wpas_skip_6885140: "1"
-_wpcom_is_markdown: "1"
+_wpas_skip_6885108: '1'
+_wpas_skip_6885117: '1'
+_wpas_skip_6885125: '1'
+_wpas_skip_6885140: '1'
 author: Rompy
 categories:
-  - "Correr"
-date: "2011-06-30T06:54:51+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=1749
+- Correr
+date: '2011-06-30T06:54:51+00:00'
 parent_post_id: null
-post_id: "1749"
+post_id: '1749'
+slug: western-states-2011-mi-experiencia
 tags:
-  - ultra
+- ultra
 title: Western States 2011 - Mi Experiencia
-url: /2011/06/30/western-states-2011-mi-experiencia
-wpb_post_views_count: "11"
-
+wpb_post_views_count: '11'
 ---
+
 {{< figure align="alignnone" width=584 src="/wp-content/uploads/gallery_backup/Western-States-02.jpg" alt="Meta Western Staes" caption="Meta Western Staes" >}}
 
 ¡Terminé Western States en 29:40:40! Me tomó mucho esfuerzo terminar, no fue una carrera fácil. La primera mitad fue fácil y divertida. La segunda mitad fue pura voluntad, fue meter las manos hasta el fondo de los bolsillos y sacar lo que quedaba para dejarlo en el camino. Todavía estoy digiriendo la experiencia para tratar de condensarla en su esencia: tenaz y perseverante movimiento, sin prisa pero sin pausa.

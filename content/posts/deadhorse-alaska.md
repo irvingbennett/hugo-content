@@ -1,52 +1,32 @@
 ---
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1782190100
-    payload:
-      - id: 5440
-      - id: 2609
-      - id: 6802
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1782182673
-    payload:
-      - id: 5440
-      - id: 2609
-      - id: 6802
-      - id: 6829
-      - id: 6521
-      - id: 5642
 _publicize_shares:
-  - connection_id: 6900156
-    external_id: alairelibre.tumblr.com
-    external_name: Al Aire Libre
-    message: http://alairelibre.tumblr.com/post/813179345843683328
-    profile_link: http://alairelibre.tumblr.com/
-    profile_picture: ""
-    service: tumblr
-    status: success
-    timestamp: 1775508257
-    wpcom_user_id: 1142432
-_thumbnail_id: "6975"
-_wp_old_date: "2026-03-25"
-_wpas_done_all: "1"
-_wpcom_is_markdown: "1"
+- connection_id: 6900156
+  external_id: alairelibre.tumblr.com
+  external_name: Al Aire Libre
+  message: http://alairelibre.tumblr.com/post/813179345843683328
+  profile_link: http://alairelibre.tumblr.com/
+  profile_picture: ''
+  service: tumblr
+  status: success
+  timestamp: 1775508257
+  wpcom_user_id: 1142432
+_wp_old_date: '2026-03-25'
 author: Rompy
 categories:
-  - "General"
-  - "KLR"
+- General
+- KLR
 cover:
-  image: "/wp-content/uploads/2026/03/deadHorse.jpg"
-date: "2026-04-06T20:43:41+00:00"
-guid: http://localhost/?p=6973
+  image: /wp-content/uploads/2026/03/deadHorse.jpg
+date: '2026-04-06T20:43:41+00:00'
 parent_post_id: null
-post_id: "6973"
+post_id: '6973'
+slug: deadhorse-alaska
 tags:
-  - klr
-  - travesias
+- klr
+- travesias
 title: Deadhorse, Alaska
-url: /2026/04/06/deadhorse-alaska
-
 ---
+
 {{< figure src="/wp-content/uploads/gallery_backup/Dalton_Highway_Map.png" alt="" caption="" >}}
 
 Deadhorse queda en Prudhoe Bay, Alaska y es un poblado donde viven los trabajadores de los campos petroleros que lo rodean. Para llegar a Deadhorse hay que recorrer los 800 kilómetros del Dalton Highway que va desde Fairbanks hasta el Mar Artico. Desde hace tiempo he querido hacer este viaje y ahora es posible que pueda hacerlo en compañía de mi hermana Michelle y George (su esposo). Ellos irían arrastrando un remolque con su cabina dónde dormir y yo compartiría la segunda cama cuando me convenga.

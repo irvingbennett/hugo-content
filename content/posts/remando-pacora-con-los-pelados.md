@@ -1,25 +1,15 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781826246
-    payload:
-      - id: 27
-      - id: 34
-      - id: 949
 author: Rompy
 categories:
-  - "Kayaking"
-date: "2008-09-08T19:23:09+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=366
+- Kayaking
+date: '2008-09-08T19:23:09+00:00'
 parent_post_id: null
-post_id: "366"
+post_id: '366'
+slug: remando-pacora-con-los-pelados
 tags:
-  - pacora
+- pacora
 title: Remando Pacora con los pelados
-url: /2008/09/08/remando-pacora-con-los-pelados
-wpb_post_views_count: "19"
-
+wpb_post_views_count: '19'
 ---
 
 ![Irving en el Río Pacora](/wp-content/uploads/gallery_backup/P9070011.JPG)

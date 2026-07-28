@@ -1,30 +1,17 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1782055150
-    payload:
-      - id: 750
-      - id: 1043
-      - id: 179
-      - id: 1049
-      - id: 5665
-      - id: 2388
-_thumbnail_id: "2267"
 author: Rompy
 categories:
-  - "Correr"
+- Correr
 cover:
-  image: "/wp-content/uploads/2012/10/20121012_104031.jpg"
-date: "2012-10-19T03:16:14+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=2266
+  image: /wp-content/uploads/2012/10/20121012_104031.jpg
+date: '2012-10-19T03:16:14+00:00'
 parent_post_id: null
-post_id: "2266"
+post_id: '2266'
+slug: nike-womens-marathon-2012
 title: Nike Women's Marathon 2012
-url: /2012/10/18/nike-womens-marathon-2012
-wpb_post_views_count: "31"
-
+wpb_post_views_count: '31'
 ---
+
 [![](/wp-content/uploads/gallery_backup/20121012_104031.jpg)'s Marathon 2012](https://www.facebook.com/NWM26.2 "NWM 2012"). El domingo, poco antes de las 7:00am, estaba frente a la linea de partida esperando que iniciaran a correr toda esa gente, casi 30,000 corredores (entre el maratón, media distancia y caminantes). Después que pasaron un par de miles frente a mi me uní a la procesión y salí a correr como bandido entre la multitud.
 
 Había revisado el recorrido en el sitio web y vi que iban a recorrer lo mejor de San Francisco. De verdad que no podía perderme la oportunidad de hacer ese [recorrido](/wp-content/uploads/2012/10/NWM2012CourseMap.pdf "Mapa"). Por supuesto que no estaba preparado para correr un maratón, pero eso no sería difícil. No tenía apuro, ni siquiera tenía que terminar, y cuado quisiera podía abandonar sin preocupaciones de un DNF. ¿Qué mas podría pedir de semejante oportunidad? ¡Y no estaba pagando los $175 que me hubiese costado si me habrían dejado registrarme!

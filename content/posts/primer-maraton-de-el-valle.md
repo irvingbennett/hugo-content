@@ -1,26 +1,13 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1782061320
-    payload:
-      - id: 1411
-      - id: 1176
-      - id: 1155
-      - id: 1049
-      - id: 1043
-      - id: 2388
 author: Rompy
 categories:
-  - "Correr"
-date: "2009-11-10T15:19:48+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=801
+- Correr
+date: '2009-11-10T15:19:48+00:00'
 parent_post_id: null
-post_id: "801"
+post_id: '801'
+slug: primer-maraton-de-el-valle
 title: Primer Maratón de El Valle
-url: /2009/11/10/primer-maraton-de-el-valle
-wpb_post_views_count: "20"
-
+wpb_post_views_count: '20'
 ---
 
 ![Listos para la partida](/wp-content/uploads/gallery_backup/PB013668.JPG)

@@ -1,23 +1,13 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781978861
-    payload:
-      - id: 153
-      - id: 34
-      - id: 443
 author: Rompy
 categories:
-  - "Kayaking"
-date: "2009-06-21T17:16:45+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=690
+- Kayaking
+date: '2009-06-21T17:16:45+00:00'
 parent_post_id: null
-post_id: "690"
+post_id: '690'
+slug: tres-brazos-de-pacora-2
 title: Tres Brazos de Pacora
-url: /2009/06/21/tres-brazos-de-pacora-2
-wpb_post_views_count: "13"
-
+wpb_post_views_count: '13'
 ---
 
 ![Iniciando nuestro descenso](/wp-content/uploads/2009/06/tresbrazos.jpg)

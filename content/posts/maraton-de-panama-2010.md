@@ -1,27 +1,18 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1782063981
-    payload:
-      - id: 969
-      - id: 908
-      - id: 742
-_wp_old_slug: ""
+_wp_old_slug: ''
 author: Rompy
 categories:
-  - "Correr"
-date: "2010-12-06T19:14:24+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=1335
+- Correr
+date: '2010-12-06T19:14:24+00:00'
 parent_post_id: null
-post_id: "1335"
+post_id: '1335'
+slug: maraton-de-panama-2010
 tags:
-  - maraton
+- maraton
 title: Maratón de Panama 2010
-url: /2010/12/06/maraton-de-panama-2010
-wpb_post_views_count: "14"
-
+wpb_post_views_count: '14'
 ---
+
 Este Maratón de Panamá 2010 me sacó su tributo en carne. Estaba cansando del Ironman de Cozumel que hice el fin de semana anterior. Sabía que me iba a costar, pero no pensaba que me iba a costar tanto. Los primeros 10 fueron fáciles, me fui entre 5:30 y 6:00 minutos el kilómetro, un paso "suave" para llegar en 4 horas. Ya llegando a los 10kms comenzaba a pensar que me iba a costar mantener el paso.
 
 Había estado corriendo a un nivel aeróbico muy, muy cómodo, respirando con facilidad. Pero ya el corazón comenzaba a subirse con facilidad. Y sentía que mis pantorrillas estaban tiernas, como si me pudiese hacer un daño fácilmente si hacía un movimiento violento, como un acelerón. Ya el ritmo de 6:00 minutos comenzó a sentirse forzado cuando estaba a 15kms, corriendo por el puente del Corredor Sur. Pasé la mitad del maratón en 2:10, y ya sabía que iba a estar difícil llegar en 5 horas.

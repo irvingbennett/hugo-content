@@ -1,26 +1,17 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781843196
-    payload:
-      - id: 270
-      - id: 62
-      - id: 276
 author: Rompy
 categories:
-  - "Bicicletas"
-date: "2008-04-09T23:54:20+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=272
+- Bicicletas
+date: '2008-04-09T23:54:20+00:00'
 parent_post_id: null
-post_id: "272"
+post_id: '272'
+slug: pedaleando-hasta-el-valle
 tags:
-  - bicicletas
+- bicicletas
 title: Pedaleando hasta El Valle
-url: /2008/04/09/pedaleando-hasta-el-valle
-wpb_post_views_count: "9"
-
+wpb_post_views_count: '9'
 ---
+
 Este fin de semana que pasó mi fui en bicicleta hasta El Valle de Antón. Decidí irme por la vía larga: por el Puente Centenario y por la Vía Interamericana, pasando por Chorrera. Desde mi casa hasta El Valle, por el Puente de Las Américas y por la autopista son 127 kilómetros. Cuando nos vamos por el Puente del Centenario y la autopista son 137 kilómetros hasta El Valle. No sabía cuanto más sería irme por Chorrera, pero tenía tiempo de no pasar por ese camino, y la autopista realmente es un poco peligrosa para un ciclista.
 
 Cuando estaba pasando por la caseta del Puente Centenario me preocupé pensando que no me dejarían pasar. Creo que el guardia no me vió. Hubiese sido un plomo si me paraban y me hacían regresar hasta el otro puente. Ya tenía que irme hasta El Valle de todas maneras: mi esposa y mis hijos me estaban esperando.  

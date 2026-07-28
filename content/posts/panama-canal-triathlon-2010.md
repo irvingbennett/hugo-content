@@ -1,30 +1,18 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781873939
-    payload:
-      - id: 1332
-      - id: 732
-      - id: 819
-      - id: 1242
-      - id: 514
-      - id: 1559
-_wp_old_slug: ""
+_wp_old_slug: ''
 author: Rompy
 categories:
-  - "Correr"
-date: "2010-08-30T19:10:24+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=1171
+- Correr
+date: '2010-08-30T19:10:24+00:00'
 parent_post_id: null
-post_id: "1171"
+post_id: '1171'
+slug: panama-canal-triathlon-2010
 tags:
-  - triatlón
+- triatlón
 title: Panama Canal Triathlon 2010
-url: /2010/08/30/panama-canal-triathlon-2010
-wpb_post_views_count: "12"
-
+wpb_post_views_count: '12'
 ---
+
 Este fin de semana, por tercera vez consecutiva, participé en el Panama Canal Triathlon, un evento clase Ironman 70.3, o un medio Ironman. He quedado impresionado por lo alto del nivel de los triatletas nacionales que cada vez son más, y más rápidos. Como siempre, quede muy en la cola de los que completaron el evento. Pero, a pesar de haber entrenado muy poco, mejore en un minuto mi tiempo total, principalmente por lo rápido de mi transición de la bicicleta a la corrida.
 
 En la nadada hice 3 minutos más que el año pasado, en la bicicleta hice 10 minutos más, y en la corrida hice 10 minutos menos. Claramente, mi mejoría estaba en las transiciones. Hubiese hecho una mejor transición de la nadada a la bicicleta, pero cuando salí de la natación ya habían botado el agua para enjuagarse los piés y perdí tiempo buscando como quitarme la arena de los piés. No había llevado medias, a propósito, y haber pedaleado lleno de arena hubiese sido un martirio.

@@ -1,27 +1,18 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1782167405
-    payload:
-      - id: 1391
-      - id: 237
-      - id: 819
 author: Rompy
 categories:
-  - "Bicicletas"
-date: "2008-04-18T12:33:26+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=276
-lightboxoff: "false"
+- Bicicletas
+date: '2008-04-18T12:33:26+00:00'
+lightboxoff: 'false'
 parent_post_id: null
-post_id: "276"
+post_id: '276'
+slug: la-silla-de-el-valle
 tags:
-  - bicicletas
+- bicicletas
 title: La Silla de El Valle
-url: /2008/04/18/la-silla-de-el-valle
-wpb_post_views_count: "10"
-
+wpb_post_views_count: '10'
 ---
+
 ![Bajando La Silla](/wp-content/uploads/gallery_backup/lasillatrail.jpg "Trillo de La Silla"). Habí­a planeado llevarlos por la parte fácil del camino, pero al final llegaron menos personas de las esperadas asi que le propuse a nuestro grupo que nos fuéramos por el camino más difí­cil. La razón principal de tomar el camino difí­cil es por que tiene el mejor trillo de las dos opciones. El problema es que solo se puede llegar a este excelente segmento después de bajar por la parte difí­cil. [Jorge](/wp-content/uploads/gallery_backup/P4060431.JPG) rápidamente accedieron al camino difí­cil.
 
 La parte difí­cil la camina la mayorí­a de la gente. No tanto por su grado de dificultad, más bien por que intimida la posibilidad de rodar cerro abajo en caso de un error. El trillo es sesgado por una pendiente de unos 50 grados: si te caes para un lado, vas a rodar montaña abajo, inevitablemente. El mismo camino, con grama a ambos lados, serí­a casi fácil. De hecho, cuando llegamos al primer segmento con la pendiente a un lado, Luis decidió caminarlo a pesar que el trillo era ancho y plano. Sencillamente el espectro de caerse era demasiado fuerte para que montara cómodamente por ese camino.

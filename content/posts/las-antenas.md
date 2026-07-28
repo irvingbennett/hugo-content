@@ -1,33 +1,20 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1782040788
-    payload:
-      - id: 2146
-      - id: 2482
-      - id: 896
 _publicize_facebook_user: https://www.facebook.com/irving.bennett
-_publicize_twitter_user: '@irvingbennett'
-_thumbnail_id: "2864"
-_wpas_done_all: "1"
-_wpcom_is_markdown: "1"
 ase_map_component_start_point:
   lat: 29.76
   lng: -95.38
 author: Rompy
 categories:
-  - "Correr"
+- Correr
 cover:
-  image: "/wp-content/uploads/2015/04/LasTorres.jpg"
-date: "2015-04-24T03:45:48+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=2861
+  image: /wp-content/uploads/2015/04/LasTorres.jpg
+date: '2015-04-24T03:45:48+00:00'
 parent_post_id: null
-post_id: "2861"
+post_id: '2861'
+slug: las-antenas
 title: Las Antenas
-url: /2015/04/23/las-antenas
-
 ---
+
 {{< figure align="alignleft" width=480 src="/wp-content/uploads/gallery_backup/IMG-20140622-WA0018.jpg" alt="Parque Metropolitano" caption="Parque Metropolitano" >}}
 
 Nuestro hábito de los viernes es correr 11 kilómetros partiendo desde El Cangrejo a recorrer todos los senderos del Parque Metropolitano y regresar. En la tarde nos reunimos en La Rana Dorada a tomarnos unas Pale Ale y planear que fondo haremos el fin de semana. Ultimamente hemos estado corriendo el "Camino de Las Antenas" para alargar nuestras corridas locales (dentro de la ciudad). Desde mi casa hasta la Iglesia Bautista El Dorado hay tres kilómetros de concreto pero de allí en adelante podemos correr hasta 14 kilómetros adicionales por caminos suaves, arbolados y ocasionalmente sombreados. El recorrido total desde El Cangrejo son 34km ida y vuelta, nada mal para una corrida citadina.

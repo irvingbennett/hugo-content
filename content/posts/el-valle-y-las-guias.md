@@ -1,25 +1,16 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781798950
-    payload:
-      - id: 115
-      - id: 276
-      - id: 242
-_wp_old_slug: ""
+_wp_old_slug: ''
 author: Rompy
 categories:
-  - "Bicicletas"
-date: "2010-09-15T21:48:10+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=1215
+- Bicicletas
+date: '2010-09-15T21:48:10+00:00'
 parent_post_id: null
-post_id: "1215"
+post_id: '1215'
+slug: el-valle-y-las-guias
 title: El Valle y Las Guías
-url: /2010/09/15/el-valle-y-las-guias
-wpb_post_views_count: "7"
-
+wpb_post_views_count: '7'
 ---
+
 [![Las Guías](/wp-content/uploads/2010/09/header-guias-150x150.jpg)](//wp-content/uploads/2010/09/header-guias.jpg) Hacía tanto tiempo que no montaba mi montañera que el freno delantero había perdido aceite y me tocó arreglarlo. Por suerte tenía aceite mineral listo para esta reparación. Fui a montar bicicleta con Jorge Patricio y Alana el sábado y el domingo. Fue un fin de semana de pura montañera. ¡Qué bien se sintió estar de vuelta en los senderos con la montañera!
 
 El sábado en la tarde estaba diluviando en El Valle, pero llegando las 4:00pm acampó y nos fuimos a pedalear la vuelta de [La Mesa](http://wiki.alairelibre.net/index.php), Berrales y [Matahogado](http://wiki.alairelibre.net/index.php). Me sentí como un bulto cuando Alana y Jorge Patricio me dejaron atrás, pero cuando llegué a la primera finca de pollos apenas habían pasado 31 minutos (no estaba tan mal). Después caí en cuenta que Alana trepaba como una cabra -- en todas las subidas nos dió cascarita. Por mi parte me desquité en las bajadas, aun cuando no había honor en eso: Alana no monta montañeras, ni siquiera tiene una.

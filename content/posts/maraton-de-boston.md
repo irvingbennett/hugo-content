@@ -1,29 +1,17 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781857780
-    payload:
-      - id: 154
-      - id: 179
-      - id: 2266
-      - id: 742
-      - id: 908
-      - id: 192
 author: Rompy
 categories:
-  - "Correr"
-date: "2010-05-18T17:21:35+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=969
+- Correr
+date: '2010-05-18T17:21:35+00:00'
 parent_post_id: null
-post_id: "969"
+post_id: '969'
+slug: maraton-de-boston
 tags:
-  - maraton
+- maraton
 title: Maratón de Boston
-url: /2010/05/18/maraton-de-boston
-wpb_post_views_count: "16"
-
+wpb_post_views_count: '16'
 ---
+
 ![Logo de Boston](/wp-content/uploads/gallery_backup/200px-Bostonmarathonlogo2.jpg)La "Maratón de Boston"), que no estaba en mis posibilidades. Algo increíble ha pasado al entrar en años: el tiempo para clasificar para Boston ha llegado al rango de mis posibilidades. Desde ya, cualquier maratón que corra en 3:35:59, o menos, me clasifica para entrar a Boston en la categoría 50-55. El año pasado corrí el Maratón de Panamá en 3:33:13. Si puedo repetir ese tiempo, logro clasificar para Boston en el 2011 y hacer esa carrera a mis 50 años.
 
 Había estado pensando en correr algo más grande que eso para los 50, como el Ultra-Trail de Mont Blanc, pero también puedo correr Boston si clasifico. Con todo lo que tengo planeado correr de aquí a fin de año, mientras no me haga un daño, debo llegar en óptimas condiciones al [Maratón de Panamá](http://www.corredoresdelistmo.com/ "Corredores del Istmo") para repetir mi tiempo del año pasado. Yo pensaba que iba a poder conseguir suficientes puntos para clasificar para el UTMB, pero me cambiaron las reglas y ahora se hará difícil conseguir los puntos necesarios para inscribirme (no imposible, solo difícil).

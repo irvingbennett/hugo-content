@@ -1,31 +1,19 @@
 ---
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1782099994
-    payload:
-      - id: 5578
-      - id: 5972
-      - id: 4569
 _last_editor_used_jetpack: block-editor
-_publicize_twitter_user: '@irvingbennett'
-_thumbnail_id: "5616"
-_wpas_done_all: "1"
-_wpcom_is_markdown: "1"
 author: Rompy
 categories:
-  - "Correr"
+- Correr
 cover:
-  image: "/wp-content/uploads/2021/10/90785398-CS100-570-scaled.jpg"
-date: "2021-10-27T22:21:36+00:00"
-guid: http://u8z.3d5.mywebsitetransfer.com/?p=5614
+  image: /wp-content/uploads/2021/10/90785398-CS100-570-scaled.jpg
+date: '2021-10-27T22:21:36+00:00'
 parent_post_id: null
-post_id: "5614"
+post_id: '5614'
+slug: cloudsplitter-100-equipo
 tags:
-  - ultra
+- ultra
 title: Cloudsplitter 100 - Equipo
-url: /2021/10/27/cloudsplitter-100-equipo
-
 ---
+
 Este es un recuento del equipo que usé para la carrera, una nota para que no se me olvide lo que funcionó. En resumen, lo poco que usé funcionó excelente porque ya todo estaba probado anteriormente. Solo voy a listar lo que usé, notar su beneficio, y lo que tenía en las bolsas por si acaso que no necesité.
 
 Esta carrera tenía tres estaciones con bolsas. Highknob en el punto más alto la visitaríamos 4 veces, Bark lo visitaríamos 3 veces en un recorrido, y Devil's Fork Loop Parking Lot lo visitaríamos 2 veces en en otro recorrido. El primer día era ir y venir entre Highknob y Bark, el segundo día era bajar a Devil's Fork Loop y dar un par de vueltas allá abajo, regresar a Highknob y tomar rumbo a la meta.

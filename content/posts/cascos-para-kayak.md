@@ -1,24 +1,15 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781750125
-    payload:
-      - id: 443
-      - id: 366
-      - id: 1251
 author: Rompy
 categories:
-  - "Kayaking"
-date: "2008-09-30T17:11:44+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=381
+- Kayaking
+date: '2008-09-30T17:11:44+00:00'
 parent_post_id: null
-post_id: "381"
+post_id: '381'
+slug: cascos-para-kayak
 title: Cascos para Kayak
-url: /2008/09/30/cascos-para-kayak
-wpb_post_views_count: "23"
-
+wpb_post_views_count: '23'
 ---
+
 ![La importancia del casco](/wp-content/uploads/2008/09/cascos.png)
 
 La importancia del casco en el río se ha hecho evidente en nuestras últimas remadas. Joaquín y a Alexandra, en diferentes remadas, se golpearon la frente con una roca al voltearse en el río. Ambos se voltearon en lugares y momentos que parecían completamente seguros. El golpe de Joaquín fue leve, pero aún así fue peligroso. El golpe de Alex fue mas grande, y potencialmente mucho más peligroso. En ambos casos el casco no les protegía la frente adecuadamente. Cuando Alex se volteó, Joaquín y yo estábamos levemente alejada de ella y no estábamos vigilándola, ya estábamos en la sección más tranquila del río. Si el golpe hubiese dejado aturdida a Alex, es posible que se hubiese ahogado después de terminar de bajar las partes más difíciles del río.

@@ -1,30 +1,18 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781943641
-    payload:
-      - id: 750
-      - id: 1049
-      - id: 2175
-      - id: 1495
-      - id: 1111
-      - id: 1802
-_wp_old_slug: ""
+_wp_old_slug: ''
 author: Rompy
 categories:
-  - "Correr"
-date: "2010-07-14T14:52:40+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=1043
+- Correr
+date: '2010-07-14T14:52:40+00:00'
 parent_post_id: null
-post_id: "1043"
+post_id: '1043'
+slug: el-valle-trail-marathon-21k
 tags:
-  - correr
+- correr
 title: El Valle Trail Marathon - 21k
-url: /2010/07/14/el-valle-trail-marathon-21k
-wpb_post_views_count: "11"
-
+wpb_post_views_count: '11'
 ---
+
 \[caption id="attachment\_1045" align="alignleft" width="300" caption="Mapa de ruta de 21k de El Valle Trail Marathon"\] [![Mapa de ruta de 21k de El Valle Trail Marathon](/wp-content/uploads/2010/07/elvalle21k-300x225.jpg)](//wp-content/uploads/2010/07/elvalle21k.jpg)\[/caption\]
 
 Este 15 de agosto, 2010 tendremos el 2do El Valle Trail Marathon. Este año la ruta ha cambiado y correremos hacia el norte partiendo desde el Hotel Campestre, en dirección hacia Matahogado. A continuación sigue la descripción de la ruta de los 21k, la versión media del maratón. En Facebook hay un [recorrido fotográfico completo](http://www.facebook.com/album.php).

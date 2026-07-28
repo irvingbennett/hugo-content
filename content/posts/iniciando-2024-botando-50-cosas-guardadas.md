@@ -1,31 +1,17 @@
 ---
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1782005998
-    payload:
-      - id: 5950
-      - id: 6262
-      - id: 6302
-      - id: 2382
-      - id: 6432
-      - id: 6242
 _last_editor_used_jetpack: block-editor
-_thumbnail_id: "6137"
-_wpas_done_all: "1"
-_wpcom_is_markdown: "1"
 author: Rompy
 categories:
-  - "General"
+- General
 cover:
-  image: "/wp-content/uploads/2024/01/20240106_181935-scaled.jpg"
-date: "2024-01-09T00:46:04+00:00"
-guid: http://hbx.wvf.mybluehost.me/?p=6135
+  image: /wp-content/uploads/2024/01/20240106_181935-scaled.jpg
+date: '2024-01-09T00:46:04+00:00'
 parent_post_id: null
-post_id: "6135"
+post_id: '6135'
+slug: iniciando-2024-botando-50-cosas-guardadas
 title: Iniciando 2024 Botando 50 Cosas Guardadas
-url: /2024/01/08/iniciando-2024-botando-50-cosas-guardadas
-
 ---
+
 Estoy tratando de decidir que haré de mi 2024. Estoy a la deriva ahora mismo. 2023 fue un buen año, pero fue un año de transición. Estaba ubicándome en este mundo como una persona sola, un viudo, no parte de un matrimonio. Sigo teniendo una familia de dos hijos, pero ellos ya están en sus propios caminos y ahora me toca trazar mi nuevo rumbo.
 
 Hice mucho en 2023, fui parte del 1% más activo de los atletas de Strava. Hice mi catarsis a punta de actividad física. Ahora tengo que encontrar un nuevo balance, darle mayor prioridad a mi trabajo, y encontrar un punto medio llevadero que me dure hasta el 2025. Todavía no he hecho ningún plan específico, pero comencé despojándome de 50 cosas que llevo rato guardando. Fácilmente pude haber botado 100 cosas, quedé en 50 por un artículo que leí en [The Guardian](https://www.theguardian.com/lifeandstyle/2024/jan/06/i-was-a-hopeless-hoarder-until-i-was-forced-to-throw-out-50-things-i-own).

@@ -1,29 +1,19 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781480740
-    payload:
-      - id: 102
-      - id: 256
-      - id: 1550
 author: Rompy
 categories:
-  - "Correr"
-date: "2011-04-11T19:36:53+00:00"
+- Correr
+date: '2011-04-11T19:36:53+00:00'
 embed: This is the default text
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=1559
-image: ""
+image: ''
 parent_post_id: null
-post_id: "1559"
-seo_follow: "false"
-seo_noindex: "false"
+post_id: '1559'
+seo_follow: 'false'
+seo_noindex: 'false'
+slug: portobelo-2011
 tags:
-  - triatlón
+- triatlón
 title: Portobelo 2011
-url: /2011/04/11/portobelo-2011
-wpb_post_views_count: "15"
-
+wpb_post_views_count: '15'
 ---
 
 ![Rompy y Roger #1](/wp-content/uploads/2011/04/P4100659.jpg)

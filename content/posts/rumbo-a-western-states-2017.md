@@ -1,31 +1,18 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781767970
-    payload:
-      - id: 1339
-      - id: 1319
-      - id: 1443
-_publicize_twitter_user: '@irvingbennett'
-_thumbnail_id: "3618"
-_wpas_done_all: "1"
-_wpcom_is_markdown: "1"
 author: Rompy
 categories:
-  - "Correr"
+- Correr
 cover:
-  image: "/wp-content/uploads/2017/05/WS100-05-802-scaled.jpg"
-date: "2017-05-23T18:37:33+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=3617
+  image: /wp-content/uploads/2017/05/WS100-05-802-scaled.jpg
+date: '2017-05-23T18:37:33+00:00'
 parent_post_id: null
-post_id: "3617"
+post_id: '3617'
+slug: rumbo-a-western-states-2017
 tags:
-  - ultra
+- ultra
 title: Rumbo a Western States 2017
-url: /2017/05/23/rumbo-a-western-states-2017
-
 ---
+
 Este 24 de junio voy a estar en la partida de [Western States 100 2017](http://wser.org). En el 2011 corrí [WS100](/2011/06/30/western-states-2011-mi-experiencia) en un tiempo de 29:40:38 y era la segunda vez que corría esa distancia. Ahora llevo 8 carreras de 100 millas terminadas y Western States 100 sería la novena. [UltraSignup](https://ultrasignup.com/entrants_event.aspx) me tiene pronosticado un tiempo de 27:31:16. Ese tiempo lo sacan de alguna forma de la historia de 15 carreras mías que tienen en su base de datos. Hasta ahora siempre he corrido en mejor tiempo de lo que me han pronosticado en UltraSignup.
 
 La verdad es que con 27:31:16 estaría muy contento si logró ese tiempo es esta carrera, pero es dos horas y tanto menos que en mi carrera anterior, y ya han pasado seis años de ese logro. Varios indicadores y comparativos de índices de dificultad me ponen cerca de ese tiempo, pero otros me ponen cerca del corte de la carrera, que son 30 horas. Solamente he terminado [Javelina](/2016/12/25/javelina-jundred-2016) y Western States debajo de 30 horas. Todas las demás me han tomado horas por encima de ese tiempo.

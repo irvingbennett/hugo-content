@@ -1,27 +1,16 @@
 ---
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1782129689
-    payload:
-      - id: 366
-      - id: 26
-      - id: 181
-      - id: 2318
-      - id: 213
-      - id: 690
 author: Rompy
 categories:
-  - "General"
-  - "Kayaking"
-date: "2005-10-26T16:33:02+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=36
+- General
+- Kayaking
+date: '2005-10-26T16:33:02+00:00'
 parent_post_id: null
-post_id: "36"
+post_id: '36'
+slug: pacora-san-miguel-al-caballo-blanco
 title: Pacora - San Miguel al Caballo Blanco
-url: /2005/10/26/pacora-san-miguel-al-caballo-blanco
-wpb_post_views_count: "13"
-
+wpb_post_views_count: '13'
 ---
+
 Este domingo aprovechamos toda la lluvia que caía y nos fuimos a remar al Pacora. Hacía mucho tiempo que no remábamos tantos a la vez. Eramos seis kayakeros, dos de los cuales eran nuevos en nuestro grupo. Ellos eran Scott Muller e Ignacio "Iñaki" Lassa. Scott es un remero de mucha experiencia e Iñaki tenía 15 años de no montarse en un kayak. Fuimos a La Chapa, pero realmente había mucha agua para meter a Iñaki en ese tramo.
 
 Bajamos a San Miguel y resultó perfecto. Con la cantidad de agua que había llovido el río tenía un excelente nivel. Había tanta agua que en ningún momento nos encontramos con tramos donde había que empujar el kayak. El tapón tenía tanta agua que nadie se decidió a bajarlo de lleno y todos optamos por diferentes rutas que obviaban el grueso de la corriente. Luego nos quedamos jugando por un buen rato en los rápidos debajo del Tapón. Scott perdió su bote en este rápido: su Dagger de Crosslink se partió feamente. Scott caminó devuelta a San Miguel desde este rápido y nos encontró río abajo con el carro.

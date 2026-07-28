@@ -1,42 +1,22 @@
 ---
-_edit_last: "1"
-_jetpack_dont_email_post_to_subs: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781881907
-    payload:
-      - id: 918
-      - id: 2279
-      - id: 2378
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781918486
-    payload:
-      - id: 918
-      - id: 2279
-      - id: 2378
-      - id: 1495
-      - id: 1306
-      - id: 992
-_thumbnail_id: "2272"
-_wpas_skip_6885108: "1"
-_wpas_skip_6885117: "1"
-_wpas_skip_6885125: "1"
-_wpas_skip_6885140: "1"
-_wpcom_is_markdown: "1"
+_jetpack_dont_email_post_to_subs: '1'
+_wpas_skip_6885108: '1'
+_wpas_skip_6885117: '1'
+_wpas_skip_6885125: '1'
+_wpas_skip_6885140: '1'
 author: Rompy
 categories:
-  - "Caminatas"
+- Caminatas
 cover:
-  image: "/wp-content/uploads/2012/10/578469_340855239344640_392239162_n.jpg"
-date: "2012-10-23T02:38:02+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=2271
+  image: /wp-content/uploads/2012/10/578469_340855239344640_392239162_n.jpg
+date: '2012-10-23T02:38:02+00:00'
 parent_post_id: null
-post_id: "2271"
+post_id: '2271'
+slug: 42-vueltas-por-fanlyc
 title: 42 Vueltas por Fanlyc
-url: /2012/10/22/42-vueltas-por-fanlyc
-wpb_post_views_count: "16"
-
+wpb_post_views_count: '16'
 ---
+
 [![](/wp-content/uploads/gallery_backup/578469_340855239344640_392239162_n.jpg) "Fundación Amigos de los Niños con Leucemia y Cáncer") en un circuito por Amador que medía 3 kilómetros. Iniciamos a correr a las 8:00am y el evento duraba 24 horas. Este año los corredores que llegaron a apoyar a los niños acumularon más 40,000 vueltas, algo fuera de serie. Fue fantástico ver a tantos corredores, caminantes, patinadores y ciclistas dando vueltas para apoyar a la fundación y sus niños. Los Ultra-Amigos fueron Karen Lezcano, Angel Darío Jiménez, Marvin Corea y su hijo (Marvin), Javier González, Ramsés Cano, Jaime Correa, Nicolás García y su hijo (Nicolás), Jorge A. Rodríguez (el padre de los Ultra Amigos)  y yo.
 
 Por suerte el día fue gentil con nosotros pues amaneció nublado y se quedó así por buen tiempo. El circuito de 3km permitía que nos re abasteciéramos fácilmente. Mary, la esposa de Nicolás García, también fue toda una ultra amiga y se mantuvo todas las 24 horas del Relevo por La Vida atendiendo la tolda de apoyo (toda una familia de ultras). Roberto Romero se encargó de mantenernos bien abastecidos con comida apropiada para apoyar el esfuerzo que estábamos haciendo todos.

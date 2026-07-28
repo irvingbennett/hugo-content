@@ -1,30 +1,20 @@
 ---
-_edit_last: "1"
-_jetpack_dont_email_post_to_subs: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781672847
-    payload:
-      - id: 992
-      - id: 237
-      - id: 463
-_wpas_skip_6885108: "1"
-_wpas_skip_6885117: "1"
-_wpas_skip_6885125: "1"
-_wpas_skip_6885140: "1"
-_wpcom_is_markdown: "1"
+_jetpack_dont_email_post_to_subs: '1'
+_wpas_skip_6885108: '1'
+_wpas_skip_6885117: '1'
+_wpas_skip_6885125: '1'
+_wpas_skip_6885140: '1'
 author: Rompy
 categories:
-  - "Caminatas"
-date: "2009-10-06T18:14:54+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=773
+- Caminatas
+date: '2009-10-06T18:14:54+00:00'
 parent_post_id: null
-post_id: "773"
+post_id: '773'
+slug: tres-hermanas-a-el-valle
 title: Tres Hermanas a El Valle
-url: /2009/10/06/tres-hermanas-a-el-valle
-wpb_post_views_count: "9"
-
+wpb_post_views_count: '9'
 ---
+
 {{< figure align="alignleft" width=300 src="/wp-content/uploads/gallery_backup/P9193340.jpg" alt="" caption="" >}}
 
 La semana pasada caminamos desde [Tres Hermanas hasta El Valle de Antón](/wp-content/uploads/gallery_backup/elretodelindio.info "El Reto del Indio").

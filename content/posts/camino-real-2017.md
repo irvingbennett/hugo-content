@@ -1,41 +1,29 @@
 ---
-_edit_last: "1"
-_jetpack_dont_email_post_to_subs: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781770686
-    payload:
-      - id: 64
-      - id: 534
-      - id: 899
-_publicize_twitter_user: '@irvingbennett'
-_thumbnail_id: "3191"
-_wpas_done_all: "1"
-_wpas_skip_6885108: "1"
-_wpas_skip_6885117: "1"
-_wpas_skip_6885125: "1"
-_wpas_skip_6885140: "1"
-_wpcom_is_markdown: "1"
+_jetpack_dont_email_post_to_subs: '1'
+_wpas_skip_6885108: '1'
+_wpas_skip_6885117: '1'
+_wpas_skip_6885125: '1'
+_wpas_skip_6885140: '1'
 ase_map_component_start_point:
   lat: 29.76
   lng: -95.38
 author: Rompy
 categories:
-  - "Caminatas"
+- Caminatas
 cover:
-  image: "/wp-content/uploads/2017/02/16508497_10155100416149665_6248952900338616855_n.jpg"
-date: "2017-02-25T20:42:23+00:00"
-enclosure: |-
-  http://u8z.3d5.mywebsitetransfer.com/wp-content/uploads/2017/02/16688543_730505003779719_7862644604124790784_n.mp4
-  11062054
-  video/mp4
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=3182
-parent_post_id: null
-post_id: "3182"
-title: Camino Real 2017
-url: /2017/02/25/camino-real-2017
+  image: /wp-content/uploads/2017/02/16508497_10155100416149665_6248952900338616855_n.jpg
+date: '2017-02-25T20:42:23+00:00'
+enclosure: 'http://u8z.3d5.mywebsitetransfer.com/wp-content/uploads/2017/02/16688543_730505003779719_7862644604124790784_n.mp4
 
+  11062054
+
+  video/mp4'
+parent_post_id: null
+post_id: '3182'
+slug: camino-real-2017
+title: Camino Real 2017
 ---
+
 El 4 y 5 de febrero de este año caminos de Nombre de Dios a Boquerón Arriba. Hacía tiempo no encontraba el camino tan difícil. El Huracán Otto hizo estragos con el camino: había muchos árboles caídos, varios derrumbes en la vía del ferrocarril, y un cruce que año tras año se hacía más duro esta vez se volvió imposible y tuvimos que improvisar un desvío grande. Pero, como siempre, ese camino sigue siendo una de las rutas más espectaculares que tenemos en Panamá.
 Hacía varios años no caminaba con un grupo tan grande. Eramos 23 caminantes y solamente Carlota e Yvonne, mi sobrina, eran las únicas que nunca habían caminado Boquerón. Como es típico cuando el grupo es grande, iniciamos la caminata un poco más tarde de lo usual. Entre una cosa y otra, a pesar de estar avanzando a un buen ritmo, y con pocas paradas, fuimos retrasándonos aún más en el camino por el Río Nombre de Dios. En general, y como cosa buena, en la caminata por el Nombre de Dios no vimos que hubiesen talado nada recientemente. Encontramos un para de lugares en donde habían puesto alambre a través del río, cosa que debe estar prohibido, pero nada más grave.
 
@@ -97,4 +85,4 @@ Me encantó ver que mi sobrina Yvonne y Carlota quedaron muy contentas con su pr
 
 {{< figure src="/wp-content/uploads/gallery_backup/16473047_10155100414084665_4568162559967830377_n.jpg" title="16473047\_10155100414084665\_4568162559967830377\_n" alt="16473047\_10155100414084665\_4568162559967830377\_n" >}}
 
-{{< figure src="/wp-content/uploads/gallery_backup/16406800_10155103657049940_4123045009694452603_n.jpg" title="16406800\_10155103657049940\_4123045009694452603\_n" alt="16406800\_10155103657049940\_4123045009694452603\_n" >}}  
+{{< figure src="/wp-content/uploads/gallery_backup/16406800_10155103657049940_4123045009694452603_n.jpg" title="16406800\_10155103657049940\_4123045009694452603\_n" alt="16406800\_10155103657049940\_4123045009694452603\_n" >}}

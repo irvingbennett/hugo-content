@@ -1,26 +1,13 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781882022
-    payload:
-      - id: 395
-      - id: 27
-      - id: 1008
-      - id: 949
-      - id: 1873
-      - id: 2382
 author: Rompy
 categories:
-  - "Kayaking"
-date: "2009-10-13T00:44:44+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=785
+- Kayaking
+date: '2009-10-13T00:44:44+00:00'
 parent_post_id: null
-post_id: "785"
+post_id: '785'
+slug: nuevos-kayaks-y-sus-remeros
 title: Nuevos Kayaks y Sus Remeros
-url: /2009/10/12/nuevos-kayaks-y-sus-remeros
-wpb_post_views_count: "10"
-
+wpb_post_views_count: '10'
 ---
 
 ![Mamoní](/wp-content/uploads/gallery_backup/PA113516.JPG)
@@ -36,4 +23,3 @@ Andrés, luego de practicar el rol una cantidad bárbara de veces, comenzó a fa
 Al final del día, que pareció eterno, todos estábamos en buenos ánimos y con ganas de regresar pronto. Robert, Andrés y Luis Angel quedaron debiendo un bootie bong (tomarse una cerveza en su bota de neopreno) por haber nadado. Si vuelven a nadar la próxima vez no se la perdonaremos. Mientras nos refrescábamos al final del río montamos los cinco botes al auto. Esa es una tarea difícil con tantos ingenieros de diferentes escuelas. Por suerte los botes lograron regresar de vuelta a la ciudad sin percance. No siempre es posible montar de manera segura esa cantidad de kayaks. Es fácil amarrar 4 botes en las barras, pero 5 botes ya es más problemático. Nos tomó 6 horas 30 minutos bajar el río por que no había mucha corriente. Cuando el flujo de agua es mayor puede que tome la mitad de ese tiempo para hacer el mismo recorrido.
 
 Quedé muy contento con la compañía en el río. Esa es la mejor parte de bajar un río con buenos amigos. Ahora estamos regresando a aumentar nuestra comunidad de remeros que ha sufrido varias pérdidas recientes: Jorge Patricio se dislocó un hombro, Tino se fue de Panamá (de vuelta a su país natal), Javier se ha vuelto un hombre de playa y a Ian el trabajo no le permite remar con frecuencia. También perdimos a nuestro mayor impulso del deporte, al gran Gary Vaucher, que falleció en una accidente de helicóptero. Hay varios otros remeros pero no es fácil traerlos al río. Este grupo de remeros nuevos están con los ánimos prendidos, que es lo importante.
-

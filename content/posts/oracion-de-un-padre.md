@@ -1,26 +1,15 @@
 ---
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781928406
-    payload:
-      - id: 840
-      - id: 341
-      - id: 2293
-      - id: 2412
-      - id: 1624
-      - id: 152
 author: Rompy
 categories:
-  - "General"
-date: "2006-05-18T16:34:39+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=130
+- General
+date: '2006-05-18T16:34:39+00:00'
 parent_post_id: null
-post_id: "130"
+post_id: '130'
+slug: oracion-de-un-padre
 title: Oración de un Padre
-url: /2006/05/18/oracion-de-un-padre
-wpb_post_views_count: "16"
-
+wpb_post_views_count: '16'
 ---
+
 Dame, Oh Señor, un hijo que sea lo bastante fuerte para saber cuando es débil y lo bastante valeroso para enfrentarse consigo mismo cuando sienta miedo; un hijo que sea orgulloso e inflexible en la derrota y honesto y magnánimo en la victoria.
 
 Dame un hijo que nunca doble la espalda cuando deba erguir el pecho; un hijo que sepa conocerte a ti..., y conocerse a si mismo, que es la piedra fundamental de todo conocimiento.

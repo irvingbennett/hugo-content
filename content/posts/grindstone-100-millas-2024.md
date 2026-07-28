@@ -1,43 +1,33 @@
 ---
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781731843
-    payload:
-      - id: 5853
-      - id: 6958
-      - id: 1339
 _publicize_shares:
-  - connection_id: 6900156
-    external_id: alairelibre.tumblr.com
-    external_name: Al Aire Libre
-    message: http://alairelibre.tumblr.com/post/762732981232205824
-    profile_link: http://alairelibre.tumblr.com/
-    profile_picture: ""
-    service: tumblr
-    status: success
-    timestamp: 1727398854
-_thumbnail_id: "6408"
-_wpas_done_all: "1"
-_wpcom_is_markdown: "1"
+- connection_id: 6900156
+  external_id: alairelibre.tumblr.com
+  external_name: Al Aire Libre
+  message: http://alairelibre.tumblr.com/post/762732981232205824
+  profile_link: http://alairelibre.tumblr.com/
+  profile_picture: ''
+  service: tumblr
+  status: success
+  timestamp: 1727398854
 author: Rompy
 categories:
-  - "Correr"
+- Correr
 cover:
-  image: "/wp-content/uploads/2024/09/20240920_174629-scaled.jpg"
-date: "2024-09-27T01:00:46+00:00"
-enclosure: |-
-  http://localhost/wp-content/uploads/2024/09/WhatsApp-Video-2024-09-22-at-9.35.29-AM.mp4
-  0
-  video/mp4
-guid: http://localhost/?p=6405
-parent_post_id: null
-post_id: "6405"
-tags:
-  - ultra
-title: Grindstone 100 millas 2024
-url: /2024/09/26/grindstone-100-millas-2024
+  image: /wp-content/uploads/2024/09/20240920_174629-scaled.jpg
+date: '2024-09-27T01:00:46+00:00'
+enclosure: 'http://localhost/wp-content/uploads/2024/09/WhatsApp-Video-2024-09-22-at-9.35.29-AM.mp4
 
+  0
+
+  video/mp4'
+parent_post_id: null
+post_id: '6405'
+slug: grindstone-100-millas-2024
+tags:
+- ultra
+title: Grindstone 100 millas 2024
 ---
+
 Este fin de semana que pasó, septiembre 20, 2024, corrimos Grindstone 100 millas en Virginia. Siete panameños se pararon en la línea de partida y todos terminaron. Eran casi los mismos que corrimos Hellbender el año pasado, pero reemplazando a Iñaki Lasa por Iván Zarak que corrió su primer 100 millas. Lagarto y yo llegamos a nuestras 20 100 millas terminadas.
 
 {{< figure src="/wp-content/uploads/gallery_backup/20240920_175755.jpg" alt="" caption="" >}}

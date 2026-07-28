@@ -1,20 +1,17 @@
 ---
-_edit_last: "1"
-_wpcom_is_markdown: "1"
 ase_map_component_start_point:
   lat: 29.76
   lng: -95.38
 author: Rompy
 categories:
-  - "General"
-date: "2013-07-23T12:10:58+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=2492
+- General
+date: '2013-07-23T12:10:58+00:00'
 parent_post_id: null
-post_id: "2492"
+post_id: '2492'
+slug: lista-de-vida
 title: Lista de Vida
-url: /2013/07/23/lista-de-vida
-
 ---
+
 Desde hace tiempo he mantenido una especie de "Bucket List", mi lista de vida, usando fuentes de inspiración como la revista Outside que publica [listas](http://www.outsideonline.com/adventure-travel/north-america/The-2013-Adventure-Bucket-List.html "Outside Bucket List") de manera regular. La Película ["Antes de Morir"](http://en.wikipedia.org/wiki/The_Bucket_List "The Bucket List") le dió un nombre claro a estas listas: cosas que quiero hacer antes de morir. En [43 Things](http://www.43things.com/person/irving "Mi última lista") se pueden hacer estas listas y darle seguimiento de cuando en vez para ver como vamos progresando en nuestro plan de vida general. Ultimamente el punto que estuvo una vez en la lista, tener hijos, que seguía al punto conseguir esposa, ha comenzado a prevalecer sobre todos los otros puntos en la lista.
 
 Hay algunos objetivos a los que no se les puede poner el gancho inmediatamente y que llevan toda una vida completándose. Por eso también es importante tener pequeños objetivos que puedan llenar los espacios intermedios entre los puntos grandes y las metas a largo plazo. Ahora mismo una de mis metas a medio plazo es Rocky Raccoon y hacer esas 100 millas en menos de 24 horas (febrero 2014). Pero en ese camino necesito tener otras pequeñas metas personales, familiares y financieras.

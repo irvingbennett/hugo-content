@@ -1,35 +1,21 @@
 ---
-_jetpack_memberships_contains_paid_content: ""
-_jetpack_memberships_contains_paywalled_content: ""
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781942609
-    payload:
-      - id: 6242
-      - id: 6302
-      - id: 6222
-      - id: 6601
-      - id: 796
-      - id: 341
+_jetpack_memberships_contains_paid_content: ''
+_jetpack_memberships_contains_paywalled_content: ''
 _last_editor_used_jetpack: block-editor
-_thumbnail_id: "6271"
-_wpas_done_all: "1"
-_wpcom_is_markdown: "1"
 author: Rompy
 categories:
-  - "Kayaking"
+- Kayaking
 cover:
-  image: "/wp-content/uploads/2024/05/20240524_183802-EFFECTS-1-scaled.jpg"
-date: "2024-05-28T16:54:09+00:00"
-guid: http://localhost/?p=6262
+  image: /wp-content/uploads/2024/05/20240524_183802-EFFECTS-1-scaled.jpg
+date: '2024-05-28T16:54:09+00:00'
 parent_post_id: null
-post_id: "6262"
+post_id: '6262'
+slug: detalles-del-coast-xt
 tags:
-  - kayaking
+- kayaking
 title: Detalles del Coast XT
-url: /2024/05/28/detalles-del-coast-xt
-
 ---
+
 Volví a armar el Coast XT al día siguiente, en casa, para repasar los pasos de la armada del bote, que, más bien, es una doblada. La segunda vez fue más rápida la armada porque no cometí el pequeño error del respaldar esta vez. Uno de los detalles resultantes del diseño de este bote es que los espacios de almacenamiento están restringidos y solo pueden accederse al monto de armar el bote. El único espacio a mano durante la remada es el que queda dentro de la cabina. Después de cerrar el bote lo volví a abrir para ver cómo empacarlo.
 
 {{< figure src="/wp-content/uploads/gallery_backup/20240524_095612.jpg" alt="" caption="" >}}

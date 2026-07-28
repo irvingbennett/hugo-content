@@ -1,27 +1,17 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781850063
-    payload:
-      - id: 1690
-      - id: 111
-      - id: 6933
-_thumbnail_id: "2153"
 author: Rompy
 categories:
-  - "Caminatas"
+- Caminatas
 cover:
-  image: "/wp-content/uploads/2012/07/Balboa-Patrol.jpg"
-date: "2012-07-24T23:37:48+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=2152
+  image: /wp-content/uploads/2012/07/Balboa-Patrol.jpg
+date: '2012-07-24T23:37:48+00:00'
 parent_post_id: null
-post_id: "2152"
+post_id: '2152'
+slug: cruce-de-balboa
 title: Cruce de Balboa
-url: /2012/07/24/cruce-de-balboa
-wpb_post_views_count: "17"
-
+wpb_post_views_count: '17'
 ---
+
 {{< figure align="aligncenter" width=640 src="/wp-content/uploads/gallery_backup/Balboa-Patrol.jpg" alt="" caption="" >}}
 
 Estoy planeando volver a repetir el cruce que hicimos en 1979 con la Patrulla Balboa ([Balboa Patrol](/2011/06/09/balboa-patrol "Balboa Patrol")) para celebrar los 500 años del descubrimiento del Mar del Sur por Vasco Nuñez de Balboa. Después de sacar mis mapas y trazar la ruta más aproximada a lo que hicimos hace más de 33 años la pasé a Google Earth para verla sobre el terreno actual. ¡Qué horror! Se han volado toda la selva desde el Chucunaque hasta Santa Fe. Esto ya lo había visto desde el Chucunaque hasta Metetí, pero igual me dió dolor verlo.

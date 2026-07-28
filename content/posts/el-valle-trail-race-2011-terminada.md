@@ -1,35 +1,24 @@
 ---
-_edit_last: "1"
-_jetpack_dont_email_post_to_subs: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1782164710
-    payload:
-      - id: 1411
-      - id: 1495
-      - id: 2181
-_thumbnail_id: "1799"
-_wpas_skip_6885108: "1"
-_wpas_skip_6885117: "1"
-_wpas_skip_6885125: "1"
-_wpas_skip_6885140: "1"
-_wpcom_is_markdown: "1"
+_jetpack_dont_email_post_to_subs: '1'
+_wpas_skip_6885108: '1'
+_wpas_skip_6885117: '1'
+_wpas_skip_6885125: '1'
+_wpas_skip_6885140: '1'
 author: Rompy
 categories:
-  - "Correr"
+- Correr
 cover:
-  image: "/wp-content/uploads/2011/09/P9110708.jpg"
-date: "2011-09-13T16:10:04+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=1796
+  image: /wp-content/uploads/2011/09/P9110708.jpg
+date: '2011-09-13T16:10:04+00:00'
 parent_post_id: null
-post_id: "1796"
+post_id: '1796'
+slug: el-valle-trail-race-2011-terminada
 tags:
-  - ultra
+- ultra
 title: El Valle Trail Race 2011 Terminada
-url: /2011/09/13/el-valle-trail-race-2011-terminada
-wpb_post_views_count: "21"
-
+wpb_post_views_count: '21'
 ---
+
 {{< figure align="aligncenter" width=584 src="/wp-content/uploads/gallery_backup/P9110708.jpg" alt="Partida" caption="Partida" >}}
 
 ¡Sobreviví El Valle Trail Race una vez más! Ahora si fue una bona fide ultra. A Daniel su reloj le marcó 49.82km, y a Carlitos le salió 50.1km. La próxima vez corremos la partida un poco más hacia atrás para estar seguros que nadie se quede corto en kilometraje. El clima que nos tocó no pudo ser más apropiado: nublado y fresco. Lástima que muchas vistas se perdieron en las nubes, pero eso era preferible a chamuscarse bajo un sol abrasador (cómo fue el del día siguiente en El Valle).

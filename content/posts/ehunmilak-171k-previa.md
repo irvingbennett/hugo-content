@@ -1,73 +1,52 @@
 ---
-_g_feedback_shortcode_62214f89dbc9417ae044bd05a061c1335f34a0f4: |-
-  [contact-field label="Nombre" type="name"  required="true" /]
-  				[contact-field label="Correo electrónico" type="email" required="true" /]
-  				[contact-field label="Web" type="url" /]
-  				[contact-field label="Mensaje" type="textarea" /]
+_g_feedback_shortcode_62214f89dbc9417ae044bd05a061c1335f34a0f4: "[contact-field label=\"Nombre\"
+  type=\"name\"  required=\"true\" /]\n\t\t\t\t[contact-field label=\"Correo electrónico\"
+  type=\"email\" required=\"true\" /]\n\t\t\t\t[contact-field label=\"Web\" type=\"url\"
+  /]\n\t\t\t\t[contact-field label=\"Mensaje\" type=\"textarea\" /]"
 _g_feedback_shortcode_atts_62214f89dbc9417ae044bd05a061c1335f34a0f4:
   block_template: null
   block_template_part: null
   className: null
-  customThankyou: ""
+  customThankyou: ''
   customThankyouHeading: Tu mensaje se ha enviado
   customThankyouMessage: ¡Gracias por tu envío!
-  customThankyouRedirect: ""
+  customThankyouRedirect: ''
   hiddenFields: null
   id: 6755
   jetpackCRM: true
   postToUrl: null
   salesforceData: null
-  show_subject: "no"
+  show_subject: 'no'
   stepTransition: fade-slide
   subject: '[Al Aire Libre] '
   submit_button_text: Enviar
   to: irving@alairelibre.net
   widget: 0
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1782145256
-    payload:
-      - id: 5853
-      - id: 6738
-      - id: 2437
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1782182676
-    payload:
-      - id: 5853
-      - id: 6738
-      - id: 2437
-      - id: 801
-      - id: 2884
-      - id: 1704
 _publicize_shares:
-  - connection_id: 6900156
-    external_id: alairelibre.tumblr.com
-    external_name: Al Aire Libre
-    message: http://alairelibre.tumblr.com/post/788696843975639041
-    profile_link: http://alairelibre.tumblr.com/
-    profile_picture: ""
-    service: tumblr
-    status: success
-    timestamp: 1752159923
-    wpcom_user_id: 1142432
-_thumbnail_id: "6756"
-_wpas_done_all: "1"
-_wpcom_is_markdown: "1"
+- connection_id: 6900156
+  external_id: alairelibre.tumblr.com
+  external_name: Al Aire Libre
+  message: http://alairelibre.tumblr.com/post/788696843975639041
+  profile_link: http://alairelibre.tumblr.com/
+  profile_picture: ''
+  service: tumblr
+  status: success
+  timestamp: 1752159923
+  wpcom_user_id: 1142432
 author: Rompy
 categories:
-  - "Correr"
+- Correr
 cover:
-  image: "/wp-content/uploads/2025/07/20250709_123737-scaled.jpg"
-date: "2025-07-10T15:05:12+00:00"
-guid: http://localhost/?p=6755
+  image: /wp-content/uploads/2025/07/20250709_123737-scaled.jpg
+date: '2025-07-10T15:05:12+00:00'
 parent_post_id: null
-post_id: "6755"
+post_id: '6755'
+slug: ehunmilak-171k-previa
 tags:
-  - ultra
+- ultra
 title: Ehunmilak 171k - Previa
-url: /2025/07/10/ehunmilak-171k-previa
-
 ---
+
 Ya estoy a poco más de 24 horas antes de que suene la partida de Ehunmilak. El clima está espectacular en estos momentos pero las predicciones son lluvia y tormenta para mañana y el sábado. Ojalá no sea otro caso de mi mala suerte persiguiéndome por Europa. Todas mis carreras de este lado del charco han estado acompañadas de mal tiempo, y parece que mi racha está por seguir. Lo bueno es que nunca pasamos de 1,500 metros y dudo que aquí paren la carrera por tormentas. Estos vascos son gente dura y no se echan atrás así por así.
 
 {{< figure src="/wp-content/uploads/gallery_backup/Screenshot_20250710_093535_Google-Play-Books.jpg" alt="" caption="" >}}

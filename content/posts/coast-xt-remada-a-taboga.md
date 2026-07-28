@@ -1,30 +1,19 @@
 ---
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781805210
-    payload:
-      - id: 6601
-      - id: 6232
-      - id: 6693
 _last_editor_used_jetpack: block-editor
-_thumbnail_id: "6311"
-_wpas_done_all: "1"
-_wpcom_is_markdown: "1"
 author: Rompy
 categories:
-  - "Kayaking"
+- Kayaking
 cover:
-  image: "/wp-content/uploads/2024/06/20240608_163117-scaled.jpg"
-date: "2024-06-12T00:45:34+00:00"
-guid: http://localhost/?p=6302
+  image: /wp-content/uploads/2024/06/20240608_163117-scaled.jpg
+date: '2024-06-12T00:45:34+00:00'
 parent_post_id: null
-post_id: "6302"
+post_id: '6302'
+slug: coast-xt-remada-a-taboga
 tags:
-  - kayaking
+- kayaking
 title: Coast XT - Remada a Taboga
-url: /2024/06/11/coast-xt-remada-a-taboga
-
 ---
+
 Este fin de semana remé a Taboga del sábado y de regreso el domingo. Salí de Parque Paitilla al medio día del sábado y regresé de Taboga en la mañana del domingo. Quería hacer remadas consecutivas para ver cómo me iba con las manos y la musculatura, y quería probar más a fondo el Coast XT. También probé la portabilidad de todo el equipo porque me fui en moto a la partida de la remada.
 
 Esta era la segunda remada mía en el [Orukayak Coast XT](/2024/05/27/orukayak-coast-xt). La primera fue una remada al atardecer hace unas semanas. Esta vez me dio lata la armada del bote. Llegué a las 11:55 am a Parque Paitilla y me encontré con la marea bajísima. Había revisado la tabla de mareas, pero no recordaba cuánto se retiraba el mar con una marea tan baja. Me tomó casi 45 minutos armar y empacar el kayak. Al final de todo me di cuenta que una cuerda había quedado mal y me tocó desarmar la proa para acomodarla. No me vuelve a pasar.

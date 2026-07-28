@@ -1,25 +1,17 @@
 ---
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781824729
-    payload:
-      - id: 23
-      - id: 5950
-      - id: 271
 author: Rompy
+categories:
+- General
 cover:
   image: /wp-content/uploads/gallery_backup/P4230003.JPG
-categories:
-  - "General"
-date: "2006-02-21T21:54:41+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=79
+date: '2006-02-21T21:54:41+00:00'
 parent_post_id: null
-post_id: "79"
+post_id: '79'
+slug: las-canoas-son-ideales-para-acampar
 title: Las canoas son ideales para acampar
-url: /2006/02/21/las-canoas-son-ideales-para-acampar
-wpb_post_views_count: "14"
-
+wpb_post_views_count: '14'
 ---
+
 Las canoas son ideales para acampar. Son embarcaciones con gran capacidad de carga. Son muy prácticas para acampar cómodamente. No se está con las limitaciones de tener que cargarlo todo al lomo. También permiten llegar a lugares recónditos rápidamente. Hoy día los kayaks dobles, como el Ocean Kayak Cabo, también pueden dar resultados buenos, pero la canoa sigue siendo superior al momento de echarle la carga al kayak.
 
 Me gusta la capacidad de carga de la canoa por que permite llevar a toda la familia en un solo bote. En nuestra canoa de 17' cabemos Lorena, Irving, Laura y yo más nuestro equipaje para acampar. Necesitaría una canoa más grande para poder llevar a nuestros tres dobermans: Lua, Fulo y Dorita. Pero ellos pueden caminar por la orilla siguiendo a los botes. Pero posiblemente si cabrían en una canoa Old Town Tripper XL de 20', como la de Johnny.

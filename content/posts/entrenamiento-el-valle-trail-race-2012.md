@@ -1,29 +1,19 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781743013
-    payload:
-      - id: 2175
-      - id: 2388
-      - id: 1944
-_thumbnail_id: "2188"
 author: Rompy
 categories:
-  - "Correr"
+- Correr
 cover:
-  image: "/wp-content/uploads/2012/08/DSCN1439.jpg"
-date: "2012-08-14T18:27:19+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=2181
+  image: /wp-content/uploads/2012/08/DSCN1439.jpg
+date: '2012-08-14T18:27:19+00:00'
 parent_post_id: null
-post_id: "2181"
+post_id: '2181'
+slug: entrenamiento-el-valle-trail-race-2012
 tags:
-  - ultra
+- ultra
 title: Entrenamiento El Valle Trail Race 2012
-url: /2012/08/14/entrenamiento-el-valle-trail-race-2012
-wpb_post_views_count: "18"
-
+wpb_post_views_count: '18'
 ---
+
 [![](/wp-content/uploads/2012/08/DSCN1439-640x480.jpg)](//wp-content/uploads/2012/08/DSCN1439.jpg) Este domingo a las 3:30am Roger y yo iniciamos un entrenamiento por la ruta de El Valle Trail Race. El entrenamiento sería nuestro último gran fondo antes de el Ultra Trail du Mont Blanc que vamos a correr a final de agosto. Corrimos toda la sección de La Silla de noche y regresamos a las antenas justo cuando estaba rayando el sol. Fue muy divertido bajar La Silla en completa oscuridad. La luna estaba en cuarto creciente y lo único que nos alumbraba era la lámpara de cabeza y la luz de las estrellas.
 
 Bajando hacia El Roble fui a hacer un ajuste en mis botellas de agua y fue lo último que vi de Roger hasta regresar a El Valle al completar la primera parte del recorrido que medía 30km. Roger me sacó por lo menos media hora, capaz que más, por que me espero en Cabuya un buen rato antes de seguir en su recorrido. Pero yo tenía que atender un llamado de la naturaleza que me demoró suficiente para que Roger se enfriara mucho y decidiera seguir corriendo (qué buen hermano, esperándome).
@@ -68,4 +58,4 @@ Al final del entrenamiento creo que estoy tan listo como voy a estar para el UTM
 
 {{< figure src="/wp-content/uploads/gallery_backup/DSCN1441.jpg" title="DSCN1441" alt="DSCN1441" >}}
 
-{{< figure src="/wp-content/uploads/gallery_backup/DSCN1406.jpg" title="DSCN1406" alt="DSCN1406" >}}  
+{{< figure src="/wp-content/uploads/gallery_backup/DSCN1406.jpg" title="DSCN1406" alt="DSCN1406" >}}

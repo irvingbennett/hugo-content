@@ -1,23 +1,13 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781734831
-    payload:
-      - id: 1845
-      - id: 1956
-      - id: 6755
 author: Rompy
 categories:
-  - "Correr"
-date: "2011-10-29T14:20:35+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=1854
+- Correr
+date: '2011-10-29T14:20:35+00:00'
 parent_post_id: null
-post_id: "1854"
+post_id: '1854'
+slug: hokas
 title: 'Hokas '
-url: /2011/10/29/hokas
-wpb_post_views_count: "10"
-
+wpb_post_views_count: '10'
 ---
 
 ![X-talon y Mafate](/wp-content/uploads/gallery_backup/231020112531.jpg)

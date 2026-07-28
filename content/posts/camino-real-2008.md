@@ -1,37 +1,32 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781781947
-    payload:
-      - id: 64
-      - id: 1935
-      - id: 3182
-_thumbnail_id: "1592"
-_wpcom_is_markdown: "1"
 author: Rompy
 categories:
-  - "Caminatas"
+- Caminatas
 cover:
-  image: "/wp-content/uploads/2008/02/P2180119-scaled.jpg"
-date: "2008-02-19T12:11:16+00:00"
+  image: /wp-content/uploads/2008/02/P2180119-scaled.jpg
+date: '2008-02-19T12:11:16+00:00'
 embed: This is the default text
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=252
-image: ""
+image: ''
 parent_post_id: null
-post_id: "252"
-seo_follow: "false"
-seo_noindex: "false"
-summary: |
-   Ayer regresamos de nuestro recorrido por El  a Boquerón Arriba. Jordi y yo estábamos acompañando a Jesus Luna (jefe de campamento) y a Andrés Ciudad (sub-director) de La Ruta Quetzal 2008. Nos acompañó el legendario Luis Puleio, especialista de supervivencia en la selva de las antiguas Fuerzas de Defensa de Panamá. Además venían Yaser y Juan Carlos de SINAPROC. Hicimos nuestro recorrido habitual del Camino Real desde el punto hasta donde llega el auto por el lado de Nombre de Dios hasta Boquerón arriba.
+post_id: '252'
+seo_follow: 'false'
+seo_noindex: 'false'
+slug: camino-real-2008
+summary: 'Ayer regresamos de nuestro recorrido por El  a Boquerón Arriba. Jordi y
+  yo estábamos acompañando a Jesus Luna (jefe de campamento) y a Andrés Ciudad (sub-director)
+  de La Ruta Quetzal 2008. Nos acompañó el legendario Luis Puleio, especialista de
+  supervivencia en la selva de las antiguas Fuerzas de Defensa de Panamá. Además venían
+  Yaser y Juan Carlos de SINAPROC. Hicimos nuestro recorrido habitual del Camino Real
+  desde el punto hasta donde llega el auto por el lado de Nombre de Dios hasta Boquerón
+  arriba.
 
+  '
 tags:
-  - travesias
+- travesias
 title: Camino Real 2008
-url: /2008/02/19/camino-real-2008
-wpb_post_views_count: "10"
-
+wpb_post_views_count: '10'
 ---
+
 Ayer regresamos de nuestro recorrido por El  a Boquerón Arriba. Jordi y yo estábamos acompañando a Jesus Luna (jefe de campamento) y a Andrés Ciudad (sub-director) de La Ruta Quetzal 2008. Nos acompañó el legendario Luis Puleio, especialista de supervivencia en la selva de las antiguas Fuerzas de Defensa de Panamá. Además venían Yaser y Juan Carlos de SINAPROC. Hicimos nuestro recorrido habitual del Camino Real desde el punto hasta donde llega el auto por el lado de Nombre de Dios hasta Boquerón arriba.
 
 Después de 18 años de estar haciendo este recorrido, no me sorprende mucho de lo que pueda encontrarme en el camino. Pero esta vez vi algo que nunca pensé que se daría en esta ruta. Un tractor había entrado por el río Nombre de Dios casi hasta Brazo de Cedro, acomodando la cama del río para poder entrar en un buen 4x4 hasta una finca que está como 5 kilómetros río arriba. Lo peor de esta destrucción indiscriminada es que había acomodado los bancos de los ríos para hacer posible el fácil tránsito, destruyendo playones y pozas que eran de los lugares más atractivos del río Nombre de Dios. Encima de esto, todavía vimos más tala y quema de bosque, también cerca de Brazo de Cedro. ¡Este tractor ha destruído propiedad pública sin reparo alguno!

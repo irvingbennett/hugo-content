@@ -1,36 +1,20 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781855831
-    payload:
-      - id: 2714
-      - id: 2690
-      - id: 2947
-      - id: 2884
-      - id: 2661
-      - id: 2623
 _publicize_facebook_user: https://www.facebook.com/irving.bennett
-_publicize_twitter_user: '@irvingbennett'
-_thumbnail_id: "2737"
-_wpas_done_all: "1"
-_wpcom_is_markdown: "1"
 author: Rompy
 categories:
-  - "Correr"
+- Correr
 cover:
-  image: "/wp-content/uploads/2014/08/10329195_10153333649516686_3853995579848359496_n.jpg"
-date: "2014-08-22T14:25:58+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=2733
+  image: /wp-content/uploads/2014/08/10329195_10153333649516686_3853995579848359496_n.jpg
+date: '2014-08-22T14:25:58+00:00'
 parent_post_id: null
-post_id: "2733"
-post_views_count: "0"
+post_id: '2733'
+post_views_count: '0'
+slug: fat-dog-120m-alucinante
 tags:
-  - ultra
+- ultra
 title: Fat Dog 120m Alucinante
-url: /2014/08/22/fat-dog-120m-alucinante
-
 ---
+
 [![10574282_10153333649451686_6363361106647499525_n](/wp-content/uploads/2014/08/10574282_10153333649451686_6363361106647499525_n-640x480.jpg)](//wp-content/uploads/2014/08/10574282_10153333649451686_6363361106647499525_n.jpg) Este fin de semana completé Fat Dog 120 millas en 45 horas, 25 minutos y 34 segundos. Todos los Panameños que fuimos a correr completamos nuestra carrera -- el 100%, algo fantástico. Es difícil traer de vuelta la experiencia de un evento tan largo porque el relato se puede volver algo monótono y a la vez hay tanta experiencia que quiero compartir. Para mi la experiencia de seguir corriendo a través de la segunda noche, comenzando desde las 34 horas de correr en adelante, fue algo muy nuevo que nunca había experimentado, en especial las alucinaciones o ilusiones ópticas que experimentaba continuamente. Curiosamente el agotamiento físico fue mínimo y logré cerrar la carrera corriendo a excelente ritmo.
 
 De los 120+ que se pararon en la partida solamente llegaron 84 a la meta, el resto fue cayendo poco a poco en el camino. Nuestro lote le ganó a las estadísticas y todos cruzaron la meta: #35 - Jose Orillac - 38:55:33, #47 - Tao Costarangos - 40:37:52, #69 - Irving Bennett - 45:25:34 y #71 - Luis Stoute - 45:41:49. Carlos Rettally completó sus 70 millas en 20:50:44 y quedó de décimo en su carrera. Nuestros resultados son testimonio de la buena preparación que hicimos a través de estos últimos seis meses. Estoy muy orgulloso del desempeño de Jose y Tao porque ambos dieron todo lo que podían dar y terminaron a pesar de que al final venían con fuertes dolores pero no se doblegaron. Ahora les toca una buena recuperación para que sus cuerpos regresen a la normalidad después de terminar su primera carrera arriba de 160 kilómetros y el primer 192km para todos nosotros. Tao saltó de 50km directo a 192km sin antes haber corrido distancias intermedias: ¡barbarazo!

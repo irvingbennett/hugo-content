@@ -1,28 +1,19 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781989065
-    payload:
-      - id: 192
-      - id: 918
-      - id: 969
 author: Rompy
 categories:
-  - "Correr"
-date: "2010-03-30T20:23:35+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=908
+- Correr
+date: '2010-03-30T20:23:35+00:00'
 parent_post_id: null
-post_id: "908"
+post_id: '908'
+slug: 80k-american-river-2
 tags:
-  - ultra
+- ultra
 thesis_post_image: http://u8z.3d5.mywebsitetransfer.com/wp-content/uploads/2010/03/el-valle-e1269980755808.jpg
 thesis_post_image_alt: Maratón de El Valle con Alicia Zorrilla
 title: 80k - American River
-url: /2010/03/30/80k-american-river-2
-wpb_post_views_count: "24"
-
+wpb_post_views_count: '24'
 ---
+
 He estado tratando de proyectar que tiempo voy a hacer en el ultra maratón de American River. Estoy fuera de mi marco de experiencia ya que lo más que he corrido son 42k. De lo que he leído, un buen estimado es el tiempo normal de un maratón más 2 horas adicionales. ¿Pero qué considero el tiempo normal de un maratón? He estado mejorando mis maratones desde que los he estado corriendo. ¿Qué tiempo tomo como referencia? El promedio es una posibilidad, pero la realidad es que el promedio es un tiempo muy alto para lo que estoy corriendo ahora mismo. A la misma vez, mi mejor tiempo también esta basado en un solo maratón.
 
 Creo que puedo tomar 4 horas como mi maratón de referencia, y estoy seguro que ese es un tiempo conservador que fácilmente puedo superar. Con esa cifra llego a 10 horas par el tiempo estimado de mi ultra próximo. Mis expectativas están en 9:30, como siempre, siendo optimista. Cualquier tiempo que tenga un 9:?? me haría feliz. El próximo punto es estimar el paso que me va a llevar a la meta dentro de ese tiempo. No puedo tomar ese tiempo y dividirlo entre la distancia y pensar que ya he llegado a el paso que debo sostener.

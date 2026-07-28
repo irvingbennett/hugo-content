@@ -1,39 +1,23 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1782029207
-    payload:
-      - id: 2378
-      - id: 5960
-      - id: 2947
-      - id: 6958
-      - id: 1704
-      - id: 6432
 _publicize_facebook_user: http://www.facebook.com/509096638
-_publicize_twitter_user: '@irvingbennett'
-_thumbnail_id: "2885"
-_wpas_done_all: "1"
-_wpcom_is_markdown: "1"
 ase_map_component_start_point:
   lat: 29.76
   lng: -95.38
 author: Rompy
 categories:
-  - "Correr"
+- Correr
 cover:
-  image: "/wp-content/uploads/2015/07/TRT-panorama-scaled.jpg"
-date: "2015-07-10T02:47:43+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=2884
+  image: /wp-content/uploads/2015/07/TRT-panorama-scaled.jpg
+date: '2015-07-10T02:47:43+00:00'
 parent_post_id: null
-post_id: "2884"
+post_id: '2884'
+slug: tahoe-rim-trail-100
 tags:
-  - correr
-  - ultra
+- correr
+- ultra
 title: Tahoe Rim Trail 100
-url: /2015/07/09/tahoe-rim-trail-100
-
 ---
+
 Bueno, en exactamente una semana salimos para Tahoe Rim Trail 100m y arrancamos a correr el sábado 18 de julio, 2015. Tenemos 35 horas para terminar nuestra carrera. Vamos Luis Carlos Stoute, José Orillac, Ernesto Durán, Isabel Bennett, Roger Bennett y yo a ver que podemos hacer en esa carrera. Isa va por 80km (su debut en esa distancia) y el resto vamos por los 161km que se corren en dos vueltas del circuito de 80km. En esta ocasión no me he preocupado mucho por lo que me espera y ahora, a última hora, tengo dudas sobre lo que voy a poder hacer.
 
 Esta sería la sexta ocasión que me paro en la linea de partida de una carrera de esa distancia. Ya me siento tranquilo con completar la carrera, y eso es bueno. Lo malo es que me siento tranquilo con completar la carrera. Estaba muy juicioso entrenando bastante y luego se me acabó la motivación y no logré preocuparme suficiente para volver a iniciar mi régimen de entrenamiento. Hace un mes terminé The North Face Endurance Race 80km en 14 horas bajo un calor agobiante y corriendo a un paso lento. En mi mente atrofiada la matemática sencilla dice que ese tiempo (por dos) me lleva a terminar en 28 horas. En la práctica estoy claro que esos números no se suman de esa forma cuando se trata de una carrera tan larga. Menos cuando he entrenado tan poco en estas últimas semanas.
@@ -52,4 +36,4 @@ La alimentación, la vestimenta, las zapatillas y lo demás ya está todo probad
 
 {{< figure src="/wp-content/uploads/gallery_backup/TRT-panorama.jpg" title="TRT-panorama" alt="TRT-panorama" >}}
 
-{{< figure src="/wp-content/uploads/gallery_backup/10329195_10153333649516686_3853995579848359496_n.jpg" title="10329195\_10153333649516686\_3853995579848359496\_n" alt="10329195\_10153333649516686\_3853995579848359496\_n" >}}  
+{{< figure src="/wp-content/uploads/gallery_backup/10329195_10153333649516686_3853995579848359496_n.jpg" title="10329195\_10153333649516686\_3853995579848359496\_n" alt="10329195\_10153333649516686\_3853995579848359496\_n" >}}

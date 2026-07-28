@@ -1,26 +1,17 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781938492
-    payload:
-      - id: 2378
-      - id: 1495
-      - id: 1949
 author: Rompy
 categories:
-  - "Correr"
-date: "2011-03-23T22:59:06+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=1490
+- Correr
+date: '2011-03-23T22:59:06+00:00'
 parent_post_id: null
-post_id: "1490"
+post_id: '1490'
+slug: ultra-fondo
 tags:
-  - ultra
+- ultra
 title: Ultra Fondo
-url: /2011/03/23/ultra-fondo
-wpb_post_views_count: "15"
-
+wpb_post_views_count: '15'
 ---
+
 \[caption id="attachment\_1491" align="alignleft" width="300" caption="San Miguel a Altos de Pacora"\] [![](/wp-content/uploads/2011/03/SanMiguel-AltosdePacora-300x224.jpg)](//wp-content/uploads/2011/03/SanMiguel-AltosdePacora.jpg)\[/caption\]
 
 \[caption id="attachment\_1492" align="alignleft" width="300" caption="Ultra Mamoni 50km"\] [![](/wp-content/uploads/2011/03/UltraMamoni2-300x223.jpg)](//wp-content/uploads/2011/03/UltraMamoni2.jpg)\[/caption\]

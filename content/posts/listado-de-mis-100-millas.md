@@ -1,29 +1,16 @@
 ---
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1782123704
-    payload:
-      - id: 6025
-      - id: 6432
-      - id: 6958
 _last_editor_used_jetpack: block-editor
-_publicize_twitter_user: '@irvingbennett'
-_thumbnail_id: "5239"
-_wpas_done_all: "1"
-_wpcom_is_markdown: "1"
 author: Rompy
 categories:
-  - "Correr"
-  - "General"
+- Correr
+- General
 cover:
-  image: "/wp-content/uploads/2019/05/20190525_142427-e1559226422147.jpg"
-date: "2019-05-30T14:07:12+00:00"
-guid: http://u8z.3d5.mywebsitetransfer.com/?p=5237
+  image: /wp-content/uploads/2019/05/20190525_142427-e1559226422147.jpg
+date: '2019-05-30T14:07:12+00:00'
 parent_post_id: null
-post_id: "5237"
+post_id: '5237'
+slug: listado-de-mis-100-millas
 title: Listado de mis 100 millas
-url: /2019/05/30/listado-de-mis-100-millas
-
 ---
 
 | # | Nombre | Tiempo | Fecha | Lugar |

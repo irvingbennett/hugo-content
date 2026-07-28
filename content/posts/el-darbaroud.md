@@ -1,29 +1,17 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781972450
-    payload:
-      - id: 1778
-      - id: 1792
-      - id: 192
-      - id: 1411
-      - id: 5860
-      - id: 5853
 author: Rompy
 categories:
-  - "Caminatas"
-date: "2009-06-10T19:07:45+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=677
+- Caminatas
+date: '2009-06-10T19:07:45+00:00'
 parent_post_id: null
-post_id: "677"
+post_id: '677'
+slug: el-darbaroud
 thesis_post_image: http://u8z.3d5.mywebsitetransfer.com/wp-content/uploads/2009/06/uk_montage_bandeau25mds.jpg
 thesis_post_image_alt: Maraton des Sable
 title: El Darbaroud
-url: /2009/06/10/el-darbaroud
-wpb_post_views_count: "12"
-
+wpb_post_views_count: '12'
 ---
+
 El [Darbaroud](http://darbaroud.com "Maraton des Sables"), el Maratón des Sables, es una carrera de 6 días que se corre en Marruecos, en su desierto del Sahara. Es una carrera autocontenida: los corredores deben cargar toda su comida, su equipo y pertrechos para usar durante la duración de la carrera. Los organizadores del evento solamente proveen agua (una cantidad limitada diariamente) y aposentos para dormir (toldas de lona). La carrera tiene unos 250 kilómetros de recorrido, lo que sale como a un promedio de 42 kilómetros diarios. Una de las etapas es continua - hay que recorrer la distancia en un tiempo corrido que incluye la noche.
 
 Desde hace años tengo ganas de participar en esta carrera. Este año que viene, en el 2010, van a correr la 25ª versión de la carrera. Tengo casi un año para prepararme, y unas ganas tremendas de participar. He estado tratando de convencer a cualquier amigo que pueda tener el interés en acompañarme, pero no son muchos los que podrían estar interesados. Mi mejor posibilidad era mi hermano, pero el ya me ha dicho varias veces que no le interesa ese formato de carrera.

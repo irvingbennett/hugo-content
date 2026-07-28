@@ -1,37 +1,26 @@
 ---
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781869327
-    payload:
-      - id: 6958
-      - id: 5853
-      - id: 6025
 _publicize_shares:
-  - connection_id: 6900156
-    external_id: alairelibre.tumblr.com
-    external_name: Al Aire Libre
-    message: http://alairelibre.tumblr.com/post/763096960999751680
-    profile_link: http://alairelibre.tumblr.com/
-    profile_picture: ""
-    service: tumblr
-    status: success
-    timestamp: 1727745973
-_thumbnail_id: "6455"
-_wpas_done_all: "1"
-_wpcom_is_markdown: "1"
+- connection_id: 6900156
+  external_id: alairelibre.tumblr.com
+  external_name: Al Aire Libre
+  message: http://alairelibre.tumblr.com/post/763096960999751680
+  profile_link: http://alairelibre.tumblr.com/
+  profile_picture: ''
+  service: tumblr
+  status: success
+  timestamp: 1727745973
 author: Rompy
 categories:
-  - "General"
+- General
 cover:
-  image: "/wp-content/uploads/2024/09/20241010_154629-scaled.jpg"
-date: "2024-10-01T01:26:06+00:00"
-guid: http://localhost/?p=6432
+  image: /wp-content/uploads/2024/09/20241010_154629-scaled.jpg
+date: '2024-10-01T01:26:06+00:00'
 parent_post_id: null
-post_id: "6432"
+post_id: '6432'
+slug: 100-millas-20
 title: '100 Millas #20'
-url: /2024/09/30/100-millas-20
-
 ---
+
 Este año he sumado dos cien millas más: El Reto del Indio y Grindstone. Con eso he llegado a 20 hebillas y sigo empatado con José Orillac en carreras. Somos pocos los que hemos logrado terminar esa cantidad de 100 millas. No se conoce la cantidad exacta, pero es muy probable que seamos sólo unas centenas. En todo caso, es un buen logro.
 
 {{< figure src="/wp-content/uploads/gallery_backup/WhatsApp-Image-2024-09-22-at-10.41.35-AM.jpeg" alt="Irving Bennett con hebilla de Grindstone 100 millas" caption="Irving Bennett con hebilla de Grindstone 100 millas" >}}

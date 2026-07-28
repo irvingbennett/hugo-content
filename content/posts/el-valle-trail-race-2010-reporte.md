@@ -1,28 +1,19 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1782129816
-    payload:
-      - id: 1796
-      - id: 1495
-      - id: 1111
-_wp_old_slug: ""
+_wp_old_slug: ''
 author: Rompy
 categories:
-  - "Correr"
-date: "2010-08-16T13:27:07+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=1153
+- Correr
+date: '2010-08-16T13:27:07+00:00'
 parent_post_id: null
-post_id: "1153"
+post_id: '1153'
+slug: el-valle-trail-race-2010-reporte
 tags:
-  - maraton
-  - ultra
+- maraton
+- ultra
 title: El Valle Trail Race 2010 - Reporte
-url: /2010/08/16/el-valle-trail-race-2010-reporte
-wpb_post_views_count: "18"
-
+wpb_post_views_count: '18'
 ---
+
 ¡Sobreviví El Valle Trail Race 2010! Había calculado 7 horas 30 minutos para terminar los 45km y me tomó 8:05. Cuando llegué a la meta solamente quedaban los organizadores, mi esposa Lorena y los Hashers esperándome con una cerveza. Recibí la triste noticia de la muerte de nuestro amigo Joe Parker cuanbo yo iba en la recta final, y cruzar la meta fue una mezcla de júbilo y dolor. Pero estoy seguro que Joe Parker murió como quería, con las zapatillas puestas.
 
 Como yo conocía la ruta íntegra, corrí con pleno conocimiento de todo lo que venía, y también lo hice con un plan bien definido: llegar a la meta. La carrera estaba diseñada para que las bajadas permitieran correr con bastante seguridad y las subidas iban por las partes más difíciles. Si la carrera hubiese sido en el sentido contrario, las subidas hubiesen sido fáciles y las bajadas mucho más difíciles.

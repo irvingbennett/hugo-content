@@ -1,34 +1,16 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781776524
-    payload:
-      - id: 1873
-      - id: 2382
-      - id: 1391
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781774636
-    payload:
-      - id: 1873
-      - id: 2382
-      - id: 1391
-      - id: 785
-      - id: 1893
-      - id: 35
 _wp_old_slug: reunion-de-flota-2009
 author: Rompy
 categories:
-  - "Kayaking"
-date: "2008-10-28T12:47:04+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=395
+- Kayaking
+date: '2008-10-28T12:47:04+00:00'
 parent_post_id: null
-post_id: "395"
+post_id: '395'
+slug: reunion-de-flota-2008
 title: Reunión de Flota - 2008
-url: /2008/10/28/reunion-de-flota-2008
-wpb_post_views_count: "11"
-
+wpb_post_views_count: '11'
 ---
+
 ![Botes en la orilla](/wp-content/uploads/gallery_backup/PA260025.JPG)
 
 Este domingo hicimos una "Reunión de Flota" en el Río Mamoní - invitamos a todos los que tuvieran algo que flotaba para que vinieran a remar juntos ese día. Reunimos a más de 30 botes en el río. No pude contar exactamente cuantos eran por que tratando de arreglar todo lo que necesitaba organizar para el transporte de los autos me quedé solo en el inicio y no pude contar los botes cuando estaban todos juntos. Ni siquiera para el almuerzo se volvieron a juntar todos los botes por que un bote se fue de largo y otro se atrazó.

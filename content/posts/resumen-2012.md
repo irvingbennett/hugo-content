@@ -1,34 +1,15 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781695359
-    payload:
-      - id: 5681
-      - id: 2553
-      - id: 1690
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781682971
-    payload:
-      - id: 5681
-      - id: 2553
-      - id: 1690
-      - id: 1873
-      - id: 1374
-      - id: 162
-_wpas_done_all: "1"
 author: Rompy
 categories:
-  - "General"
-date: "2012-12-29T04:25:57+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=2388
+- General
+date: '2012-12-29T04:25:57+00:00'
 parent_post_id: null
-post_id: "2388"
+post_id: '2388'
+slug: resumen-2012
 title: Resumen 2012
-url: /2012/12/28/resumen-2012
-wpb_post_views_count: "38"
-
+wpb_post_views_count: '38'
 ---
+
 [![Shangri-La](/wp-content/uploads/2012/12/DSCN1467-640x480.jpg)](//wp-content/uploads/2012/12/DSCN1467.jpg) Estaba revisando las fotos de este año para hacer un pequeño resumen de nuestras actividades. Este ha sido un año fantástico. ¡Hemos hecho mucho este año! Tengo unas 3,600+ fotos de nuestras actividades y  el recuento sería necesariamente largo si lo hago muy detallado. Espero que al igual que el 2011 también fue un año productivo, el 2013 supere este año con todo lo que logremos ejecutar. En ese sentido, una de mis metas principales es seguir compartiendo todo el tiempo que pueda con mi esposa, mis hijos, mi familia y amigos.
 
 Deje varias cosas por fuera para poder hacer otras: Los Relevos Transístmicos 2012 y El Reto del Indio 2012 fueron reemplazados por un viaje en canoa bajando el Río Tabasará a principios de enero, y un viaje en auto alrededor de Costa Rica al final de enero. Estábamos tan ocupados al principio del año que casi no escribí entradas en esta bitácora mientras aprovechábamos las vacaciones de nuestros hijos al máximo.
@@ -89,4 +70,4 @@ En diciembre arrancamos con el maratón de Panamá. justo antes de navidad fuimo
 
 {{< figure src="/wp-content/uploads/gallery_backup/DSCN1467.jpg" title="Shangri-La" alt="Shangri-La" >}}
 
-{{< figure src="/wp-content/uploads/gallery_backup/DSCN2704.jpg" title="Foto de Partida" alt="Foto de Partida" >}}  
+{{< figure src="/wp-content/uploads/gallery_backup/DSCN2704.jpg" title="Foto de Partida" alt="Foto de Partida" >}}

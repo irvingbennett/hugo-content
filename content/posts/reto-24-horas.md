@@ -1,36 +1,26 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781793351
-    payload:
-      - id: 243
-      - id: 463
-      - id: 1391
-_wpas_skip_6885108: "1"
-_wpas_skip_6885117: "1"
-_wpas_skip_6885125: "1"
-_wpas_skip_6885140: "1"
-_wpcom_is_markdown: "1"
+_wpas_skip_6885108: '1'
+_wpas_skip_6885117: '1'
+_wpas_skip_6885125: '1'
+_wpas_skip_6885140: '1'
 author: Rompy
 categories:
-  - "Bicicletas"
-  - "Caminatas"
-  - "Kayaking"
-date: "2010-01-11T15:55:20+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=831
+- Bicicletas
+- Caminatas
+- Kayaking
+date: '2010-01-11T15:55:20+00:00'
 parent_post_id: null
-post_id: "831"
+post_id: '831'
+slug: reto-24-horas
 tags:
-  - travesias
+- travesias
 thesis_post_image: http://u8z.3d5.mywebsitetransfer.com/wp-content/uploads/2010/01/P1090009-e1263475301396.jpg
 thesis_post_image_alt: Foto de Partida
-thesis_thumb_frame: "on"
+thesis_thumb_frame: 'on'
 title: Reto 24 Horas
-url: /2010/01/11/reto-24-horas
-wpb_post_views_count: "9"
-
+wpb_post_views_count: '9'
 ---
+
 Ayer terminamos nuestro 6to [Reto del Indio](http://elretodelindio.info "El Reto del Indio") en menos de 24 horas. Después de cinco años durmiendo en el camino decidimos que lo haríamos sin dormir y calculamos que si no parábamos podíamos hacerlo en 24 horas. ¡Si se puede! La [foto de partida](/wp-content/uploads/gallery_backup/P1090008.JPG.html "Foto") la tomé a las 13:52 del sábado, y la foto bajo el puente del Río Indio la tomé a las 13:38, 23 horas y 46 minutos más tarde. Y todos terminamos en mejor ánimo que en años anteriores.
 
 Para lograr hacer el recorrido en menos de 24 horas hicimos unos pequeños cambios, de los cuales el más importante fue no dormir. Este fue el mayor ahorro en tiempo que logramos. El no dormir también nos permitió caminar más rápido al eliminar una cena, un desayuno, y los pertrechos para dormir - caminamos sin mochilas. Otro cambio fue que alargamos la bicicleteada por que ahora los autos nos podían recoger en Jordanal, unos kilómetros más allá de Río Indio Nacimiento. El camino estaba recién cortado y tenía una capa fresca de tosca compactada que no creo que esté igual para el 2011. El tercer cambio fue llevar la transición a los kayaks hacia el Río Indio: caminamos 30 minutos más y nos ahorramos una hora remando. También eliminamos una parada extensa que hacíamos en El Valle para agruparnos y tomarnos unas pintas.

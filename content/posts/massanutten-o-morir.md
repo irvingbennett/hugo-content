@@ -1,24 +1,14 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781999237
-    payload:
-      - id: 5192
-      - id: 5237
-      - id: 6025
-_wpas_done_all: "1"
 author: Rompy
 categories:
-  - "Correr"
-date: "2014-05-11T21:04:47+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=2648
+- Correr
+date: '2014-05-11T21:04:47+00:00'
 parent_post_id: null
-post_id: "2648"
+post_id: '2648'
+slug: massanutten-o-morir
 title: ¡Massanutten o morir!
-url: /2014/05/11/massanutten-o-morir
-
 ---
+
 [![Río Pacora](/wp-content/uploads/gallery_backup/IMG-20140309-WA0013.jpg)¡Morir! "Massanutten Mountain Trail 100") primero... Hace poco más de dos semanas (16 días para ser exactos) me llegó un mensaje de [Kevin Sayers](http://ultrunr.com/ "Ultra Runner"):
 
 > **From:**"Kevin Sayers"

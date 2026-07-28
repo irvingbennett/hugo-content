@@ -1,29 +1,19 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1782185994
-    payload:
-      - id: 1759
-      - id: 1944
-      - id: 2130
-_thumbnail_id: "1997"
 author: Rompy
 categories:
-  - "Correr"
+- Correr
 cover:
-  image: "/wp-content/uploads/2012/05/FO_UTMB2011_4.jpg"
-date: "2012-05-16T19:40:11+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=1996
+  image: /wp-content/uploads/2012/05/FO_UTMB2011_4.jpg
+date: '2012-05-16T19:40:11+00:00'
 parent_post_id: null
-post_id: "1996"
+post_id: '1996'
+slug: rumbo-a-mont-blanc-2012
 tags:
-  - ultra
+- ultra
 title: Rumbo a Mont Blanc 2012
-url: /2012/05/16/rumbo-a-mont-blanc-2012
-wpb_post_views_count: "14"
-
+wpb_post_views_count: '14'
 ---
+
 [![](/wp-content/uploads/2012/05/FO_UTMB2011_4-640x426.jpg)](//wp-content/uploads/2012/05/FO_UTMB2011_4.jpg) Ya es oficial: Ultra Trail Mont Blanc 2012 es mi próxima carrera. Llevo tres años trabajando en esta meta y el día ha llegado, todo mi enfoque está en este próximo evento. Al día de hoy me quedan:
 
 > 3 meses 13 días  

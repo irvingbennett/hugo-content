@@ -1,38 +1,22 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781886357
-    payload:
-      - id: 5216
-      - id: 2690
-      - id: 2661
-      - id: 5860
-      - id: 5962
-      - id: 6405
-_publicize_twitter_user: '@irvingbennett'
-_thumbnail_id: "3532"
-_wpas_done_all: "1"
-_wpas_skip_6885108: "1"
-_wpas_skip_6885117: "1"
-_wpas_skip_6885125: "1"
-_wpas_skip_6885140: "1"
-_wpcom_is_markdown: "1"
+_wpas_skip_6885108: '1'
+_wpas_skip_6885117: '1'
+_wpas_skip_6885125: '1'
+_wpas_skip_6885140: '1'
 author: Rompy
 categories:
-  - "Correr"
+- Correr
 cover:
-  image: "/wp-content/uploads/2017/05/20170505_152714-scaled.jpg"
-date: "2017-05-10T01:45:19+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=3525
+  image: /wp-content/uploads/2017/05/20170505_152714-scaled.jpg
+date: '2017-05-10T01:45:19+00:00'
 parent_post_id: null
-post_id: "3525"
+post_id: '3525'
+slug: massanutten-mountain-trail-run-2017
 tags:
-  - ultra
+- ultra
 title: Massanutten Mountain Trail Run 2017
-url: /2017/05/09/massanutten-mountain-trail-run-2017
-
 ---
+
 Mi hermano Rogelio y yo terminamos MMT 100 en 34:43:21 y Carlos Rettally terminó en 32:33:04 (incluyendo una perdida inexplicable de varios kilómetros). Tres de tres es un gran logro para nosotros ya que estadísticamente era muy probable que uno no terminara. La experiencia tiene sus ventajas. Tuvimos la suerte de que nos tocara un buen clima que ayudó a todos a terminar por encima del promedio este año.
 
 {{< figure src="/wp-content/uploads/2017/05/DSC-7517-ANIMATION.gif" alt="" caption="" >}}
@@ -65,4 +49,3 @@ Corrimos el último segmento con mucha calma. Ibamos a lograr nuestro objetivo (
 {{< figure src="/wp-content/uploads/2017/05/18341756_10155435847934236_3647170166793096062_n.jpg" alt="" caption="" >}}
 
 {{< figure src="/wp-content/uploads/2017/05/18275009_10155435842584236_3458039110331262177_n.jpg" alt="" caption="" >}}
-

@@ -1,28 +1,19 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781960958
-    payload:
-      - id: 2843
-      - id: 3182
-      - id: 1827
 author: Rompy
 categories:
-  - "Caminatas"
-date: "2010-03-24T21:40:32+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=899
+- Caminatas
+date: '2010-03-24T21:40:32+00:00'
 parent_post_id: null
-post_id: "899"
+post_id: '899'
+slug: boqueron-2010
 tags:
-  - hash
+- hash
 thesis_post_image: http://u8z.3d5.mywebsitetransfer.com/wp-content/uploads/2010/03/P3200012-e1269466372521.jpg
 thesis_post_image_alt: Foto de Partida
 title: Boqueron 2010
-url: /2010/03/24/boqueron-2010
-wpb_post_views_count: "16"
-
+wpb_post_views_count: '16'
 ---
+
 Por 20 años he estado caminando el Río Boquerón, desde 1990, y todavía no me canso de ese recorrido. Cada vez tiene algo nuevo, algo viejo y siempre es divertido. Esta  que hicimos no ha sido la excepción: 19 caminantes entramos por La Línea en Nombre de Dios y salimos por Boquerón Arriba, todos reídos. En esta ocasión hubo una buena cantidad de personas que hacían esta caminata por primera vez. Todos quedaron contentos y aprendieron algo de caminar por el bosque tropical humedo, por ríos.
 
 Por más que traté de ir super liviano, mi mochila quedó pesando cerca de 20 libras, y no llevaba casi comida. No me dió el ánimo para ir a comprar comida para hacerme unos emparedados, y mi cena ya estaba resuelta: yo cargaba la estufa y mi hermano [Roger](/wp-content/uploads/gallery_backup/P3200042.JPG "Roger Bennett") llevaba la cena. Saqué de la despensa unos chocolates calientes en sobre, unas avenas instantáneas, y me llevé una cantidad razonable de raciones energéticas que tenía para mis corridas largas. Con eso tuve suficiente para todo el fin de semana. Lo suplemente con comidas que me dieron los que sí fueron bien preparados con alimentos de sobra. [Robert Souter](/wp-content/uploads/gallery_backup/P3200075.JPG "Robert Souter") me dió lo que le quedaba de un emparedado que se estaba comiendo, Jordi me dió una lata de atún preparado, y [Argelis](/wp-content/uploads/gallery_backup/P3210106.jpg "Argelis Zurita") me dió un par de mafás. Joaquín decidió quitarse las ollas de encima y se compró una mochila tan pequeña que de a milagro le cupo todo lo que llevó (casi nada).

@@ -1,37 +1,23 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781914402
-    payload:
-      - id: 102
-      - id: 1550
-      - id: 256
-      - id: 514
-      - id: 1559
-      - id: 268
-_thumbnail_id: "2444"
-_wp_format_audio: ""
-_wp_format_image: ""
-_wp_format_quote: ""
-_wp_format_quote_source: ""
-_wp_format_url: ""
-_wp_format_video: ""
-_wpas_done_all: "1"
+_wp_format_audio: ''
+_wp_format_image: ''
+_wp_format_quote: ''
+_wp_format_quote_source: ''
+_wp_format_url: ''
+_wp_format_video: ''
 author: Rompy
 categories:
-  - "Correr"
+- Correr
 cover:
-  image: "/wp-content/uploads/2013/04/portobelo_2013.jpg"
-date: "2013-04-15T21:21:19+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=2442
+  image: /wp-content/uploads/2013/04/portobelo_2013.jpg
+date: '2013-04-15T21:21:19+00:00'
 parent_post_id: null
-post_id: "2442"
+post_id: '2442'
+slug: portobelo-2013
 title: Portobelo 2013
-url: /2013/04/15/portobelo-2013
-wpb_post_views_count: "13"
-
+wpb_post_views_count: '13'
 ---
+
 No llevo la cuenta, pero he hecho muchos Triatlones de Portobelo, y espero poder seguir participando por mucho tiempo más. Este año, como tantas veces anteriores, participé sin entrenar. Como tantas veces anteriores, me propongo que entrenaré para el próximo año. Siempre quedó animado con el triatlón después de cada Portobelo. La lástima es que no me dura mucho el ánimo. Lo increíble es que no he desmejorado mucho, al contrario, casi podría decir que he mejorado basándome en la corrida final.
 
 Si no me hubiese salido un gallo tapado de Venezuela hubiese podido ocupar el 3er lugar siguiendo el orden habitual: Eladio Quintero, Vladimir Bolaños, y yo (cuando no va Roger, que este año ha regresado a mi categoría). Pero el venezolano se coló en el primer lugar y yo quedé de 4to lugar. Aún así, estoy satisfecho con esta participación. Pensé que me iba a morir en la nadada y terminé en mejor tiempo que el año pasado. Este año decidí que iba a nadar con mucha calma y tuve la suerte de poder seguir a Boris Pérez casi toda la distancia. Esto me permitió mejorar mi tiempo de la última nadada, y salir fresco del agua. Para no haber nadado desde Portobelo 2011, esto no está nada mal.

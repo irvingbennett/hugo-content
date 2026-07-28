@@ -1,14 +1,14 @@
 ---
-tags:
-  - "Trek"
-categories: 
-  - "Caminatas"
 author: Rompy
+categories:
+- Caminatas
 cover:
   image: /wp-content/uploads/gallery_backup/Mountain_House_bucket.jpg
 date: '2026-07-23T12:58:42-05:00'
-title: 'Menu Darién 2027'
-url: /2026/07/23/menu-darien-2027
+slug: menu-darien-2027
+tags:
+- Trek
+title: Menu Darién 2027
 ---
 
 Menú diario típico para nuestro recorrido del Darién. Hay que tomar en cuenta que son 9 días y tenemos 

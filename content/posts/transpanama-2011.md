@@ -1,42 +1,22 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781862159
-    payload:
-      - id: 235
-      - id: 1495
-      - id: 2224
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781878558
-    payload:
-      - id: 235
-      - id: 1495
-      - id: 2224
-      - id: 896
-      - id: 1802
-      - id: 2565
-_thumbnail_id: "1367"
-_wp_old_slug: ""
+_wp_old_slug: ''
 author: Rompy
 categories:
-  - "Caminatas"
+- Caminatas
 cover:
-  image: "/wp-content/uploads/2010/12/mapa1raEtapa_xl-scaled.jpg"
-date: "2010-12-14T13:32:23+00:00"
+  image: /wp-content/uploads/2010/12/mapa1raEtapa_xl-scaled.jpg
+date: '2010-12-14T13:32:23+00:00'
 embed: This is the default text
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=1355
-image: ""
+image: ''
 parent_post_id: null
-post_id: "1355"
-seo_follow: "false"
-seo_noindex: "false"
+post_id: '1355'
+seo_follow: 'false'
+seo_noindex: 'false'
+slug: transpanama-2011
 tags:
-  - travesias
+- travesias
 title: TransPanamá 2011
-url: /2010/12/14/transpanama-2011
-wpb_post_views_count: "14"
-
+wpb_post_views_count: '14'
 ---
 
 ![Ilustración del Recorrido del TransPanamá](/wp-content/uploads/2010/12/mapa1raEtapa_xl.jpg)

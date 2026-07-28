@@ -1,29 +1,17 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781853953
-    payload:
-      - id: 2087
-      - id: 1759
-      - id: 1944
-      - id: 1596
-      - id: 2249
-      - id: 2175
 author: Rompy
 categories:
-  - "Correr"
-date: "2012-09-06T19:03:15+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=2210
+- Correr
+date: '2012-09-06T19:03:15+00:00'
 parent_post_id: null
-post_id: "2210"
+post_id: '2210'
+slug: ultra-trail-du-mont-blanc-2012
 tags:
-  - ultra
+- ultra
 title: Ultra Trail du Mont Blanc 2012
-url: /2012/09/06/ultra-trail-du-mont-blanc-2012
-wpb_post_views_count: "14"
-
+wpb_post_views_count: '14'
 ---
+
 ![¡Llegando a la meta!](/wp-content/uploads/gallery_backup/12904726.jpg) 
 
 El Ultra Trail de Mont Blanc 2012 fue toda una escuela que me dejó muchas lecciones. Afortunadamente la pude terminar, en parte por que nos acortaron el recorrido a 103km en lugar de los 168km que nos habían prometido por causa de las condiciones climáticas durante la carrera. El recorrido modificado quedó todo dentro de Francia y no subimos nunca a mucho más de 2,000 metros. Aún así nos tocó una parte cubierta de nieve, bajo lluvia y, en lo alto, una nevada copiosa. Proporcionalmente, la elevación ganada durante el recorrido era igual a la del recorrido largo, siendo la carrera con más elevación por kilómetro que me ha tocado correr.

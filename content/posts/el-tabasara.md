@@ -1,29 +1,17 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781861316
-    payload:
-      - id: 23
-      - id: 79
-      - id: 42
-      - id: 6222
-      - id: 2417
-      - id: 16
 _last_editor_used_jetpack: block-editor
 author: Rompy
 categories:
-  - "General"
-  - "Kayaking"
-date: "2005-04-02T23:28:27+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=15
+- General
+- Kayaking
+date: '2005-04-02T23:28:27+00:00'
 parent_post_id: null
-post_id: "15"
+post_id: '15'
+slug: el-tabasara
 title: El Tabasará
-url: /2005/04/02/el-tabasara
-wpb_post_views_count: "7"
-
+wpb_post_views_count: '7'
 ---
+
 ![La Partida](/wp-content/uploads/gallery_backup/PA020396.jpg)
 
 Nuestro próximo viaje será bajando el Tabasará. He estado viendo el mapa y estoy seguro que esta remada estará fabulosa. El Tabasará se encañona desde la Interamericana hasta casi llegar al mar, pero por otro lado no tiene mucha pendiente. Esto quiere decir que las orillas deben estar en pié y la vista debe ser espectacular. Al menos,

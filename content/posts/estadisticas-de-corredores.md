@@ -1,31 +1,19 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1782165272
-    payload:
-      - id: 2373
-      - id: 2279
-      - id: 918
-      - id: 6405
-      - id: 179
-      - id: 5216
 author: Rompy
 categories:
-  - "Correr"
-date: "2011-03-29T23:56:04+00:00"
+- Correr
+date: '2011-03-29T23:56:04+00:00'
 embed: This is the default text
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=1535
-image: ""
+image: ''
 parent_post_id: null
-post_id: "1535"
-seo_follow: "false"
-seo_noindex: "false"
+post_id: '1535'
+seo_follow: 'false'
+seo_noindex: 'false'
+slug: estadisticas-de-corredores
 title: Estadísticas de Corredores
-url: /2011/03/29/estadisticas-de-corredores
-wpb_post_views_count: "18"
-
+wpb_post_views_count: '18'
 ---
+
 \[caption id="attachment\_1536" align="alignleft" width="300" caption="Corredores de 161km"\] [![](/wp-content/uploads/2011/03/100MileFinishersStats-300x111.png)](//wp-content/uploads/2011/03/100MileFinishersStats.png)\[/caption\]
 
 He estado pensando en las estadísticas de los corredores después de leer un reporte sobre los corredores por trillos hecho para el [Outdoor Foundation](http://www.outdoorfoundation.org/pdf/research.trailrunning.pdf "Reporte"). También había estado ojeando los números que en el sitio de Gary Wang, [Real Endurance](http://realendurance.com/). En el 2009, unos 497,000 corredores completaron un maratón, y poco más de 2,500 completaron los 161km (100 millas), una relación del medio por ciento. Pero en el 2010 la cantidad de corredores ha dado un salto grande en la distancia de las cien millas. El reporte dice que también ha aumentado la participación de los corredores por senderos.

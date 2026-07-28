@@ -1,28 +1,16 @@
 ---
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1782175804
-    payload:
-      - id: 6432
-      - id: 5237
-      - id: 6958
 _last_editor_used_jetpack: block-editor
-_thumbnail_id: "6026"
-_wpas_done_all: "1"
-_wpcom_is_markdown: "1"
 author: Rompy
 categories:
-  - "General"
+- General
 cover:
-  image: "/wp-content/uploads/2023/07/20230604_103111-scaled.jpg"
-date: "2023-07-10T17:14:45+00:00"
-footnotes: ""
-guid: http://hbx.wvf.mybluehost.me/?p=6025
+  image: /wp-content/uploads/2023/07/20230604_103111-scaled.jpg
+date: '2023-07-10T17:14:45+00:00'
+footnotes: ''
 parent_post_id: null
-post_id: "6025"
+post_id: '6025'
+slug: mis-100-millas-2023
 title: Mis 100 Millas 2023
-url: /2023/07/10/mis-100-millas-2023
-
 ---
 
 | # | Nombre | Tiempo | Fecha | Lugar |

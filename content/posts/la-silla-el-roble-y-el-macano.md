@@ -1,32 +1,19 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781964922
-    payload:
-      - id: 2175
-      - id: 1778
-      - id: 2565
-      - id: 1043
-      - id: 1796
-      - id: 1802
-_wpas_skip_6885108: "1"
-_wpas_skip_6885117: "1"
-_wpas_skip_6885125: "1"
-_wpas_skip_6885140: "1"
-_wpcom_is_markdown: "1"
+_wpas_skip_6885108: '1'
+_wpas_skip_6885117: '1'
+_wpas_skip_6885125: '1'
+_wpas_skip_6885140: '1'
 author: Rompy
 categories:
-  - "Correr"
-date: "2011-07-25T21:14:38+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=1771
+- Correr
+date: '2011-07-25T21:14:38+00:00'
 parent_post_id: null
-post_id: "1771"
+post_id: '1771'
+slug: la-silla-el-roble-y-el-macano
 title: La Silla, El Roble y El Macano
-url: /2011/07/25/la-silla-el-roble-y-el-macano
-wpb_post_views_count: "29"
-
+wpb_post_views_count: '29'
 ---
+
 Este sábado me fui a correr la ruta de los 21km de El Valle Trail Race con Daniel Brostella, Iñaki Lasa y José Orillac. Partimos a las 6:30am hacia La Silla, subiendo por el sendero de las curvas que se mete por detrás del Centro Comercial El Valle y sale a la parada de bus al inicio del descenso a El Valle. La intención era correr La Silla primero para marcar ese sendero en el GPS y poder confirmar la ruta que tenía trazada para los 50km.
 
 El día estaba excelente para nuestro propósito con una capa de nubes que nos quitaba el resplandor del sol y nos mantenía la temperatura agradable. El principio de la carrera es bajo árboles, pero cuando se pasa a La Silla no hay una sola sombra en el cerro. Por suerte no había llovido mucho en los días anteriores a nuestro recorrido por que los senderos de La Silla no estaban resbalosos y pudimos correr con confianza. El aire estaba limpio y mientras corríamos pudimos gozar de las expansivas vistas del Pacífico: Otoque, Boná y Estiva se veían claramente frente a Punta Chame.

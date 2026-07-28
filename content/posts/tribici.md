@@ -1,36 +1,18 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781982825
-    payload:
-      - id: 960
-      - id: 1332
-      - id: 1290
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1782010883
-    payload:
-      - id: 960
-      - id: 1332
-      - id: 1290
-      - id: 1550
-      - id: 514
-      - id: 1171
-_wp_old_slug: ""
+_wp_old_slug: ''
 author: Rompy
 categories:
-  - "Bicicletas"
-date: "2010-09-19T17:05:10+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=1242
+- Bicicletas
+date: '2010-09-19T17:05:10+00:00'
 parent_post_id: null
-post_id: "1242"
+post_id: '1242'
+slug: tribici
 tags:
-  - triatlón
+- triatlón
 title: Tribici
-url: /2010/09/19/tribici
-wpb_post_views_count: "17"
-
+wpb_post_views_count: '17'
 ---
+
 \[caption id="attachment\_1244" align="alignleft" width="228" caption="Roger en Cozumel 2009"\] [![Roger en Cozumel 2009](/wp-content/uploads/2010/09/01130C-228x300.jpg)](//wp-content/uploads/2010/09/01130C.jpg)\[/caption\]
 
 Después del [Panama Canal Triathlon](/2010/08/30/panama-canal-triathlon-2010 "2010") de este año quedé con ganas de poder montar más cómodo y más rápido. Cuando me bajé de la bicicleta estaba casi de último. Se me metió en la cabeza que la razón por la que muchos de los otros me habían ganado era por su flecha, su bicicleta de triatlón. Los demás iban cómodos, recostados en sus barras, apoyados sobre sus codos, aerodinámicos. Yo ya no encontraba como acomodarme sobre mi timón, me dolían las manos y estaba recostado sobre los frenos.

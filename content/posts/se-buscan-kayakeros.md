@@ -1,26 +1,16 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1782130607
-    payload:
-      - id: 41
-      - id: 310
-      - id: 949
-_wp_old_slug: ""
+_wp_old_slug: ''
 author: Rompy
 categories:
-  - "Kayaking"
-date: "2010-06-10T00:05:08+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=1008
+- Kayaking
+date: '2010-06-10T00:05:08+00:00'
 parent_post_id: null
-post_id: "1008"
+post_id: '1008'
+slug: se-buscan-kayakeros
 tags:
-  - kayaking
+- kayaking
 title: Se Buscan Kayakeros
-url: /2010/06/09/se-buscan-kayakeros
-wpb_post_views_count: "20"
-
+wpb_post_views_count: '20'
 ---
 
 ![La Moledora del Pacora](/wp-content/uploads/2010/06/695062654_dsc_14452.jpg)

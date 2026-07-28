@@ -1,38 +1,19 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781785545
-    payload:
-      - id: 193
-      - id: 773
-      - id: 443
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781754988
-    payload:
-      - id: 193
-      - id: 773
-      - id: 443
-      - id: 5364
-      - id: 899
-      - id: 1251
-_wpas_skip_6885108: "1"
-_wpas_skip_6885117: "1"
-_wpas_skip_6885125: "1"
-_wpas_skip_6885140: "1"
-_wpcom_is_markdown: "1"
+_wpas_skip_6885108: '1'
+_wpas_skip_6885117: '1'
+_wpas_skip_6885125: '1'
+_wpas_skip_6885140: '1'
 author: Rompy
 categories:
-  - "Caminatas"
-date: "2009-07-20T15:59:54+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=718
+- Caminatas
+date: '2009-07-20T15:59:54+00:00'
 parent_post_id: null
-post_id: "718"
+post_id: '718'
+slug: chorros-de-ola
 title: Chorros de Olá
-url: /2009/07/20/chorros-de-ola
-wpb_post_views_count: "9"
-
+wpb_post_views_count: '9'
 ---
+
 ![P7112518.JPG](/wp-content/uploads/gallery_backup/P7112518.JPG) Hace una semana caminamos desde Piedras Amarillas hasta los Chorros de Olá, pasando la noche en Cerro Golondrina (a 1,000 metros de altura). Fuimos un grupo grande compuesto mayormente de corredores de nuestro Hash, dentro del cual hay muchos que también gozan de pasar tiempo al aire libre. La ruta fue una mezcla creada sobre la base de una ruta conocida que va desde Ojo de Agua hasta Los Chorros de Olá y le agregamos un tramo nuevo para alargar el recorrido. De otra forma la ruta se nos hubiese quedado corta por que este grupo camina bastante rápido. El primer día sería el más difícil intencionalmente, dejando algo más fácil para el segundo día, haciendo tiempo al final del recorrido para pasarla suave en Los Chorros de Olá.
 
 La ruta del primer día la saqué directamente de una carta topográfica de 1:50,000 del Tommy Guardia. Revisé la ruta por medio de [Google Earth](http://maps.google.com/maps) que tiene buenas fotos de este segmento. Pudimos seguir nuestro recorrido casi por completo: hubo un momento en que se nos cerró el camino y tuvimos que ser creativos y buscar una ruta alternativa. En total terminamos recorriendo unos 40 kilómetros, que resultó ser algo más de lo planeado. Con la excepción del cambio de planes forzado, toda la ruta estaba fácil de seguir.

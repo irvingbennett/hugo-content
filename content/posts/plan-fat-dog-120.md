@@ -1,40 +1,27 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1779489099
-    payload:
-      - id: 2690
-      - id: 6738
-      - id: 2884
 _publicize_facebook_user: https://www.facebook.com/irving.bennett
-_publicize_twitter_user: '@irvingbennett'
-_thumbnail_id: "2214"
-_wpas_done_all: "1"
-_wpas_skip_6885108: "1"
-_wpas_skip_6885117: "1"
-_wpas_skip_6885125: "1"
-_wpas_skip_6885140: "1"
-_wpcom_is_markdown: "1"
+_wpas_skip_6885108: '1'
+_wpas_skip_6885117: '1'
+_wpas_skip_6885125: '1'
+_wpas_skip_6885140: '1'
 ase_map_component_start_point:
   lat: 29.76
   lng: -95.38
 author: Rompy
 categories:
-  - "Correr"
+- Correr
 cover:
-  image: "/wp-content/uploads/2012/09/12904726.jpg"
-date: "2014-07-22T23:24:26+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=2714
+  image: /wp-content/uploads/2012/09/12904726.jpg
+date: '2014-07-22T23:24:26+00:00'
 parent_post_id: null
-post_id: "2714"
-post_views_count: "0"
+post_id: '2714'
+post_views_count: '0'
+slug: plan-fat-dog-120
 tags:
-  - ultra
+- ultra
 title: Plan Fat Dog 120
-url: /2014/07/22/plan-fat-dog-120
-
 ---
+
 ## Estimado para terminar
 
 Me ha estado causando un poco de preocupación que el sitio de UltraSignUp me esté dando un estimado de hora para Fat Dog 120 que es más alto que lo permitido por la carrera (51 horas vs 48 horas). Por esto le he estado prestando atención a los detalles de la carrera para estar seguro que no estoy tomando la cosa a la ligera y estoy haciendo mi tarea de preparación, tanto física como mentalmente. La parte física va avanzando poco a poco y la mental ya casi está terminada, por suerte.

@@ -1,24 +1,15 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781673396
-    payload:
-      - id: 110
-      - id: 150
-      - id: 197
 author: Rompy
 categories:
-  - "General"
-date: "2007-06-08T20:47:37+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=207
+- General
+date: '2007-06-08T20:47:37+00:00'
 parent_post_id: null
-post_id: "207"
+post_id: '207'
+slug: fedora-core-7
 title: Fedora Core 7
-url: /2007/06/08/fedora-core-7
-wpb_post_views_count: "7"
-
+wpb_post_views_count: '7'
 ---
+
 He estado enredado y no había podido escribir nada hasta ahora. La mayor parte del problema se la debo a un disco duro que se me murió de repente. Como el disco no me había dado indicios de fallo, y era relativamente nuevo, me había relajado un poco con mis respaldos: tenía respaldo de mis datos, pero no tenía un respaldo que me trajera mi servidor de vuelta de un cuajo, desde el metal limpio. Ya tenía como siete años con la misma configuración de Linux, y la había ido avanzando a través de muchas versiones de Fedora, inclusive con cambios de discos, tarjeta madre y procesadores.
 
 Pero esta vez me toco iniciar desde el piso y reconfigurar todo mi servidor para poder volver a montarle mis datos. Inicié el proceso con Fedora Core 6 y lo acabo de pasar a Fedora 7, sin ningún problema. Los problemas que me persiguen son de otra naturaleza, que no tiene nada que ver con Fedora. Todavía no he podido hacer que mi vieja instalación de Drupal aparezca en pantalla, no he tratado de reinstalar Gallery 2 para las fotos de este blog, y mi [wiki](http://wiki.alairelibre.net "PanaWiki") lo acabo de volver a habilitar.

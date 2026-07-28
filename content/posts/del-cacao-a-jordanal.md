@@ -1,39 +1,19 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781649031
-    payload:
-      - id: 199
-      - id: 645
-      - id: 239
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781633579
-    payload:
-      - id: 199
-      - id: 645
-      - id: 239
-      - id: 1049
-      - id: 1155
-      - id: 1153
-_thumbnail_id: "989"
-_wp_old_slug: ""
+_wp_old_slug: ''
 author: Rompy
 categories:
-  - "Caminatas"
+- Caminatas
 cover:
-  image: "/wp-content/uploads/2010/05/P5220062.jpg"
-date: "2010-05-25T15:35:51+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=980
+  image: /wp-content/uploads/2010/05/P5220062.jpg
+date: '2010-05-25T15:35:51+00:00'
 parent_post_id: null
-post_id: "980"
+post_id: '980'
+slug: del-cacao-a-jordanal
 tags:
-  - hash
-  - trek
+- hash
+- trek
 title: Del Cacao a Jordanal
-url: /2010/05/25/del-cacao-a-jordanal
-wpb_post_views_count: "13"
-
+wpb_post_views_count: '13'
 ---
 
 ![El Hash en Altamira](/wp-content/uploads/gallery_backup/P5220058.jpg)

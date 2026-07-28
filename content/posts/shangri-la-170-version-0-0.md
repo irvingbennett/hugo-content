@@ -1,27 +1,19 @@
 ---
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1779252241
-    payload: []
 _last_editor_used_jetpack: block-editor
-_thumbnail_id: "6090"
-_wpas_done_all: "1"
-_wpcom_is_markdown: "1"
 author: Rompy
 categories:
-  - "Correr"
+- Correr
 cover:
-  image: "/wp-content/uploads/2023/11/Shangri-la-scaled.jpg"
-date: "2023-11-01T23:20:57+00:00"
-guid: http://hbx.wvf.mybluehost.me/?p=6098
+  image: /wp-content/uploads/2023/11/Shangri-la-scaled.jpg
+date: '2023-11-01T23:20:57+00:00'
 parent_post_id: null
-post_id: "6098"
+post_id: '6098'
+slug: shangri-la-170-version-0-0
 tags:
-  - ultra
+- ultra
 title: Shangri-La 170 versión 0.0
-url: /2023/11/01/shangri-la-170-version-0-0
-
 ---
+
 Shangri-La 170 kilómetros versión 0.0, cero costo, cero apoyo, es un recorrido de 170+ kilómetros en autosuficiencia por varios recorridos por El Valle de Antón. Desde hace años vengo pensando que El Valle necesita su propia carrera de 161 kilómetros (100 millas). Una carrera que parta, y termine, dentro del mismo El Valle para que la logística y el transporte sean sencillos. Estoy planeado esto para el 15 de diciembre de este año, 2023.
 
 {{< figure src="/wp-content/uploads/gallery_backup/Shangri-la_170_800x800.jpg" alt="" caption="" >}}
@@ -46,9 +38,9 @@ Voy a actualizar esta entrada con más información prontamente. En particular, 
 
 Esta entrada es una copia de una página que quedará en el menú: [Shangri-La 170 Versión 0.0](/shangri-la-170-version-0-0) y la voy a actualizar con más detalles pronto.
 
-## Actualización Noviembre 28
+<table><tbody><tr><td><strong>Trayecto</strong></td><td><strong>Enlace</strong></td></tr><tr><td>El Valle 50k</td><td><a href="https://connect.garmin.com/modern/course/240024051">https://connect.garmin.com/modern/course/240024051</a></td></tr><tr><td>North Loop y Cerro negro</td><td><a href="https://connect.garmin.com/modern/course/240024190">https://connect.garmin.com/modern/course/240024190</a></td></tr><tr><td>La India Dormida</td><td><a href="https://connect.garmin.com/modern/course/240024310">https://connect.garmin.com/modern/course/240024310</a></td></tr><tr><td>Big Foot</td><td><a href="https://connect.garmin.com/modern/course/240024339">https://connect.garmin.com/modern/course/240024339</a></td></tr></tbody></table>
 
-**Trayecto****Enlace**El Valle 50k[https://connect.garmin.com/modern/course/240024051](https://connect.garmin.com/modern/course/240024051)North Loop y Cerro negro[https://connect.garmin.com/modern/course/240024190](https://connect.garmin.com/modern/course/240024190)La India Dormida[https://connect.garmin.com/modern/course/240024310](https://connect.garmin.com/modern/course/240024310)Big Foot[https://connect.garmin.com/modern/course/240024339](https://connect.garmin.com/modern/course/240024339)Enlaces a los trayectos individuales
+** Enlaces a los trayectos individuales **
 
 Tratando de que la mayor cantidad de gente corra junta por el tiempo que se pueda, los que salgamos a correr los 52 kilómetros el viernes en la noche, debemos llegar alrededor de 10 horas más tarde, tal vez 11. La partida del **North Loop debe ser 7am** el sábado. Esa ruta nos debe tomar cerca de 14 horas. Llegaríamos a las 9pm. Así es que seguiríamos con los 18k de **La India Dormida a las 9:30pm**. A las 2am del domingo debemos estar regresando a Shangri-La. Partiríamos a las **3am por los 34k del Big Foot loop**. A las 10am debemos estar terminando los que podamos hacer el recorrido en ese tiempo. Es muy probable que yo no esté en ese grupo.
 

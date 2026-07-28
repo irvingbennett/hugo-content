@@ -1,26 +1,21 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache: []
 _publicize_facebook_user: http://www.facebook.com/509096638
-_publicize_twitter_user: '@irvingbennett'
-_wpcom_is_markdown: "1"
 ase_map_component_start_point:
   lat: 29.76
   lng: -95.38
 author: Rompy
 categories:
-  - "Correr"
-date: "2015-10-29T08:11:57+00:00"
-draft: "true"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=2891
+- Correr
+date: '2015-10-29T08:11:57+00:00'
+draft: 'true'
 parent_post_id: null
-post_id: "2891"
+post_id: '2891'
+slug: ''
 tags:
-  - ultra
+- ultra
 title: Tahoe Rim Trail 2015
-url: /
-
 ---
+
 Resumen Ejecutivo: terminé en 32 horas, 52 minutos y 3 segundo.
 
 La versión larga es que me costó lograr ese resultado. No me falló el cuerpo, no me molestó el estómago, el equipo me funcionó bien -- la mente me jugó una mala mano. La carrera fue muy escénica, las estaciones de apoyo estaban superlativamente fuera de serie (había cerveza de barril en casi todos los puestos), y las personas que fueron formaron un grupo muy unido, divertido y ameno. ¡Ernesto Durán, de Panamá, se ganó la carrera en 20 horas, 49 minutos y 5 segundos! Lagarto se ganó su hebilla de plata en un tiempo de 27:50:10, justo lo que se había propuesto. Roger y Luis Carlos llegaron junto conmigo a la meta en fila india. Isabelita, mi cuñada, hizo una carrera sobresaliente en 15:24:35 (sus primeros 80km). En fin, los panameños nos fuimos 100 por 100, por encima del promedio de 66% de cumplimiento en la carrera de 163 kilómetros.

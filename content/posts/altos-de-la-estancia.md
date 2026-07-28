@@ -1,33 +1,21 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1782067776
-    payload:
-      - id: 1569
-      - id: 1495
-      - id: 2279
-      - id: 1155
-      - id: 1490
-      - id: 1764
 author: Rompy
 categories:
-  - "Correr"
-date: "2011-01-17T20:58:37+00:00"
+- Correr
+date: '2011-01-17T20:58:37+00:00'
 embed: This is the default text
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=1411
-image: ""
+image: ''
 parent_post_id: null
-post_id: "1411"
-seo_follow: "false"
-seo_noindex: "false"
+post_id: '1411'
+seo_follow: 'false'
+seo_noindex: 'false'
+slug: altos-de-la-estancia
 tags:
-  - ultra
+- ultra
 title: Altos de La Estancia
-url: /2011/01/17/altos-de-la-estancia
-wpb_post_views_count: "11"
-
+wpb_post_views_count: '11'
 ---
+
 ![Altos de La Estancia](/wp-content/uploads/2011/01/P1160088.jpg)
 
 Este domingo corrí unos 15 kilómetros con Ernesto Duran. Casi me mata corretear a ese venado por los senderos de La India Dormida y [Altos de La Estancia](/wp-content/uploads/gallery_backup/P1160102.JPG "Sendero a Altos de La Estancia"). Esta vuelta me hizo caer en cuenta de lo perezoso y lento que me he puesto. Esa corrida era justo lo que necesitaba para reanudar mi entrenamiento para Western States 100.

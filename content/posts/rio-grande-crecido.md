@@ -1,23 +1,13 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781652174
-    payload:
-      - id: 425
-      - id: 314
-      - id: 2382
 author: Rompy
 categories:
-  - "Kayaking"
-date: "2008-11-07T13:31:29+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=400
+- Kayaking
+date: '2008-11-07T13:31:29+00:00'
 parent_post_id: null
-post_id: "400"
+post_id: '400'
+slug: rio-grande-crecido
 title: Río Grande Crecido
-url: /2008/11/07/rio-grande-crecido
-wpb_post_views_count: "7"
-
+wpb_post_views_count: '7'
 ---
 
 ![Río Grande crecido](/wp-content/uploads/2008/11/rio-grande-comparado1.jpg)

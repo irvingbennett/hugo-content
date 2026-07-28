@@ -1,30 +1,18 @@
 ---
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781752530
-    payload:
-      - id: 193
-      - id: 734
-      - id: 753
-_publicize_twitter_user: '@irvingbennett'
-_thumbnail_id: "5366"
-_wpas_done_all: "1"
-_wpcom_is_markdown: "1"
 author: Rompy
 categories:
-  - "Caminatas"
+- Caminatas
 cover:
-  image: "/wp-content/uploads/2020/07/IMG_4043-scaled.jpg"
-date: "2020-07-10T23:29:53+00:00"
-guid: http://u8z.3d5.mywebsitetransfer.com/?p=5364
+  image: /wp-content/uploads/2020/07/IMG_4043-scaled.jpg
+date: '2020-07-10T23:29:53+00:00'
 parent_post_id: null
-post_id: "5364"
+post_id: '5364'
+slug: cerro-bruja-2020
 tags:
-  - travesias
+- travesias
 title: Cerro Bruja 2020
-url: /2020/07/10/cerro-bruja-2020
-
 ---
+
 Hace poco regresamos de Cerro Bruja. Hicimos una caminata de tres días por allá arriba que estaba supuesta a ser fácil, pero, como siempre, terminó agotando a todos. Ya hemos subido varias veces y tenemos claro cual es la mejor subida. En esta ocasión estaba alto el nivel de la Quebrada Escandalosa y terminamos fuera de ruta cuando nos fuimos por un camino que nos ayudo a caminar fuera del agua. Cuando volvimos al cauce de la quebrada ya estábamos fuera de ruta y nos tocó improvisar.
 
 Tampoco ayudó que a nuestro navegante se le dañó su gps y yo estaba usando un reloj nuevo (el modelo solamente) que tenía la ruta guardada pero no me ayudó mucho porque no tenía acceso a la vista amplificada de la ruta y me hacía complicado navegar. Terminamos haciendo una ruta a la antigua con mapa y brújula, ayudados por el gps solo para obtener una posición. En nuestra primera trepada a buscar un filo cometimos un error que nos llevó de regreso al río (nos dimos cuenta antes y nos devolvimos).

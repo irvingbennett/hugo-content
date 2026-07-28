@@ -1,26 +1,16 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781754996
-    payload:
-      - id: 2181
-      - id: 1778
-      - id: 750
-_wp_old_slug: ""
+_wp_old_slug: ''
 author: Rompy
 categories:
-  - "Correr"
-date: "2010-07-26T19:33:56+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=1111
+- Correr
+date: '2010-07-26T19:33:56+00:00'
 parent_post_id: null
-post_id: "1111"
+post_id: '1111'
+slug: el-valle-trail-race-2010
 tags:
-  - maraton
+- maraton
 title: El Valle Trail Race 2010
-url: /2010/07/26/el-valle-trail-race-2010
-wpb_post_views_count: "23"
-
+wpb_post_views_count: '23'
 ---
 
 ![El Valle Trail Race Logo](/wp-content/uploads/2010/07/ELVALLE_LOGOMHMx02-300x282.jpg)

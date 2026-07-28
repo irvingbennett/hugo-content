@@ -1,26 +1,16 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1782039568
-    payload:
-      - id: 1155
-      - id: 1327
-      - id: 1495
-_wp_old_slug: ""
+_wp_old_slug: ''
 author: Rompy
 categories:
-  - "Caminatas"
-date: "2010-06-01T19:49:23+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=992
+- Caminatas
+date: '2010-06-01T19:49:23+00:00'
 parent_post_id: null
-post_id: "992"
+post_id: '992'
+slug: ultra-de-panama
 tags:
-  - ultra
+- ultra
 title: Ultra de Panamá
-url: /2010/06/01/ultra-de-panama
-wpb_post_views_count: "8"
-
+wpb_post_views_count: '8'
 ---
 
 ![Ultra Reto del Indio](/wp-content/uploads/2010/06/ultra-reto-del-indio2.jpg)

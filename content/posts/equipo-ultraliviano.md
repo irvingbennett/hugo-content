@@ -1,34 +1,23 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781917881
-    payload:
-      - id: 682
-      - id: 194
-      - id: 608
-      - id: 183
-      - id: 677
-      - id: 1734
-_wpas_skip_6885108: "1"
-_wpas_skip_6885117: "1"
-_wpas_skip_6885125: "1"
-_wpas_skip_6885140: "1"
-_wpcom_is_markdown: "1"
+_wpas_skip_6885108: '1'
+_wpas_skip_6885117: '1'
+_wpas_skip_6885125: '1'
+_wpas_skip_6885140: '1'
 author: Rompy
+cover:
+  image: /wp-content/uploads/gallery_backup/prophetultra1.jpg
 categories:
-  - "Caminatas"
-  - "General"
-date: "2006-09-30T15:16:35+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=167
+- Caminatas
+- General
+date: '2006-09-30T15:16:35+00:00'
 parent_post_id: null
-post_id: "167"
+post_id: '167'
+slug: equipo-ultraliviano
 title: Equipo Ultraliviano
-url: /2006/09/30/equipo-ultraliviano
-wpb_post_views_count: "11"
-
+wpb_post_views_count: '11'
 ---
-![Prophet](/wp-content/uploads/gallery_backup/mld-prophet-30-green-220px.miniatura.jpg)Este "Ultralight backpacking"), en parte por que todavía no es necesario para los viajes que he estado haciendo.
+
+Este 14 y 15 de octubre vamos a caminar de Nombre de Dios a Boquerón una vez más. Con nosotros, como siempre, vendrán algunos que tienen poca experiencia en este tipo de viajes. He estado pensando en prepararles una lista super-minimalista de equipo para que lleven en el viaje. Ultimamente he estado pensando más y más en el peso de las cosas que cargo en mi mochila, y recortando las cosas que cargo en mi mochila. Todavía no he hecho el salto a la tendencia de [caminar ultraliviano](http://en.wikipedia.org/wiki/Ultralight_backpacking "Ultralight backpacking"), en parte por que todavía no es necesario para los viajes que he estado haciendo.
 
 Pero siempre es bueno tomar prestado de los preceptos de caminar ultraliviano. Después de todo, al final de un día largo con 30 o 40 libras en la espalda el peso se hace sentir. En la tendencia ultraliviana el peso combinado de la mochila, la tolda (o lona) y la bolsa de dormir (o edredón) debe pesar menos de 5 libras. Esto es un poco difícil cuando mi mochila vacía pesa 5 libras para comenzar. [Ray Jardine](http://www.rayjardine.com/ "Ray Jardine") y [Ryan Jordan](http://www.ryanjordan.com "Ryan Jordan") son dos fanáticos famosos de esta tendencia y han caminado miles de kilómetros usando equipo que parece hecho de papel, o de seda.
 

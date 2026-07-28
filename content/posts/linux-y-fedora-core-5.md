@@ -1,23 +1,15 @@
 ---
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781784399
-    payload:
-      - id: 150
-      - id: 207
-      - id: 195
 author: Rompy
 categories:
-  - "General"
-date: "2006-03-29T17:51:52+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=110
+- General
+date: '2006-03-29T17:51:52+00:00'
 parent_post_id: null
-post_id: "110"
+post_id: '110'
+slug: linux-y-fedora-core-5
 title: Linux y Fedora Core 5
-url: /2006/03/29/linux-y-fedora-core-5
-wpb_post_views_count: "14"
-
+wpb_post_views_count: '14'
 ---
+
 Este no es un blog de tecnología, pero si no me gustara la tecnología lo más probable es que no existiera este blog. Comencé a jugar con Linux cuando compré una versión de RedHat Linux 6.0 para probarlo. La instalé en una computadora donde arrancaba Microsoft Small Business Server 4.5 y Linux. Después de no arrancar la máquina en SBS por mucho tiempo decidí eliminar el Small Business Server y dedicar la máquina a Linux.
 
 Eso fue hace mucho tiempo ya. Desde entonces la misma instalación básica ha pasado por Linux 7, 8 y 9. Luego pasó a Fedora Core, y de ahí pasó a Core 2, 3, 4, y ahora Fedora Core 5. En el proceso he cambiado tarjetas madre, CPUs, discos duros, y monitores, pero Linux sigue caminando.

@@ -1,42 +1,28 @@
 ---
-_jetpack_related_posts_cache:
-  37550b67d263a3ce789993dc25046c5f:
-    expires: 1781817242
-    payload:
-      - id: 229
-      - id: 268
-      - id: 294
-      - id: 5440
-      - id: 227
-      - id: 6802
 _publicize_shares:
-  - connection_id: 6900156
-    external_id: alairelibre.tumblr.com
-    external_name: Al Aire Libre
-    message: http://alairelibre.tumblr.com/post/769888593414176768
-    profile_link: http://alairelibre.tumblr.com/
-    profile_picture: ""
-    service: tumblr
-    status: success
-    timestamp: 1734222978
-_thumbnail_id: "6522"
-_wpas_done_all: "1"
-_wpcom_is_markdown: "1"
+- connection_id: 6900156
+  external_id: alairelibre.tumblr.com
+  external_name: Al Aire Libre
+  message: http://alairelibre.tumblr.com/post/769888593414176768
+  profile_link: http://alairelibre.tumblr.com/
+  profile_picture: ''
+  service: tumblr
+  status: success
+  timestamp: 1734222978
 author: Rompy
 categories:
-  - "KLR"
+- KLR
 cover:
-  image: "/wp-content/uploads/2024/12/20241213_182349-scaled.jpg"
-date: "2024-12-15T00:36:10+00:00"
-guid: http://localhost/?p=6521
+  image: /wp-content/uploads/2024/12/20241213_182349-scaled.jpg
+date: '2024-12-15T00:36:10+00:00'
 parent_post_id: null
-post_id: "6521"
+post_id: '6521'
+slug: confianza-complacencia-y-laxitud
 tags:
-  - travesias
+- travesias
 title: Confianza, Complacencia y Laxitud
-url: /2024/12/14/confianza-complacencia-y-laxitud
-
 ---
+
 Esta entrada tiene un título largo para decir que me descuidé. Ayer iba para Colón en moto para acampar con mis hermanos al lado del mar. Iba bien preparado para el campamento y para el viaje (en mi concepto). Al cruzar el peaje en la autopista Panamá -- Colón noté que estaba pinchada mi rueda delantera. Creo que había rodado un buen rato pinchado sin haberlo notado.
 
 Pagué mi peaje y en cuanto lo crucé me hice al costado de la autopista. Al tocar la llanta delantera esta estaba caliente. Definitivamente que había rodado bastante con la llanta pinchada y a 110 kilómetros por hora. Ni lo noté hasta que bajé la velocidad. Hace poco me pasó con llanta trasera. Cuando hice mi inventario mental encontré que me faltaba el tubo delantero en mi equipo de repuestos. Tenía el tubo trasero, compresor de aire, parches, Slime para el tubo, y las herramientas para sacar el tubo y repararlo.

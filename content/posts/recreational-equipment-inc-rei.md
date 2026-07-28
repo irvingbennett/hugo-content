@@ -1,19 +1,17 @@
 ---
-_edit_last: "1"
 author: Rompy
 categories:
-  - "Caminatas"
-date: "2010-04-24T09:35:25+00:00"
-draft: "true"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=925
+- Caminatas
+date: '2010-04-24T09:35:25+00:00'
+draft: 'true'
 parent_post_id: null
-post_id: "925"
+post_id: '925'
+slug: ''
 tags:
-  - equipo
+- equipo
 title: Recreational Equipment Inc. - REI
-url: /
-
 ---
+
 Â¡REI es lo mÃ¡ximo! Hay otras tiendas en internet para comprar equipo de acampar, como Backcountry, MEI, Campmor, e inclusive Amazon, pero REI es la que siempre se lleva mi aprecio. Ahora mÃ¡s que nunca: su polÃ­tica de devoluciones es inbatible. Ahora que fuimos a acampar a Yosemite nos llevamos nuestra tolda REI Mountain 2 y cuando la fui a armar me di cuenta que se le estaban despegando las cintas adhesivas que impermeabilizan las costuras.
 
 La tolda REI Mountain 2 es una tolda de alta montaÃ±a con 4 varillas de aluminio y un vestÃ­bulo grande, una tolda para climas extremos. Esa tolda la compre en el 2005 para ir a subir el Aconcagua, y no le he dado mucho uso desde entonces. Ya habÃ­a notado que se estaban cristalizando los elÃ¡sticos de los tubos de aluminio y habÃ­a pedido el elÃ¡stico nuevo para reemplazarlos. Cuando instalamos la tolda en nuestro primer campamento, en Sequoia, quedÃ© triste al ver que la tolda estaba perdiendo su integridad.

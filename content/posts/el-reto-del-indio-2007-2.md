@@ -1,32 +1,22 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1781727833
-    payload:
-      - id: 162
-      - id: 232
-      - id: 50
-_wpas_skip_6885108: "1"
-_wpas_skip_6885117: "1"
-_wpas_skip_6885125: "1"
-_wpas_skip_6885140: "1"
-_wpcom_is_markdown: "1"
+_wpas_skip_6885108: '1'
+_wpas_skip_6885117: '1'
+_wpas_skip_6885125: '1'
+_wpas_skip_6885140: '1'
 author: Rompy
 categories:
-  - "Bicicletas"
-  - "Caminatas"
-  - "General"
-  - "Kayaking"
-date: "2007-01-16T22:24:42+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=191
+- Bicicletas
+- Caminatas
+- General
+- Kayaking
+date: '2007-01-16T22:24:42+00:00'
 parent_post_id: null
-post_id: "191"
+post_id: '191'
+slug: el-reto-del-indio-2007-2
 title: El Reto del Indio 2007 - Relato
-url: /2007/01/16/el-reto-del-indio-2007-2
-wpb_post_views_count: "16"
-
+wpb_post_views_count: '16'
 ---
+
 ![Foto de Partida](/wp-content/uploads/gallery_backup/P1130111.JPG "Foto de Partida") 
 
 Como siempre, moverse de costa a costa en un fin de semana sin ninguna ayuda de motores resultó una dura prueba. Aún así, todos los que vinieron determinados a completar el recorrido pudieron hacerlo. Al igual que el último Reto, hubo gente que se sumó al grupo para acompañarnos en etapas específicas. Todos quedaron muy satisfechos con la experiencia, y, con una sola excepción, están ya dispuestos a repetir una vez más El Reto del Indio.

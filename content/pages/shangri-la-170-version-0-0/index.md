@@ -29,7 +29,14 @@ Shangri-La 170 kilómetros versión 0.0, cero costo, cero apoyo, es un recorrido
 
 {{< figure src="/wp-content/uploads/gallery_backup/Shangri-la_170_800x800.jpg" alt="" caption="" >}}
 
-RecorridosDistanciaElevación GanadaEl Valle 50 (amarillo)54.16 km3,700mNorth Loop y Cerro negro (azul)66.70 km4,122mLa India Dormida (verde)18.31 km1,011mBig Foot (rojo)33.54 km2,197m172.71 km11,029mTabla de Recorridos
+| | | |
+| :--- | :--- | ---: |
+| Recorridos | Distancia | Elevación Ganada |
+| El Valle 50 (amarillo) | 54.16 km | 3,700m |
+| North Loop y Cerro negro (azul) | 66.70 km | 4,122m |
+| La India Dormida (verde) | 18.31 km | 1,011m |
+| Big Foot (rojo) | 33.54 km | 2,197m |
+|  | 172.71 km | 11,029m |
 
 No pensé que quedaría un recorrido tan difícil, pero no hay duda que eso es lo que tenemos. Es lo que hay, así es El Valle de Antón, cerro para donde voltees la mirada. No hay nada que hacer. Todos los recorridos salen de Shangri-La y regresan al mismo lugar. Así tenemos, por lo menos, cuatro visitas a un lugar donde podemos tener una buena bolsa de apoyo personal y donde nos pueden esperar los que quieran acompañarnos.
 

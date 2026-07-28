@@ -1,24 +1,15 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  8f6677c9d6b0f903e98ad32ec61f8deb:
-    expires: 1782029692
-    payload:
-      - id: 1887
-      - id: 534
-      - id: 252
 author: Rompy
-date: "2009-08-05T23:46:36+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?p=734
+date: '2009-08-05T23:46:36+00:00'
 parent_post_id: null
-post_id: "734"
+post_id: '734'
+slug: perdido-nunca
 tags:
-  - travesias
+- travesias
 title: Perdido, Nunca
-url: /2009/08/05/perdido-nunca
-wpb_post_views_count: "7"
-
+wpb_post_views_count: '7'
 ---
+
 Un tema que siempre sale en las caminatas es el de perderse. Mucha gente que ha caminado conmigo se recuerda de haberse perdido junto a mi. Lo raro es que yo no recuerdo haber estado perdido jamás. El detalle está en lo que cada uno puede considerar como perdido. Para mi perdido es cuando tienes que llamar a los rescatistas para que te vengan a sacar (o alguien los mande a llamar por que no apareces), después que te encuentren. Yo he estado en lugares que estaban fuera de mi ruta intencionada y he tenido que corregir el rumbo para llegar a donde quería, pero nunca perdido al punto que me hayan tenido que rescatar.
 
 Hace unos años un grupo se perdió en el Camino de Cruces y pasaron la noche en el bosque. Como tenían un celular, y señal, llamaron a alguien para que los fueran a rescatar. Ellos sí estaban perdidos, perdidos en un pequeño bosque rodeado de civilización. Yo no entiendo como alguien podría perderse en un espacio tan pequeño, y con un sendero tan bien marcado. Tiene que ver con que no iban preparados, no tenían experiencia en orientación, y no tenían un mapa mental del terreno que los rodeaba. Yo no me hubiese metido en ese sendero sin un mapa y una brújula.
