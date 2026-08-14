@@ -1,21 +1,9 @@
 ---
-_edit_last: "1"
-_jetpack_related_posts_cache:
-  bfc62710165ed7b51223b165689d40a3:
-    expires: 1781832029
-    payload:
-      - id: 2355
-      - id: 3376
-      - id: 3853
-      - id: 3803
-      - id: 3119
-      - id: 3143
-_last_editor_used_jetpack: block-editor
-_wp_page_template: default
-_wpcom_is_markdown: "1"
 author: Rompy
+cover:
+  image: /wp-content/uploads/gallery_backup/20260425_085617.jpg
 date: "2011-01-21T23:07:05+00:00"
-guid: http://hbx.wvf.mybluehost.me.s39296.gridserver.com/?page_id=1415
+
 parent_post_id: "240"
 post_id: "1415"
 title: Equipo para Acampar
