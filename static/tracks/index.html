@@ -644,9 +644,9 @@
    }).addTo(map);
 
    // Render CARTO Dark Matter Vector Tiles via MapLibre GL Leaflet Adapter
-   L.maplibreGL({
-     style: `https://g2f.carto.com/api/v1/map/named/carto-dark-matter-vector/style.json?api_key=${CARTO_API_KEY}`
-   }).addTo(map);
+L.maplibreGL({
+  style: `https://basemaps.cartocdn.com/gl/dark-matter-gl-style/style.json?api_key=${CARTO_API_KEY}`
+}).addTo(map);
  }
 
  // Fetch and process map data
